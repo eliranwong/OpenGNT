@@ -103,5 +103,5 @@ If you are a software developer and interested in this project, you are welcomed
 <br><br>
 <img src="screenshot2.jpg">
 
-<img src="ScreenShoteSword.png">
+<img src="screenshot3.png">
 
