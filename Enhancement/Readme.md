@@ -1,0 +1,1 @@
+The files in this folder contain materials, which are linked to the main database, but not integrated in "<a href='https://github.com/eliranwong/Scholars-Greek-New-Testament/blob/master/010_SGNT.csv'>010_SGNT.csv</a>"
