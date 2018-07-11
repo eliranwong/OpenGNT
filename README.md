@@ -67,7 +67,7 @@ and source at <a href='tyndale.github.io/STEPBible-Data/' target='_blank'>tyndal
 
 # Sources:
 
-The text of OpenGNT is largely developed from a scholarly database, "TANTT - Tyndale Amalgamated NT Tagged texts".
+The base text of OpenGNT project, OGNT in short, is largely developed from a scholarly database, "TANTT - Tyndale Amalgamated NT Tagged texts".
 <br><br>
 Read in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>From_TANTT_to_OpenGNT</a>" for an introduction of TANTT and additional content, introduced by OpenGNT. 
 
