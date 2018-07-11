@@ -5,7 +5,7 @@ NA28 / NA27 Equivalent; Open Greek New Testament Resources
 
 Open Greek New Testament project aims to provide a bundle of high-quality and open-source materials on Greek New Testament for biblical studies.
 <br><br>
-An eclectic text, namely "Open Greek New Testament [OGNT]", is first produced as the base text for the rest of the project.  The text of OPNT is built upon <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>a group of high-quality scholarly materials</a>.  This aims to provide all bible students or scholars <b>a free text</b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOpenGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, for studies or research purposes.
+An eclectic text, namely "Open Greek New Testament [OGNT]", is first produced as the base text for the rest of the project.  The text of OPNT is built upon <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>a group of high-quality scholarly materials</a>.  This aims to provide all bible students or scholars <b>a free text</b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, for studies or research purposes.
 
 # Screenshot:
 
@@ -17,7 +17,7 @@ An eclectic text, namely "Open Greek New Testament [OGNT]", is first produced as
 <br><br>
 It gives users a quick access to the main text of OpenGNT, keyed to Tyndale House' extended Strong's numbers and glosses, James Tauber's morphology, and variant markers on nine modern editions of Greek New Testament (i.e. B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>).
 <br><br>
-<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>This text</a> is currently <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOpenGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, made available for distribution under an open-license.
+<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>This text</a> is currently <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, made available for distribution under an open-license.
 <br><br>
 File format:
 - each word of the main text is placed on a single line.<br>
@@ -55,7 +55,7 @@ You are required to quote the following information, when any parts of OpenGNT m
 <br><br>
 Open Greek New Testament Project<br>
 Developer: Eliran Wong [<a href='https://biblebento.com/contact/contactform.php' target='_blank'>Contact</a>; <a href='https://biblebento.com/' target='_blank'>BibleBento.com</a>],<br>
-Source at <a href='https://github.com/eliranwong/Scholars-Greek-New-Testament' target='_blank'>https://github.com/eliranwong/OpenGNT/</a>
+Source at <a href='https://github.com/eliranwong/OpenGNT' target='_blank'>https://github.com/eliranwong/OpenGNT/</a>
 <br><br>
 Credits of original TANTT data:
 <br><br>
@@ -73,7 +73,7 @@ Read in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/From_
 
 # Comparison between OpenGNT and NA28
 
-Read more in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOpenGNTwithNA28'>CompareOpenGNTwithNA28</a>"
+Read more in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'>CompareOGNTwithNA28</a>"
 
 # Enhancement / Forthcoming additions:
 
