@@ -21,7 +21,7 @@ It gives users a quick access to the main text of OpenGNT, keyed to Tyndale Hous
 <br><br>
 File format:
 - each word of the main text is placed on a single line.<br>
-- each line starts with an order number, followed by an unique OpenGNT id, book number, chapter number and verse number, separated from each other by a [TAB] character.<br>
+- each line starts with an order number in the whole text, followed by an order number in a single verse, an unique OpenGNT id, book number, chapter number and verse number, separated from each other by a [TAB] character.<br>
 - the last column contain all current features in the following order:<br>
 1) Base WordID for for mapping <a href='https://github.com/OpenText-org/original_annotation' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br>
 2) ClauseID for for mapping <a href='https://github.com/OpenText-org/original_annotation' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br>
