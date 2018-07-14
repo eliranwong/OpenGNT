@@ -1,0 +1,1389 @@
+V-PAI-3P (V-PAP-DPM)	Verb, Present, Active, Indicative, third, Plural (Verb, Present, Active, Participle, Dative, Plural, Masculine)
+A-VPF	Adjective, Vocative, Plural, Feminine
+K-NSF	correlative pronoun, Nominative, Singular, Feminine
+I-DPN	Interrogative pronoun, Dative, Plural, Neuter
+I-NPF	Interrogative pronoun, Nominative, Plural, Feminine
+F-3NSM	reFlexive pronoun, third, Nominative, Singular, Masculine
+A-VPN	Adjective, Vocative, Plural, Neuter
+A-VSN	Adjective, Vocative, Singular, Neuter
+Q-GPF	correlative or interrogative pronoun, Genitive, Plural, Feminine
+T-VPF	definite article, Vocative, Plural, Feminine
+T-VPM	definite article, Vocative, Plural, Masculine
+T-VPN	definite article, Vocative, Plural, Neuter
+T-VSF	definite article, Vocative, Singular, Feminine
+T-VSM	definite article, Vocative, Singular, Masculine
+T-VSN	definite article, Vocative, Singular, Neuter
+V-2PAN	Verb, second Present, Active, iNfinitive
+V-2PAI-2S	Verb, second Present, Active, Indicative, second, Singular
+HEB-T	HEBrew, Title
+A-APF-NUI	Adjective, Accusative, Plural, Feminine, NUmerical Indiclinable (A)
+A-APM-LG	Adjective, Accusative, Plural, Masculine, Location Gentilic
+A-APM-NUI	Adjective, Accusative, Plural, Masculine, NUmerical Indiclinable (A)
+A-APM-PG	Adjective, Accusative, Plural, Masculine, Person Gentilic
+A-APN-NUI	Adjective, Accusative, Plural, Neuter, NUmerical Indiclinable (A)
+A-ASF-L	Adjective, Accusative, Singular, Feminine, Location
+A-ASF-LG	Adjective, Accusative, Singular, Feminine, Location Gentilic
+A-ASF-PG	Adjective, Accusative, Singular, Feminine, Person Gentilic
+A-ASM-LG	Adjective, Accusative, Singular, Masculine, Location Gentilic
+A-ASM-PG	Adjective, Accusative, Singular, Masculine, Person Gentilic
+A-ASN-LG	Adjective, Accusative, Singular, Neuter, Location Gentilic
+A-DPF-NUI	Adjective, Dative, Plural, Feminine, NUmerical Indiclinable (A)
+A-DPM-LG	Adjective, Dative, Plural, Masculine, Location Gentilic
+A-DPM-NUI	Adjective, Dative, Plural, Masculine, NUmerical Indiclinable (A)
+A-DPM-PG	Adjective, Dative, Plural, Masculine, Person Gentilic
+A-DPN-LG	Adjective, Dative, Plural, Neuter, Location Gentilic
+A-DPN-NUI	Adjective, Dative, Plural, Neuter, NUmerical Indiclinable (A)
+A-DSF-L	Adjective, Dative, Singular, Feminine, Location
+A-DSF-LG	Adjective, Dative, Singular, Feminine, Location Gentilic
+A-DSF-PG	Adjective, Dative, Singular, Feminine, Person Gentilic
+A-DSM-PG	Adjective, Dative, Singular, Masculine, Person Gentilic
+A-DSN-LG	Adjective, Dative, Singular, Neuter, Location Gentilic
+A-GPF-L	Adjective, Genitive, Plural, Feminine, Location
+A-GPF-NUI	Adjective, Genitive, Plural, Feminine, NUmerical Indiclinable (A)
+A-GPM-LG	Adjective, Genitive, Plural, Masculine, Location Gentilic
+A-GPM-NUI	Adjective, Genitive, Plural, Masculine, NUmerical Indiclinable (A)
+A-GPM-PG	Adjective, Genitive, Plural, Masculine, Person Gentilic
+A-GPN-NUI	Adjective, Genitive, Plural, Neuter, NUmerical Indiclinable (A)
+A-GSF-L	Adjective, Genitive, Singular, Feminine, Location
+A-GSF-LG	Adjective, Genitive, Singular, Feminine, Location Gentilic
+A-GSF-PG	Adjective, Genitive, Singular, Feminine, Person Gentilic
+A-GSM-PG	Adjective, Genitive, Singular, Masculine, Person Gentilic
+A-NPF-NUI	Adjective, Nominative, Plural, Feminine, NUmerical Indiclinable (A)
+A-NPM-LG	Adjective, Nominative, Plural, Masculine, Location Gentilic
+A-NPM-NUI	Adjective, Nominative, Plural, Masculine, NUmerical Indiclinable (A)
+A-NPM-PG	Adjective, Nominative, Plural, Masculine, Person Gentilic
+A-NPN-NUI	Adjective, Nominative, Plural, Neuter, NUmerical Indiclinable (A)
+A-NSF-LG	Adjective, Nominative, Singular, Feminine, Location Gentilic
+A-NSM-LG	Adjective, Nominative, Singular, Masculine, Location Gentilic
+A-NSM-PG	Adjective, Nominative, Singular, Masculine, Person Gentilic
+A-NSM-T	Adjective, Nominative, Singular, Masculine, Title
+A-VPM-PG	Adjective, Vocative, Plural, Masculine, Person Gentilic
+N-APF-L	Noun, Accusative, Plural, Feminine, Location
+N-APM-L	Noun, Accusative, Plural, Masculine, Location
+N-APM-LG	Noun, Accusative, Plural, Masculine, Location Gentilic
+N-APM-P	Noun, Accusative, Plural, Masculine, Person
+N-APM-PG	Noun, Accusative, Plural, Masculine, Person Gentilic
+N-APM-T	Noun, Accusative, Plural, Masculine, Title
+N-APN-L	Noun, Accusative, Plural, Neuter, Location
+N-ASF-L	Noun, Accusative, Singular, Feminine, Location
+N-ASF-P	Noun, Accusative, Singular, Feminine, Person
+N-ASF-T	Noun, Accusative, Singular, Feminine, Title
+N-ASM-L	Noun, Accusative, Singular, Masculine, Location
+N-ASM-LG	Noun, Accusative, Singular, Masculine, Location Gentilic
+N-ASM-P	Noun, Accusative, Singular, Masculine, Person
+N-ASM-T	Noun, Accusative, Singular, Masculine, Title
+N-ASN-L	Noun, Accusative, Singular, Neuter, Location
+N-DPF-L	Noun, Dative, Plural, Feminine, Location
+N-DPM-L	Noun, Dative, Plural, Masculine, Location
+N-DPM-LG	Noun, Dative, Plural, Masculine, Location Gentilic
+N-DPM-T	Noun, Dative, Plural, Masculine, Title
+N-DPN-L	Noun, Dative, Plural, Neuter, Location
+N-DSF-L	Noun, Dative, Singular, Feminine, Location
+N-DSF-LG	Noun, Dative, Singular, Feminine, Location Gentilic
+N-DSF-P	Noun, Dative, Singular, Feminine, Person
+N-DSF-T	Noun, Dative, Singular, Feminine, Title
+N-DSM-L	Noun, Dative, Singular, Masculine, Location
+N-DSM-LG	Noun, Dative, Singular, Masculine, Location Gentilic
+N-DSM-P	Noun, Dative, Singular, Masculine, Person
+N-DSM-T	Noun, Dative, Singular, Masculine, Title
+N-DSN-L	Noun, Dative, Singular, Neuter, Location
+N-GPF-L	Noun, Genitive, Plural, Feminine, Location
+N-GPF-LG	Noun, Genitive, Plural, Feminine, Location Gentilic
+N-GPM-L	Noun, Genitive, Plural, Masculine, Location
+N-GPM-LG	Noun, Genitive, Plural, Masculine, Location Gentilic
+N-GPM-PG	Noun, Genitive, Plural, Masculine, Person Gentilic
+N-GPM-T	Noun, Genitive, Plural, Masculine, Title
+N-GPN-L	Noun, Genitive, Plural, Neuter, Location
+N-GSF-L	Noun, Genitive, Singular, Feminine, Location
+N-GSF-LG	Noun, Genitive, Singular, Feminine, Location Gentilic
+N-GSF-P	Noun, Genitive, Singular, Feminine, Person
+N-GSF-T	Noun, Genitive, Singular, Feminine, Title
+N-GSM-L	Noun, Genitive, Singular, Masculine, Location
+N-GSM-LG	Noun, Genitive, Singular, Masculine, Location Gentilic
+N-GSM-P	Noun, Genitive, Singular, Masculine, Person
+N-GSM-PG	Noun, Genitive, Singular, Masculine, Person Gentilic
+N-GSM-T	Noun, Genitive, Singular, Masculine, Title
+N-GSN-L	Noun, Genitive, Singular, Neuter, Location
+N-NPM-L	Noun, Nominative, Plural, Masculine, Location
+N-NPM-LG	Noun, Nominative, Plural, Masculine, Location Gentilic
+N-NPM-PG	Noun, Nominative, Plural, Masculine, Person Gentilic
+N-NPM-T	Noun, Nominative, Plural, Masculine, Title
+N-NPN-L	Noun, Nominative, Plural, Neuter, Location
+N-NPN-T	Noun, Nominative, Plural, Neuter, Title
+N-NSF-L	Noun, Nominative, Singular, Feminine, Location
+N-NSF-LG	Noun, Nominative, Singular, Feminine, Location Gentilic
+N-NSF-P	Noun, Nominative, Singular, Feminine, Person
+N-NSF-T	Noun, Nominative, Singular, Feminine, Title
+N-NSM-L	Noun, Nominative, Singular, Masculine, Location
+N-NSM-LG	Noun, Nominative, Singular, Masculine, Location Gentilic
+N-NSM-P	Noun, Nominative, Singular, Masculine, Person
+N-NSM-PG	Noun, Nominative, Singular, Masculine, Person Gentilic
+N-NSM-T	Noun, Nominative, Singular, Masculine, Title
+N-NSN-L	Noun, Nominative, Singular, Neuter, Location
+N-NSN-LI	Noun, Nominative, Singular, Neuter, Letter Indeclinable (N)
+N-NSN-T	Noun, Nominative, Singular, Neuter, Title
+N-VPM-LG	Noun, Vocative, Plural, Masculine, Location Gentilic
+N-VPM-PG	Noun, Vocative, Plural, Masculine, Person Gentilic
+N-VPM-T	Noun, Vocative, Plural, Masculine, Title
+N-VSF-L	Noun, Vocative, Singular, Feminine, Location
+N-VSF-P	Noun, Vocative, Singular, Feminine, Person
+N-VSM-L	Noun, Vocative, Singular, Masculine, Location
+N-VSM-P	Noun, Vocative, Singular, Masculine, Person
+N-VSM-T	Noun, Vocative, Singular, Masculine, Title
+V-2RAP-GPN	Verb, second peRfect, Active, Participle, Genitive, Plural, Neuter
+V-2RPP-APF	Verb, second peRfect, Passive, Participle, Accusative, Plural, Feminine
+V-2RPP-GSF	Verb, second peRfect, Passive, Participle, Genitive, Singular, Feminine
+V-2RPP-NSM	Verb, second peRfect, Passive, Participle, Nominative, Singular, Masculine
+V-IMI-2P	Verb, Imperfect, Middle, Indicative, second, Plural
+V-IMI-2S	Verb, Imperfect, Middle, Indicative, second, Singular
+V-PAP-VPM	Verb, Present, Active, Participle, Vocative, Plural, Masculine
+V-PAP-VSF	Verb, Present, Active, Participle, Vocative, Singular, Feminine
+V-PAP-VSM	Verb, Present, Active, Participle, Vocative, Singular, Masculine
+V-PEP-ASM	Verb, Present, Either middle or passive, Participle, Accusative, Singular, Masculine
+V-PMI-2S	Verb, Present, Middle, Indicative, second, Singular
+V-PMM-3P	Verb, Present, Middle, iMperative, third, Plural
+V-PMP-APF	Verb, Present, Middle, Participle, Accusative, Plural, Feminine
+V-PMP-APN	Verb, Present, Middle, Participle, Accusative, Plural, Neuter
+V-PMP-DSF	Verb, Present, Middle, Participle, Dative, Singular, Feminine
+V-PMP-GPN	Verb, Present, Middle, Participle, Genitive, Plural, Neuter
+V-PNP-VPM	Verb, Present, middle or passive depoNent, Participle, Vocative, Plural, Masculine
+V-PNP-VSM	Verb, Present, middle or passive depoNent, Participle, Vocative, Singular, Masculine
+V-REP-NSF	Verb, peRfect, Either middle or passive, Participle, Nominative, Singular, Feminine
+V-REP-VSF	Verb, peRfect, Either middle or passive, Participle, Vocative, Singular, Feminine
+V-RMI-1S	Verb, peRfect, Middle, Indicative, first, Singular
+V-RMI-2P	Verb, peRfect, Middle, Indicative, second, Plural
+V-RMM-2P	Verb, peRfect, Middle, iMperative, second, Plural
+V-RMP-APM	Verb, peRfect, Middle, Participle, Accusative, Plural, Masculine
+V-RMP-DPM	Verb, peRfect, Middle, Participle, Dative, Plural, Masculine
+V-RMP-GPM	Verb, peRfect, Middle, Participle, Genitive, Plural, Masculine
+V-RMP-GSF	Verb, peRfect, Middle, Participle, Genitive, Singular, Feminine
+V-RPP-VPM	Verb, peRfect, Passive, Participle, Vocative, Plural, Masculine
+V-RPP-VSF	Verb, peRfect, Passive, Participle, Vocative, Singular, Feminine
+A-APF	Adjective, Accusative, Plural, Feminine
+A-APF-C	Adjective, Accusative, Plural, Feminine, Comparative
+A-APF-S	Adjective, Accusative, Plural, Feminine, Superlative
+A-APM	Adjective, Accusative, Plural, Masculine
+A-APM-C	Adjective, Accusative, Plural, Masculine, Comparative
+A-APM-S	Adjective, Accusative, Plural, Masculine, Superlative
+A-APN	Adjective, Accusative, Plural, Neuter
+A-APN-C	Adjective, Accusative, Plural, Neuter, Comparative
+A-APN-S	Adjective, Accusative, Plural, Neuter, Superlative
+A-ASF	Adjective, Accusative, Singular, Feminine
+A-ASF-C	Adjective, Accusative, Singular, Feminine, Comparative
+A-ASF-N	Adjective, Accusative, Singular, Feminine, Negative
+A-ASF-S	Adjective, Accusative, Singular, Feminine, Superlative
+A-ASM	Adjective, Accusative, Singular, Masculine
+A-ASM-C	Adjective, Accusative, Singular, Masculine, Comparative
+A-ASM-N	Adjective, Accusative, Singular, Masculine, Negative
+A-ASM-S	Adjective, Accusative, Singular, Masculine, Superlative
+A-ASN	Adjective, Accusative, Singular, Neuter
+A-ASN-C	Adjective, Accusative, Singular, Neuter, Comparative
+A-ASN-N	Adjective, Accusative, Singular, Neuter, Negative
+A-ASN-S	Adjective, Accusative, Singular, Neuter, Superlative
+A-DPF	Adjective, Dative, Plural, Feminine
+A-DPF-C	Adjective, Dative, Plural, Feminine, Comparative
+A-DPF-S	Adjective, Dative, Plural, Feminine, Superlative
+A-DPM	Adjective, Dative, Plural, Masculine
+A-DPM-C	Adjective, Dative, Plural, Masculine, Comparative
+A-DPM-S	Adjective, Dative, Plural, Masculine, Superlative
+A-DPN	Adjective, Dative, Plural, Neuter
+A-DPN-S	Adjective, Dative, Plural, Neuter, Superlative
+A-DSF	Adjective, Dative, Singular, Feminine
+A-DSF-C	Adjective, Dative, Singular, Feminine, Comparative
+A-DSF-S	Adjective, Dative, Singular, Feminine, Superlative
+A-DSM	Adjective, Dative, Singular, Masculine
+A-DSM-C	Adjective, Dative, Singular, Masculine, Comparative
+A-DSM-N	Adjective, Dative, Singular, Masculine, Negative
+A-DSM-S	Adjective, Dative, Singular, Masculine, Superlative
+A-DSN	Adjective, Dative, Singular, Neuter
+A-DSN-C	Adjective, Dative, Singular, Neuter, Comparative
+A-DSN-N	Adjective, Dative, Singular, Neuter, Negative
+A-DSN-S	Adjective, Dative, Singular, Neuter, Superlative
+A-GMS	Adjective, Genitive, Masculine, Superlative
+A-GPF	Adjective, Genitive, Plural, Feminine
+A-GPF-S	Adjective, Genitive, Plural, Feminine, Superlative
+A-GPM	Adjective, Genitive, Plural, Masculine
+A-GPM-C	Adjective, Genitive, Plural, Masculine, Comparative
+A-GPM-S	Adjective, Genitive, Plural, Masculine, Superlative
+A-GPN	Adjective, Genitive, Plural, Neuter
+A-GPN-C	Adjective, Genitive, Plural, Neuter, Comparative
+A-GPN-S	Adjective, Genitive, Plural, Neuter, Superlative
+A-GSF	Adjective, Genitive, Singular, Feminine
+A-GSF-C	Adjective, Genitive, Singular, Feminine, Comparative
+A-GSF-S	Adjective, Genitive, Singular, Feminine, Superlative
+A-GSM	Adjective, Genitive, Singular, Masculine
+A-GSM-C	Adjective, Genitive, Singular, Masculine, Comparative
+A-GSM-N	Adjective, Genitive, Singular, Masculine, Negative
+A-GSM-S	Adjective, Genitive, Singular, Masculine, Superlative
+A-GSN	Adjective, Genitive, Singular, Neuter
+A-GSN-N	Adjective, Genitive, Singular, Neuter, Negative
+A-GSN-S	Adjective, Genitive, Singular, Neuter, Superlative
+A-NPF	Adjective, Nominative, Plural, Feminine
+A-NPF-C	Adjective, Nominative, Plural, Feminine, Comparative
+A-NPF-S	Adjective, Nominative, Plural, Feminine, Superlative
+A-NPM	Adjective, Nominative, Plural, Masculine
+A-NPM-C	Adjective, Nominative, Plural, Masculine, Comparative
+A-NPM-S	Adjective, Nominative, Plural, Masculine, Superlative
+A-NPN	Adjective, Nominative, Plural, Neuter
+A-NPN-C	Adjective, Nominative, Plural, Neuter, Comparative
+A-NPN-S	Adjective, Nominative, Plural, Neuter, Superlative
+A-NSF	Adjective, Nominative, Singular, Feminine
+A-NSF-C	Adjective, Nominative, Singular, Feminine, Comparative
+A-NSF-N	Adjective, Nominative, Singular, Feminine, Negative
+A-NSF-S	Adjective, Nominative, Singular, Feminine, Superlative
+A-NSM	Adjective, Nominative, Singular, Masculine
+A-NSM-ATT	Adjective, Nominative, Singular, Masculine, ATTic Greek form
+A-NSM-C	Adjective, Nominative, Singular, Masculine, Comparative
+A-NSM-N	Adjective, Nominative, Singular, Masculine, Negative
+A-NSM-S	Adjective, Nominative, Singular, Masculine, Superlative
+A-NSN	Adjective, Nominative, Singular, Neuter
+A-NSN-C	Adjective, Nominative, Singular, Neuter, Comparative
+A-NSN-N	Adjective, Nominative, Singular, Neuter, Neuter
+A-NSN-S	Adjective, Nominative, Singular, Neuter, Superlative
+A-NUI	Indeclinable NUmeral (Adjective)
+A-NUI-ABB	Adjective, Nominative, ABBreviated form
+A-VPM	Adjective, Vocative, Plural, Masculine
+A-VPM-C	Adjective, Vocative, Plural, Masculine, Comparative
+A-VSF	Adjective, Vocative, Singular, Feminine
+A-VSM	Adjective, Vocative, Singular, Masculine
+A-VSM-S	Adjective, Vocative, Singular, Masculine, Superlative
+ADV	ADVerb or adverb and particle combined
+ADV-C	ADVerb, Contracted form
+ADV-I	ADVerb, Interrogative
+ADV-K	ADVerb, Kai
+ADV-N	ADVerb, Negative
+ADV-S	ADVerb, Superlative
+ARAM	ARAMaic transliterated word (indeclinable)
+C-APM	reCiprocal pronoun, Accusative, Plural, Masculine
+C-DPM	reCiprocal pronoun, Dative, Plural, Masculine
+C-DPN	reCiprocal pronoun, Dative, Plural, Neuter
+C-GPM	reCiprocal pronoun, Genitive, Plural, Masculine
+C-GPN	reCiprocal pronoun, Genitive, Plural, Neuter
+COND	CONDitional particle or conjunction
+COND-C	Contracted form
+COND-K	CONDitional particle, Kai
+COND-P	Contracted form
+CONJ	CONJunction or conjunctive particle
+CONJ-N	CONJunction, Negative
+D-APF	Demonstrative pronoun, Accusative, Plural, Feminine
+D-APM	Demonstrative pronoun, Accusative, Plural, Masculine
+D-APM-C	Demonstrative pronoun, Accusative, Plural, Masculine, Contracted form
+D-APM-K	Demonstrative pronoun, Accusative, Plural, Masculine, Kai
+D-APN	Demonstrative pronoun, Accusative, Plural, Neuter
+D-APN-K	Demonstrative pronoun, Accusative, Plural, Neuter, Kai
+D-ASF	Demonstrative pronoun, Accusative, Singular, Feminine
+D-ASM	Demonstrative pronoun, Accusative, Singular, Masculine
+D-ASM-C	Demonstrative pronoun, Accusative, Singular, Masculine, Contracted form
+D-ASM-K	Demonstrative pronoun, Accusative, Singular, Masculine, Kai
+D-ASN	Demonstrative pronoun, Accusative, Singular, Neuter
+D-DPF	Demonstrative pronoun, Dative, Plural, Feminine
+D-DPM	Demonstrative pronoun, Dative, Plural, Masculine
+D-DPM-C	Demonstrative pronoun, Dative, Plural, Masculine, Contracted form
+D-DPN	Demonstrative pronoun, Dative, Plural, Neuter
+D-DSF	Demonstrative pronoun, Dative, Singular, Feminine
+D-DSM	Demonstrative pronoun, Dative, Singular, Masculine
+D-DSN	Demonstrative pronoun, Dative, Singular, Neuter
+D-GPF	Demonstrative pronoun, Genitive, Plural, Feminine
+D-GPM	Demonstrative pronoun, Genitive, Plural, Masculine
+D-GPN	Demonstrative pronoun, Genitive, Plural, Neuter
+D-GSF	Demonstrative pronoun, Genitive, Singular, Feminine
+D-GSM	Demonstrative pronoun, Genitive, Singular, Masculine
+D-GSN	Demonstrative pronoun, Genitive, Singular, Neuter
+D-NPF	Demonstrative pronoun, Nominative, Plural, Feminine
+D-NPM	Demonstrative pronoun, Nominative, Plural, Masculine
+D-NPM-C	Demonstrative pronoun, Nominative, Plural, Masculine, Contracted form
+D-NPM-K	Demonstrative pronoun, Nominative, Plural, Masculine, Kai
+D-NPN	Demonstrative pronoun, Nominative, Plural, Neuter
+D-NPN-C	Demonstrative pronoun, Nominative, Plural, Neuter, Contracted form
+D-NPN-K	Demonstrative pronoun, Nominative, Plural, Neuter, Kai
+D-NSF	Demonstrative pronoun, Nominative, Singular, Feminine
+D-NSM	Demonstrative pronoun, Nominative, Singular, Masculine
+D-NSM-C	Demonstrative pronoun, Nominative, Singular, Masculine, Contracted form
+D-NSM-K	Demonstrative pronoun, Nominative, Singular, Masculine, Kai
+D-NSN	Demonstrative pronoun, Nominative, Singular, Neuter
+F-1APM	reFlexive pronoun, first, Accusative, Plural, Masculine
+F-1ASM	reFlexive pronoun, first, Accusative, Singular, Masculine
+F-1DPM	reFlexive pronoun, first, Dative, Plural, Masculine
+F-1DSM	reFlexive pronoun, first, Dative, Singular, Masculine
+F-1GPM	reFlexive pronoun, first, Genitive, Plural, Masculine
+F-1GSM	reFlexive pronoun, first, Genitive, Singular, Masculine
+F-2APF	reFlexive pronoun, second, Accusative, Plural, Feminine
+F-2APM	reFlexive pronoun, second, Accusative, Plural, Masculine
+F-2APN	reFlexive pronoun, second, Accusative, Plural, Neuter
+F-2ASM	reFlexive pronoun, second, Accusative, Singular, Masculine
+F-2ASM-C	reFlexive pronoun, second, Accusative, Singular, Masculine, Contracted form
+F-2DPF	reFlexive pronoun, second, Dative, Plural, Feminine
+F-2DPM	reFlexive pronoun, second, Dative, Plural, Masculine
+F-2DSM	reFlexive pronoun, second, Dative, Singular, Masculine
+F-2GPM	reFlexive pronoun, second, Genitive, Plural, Masculine
+F-2GSM	reFlexive pronoun, second, Genitive, Singular, Masculine
+F-3APF	reFlexive pronoun, third, Accusative, Plural, Feminine
+F-3APM	reFlexive pronoun, third, Accusative, Plural, Masculine
+F-3APN	reFlexive pronoun, third, Accusative, Plural, Neuter
+F-3ASF	reFlexive pronoun, third, Accusative, Singular, Feminine
+F-3ASM	reFlexive pronoun, third, Accusative, Singular, Masculine
+F-3ASN	reFlexive pronoun, third, Accusative, Singular, Neuter
+F-3DPF	reFlexive pronoun, third, Dative, Plural, Feminine
+F-3DPM	reFlexive pronoun, third, Dative, Plural, Masculine
+F-3DSF	reFlexive pronoun, third, Dative, Singular, Feminine
+F-3DSM	reFlexive pronoun, third, Dative, Singular, Masculine
+F-3GPF	reFlexive pronoun, third, Genitive, Plural, Feminine
+F-3GPM	reFlexive pronoun, third, Genitive, Plural, Masculine
+F-3GPN	reFlexive pronoun, third, Genitive, Plural, Neuter
+F-3GSF	reFlexive pronoun, third, Genitive, Singular, Feminine
+F-3GSM	reFlexive pronoun, third, Genitive, Singular, Masculine
+F-3GSN	reFlexive pronoun, third, Genitive, Singular, Neuter
+F-GPF	reFlexive pronoun, Genitive, Plural, Feminine
+HEB	HEBrew transliterated word (indeclinable)
+I-APF	Interrogative pronoun, Accusative, Plural, Feminine
+I-APM	Interrogative pronoun, Accusative, Plural, Masculine
+I-APN	Interrogative pronoun, Accusative, Plural, Neuter
+I-ASF	Interrogative pronoun, Accusative, Singular, Feminine
+I-ASM	Interrogative pronoun, Accusative, Singular, Masculine
+I-ASN	Interrogative pronoun, Accusative, Singular, Neuter
+I-DPM	Interrogative pronoun, Dative, Plural, Masculine
+I-DSF	Interrogative pronoun, Dative, Singular, Feminine
+I-DSM	Interrogative pronoun, Dative, Singular, Masculine
+I-DSN	Interrogative pronoun, Dative, Singular, Neuter
+I-GPM	Interrogative pronoun, Genitive, Plural, Masculine
+I-GPN	Interrogative pronoun, Genitive, Plural, Neuter
+I-GSF	Interrogative pronoun, Genitive, Singular, Feminine
+I-GSM	Interrogative pronoun, Genitive, Singular, Masculine
+I-GSN	Interrogative pronoun, Genitive, Singular, Neuter
+I-NPM	Interrogative pronoun, Nominative, Plural, Masculine
+I-NPN	Interrogative pronoun, Nominative, Plural, Neuter
+I-NSF	Interrogative pronoun, Nominative, Singular, Feminine
+I-NSM	Interrogative pronoun, Nominative, Singular, Masculine
+I-NSN	Interrogative pronoun, Nominative, Singular, Neuter
+INJ	INterJection
+K-APF	correlative pronoun, Accusative, Plural, Feminine
+K-APM	correlative pronoun, Accusative, Plural, Masculine
+K-APN	correlative pronoun, Accusative, Plural, Neuter
+K-ASM	correlative pronoun, Accusative, Singular, Masculine
+K-ASN	correlative pronoun, Accusative, Singular, Neuter
+K-DSN	correlative pronoun, Dative, Singular, Neuter
+K-GPM	correlative pronoun, Genitive, Plural, Masculine
+K-GSN	correlative pronoun, Genitive, Singular, Neuter
+K-NPF	correlative pronoun, Nominative, Plural, Feminine
+K-NPM	correlative pronoun, Nominative, Plural, Masculine
+K-NPN	correlative pronoun, Nominative, Plural, Neuter
+K-NSM	correlative pronoun, Nominative, Singular, Masculine
+K-NSN	correlative pronoun, Nominative, Singular, Neuter
+N-APF	Noun, Accusative, Plural, Feminine
+N-APF-C	Noun, Accusative, Plural, Feminine, Contracted form
+N-APF-S	Noun, Accusative, Plural, Feminine, Superlative
+N-APM	Noun, Accusative, Plural, Masculine
+N-APN	Noun, Accusative, Plural, Neuter
+N-APN-C	Noun, Accusative, Plural, Neuter, Contracted form
+N-APN-S	Noun, Accusative, Plural, Neuter, Superlative
+N-ASF	Noun, Accusative, Singular, Feminine
+N-ASF-C	Noun, Accusative, Singular, Feminine, Contracted form
+N-ASF-S	Noun, Accusative, Singular, Feminine, Superlative
+N-ASM	Noun, Accusative, Singular, Masculine
+N-ASM-S	Noun, Accusative, Singular, Masculine, Superlative
+N-ASN	Noun, Accusative, Singular, Neuter
+N-DPF	Noun, Dative, Plural, Feminine
+N-DPM	Noun, Dative, Plural, Masculine
+N-DPM-S	Noun, Dative, Plural, Masculine, Superlative
+N-DPN	Noun, Dative, Plural, Neuter
+N-DSF	Noun, Dative, Singular, Feminine
+N-DSM	Noun, Dative, Singular, Masculine
+N-DSN	Noun, Dative, Singular, Neuter
+N-GMP	Noun, Genitive, Masculine, Particle attached
+N-GPF	Noun, Genitive, Plural, Feminine
+N-GPM	Noun, Genitive, Plural, Masculine
+N-GPN	Noun, Genitive, Plural, Neuter
+N-GSF	Noun, Genitive, Singular, Feminine
+N-GSM	Noun, Genitive, Singular, Masculine
+N-GSN	Noun, Genitive, Singular, Neuter
+N-LI	Indeclinable Letter (Noun)
+N-NAM	Noun, Nominative
+N-NPF	Noun, Nominative, Plural, Feminine
+N-NPM	Noun, Nominative, Plural, Masculine
+N-NPM-S	Noun, Nominative, Plural, Masculine, Superlative
+N-NPN	Noun, Nominative, Plural, Neuter
+N-NSF	Noun, Nominative, Singular, Feminine
+N-NSM	Noun, Nominative, Singular, Masculine
+N-NSM-C	Noun, Nominative, Singular, Masculine, Comparative
+N-NSN	Noun, Nominative, Singular, Neuter
+N-NSN-C	Noun, Nominative, Singular, Neuter, Contracted form
+N-OI	Indeclinable Noun of Other type
+N-PRI	Indeclinable PRoper Noun
+N-VPF	Noun, Vocative, Plural, Feminine
+N-VPM	Noun, Vocative, Plural, Masculine
+N-VPN	Noun, Vocative, Plural, Neuter
+N-VSF	Noun, Vocative, Singular, Feminine
+N-VSM	Noun, Vocative, Singular, Masculine
+N-VSN	Noun, Vocative, Singular, Neuter
+P-1AP	Personal pronoun, first, Accusative, Plural
+P-1AS	Personal pronoun, first, Accusative, Singular
+P-1AS-C	Personal pronoun, first, Accusative, Singular, Contracted form
+P-1AS-K	Personal pronoun, first, Accusative, Singular, Kai
+P-1DP	Personal pronoun, first, Dative, Plural
+P-1DS	Personal pronoun, first, Dative, Singular
+P-1DS-C	Personal pronoun, first, Dative, Singular, Contracted form
+P-1DS-K	Personal pronoun, first, Dative, Singular, Kai
+P-1GP	Personal pronoun, first, Genitive, Plural
+P-1GS	Personal pronoun, first, Genitive, Singular
+P-1NP	Personal pronoun, first, Nominative, Plural
+P-1NS	Personal pronoun, first, Nominative, Singular
+P-1NS-C	Personal pronoun, first, Nominative, Singular, Contracted form
+P-1NS-K	Personal pronoun, first, Nominative, Singular, Kai
+P-2AP	Personal pronoun, second, Accusative, Plural
+P-2AS	Personal pronoun, second, Accusative, Singular
+P-2DP	Personal pronoun, second, Dative, Plural
+P-2DS	Personal pronoun, second, Dative, Singular
+P-2GP	Personal pronoun, second, Genitive, Plural
+P-2GS	Personal pronoun, second, Genitive, Singular
+P-2NP	Personal pronoun, second, Nominative, Plural
+P-2NS	Personal pronoun, second, Nominative, Singular
+P-APF	Personal pronoun, Accusative, Plural, Feminine
+P-APM	Personal pronoun, Accusative, Plural, Masculine
+P-APN	Personal pronoun, Accusative, Plural, Neuter
+P-ASF	Personal pronoun, Accusative, Singular, Feminine
+P-ASM	Personal pronoun, Accusative, Singular, Masculine
+P-ASN	Personal pronoun, Accusative, Singular, Neuter
+P-DPF	Personal pronoun, Dative, Plural, Feminine
+P-DPM	Personal pronoun, Dative, Plural, Masculine
+P-DPN	Personal pronoun, Dative, Plural, Neuter
+P-DSF	Personal pronoun, Dative, Singular, Feminine
+P-DSM	Personal pronoun, Dative, Singular, Masculine
+P-DSN	Personal pronoun, Dative, Singular, Neuter
+P-GPF	Personal pronoun, Genitive, Plural, Feminine
+P-GPM	Personal pronoun, Genitive, Plural, Masculine
+P-GPN	Personal pronoun, Genitive, Plural, Neuter
+P-GSF	Personal pronoun, Genitive, Singular, Feminine
+P-GSM	Personal pronoun, Genitive, Singular, Masculine
+P-GSN	Personal pronoun, Genitive, Singular, Neuter
+P-NPM	Personal pronoun, Nominative, Plural, Masculine
+P-NPN	Personal pronoun, Nominative, Plural, Neuter
+P-NSF	Personal pronoun, Nominative, Singular, Feminine
+P-NSM	Personal pronoun, Nominative, Singular, Masculine
+P-NSN	Personal pronoun, Nominative, Singular, Neuter
+PREP	PREPosition
+PRT	PaRTicle, disjunctive particle
+PRT-I	PaRTicle, Interrogative
+PRT-N	PaRTicle, Negative
+Q-APF	correlative or interrogative pronoun, Accusative, Plural, Feminine
+Q-APM	correlative or interrogative pronoun, Accusative, Plural, Masculine
+Q-APN	correlative or interrogative pronoun, Accusative, Plural, Neuter
+Q-ASF	correlative or interrogative pronoun, Accusative, Singular, Feminine
+Q-ASN	correlative or interrogative pronoun, Accusative, Singular, Neuter
+Q-DSN	correlative or interrogative pronoun, Dative, Singular, Neuter
+Q-GPN	correlative or interrogative pronoun, Genitive, Plural, Neuter
+Q-NPF	correlative or interrogative pronoun, Nominative, Plural, Feminine
+Q-NPM	correlative or interrogative pronoun, Nominative, Plural, Masculine
+Q-NSM	correlative or interrogative pronoun, Nominative, Singular, Masculine
+Q-NSN	correlative or interrogative pronoun, Nominative, Singular, Neuter
+R-APF	Relative pronoun, Accusative, Plural, Feminine
+R-APM	Relative pronoun, Accusative, Plural, Masculine
+R-APN	Relative pronoun, Accusative, Plural, Neuter
+R-ASF	Relative pronoun, Accusative, Singular, Feminine
+R-ASM	Relative pronoun, Accusative, Singular, Masculine
+R-ASM-P	Relative pronoun, Accusative, Singular, Masculine, Particle attached
+R-ASN	Relative pronoun, Accusative, Singular, Neuter
+R-DPF	Relative pronoun, Dative, Plural, Feminine
+R-DPM	Relative pronoun, Dative, Plural, Masculine
+R-DPN	Relative pronoun, Dative, Plural, Neuter
+R-DSF	Relative pronoun, Dative, Singular, Feminine
+R-DSM	Relative pronoun, Dative, Singular, Masculine
+R-DSN	Relative pronoun, Dative, Singular, Neuter
+R-GPF	Relative pronoun, Genitive, Plural, Feminine
+R-GPM	Relative pronoun, Genitive, Plural, Masculine
+R-GPN	Relative pronoun, Genitive, Plural, Neuter
+R-GSF	Relative pronoun, Genitive, Singular, Feminine
+R-GSM	Relative pronoun, Genitive, Singular, Masculine
+R-GSN	Relative pronoun, Genitive, Singular, Neuter
+R-GSN-ATT	Relative pronoun, Genitive, Singular, Neuter, ATTic Greek form
+R-NPF	Relative pronoun, Nominative, Plural, Feminine
+R-NPM	Relative pronoun, Nominative, Plural, Masculine
+R-NPN	Relative pronoun, Nominative, Plural, Neuter
+R-NSF	Relative pronoun, Nominative, Singular, Feminine
+R-NSM	Relative pronoun, Nominative, Singular, Masculine
+R-NSN	Relative pronoun, Nominative, Singular, Neuter
+S-1APF	poSessive pronoun, first, Accusative, Plural, Feminine
+S-1APM	poSessive pronoun, first, Accusative, Plural, Masculine
+S-1APN	poSessive pronoun, first, Accusative, Plural, Neuter
+S-1ASF	poSessive pronoun, first, Accusative, Singular, Feminine
+S-1ASM	poSessive pronoun, first, Accusative, Singular, Masculine
+S-1ASN	poSessive pronoun, first, Accusative, Singular, Neuter
+S-1DPF	poSessive pronoun, first, Dative, Plural, Feminine
+S-1DPM	poSessive pronoun, first, Dative, Plural, Masculine
+S-1DPN	poSessive pronoun, first, Dative, Plural, Neuter
+S-1DSF	poSessive pronoun, first, Dative, Singular, Feminine
+S-1DSM	poSessive pronoun, first, Dative, Singular, Masculine
+S-1DSN	poSessive pronoun, first, Dative, Singular, Neuter
+S-1GPF	poSessive pronoun, first, Genitive, Plural, Feminine
+S-1GPN	poSessive pronoun, first, Genitive, Plural, Neuter
+S-1GSF	poSessive pronoun, first, Genitive, Singular, Feminine
+S-1NPF	poSessive pronoun, first, Nominative, Plural, Feminine
+S-1NPM	poSessive pronoun, first, Nominative, Plural, Masculine
+S-1NPN	poSessive pronoun, first, Nominative, Plural, Neuter
+S-1NSF	poSessive pronoun, first, Nominative, Singular, Feminine
+S-1NSM	poSessive pronoun, first, Nominative, Singular, Masculine
+S-1NSN	poSessive pronoun, first, Nominative, Singular, Neuter
+S-1PASF	poSsessive pronoun, first, Plural, Accusative, Singular, Feminine
+S-1PASN	poSsessive pronoun, first, Plural, Accusative, Singular, Neuter
+S-1PDPF	poSsessive pronoun, first, Plural, Dative, Plural, Feminine
+S-1PDPM	poSsessive pronoun, first, Plural, Dative, Plural, Masculine
+S-1PGPF	poSsessive pronoun, first, Plural, Genitive, Plural, Feminine
+S-1PGSF	poSsessive pronoun, first, Plural, Genitive, Singular, Feminine
+S-1PNPM	poSsessive pronoun, first, Plural, Nominative, Plural, Masculine
+S-1PNSF	poSsessive pronoun, first, Plural, Nominative, Singular, Feminine
+S-1SAPF	poSsessive pronoun, first, Singular, Accusative, Plural, Feminine
+S-1SAPM	poSsessive pronoun, first, Singular, Accusative, Plural, Masculine
+S-1SAPN	poSsessive pronoun, first, Singular, Accusative, Plural, Neuter
+S-1SASF	poSsessive pronoun, first, Singular, Accusative, Singular, Feminine
+S-1SASM	poSsessive pronoun, first, Singular, Accusative, Singular, Masculine
+S-1SASN	poSsessive pronoun, first, Singular, Accusative, Singular, Neuter
+S-1SDPN	poSsessive pronoun, first, Singular, Dative, Plural, Neuter
+S-1SDSF	poSsessive pronoun, first, Singular, Dative, Singular, Feminine
+S-1SDSM	poSsessive pronoun, first, Singular, Dative, Singular, Masculine
+S-1SDSN	poSsessive pronoun, first, Singular, Dative, Singular, Neuter
+S-1SGPN	poSsessive pronoun, first, Singular, Genitive, Plural, Neuter
+S-1SGSF	poSsessive pronoun, first, Singular, Genitive, Singular, Feminine
+S-1SGSN	poSsessive pronoun, first, Singular, Genitive, Singular, Neuter
+S-1SNPM	poSsessive pronoun, first, Singular, Nominative, Plural, Masculine
+S-1SNPN	poSsessive pronoun, first, Singular, Nominative, Plural, Neuter
+S-1SNSF	poSsessive pronoun, first, Singular, Nominative, Singular, Feminine
+S-1SNSM	poSsessive pronoun, first, Singular, Nominative, Singular, Masculine
+S-1SNSN	poSsessive pronoun, first, Singular, Nominative, Singular, Neuter
+S-2APF	poSessive pronoun, second, Accusative, Plural, Feminine
+S-2APM	poSessive pronoun, second, Accusative, Plural, Masculine
+S-2APN	poSessive pronoun, second, Accusative, Plural, Neuter
+S-2ASF	poSessive pronoun, second, Accusative, Singular, Feminine
+S-2ASN	poSessive pronoun, second, Accusative, Singular, Neuter
+S-2DPF	poSessive pronoun, second, Dative, Plural, Feminine
+S-2DPM	poSessive pronoun, second, Dative, Plural, Masculine
+S-2DSF	poSessive pronoun, second, Dative, Singular, Feminine
+S-2DSM	poSessive pronoun, second, Dative, Singular, Masculine
+S-2GPF	poSessive pronoun, second, Genitive, Plural, Feminine
+S-2GSF	poSessive pronoun, second, Genitive, Singular, Feminine
+S-2NPF	poSessive pronoun, second, Nominative, Plural, Feminine
+S-2NPM	poSessive pronoun, second, Nominative, Plural, Masculine
+S-2NPN	poSessive pronoun, second, Nominative, Plural, Neuter
+S-2NSM	poSessive pronoun, second, Nominative, Singular, Masculine
+S-2NSN	poSessive pronoun, second, Nominative, Singular, Neuter
+S-2PASF	poSsessive pronoun, second, Plural, Accusative, Singular, Feminine
+S-2PASM	poSsessive pronoun, second, Plural, Accusative, Singular, Masculine
+S-2PASN	poSsessive pronoun, second, Plural, Accusative, Singular, Neuter
+S-2PDSF	poSsessive pronoun, second, Plural, Dative, Singular, Feminine
+S-2PDSM	poSsessive pronoun, second, Plural, Dative, Singular, Masculine
+S-2PDSN	poSsessive pronoun, second, Plural, Dative, Singular, Neuter
+S-2PGSF	poSsessive pronoun, second, Plural, Genitive, Singular, Feminine
+S-2PNSF	poSsessive pronoun, second, Plural, Nominative, Singular, Feminine
+S-2PNSM	poSsessive pronoun, second, Plural, Nominative, Singular, Masculine
+S-2SAPM	poSsessive pronoun, second, Singular, Accusative, Plural, Masculine
+S-2SAPN	poSsessive pronoun, second, Singular, Accusative, Plural, Neuter
+S-2SASF	poSsessive pronoun, second, Singular, Accusative, Singular, Feminine
+S-2SASN	poSsessive pronoun, second, Singular, Accusative, Singular, Neuter
+S-2SDSF	poSsessive pronoun, second, Singular, Dative, Singular, Feminine
+S-2SDSM	poSsessive pronoun, second, Singular, Dative, Singular, Masculine
+S-2SDSN	poSsessive pronoun, second, Singular, Dative, Singular, Neuter
+S-2SGSF	poSsessive pronoun, second, Singular, Genitive, Singular, Feminine
+S-2SNPM	poSsessive pronoun, second, Singular, Nominative, Plural, Masculine
+S-2SNPN	poSsessive pronoun, second, Singular, Nominative, Plural, Neuter
+S-2SNSM	poSsessive pronoun, second, Singular, Nominative, Singular, Masculine
+S-2SNSN	poSsessive pronoun, second, Singular, Nominative, Singular, Neuter
+T-APF	definite article, Accusative, Plural, Feminine
+T-APM	definite article, Accusative, Plural, Masculine
+T-APN	definite article, Accusative, Plural, Neuter
+T-ASF	definite article, Accusative, Singular, Feminine
+T-ASM	definite article, Accusative, Singular, Masculine
+T-ASN	definite article, Accusative, Singular, Neuter
+T-DPF	definite article, Dative, Plural, Feminine
+T-DPM	definite article, Dative, Plural, Masculine
+T-DPN	definite article, Dative, Plural, Neuter
+T-DSF	definite article, Dative, Singular, Feminine
+T-DSM	definite article, Dative, Singular, Masculine
+T-DSN	definite article, Dative, Singular, Neuter
+T-GPF	definite article, Genitive, Plural, Feminine
+T-GPM	definite article, Genitive, Plural, Masculine
+T-GPN	definite article, Genitive, Plural, Neuter
+T-GSF	definite article, Genitive, Singular, Feminine
+T-GSM	definite article, Genitive, Singular, Masculine
+T-GSN	definite article, Genitive, Singular, Neuter
+T-NPF	definite article, Nominative, Plural, Feminine
+T-NPM	definite article, Nominative, Plural, Masculine
+T-NPN	definite article, Nominative, Plural, Neuter
+T-NSF	definite article, Nominative, Singular, Feminine
+T-NSM	definite article, Nominative, Singular, Masculine
+T-NSN	definite article, Nominative, Singular, Neuter
+V-2AAI-1P	Verb, second Aorist, Active, Indicative, first, Plural
+V-2AAI-1S	Verb, second Aorist, Active, Indicative, first, Singular
+V-2AAI-2P	Verb, second Aorist, Active, Indicative, second, Plural
+V-2AAI-2S	Verb, second Aorist, Active, Indicative, second, Singular
+V-2AAI-3P	Verb, second Aorist, Active, Indicative, third, Plural
+V-2AAI-3P-ATT	Verb, second Aorist, Active, Indicative, third, Plural, ATTic form
+V-2AAI-3S	Verb, second Aorist, Active, Indicative, third, Singular
+V-2AAM-2P	Verb, second Aorist, Active, iMperative, second, Plural
+V-2AAM-2S	Verb, second Aorist, Active, iMperative, second, Singular
+V-2AAM-2S-AP	Verb, second Aorist, Active, iMperative, second, Singular, Apocopated form
+V-2AAM-2S-ATT	Verb, second Aorist, Active, iMperative, second, Singular, ATTic form
+V-2AAM-3P	Verb, second Aorist, Active, iMperative, third, Plural
+V-2AAM-3S	Verb, second Aorist, Active, iMperative, third, Singular
+V-2AAN	Verb, second Aorist, Active, iNfinitive
+V-2AAO-3P	Verb, second Aorist, Active, Optative, third, Plural
+V-2AAO-3S	Verb, second Aorist, Active, Optative, third, Singular
+V-2AAP-APF	Verb, second Aorist, Active, Participle, Accusative, Plural, Feminine
+V-2AAP-APM	Verb, second Aorist, Active, Participle, Accusative, Plural, Masculine
+V-2AAP-ASF	Verb, second Aorist, Active, Participle, Accusative, Singular, Feminine
+V-2AAP-ASM	Verb, second Aorist, Active, Participle, Accusative, Singular, Masculine
+V-2AAP-ASN	Verb, second Aorist, Active, Participle, Accusative, Singular, Neuter
+V-2AAP-DPF	Verb, second Aorist, Active, Participle, Dative, Plural, Feminine
+V-2AAP-DPM	Verb, second Aorist, Active, Participle, Dative, Plural, Masculine
+V-2AAP-DSF	Verb, second Aorist, Active, Participle, Dative, Singular, Feminine
+V-2AAP-DSM	Verb, second Aorist, Active, Participle, Dative, Singular, Masculine
+V-2AAP-GPM	Verb, second Aorist, Active, Participle, Genitive, Plural, Masculine
+V-2AAP-GSF	Verb, second Aorist, Active, Participle, Genitive, Singular, Feminine
+V-2AAP-GSM	Verb, second Aorist, Active, Participle, Genitive, Singular, Masculine
+V-2AAP-GSN	Verb, second Aorist, Active, Participle, Genitive, Singular, Neuter
+V-2AAP-NPF	Verb, second Aorist, Active, Participle, Nominative, Plural, Feminine
+V-2AAP-NPM	Verb, second Aorist, Active, Participle, Nominative, Plural, Masculine
+V-2AAP-NPN	Verb, second Aorist, Active, Participle, Nominative, Plural, Neuter
+V-2AAP-NSF	Verb, second Aorist, Active, Participle, Nominative, Singular, Feminine
+V-2AAP-NSM	Verb, second Aorist, Active, Participle, Nominative, Singular, Masculine
+V-2AAP-NSN	Verb, second Aorist, Active, Participle, Nominative, Singular, Neuter
+V-2AAS-1P	Verb, second Aorist, Active, Subjunctive, first, Plural
+V-2AAS-1S	Verb, second Aorist, Active, Subjunctive, first, Singular
+V-2AAS-2P	Verb, second Aorist, Active, Subjunctive, second, Plural
+V-2AAS-2S	Verb, second Aorist, Active, Subjunctive, second, Singular
+V-2AAS-3P	Verb, second Aorist, Active, Subjunctive, third, Plural
+V-2AAS-3S	Verb, second Aorist, Active, Subjunctive, third, Singular
+V-2ADI-1S	Verb, second Aorist, middle Deponent, Indicative, first, Singular
+V-2ADI-2P	Verb, second Aorist, middle Deponent, Indicative, second, Plural
+V-2ADI-2S	Verb, second Aorist, middle Deponent, Indicative, second, Singular
+V-2ADI-3P	Verb, second Aorist, middle Deponent, Indicative, third, Plural
+V-2ADI-3S	Verb, second Aorist, middle Deponent, Indicative, third, Singular
+V-2ADM-2P	Verb, second Aorist, middle Deponent, iMperative, second, Plural
+V-2ADM-2S	Verb, second Aorist, middle Deponent, iMperative, second, Singular
+V-2ADM-3S	Verb, second Aorist, middle Deponent, iMperative, third, Singular
+V-2ADN	Verb, second Aorist, middle Deponent, iNfinitive
+V-2ADO-1S	Verb, second Aorist, middle Deponent, Optative, first, Singular
+V-2ADO-3S	Verb, second Aorist, middle Deponent, Optative, third, Singular
+V-2ADP-APM	Verb, second Aorist, middle Deponent, Participle, Accusative, Plural, Masculine
+V-2ADP-APN	Verb, second Aorist, middle Deponent, Participle, Accusative, Plural, Neuter
+V-2ADP-ASF	Verb, second Aorist, middle Deponent, Participle, Accusative, Singular, Feminine
+V-2ADP-ASM	Verb, second Aorist, middle Deponent, Participle, Accusative, Singular, Masculine
+V-2ADP-ASN	Verb, second Aorist, middle Deponent, Participle, Accusative, Singular, Neuter
+V-2ADP-DPM	Verb, second Aorist, middle Deponent, Participle, Dative, Plural, Masculine
+V-2ADP-DPN	Verb, second Aorist, middle Deponent, Participle, Dative, Plural, Neuter
+V-2ADP-GPF	Verb, second Aorist, middle Deponent, Participle, Genitive, Plural, Feminine
+V-2ADP-GPM	Verb, second Aorist, middle Deponent, Participle, Genitive, Plural, Masculine
+V-2ADP-GPN	Verb, second Aorist, middle Deponent, Participle, Genitive, Plural, Neuter
+V-2ADP-GSF	Verb, second Aorist, middle Deponent, Participle, Genitive, Singular, Feminine
+V-2ADP-GSM	Verb, second Aorist, middle Deponent, Participle, Genitive, Singular, Masculine
+V-2ADP-GSN	Verb, second Aorist, middle Deponent, Participle, Genitive, Singular, Neuter
+V-2ADP-NPF	Verb, second Aorist, middle Deponent, Participle, Nominative, Plural, Feminine
+V-2ADP-NPM	Verb, second Aorist, middle Deponent, Participle, Nominative, Plural, Masculine
+V-2ADP-NSM	Verb, second Aorist, middle Deponent, Participle, Nominative, Singular, Masculine
+V-2ADS-1P	Verb, second Aorist, middle Deponent, Subjunctive, first, Plural
+V-2ADS-1S	Verb, second Aorist, middle Deponent, Subjunctive, first, Singular
+V-2ADS-2P	Verb, second Aorist, middle Deponent, Subjunctive, second, Plural
+V-2ADS-3P	Verb, second Aorist, middle Deponent, Subjunctive, third, Plural
+V-2ADS-3S	Verb, second Aorist, middle Deponent, Subjunctive, third, Singular
+V-2AMI-1P	Verb, second Aorist, Middle, Indicative, first, Plural
+V-2AMI-1S	Verb, second Aorist, Middle, Indicative, first, Singular
+V-2AMI-2P	Verb, second Aorist, Middle, Indicative, second, Plural
+V-2AMI-2S	Verb, second Aorist, Middle, Indicative, second, Singular
+V-2AMI-3P	Verb, second Aorist, Middle, Indicative, third, Plural
+V-2AMI-3S	Verb, second Aorist, Middle, Indicative, third, Singular
+V-2AMM-2P	Verb, second Aorist, Middle, iMperative, second, Plural
+V-2AMM-2S	Verb, second Aorist, Middle, iMperative, second, Singular
+V-2AMN	Verb, second Aorist, Middle, iNfinitive
+V-2AMP-GSM	Verb, second Aorist, Middle, Participle, Genitive, Singular, Masculine
+V-2AMP-NPM	Verb, second Aorist, Middle, Participle, Nominative, Plural, Masculine
+V-2AMP-NSM	Verb, second Aorist, Middle, Participle, Nominative, Singular, Masculine
+V-2AMS-1P	Verb, second Aorist, Middle, Subjunctive, first, Plural
+V-2AMS-1S	Verb, second Aorist, Middle, Subjunctive, first, Singular
+V-2AMS-2S	Verb, second Aorist, Middle, Subjunctive, second, Singular
+V-2AMS-3P	Verb, second Aorist, Middle, Subjunctive, third, Plural
+V-2AMS-3S	Verb, second Aorist, Middle, Subjunctive, third, Singular
+V-2AOI-1P	Verb, second Aorist, passive depOnent, Indicative, first, Plural
+V-2AOI-1S	Verb, second Aorist, passive depOnent, Indicative, first, Singular
+V-2AOI-2P	Verb, second Aorist, passive depOnent, Indicative, second, Plural
+V-2AOI-3P	Verb, second Aorist, passive depOnent, Indicative, third, Plural
+V-2AOI-3S	Verb, second Aorist, passive depOnent, Indicative, third, Singular
+V-2AOM-2P	Verb, second Aorist, passive depOnent, iMperative, second, Plural
+V-2AON	Verb, second Aorist, passive depOnent, iNfinitive
+V-2AOS-2P	Verb, second Aorist, passive depOnent, Subjunctive, second, Plural
+V-2API-1P	Verb, second Aorist, Passive, Indicative, first, Plural
+V-2API-1S	Verb, second Aorist, Passive, Indicative, first, Singular
+V-2API-2P	Verb, second Aorist, Passive, Indicative, second, Plural
+V-2API-2S	Verb, second Aorist, Passive, Indicative, second, Singular
+V-2API-3P	Verb, second Aorist, Passive, Indicative, third, Plural
+V-2API-3S	Verb, second Aorist, Passive, Indicative, third, Singular
+V-2APM-2P	Verb, second Aorist, Passive, iMperative, second, Plural
+V-2APM-2S	Verb, second Aorist, Passive, iMperative, second, Singular
+V-2APM-3S	Verb, second Aorist, Passive, iMperative, third, Singular
+V-2APN	Verb, second Aorist, Passive, iNfinitive
+V-2APP-ASM	Verb, second Aorist, Passive, Participle, Accusative, Singular, Masculine
+V-2APP-DSN	Verb, second Aorist, Passive, Participle, Dative, Singular, Neuter
+V-2APP-GPM	Verb, second Aorist, Passive, Participle, Genitive, Plural, Masculine
+V-2APP-NPF	Verb, second Aorist, Passive, Participle, Nominative, Plural, Feminine
+V-2APP-NPM	Verb, second Aorist, Passive, Participle, Nominative, Plural, Masculine
+V-2APP-NSF	Verb, second Aorist, Passive, Participle, Nominative, Singular, Feminine
+V-2APP-NSM	Verb, second Aorist, Passive, Participle, Nominative, Singular, Masculine
+V-2APP-NSN	Verb, second Aorist, Passive, Participle, Nominative, Singular, Neuter
+V-2APS-1P	Verb, second Aorist, Passive, Subjunctive, first, Plural
+V-2APS-2P	Verb, second Aorist, Passive, Subjunctive, second, Plural
+V-2APS-2S	Verb, second Aorist, Passive, Subjunctive, second, Singular
+V-2APS-3P	Verb, second Aorist, Passive, Subjunctive, third, Plural
+V-2APS-3S	Verb, second Aorist, Passive, Subjunctive, third, Singular
+V-2AXM-2P	Verb, second Aorist, no voice stated, iMperative, second, Plural
+V-2AXP-GPM	Verb, second Aorist, no voice stated, Participle, Genitive, Plural, Masculine
+V-2AXS-2P	Verb, second Aorist, no voice stated, Subjunctive, second, Plural
+V-2FAI-1S	Verb, second Future, Active, Indicative, first, Singular
+V-2FAI-3S	Verb, second Future, Active, Indicative, third, Singular
+V-2FDI-2S	Verb, second Future, middle Deponent, Indicative, second, Singular
+V-2FDI-3P	Verb, second Future, middle Deponent, Indicative, third, Plural
+V-2FDI-3S	Verb, second Future, middle Deponent, Indicative, third, Singular
+V-2FMI-3S	Verb, second Future, Middle, Indicative, third, Singular
+V-2FOI-1S	Verb, second Future, passive depOnent, Indicative, first, Singular
+V-2FOI-3P	Verb, second Future, passive depOnent, Indicative, third, Plural
+V-2FOI-3S	Verb, second Future, passive depOnent, Indicative, third, Singular
+V-2FPI-1P	Verb, second Future, Passive, Indicative, first, Plural
+V-2FPI-2P	Verb, second Future, Passive, Indicative, second, Plural
+V-2FPI-2S	Verb, second Future, Passive, Indicative, second, Singular
+V-2FPI-3P	Verb, second Future, Passive, Indicative, third, Plural
+V-2FPI-3S	Verb, second Future, Passive, Indicative, third, Singular
+V-2LAI-1S	Verb, second pLuperfect, Active, Indicative, first, Singular
+V-2LAI-2P	Verb, second pLuperfect, Active, Indicative, second, Plural
+V-2LAI-2S	Verb, second pLuperfect, Active, Indicative, second, Singular
+V-2LAI-3P	Verb, second pLuperfect, Active, Indicative, third, Plural
+V-2LAI-3S	Verb, second pLuperfect, Active, Indicative, third, Singular
+V-2RAI-1P	Verb, second peRfect, Active, Indicative, first, Plural
+V-2RAI-1P-ATT	Verb, second peRfect, Active, Indicative, first, Plural, ATTic form
+V-2RAI-1S	Verb, second peRfect, Active, Indicative, first, Singular
+V-2RAI-2P	Verb, second peRfect, Active, Indicative, second, Plural
+V-2RAI-2P-ATT	Verb, second peRfect, Active, Indicative, second, Plural, ATTic form
+V-2RAI-2S	Verb, second peRfect, Active, Indicative, second, Singular
+V-2RAI-3P	Verb, second peRfect, Active, Indicative, third, Plural
+V-2RAI-3P-ATT	Verb, second peRfect, Active, Indicative, third, Plural, ATTic form
+V-2RAI-3P-C	Verb, second peRfect, Active, Indicative, third, Plural, Contracted form
+V-2RAI-3S	Verb, second peRfect, Active, Indicative, third, Singular
+V-2RAI-3S-ATT	Verb, second peRfect, Active, Indicative, third, Singular, ATTic form
+V-2RAN	Verb, second peRfect, Active, iNfinitive
+V-2RAP-APM	Verb, second peRfect, Active, Participle, Accusative, Plural, Masculine
+V-2RAP-APM-ATT	Verb, second peRfect, Active, Participle, Accusative, Plural, Masculine, ATTic form
+V-2RAP-APN	Verb, second peRfect, Active, Participle, Accusative, Plural, Neuter
+V-2RAP-ASF	Verb, second peRfect, Active, Participle, Accusative, Singular, Feminine
+V-2RAP-ASM	Verb, second peRfect, Active, Participle, Accusative, Singular, Masculine
+V-2RAP-ASN	Verb, second peRfect, Active, Participle, Accusative, Singular, Neuter
+V-2RAP-DSN	Verb, second peRfect, Active, Participle, Dative, Singular, Neuter
+V-2RAP-NPF	Verb, second peRfect, Active, Participle, Nominative, Plural, Feminine
+V-2RAP-NPM	Verb, second peRfect, Active, Participle, Nominative, Plural, Masculine
+V-2RAP-NSF	Verb, second peRfect, Active, Participle, Nominative, Singular, Feminine
+V-2RAP-NSM	Verb, second peRfect, Active, Participle, Nominative, Singular, Masculine
+V-2RAP-NSN	Verb, second peRfect, Active, Participle, Nominative, Singular, Neuter
+V-2RPP-ASM	Verb, second peRfect, Passive, Participle, Accusative, Singular, Masculine
+V-2RPP-ASN	Verb, second peRfect, Passive, Participle, Accusative, Singular, Neuter
+V-AAI-1P	Verb, Aorist, Active, Indicative, first, Plural
+V-AAI-1S	Verb, Aorist, Active, Indicative, first, Singular
+V-AAI-2P	Verb, Aorist, Active, Indicative, second, Plural
+V-AAI-2S	Verb, Aorist, Active, Indicative, second, Singular
+V-AAI-3P	Verb, Aorist, Active, Indicative, third, Plural
+V-AAI-3S	Verb, Aorist, Active, Indicative, third, Singular
+V-AAM-2P	Verb, Aorist, Active, iMperative, second, Plural
+V-AAM-2S	Verb, Aorist, Active, iMperative, second, Singular
+V-AAM-3P	Verb, Aorist, Active, iMperative, third, Plural
+V-AAM-3S	Verb, Aorist, Active, iMperative, third, Singular
+V-AAN	Verb, Aorist, Active, iNfinitive
+V-AAO-3P	Verb, Aorist, Active, Optative, third, Plural
+V-AAO-3P-A	Verb, Aorist, Active, Optative, third, Plural, Aeolic
+V-AAO-3S	Verb, Aorist, Active, Optative, third, Singular
+V-AAP-APM	Verb, Aorist, Active, Participle, Accusative, Plural, Masculine
+V-AAP-APN	Verb, Aorist, Active, Participle, Accusative, Plural, Neuter
+V-AAP-ASF	Verb, Aorist, Active, Participle, Accusative, Singular, Feminine
+V-AAP-ASM	Verb, Aorist, Active, Participle, Accusative, Singular, Masculine
+V-AAP-ASN	Verb, Aorist, Active, Participle, Accusative, Singular, Neuter
+V-AAP-DPM	Verb, Aorist, Active, Participle, Dative, Plural, Masculine
+V-AAP-DSM	Verb, Aorist, Active, Participle, Dative, Singular, Masculine
+V-AAP-GPM	Verb, Aorist, Active, Participle, Genitive, Plural, Masculine
+V-AAP-GSF	Verb, Aorist, Active, Participle, Genitive, Singular, Feminine
+V-AAP-GSM	Verb, Aorist, Active, Participle, Genitive, Singular, Masculine
+V-AAP-NPF	Verb, Aorist, Active, Participle, Nominative, Plural, Feminine
+V-AAP-NPM	Verb, Aorist, Active, Participle, Nominative, Plural, Masculine
+V-AAP-NSF	Verb, Aorist, Active, Participle, Nominative, Singular, Feminine
+V-AAP-NSM	Verb, Aorist, Active, Participle, Nominative, Singular, Masculine
+V-AAP-NSN	Verb, Aorist, Active, Participle, Nominative, Singular, Neuter
+V-AAPNS	Verb, Aorist, Active, Participle, Nominative, Singular
+V-AAS-1P	Verb, Aorist, Active, Subjunctive, first, Plural
+V-AAS-1S	Verb, Aorist, Active, Subjunctive, first, Singular
+V-AAS-2P	Verb, Aorist, Active, Subjunctive, second, Plural
+V-AAS-2S	Verb, Aorist, Active, Subjunctive, second, Singular
+V-AAS-3P	Verb, Aorist, Active, Subjunctive, third, Plural
+V-AAS-3S	Verb, Aorist, Active, Subjunctive, third, Singular
+V-ADI-1P	Verb, Aorist, middle Deponent, Indicative, first, Plural
+V-ADI-1S	Verb, Aorist, middle Deponent, Indicative, first, Singular
+V-ADI-2P	Verb, Aorist, middle Deponent, Indicative, second, Plural
+V-ADI-2S	Verb, Aorist, middle Deponent, Indicative, second, Singular
+V-ADI-3P	Verb, Aorist, middle Deponent, Indicative, third, Plural
+V-ADI-3S	Verb, Aorist, middle Deponent, Indicative, third, Singular
+V-ADM-2P	Verb, Aorist, middle Deponent, iMperative, second, Plural
+V-ADM-2S	Verb, Aorist, middle Deponent, iMperative, second, Singular
+V-ADM-3P	Verb, Aorist, middle Deponent, iMperative, third, Plural
+V-ADM-3S	Verb, Aorist, middle Deponent, iMperative, third, Singular
+V-ADN	Verb, Aorist, middle Deponent, iNfinitive
+V-ADO-1S	Verb, Aorist, middle Deponent, Optative, first, Singular
+V-ADP-APM	Verb, Aorist, middle Deponent, Participle, Accusative, Plural, Masculine
+V-ADP-ASM	Verb, Aorist, middle Deponent, Participle, Accusative, Singular, Masculine
+V-ADP-DPM	Verb, Aorist, middle Deponent, Participle, Dative, Plural, Masculine
+V-ADP-GSF	Verb, Aorist, middle Deponent, Participle, Genitive, Singular, Feminine
+V-ADP-NPM	Verb, Aorist, middle Deponent, Participle, Nominative, Plural, Masculine
+V-ADP-NSF	Verb, Aorist, middle Deponent, Participle, Nominative, Singular, Feminine
+V-ADP-NSM	Verb, Aorist, middle Deponent, Participle, Nominative, Singular, Masculine
+V-ADS-1P	Verb, Aorist, middle Deponent, Subjunctive, first, Plural
+V-ADS-1S	Verb, Aorist, middle Deponent, Subjunctive, first, Singular
+V-ADS-2P	Verb, Aorist, middle Deponent, Subjunctive, second, Plural
+V-ADS-2S	Verb, Aorist, middle Deponent, Subjunctive, second, Singular
+V-ADS-3P	Verb, Aorist, middle Deponent, Subjunctive, third, Plural
+V-ADS-3S	Verb, Aorist, middle Deponent, Subjunctive, third, Singular
+V-AMI-1P	Verb, Aorist, Middle, Indicative, first, Plural
+V-AMI-1S	Verb, Aorist, Middle, Indicative, first, Singular
+V-AMI-2P	Verb, Aorist, Middle, Indicative, second, Plural
+V-AMI-2S	Verb, Aorist, Middle, Indicative, second, Singular
+V-AMI-3P	Verb, Aorist, Middle, Indicative, third, Plural
+V-AMI-3S	Verb, Aorist, Middle, Indicative, third, Singular
+V-AMM-2P	Verb, Aorist, Middle, iMperative, second, Plural
+V-AMM-2S	Verb, Aorist, Middle, iMperative, second, Singular
+V-AMM-3S	Verb, Aorist, Middle, iMperative, third, Singular
+V-AMN	Verb, Aorist, Middle, iNfinitive
+V-AMP-APM	Verb, Aorist, Middle, Participle, Accusative, Plural, Masculine
+V-AMP-ASN	Verb, Aorist, Middle, Participle, Accusative, Singular, Neuter
+V-AMP-DPM	Verb, Aorist, Middle, Participle, Dative, Plural, Masculine
+V-AMP-GPM	Verb, Aorist, Middle, Participle, Genitive, Plural, Masculine
+V-AMP-GSM	Verb, Aorist, Middle, Participle, Genitive, Singular, Masculine
+V-AMP-NPM	Verb, Aorist, Middle, Participle, Nominative, Plural, Masculine
+V-AMP-NSF	Verb, Aorist, Middle, Participle, Nominative, Singular, Feminine
+V-AMP-NSM	Verb, Aorist, Middle, Participle, Nominative, Singular, Masculine
+V-AMP-NSN	Verb, Aorist, Middle, Participle, Nominative, Singular, Neuter
+V-AMPNP	Verb, Aorist, Middle, Participle, Nominative, Plural
+V-AMS-1P	Verb, Aorist, Middle, Subjunctive, first, Plural
+V-AMS-1S	Verb, Aorist, Middle, Subjunctive, first, Singular
+V-AMS-2P	Verb, Aorist, Middle, Subjunctive, second, Plural
+V-AMS-2S	Verb, Aorist, Middle, Subjunctive, second, Singular
+V-AMS-3P	Verb, Aorist, Middle, Subjunctive, third, Plural
+V-AMS-3S	Verb, Aorist, Middle, Subjunctive, third, Singular
+V-ANI-3P	Verb, Aorist, middle or passive depoNent, Indicative, third, Plural
+V-ANI-3S	Verb, Aorist, middle or passive depoNent, Indicative, third, Singular
+V-ANP-NSM	Verb, Aorist, middle or passive depoNent, Participle, Nominative, Singular, Masculine
+V-ANP-NSN	Verb, Aorist, middle or passive depoNent, Participle, Nominative, Singular, Neuter
+V-AOI-1P	Verb, Aorist, passive depOnent, Indicative, first, Plural
+V-AOI-1P-ATT	Verb, Aorist, passive depOnent, Indicative, first, Plural, ATTic form
+V-AOI-1S	Verb, Aorist, passive depOnent, Indicative, first, Singular
+V-AOI-1S-ATT	Verb, Aorist, passive depOnent, Indicative, first, Singular, ATTic form
+V-AOI-2P	Verb, Aorist, passive depOnent, Indicative, second, Plural
+V-AOI-2P-ATT	Verb, Aorist, passive depOnent, Indicative, second, Plural, ATTic form
+V-AOI-3P	Verb, Aorist, passive depOnent, Indicative, third, Plural
+V-AOI-3P-ATT	Verb, Aorist, passive depOnent, Indicative, third, Plural, ATTic form
+V-AOI-3S	Verb, Aorist, passive depOnent, Indicative, third, Singular
+V-AOI-3S-ATT	Verb, Aorist, passive depOnent, Indicative, third, Singular, ATTic form
+V-AOM-2P	Verb, Aorist, passive depOnent, iMperative, second, Plural
+V-AOM-2S	Verb, Aorist, passive depOnent, iMperative, second, Singular
+V-AOM-3S	Verb, Aorist, passive depOnent, iMperative, third, Singular
+V-AON	Verb, Aorist, passive depOnent, iNfinitive
+V-AOO-3S	Verb, Aorist, passive depOnent, Optative, third, Singular
+V-AOP-APM	Verb, Aorist, passive depOnent, Participle, Accusative, Plural, Masculine
+V-AOP-ASM	Verb, Aorist, passive depOnent, Participle, Accusative, Singular, Masculine
+V-AOP-DSM	Verb, Aorist, passive depOnent, Participle, Dative, Singular, Masculine
+V-AOP-GPM	Verb, Aorist, passive depOnent, Participle, Genitive, Plural, Masculine
+V-AOP-GPN	Verb, Aorist, passive depOnent, Participle, Genitive, Plural, Neuter
+V-AOP-GSM	Verb, Aorist, passive depOnent, Participle, Genitive, Singular, Masculine
+V-AOP-NPF	Verb, Aorist, passive depOnent, Participle, Nominative, Plural, Feminine
+V-AOP-NPM	Verb, Aorist, passive depOnent, Participle, Nominative, Plural, Masculine
+V-AOP-NSF	Verb, Aorist, passive depOnent, Participle, Nominative, Singular, Feminine
+V-AOP-NSM	Verb, Aorist, passive depOnent, Participle, Nominative, Singular, Masculine
+V-AOP-NSN	Verb, Aorist, passive depOnent, Participle, Nominative, Singular, Neuter
+V-AOS-1P	Verb, Aorist, passive depOnent, Subjunctive, first, Plural
+V-AOS-1S	Verb, Aorist, passive depOnent, Subjunctive, first, Singular
+V-AOS-2P	Verb, Aorist, passive depOnent, Subjunctive, second, Plural
+V-AOS-2S	Verb, Aorist, passive depOnent, Subjunctive, second, Singular
+V-AOS-3P	Verb, Aorist, passive depOnent, Subjunctive, third, Plural
+V-AOS-3S	Verb, Aorist, passive depOnent, Subjunctive, third, Singular
+V-API	Verb, Aorist, Passive, Indicative
+V-API-1P	Verb, Aorist, Passive, Indicative, first, Plural
+V-API-1S	Verb, Aorist, Passive, Indicative, first, Singular
+V-API-2P	Verb, Aorist, Passive, Indicative, second, Plural
+V-API-2S	Verb, Aorist, Passive, Indicative, second, Singular
+V-API-3P	Verb, Aorist, Passive, Indicative, third, Plural
+V-API-3S	Verb, Aorist, Passive, Indicative, third, Singular
+V-API-3S-M	Verb, Aorist, Passive, Indicative, third, Singular, Middle significance
+V-APM-2P	Verb, Aorist, Passive, iMperative, second, Plural
+V-APM-2S	Verb, Aorist, Passive, iMperative, second, Singular
+V-APM-3P	Verb, Aorist, Passive, iMperative, third, Plural
+V-APM-3S	Verb, Aorist, Passive, iMperative, third, Singular
+V-APN	Verb, Aorist, Passive, iNfinitive
+V-APN-M	Verb, Aorist, Passive, iNfinitive, Masculine
+V-APO-3S	Verb, Aorist, Passive, Optative, third, Singular
+V-APP-APM	Verb, Aorist, Passive, Participle, Accusative, Plural, Masculine
+V-APP-APN	Verb, Aorist, Passive, Participle, Accusative, Plural, Neuter
+V-APP-ASF	Verb, Aorist, Passive, Participle, Accusative, Singular, Feminine
+V-APP-ASM	Verb, Aorist, Passive, Participle, Accusative, Singular, Masculine
+V-APP-ASN	Verb, Aorist, Passive, Participle, Accusative, Singular, Neuter
+V-APP-DPN	Verb, Aorist, Passive, Participle, Dative, Plural, Neuter
+V-APP-DSF	Verb, Aorist, Passive, Participle, Dative, Singular, Feminine
+V-APP-DSM	Verb, Aorist, Passive, Participle, Dative, Singular, Masculine
+V-APP-GPF	Verb, Aorist, Passive, Participle, Genitive, Plural, Feminine
+V-APP-GPM	Verb, Aorist, Passive, Participle, Genitive, Plural, Masculine
+V-APP-GPN	Verb, Aorist, Passive, Participle, Genitive, Plural, Neuter
+V-APP-GSF	Verb, Aorist, Passive, Participle, Genitive, Singular, Feminine
+V-APP-GSM	Verb, Aorist, Passive, Participle, Genitive, Singular, Masculine
+V-APP-GSN	Verb, Aorist, Passive, Participle, Genitive, Singular, Neuter
+V-APP-NPM	Verb, Aorist, Passive, Participle, Nominative, Plural, Masculine
+V-APP-NPN	Verb, Aorist, Passive, Participle, Nominative, Plural, Neuter
+V-APP-NSF	Verb, Aorist, Passive, Participle, Nominative, Singular, Feminine
+V-APP-NSM	Verb, Aorist, Passive, Participle, Nominative, Singular, Masculine
+V-APP-NSM-M	Verb, Aorist, Passive, Participle, Nominative, Singular, Masculine, Middle significance
+V-APP-NSN	Verb, Aorist, Passive, Participle, Nominative, Singular, Neuter
+V-APS-1P	Verb, Aorist, Passive, Subjunctive, first, Plural
+V-APS-1S	Verb, Aorist, Passive, Subjunctive, first, Singular
+V-APS-2P	Verb, Aorist, Passive, Subjunctive, second, Plural
+V-APS-2S	Verb, Aorist, Passive, Subjunctive, second, Singular
+V-APS-3P	Verb, Aorist, Passive, Subjunctive, third, Plural
+V-APS-3S	Verb, Aorist, Passive, Subjunctive, third, Singular
+V-FAI-1P	Verb, Future, Active, Indicative, first, Plural
+V-FAI-1S	Verb, Future, Active, Indicative, first, Singular
+V-FAI-1S-ATT	Verb, Future, Active, Indicative, first, Singular, ATTic form
+V-FAI-2P	Verb, Future, Active, Indicative, second, Plural
+V-FAI-2S	Verb, Future, Active, Indicative, second, Singular
+V-FAI-3P	Verb, Future, Active, Indicative, third, Plural
+V-FAI-3P-ATT	Verb, Future, Active, Indicative, third, Plural, ATTic form
+V-FAI-3S	Verb, Future, Active, Indicative, third, Singular
+V-FAI-3S-ATT	Verb, Future, Active, Indicative, third, Singular, ATTic form
+V-FAN	Verb, Future, Active, iNfinitive
+V-FAP-APN	Verb, Future, Active, Participle, Accusative, Plural, Neuter
+V-FAP-GPM	Verb, Future, Active, Participle, Genitive, Plural, Masculine
+V-FAP-NPM	Verb, Future, Active, Participle, Nominative, Plural, Masculine
+V-FAP-NSM	Verb, Future, Active, Participle, Nominative, Singular, Masculine
+V-FDI-1P	Verb, Future, middle Deponent, Indicative, first, Plural
+V-FDI-1S	Verb, Future, middle Deponent, Indicative, first, Singular
+V-FDI-2P	Verb, Future, middle Deponent, Indicative, second, Plural
+V-FDI-2P-ATT	Verb, Future, middle Deponent, Indicative, second, Plural, ATTic form
+V-FDI-2S	Verb, Future, middle Deponent, Indicative, second, Singular
+V-FDI-2S-ATT	Verb, Future, middle Deponent, Indicative, second, Singular, ATTic form
+V-FDI-3P	Verb, Future, middle Deponent, Indicative, third, Plural
+V-FDI-3S	Verb, Future, middle Deponent, Indicative, third, Singular
+V-FDI-3S-ATT	Verb, Future, middle Deponent, Indicative, third, Singular, ATTic form
+V-FDN	Verb, Future, middle Deponent, iNfinitive
+V-FDP-ASN	Verb, Future, middle Deponent, Participle, Accusative, Singular, Neuter
+V-FDP-NPM	Verb, Future, middle Deponent, Participle, Nominative, Plural, Masculine
+V-FMI-1P	Verb, Future, Middle, Indicative, first, Plural
+V-FMI-1S	Verb, Future, Middle, Indicative, first, Singular
+V-FMI-2P	Verb, Future, Middle, Indicative, second, Plural
+V-FMI-2S	Verb, Future, Middle, Indicative, second, Singular
+V-FMI-3P	Verb, Future, Middle, Indicative, third, Plural
+V-FMI-3S	Verb, Future, Middle, Indicative, third, Singular
+V-FNI-3P	Verb, Future, middle or passive depoNent, Indicative, third, Plural
+V-FNI-3S	Verb, Future, middle or passive depoNent, Indicative, third, Singular
+V-FOI-1S	Verb, Future, passive depOnent, Indicative, first, Singular
+V-FOI-3P	Verb, Future, passive depOnent, Indicative, third, Plural
+V-FOI-3S	Verb, Future, passive depOnent, Indicative, third, Singular
+V-FPI-1P	Verb, Future, Passive, Indicative, first, Plural
+V-FPI-1S	Verb, Future, Passive, Indicative, first, Singular
+V-FPI-2P	Verb, Future, Passive, Indicative, second, Plural
+V-FPI-2S	Verb, Future, Passive, Indicative, second, Singular
+V-FPI-3P	Verb, Future, Passive, Indicative, third, Plural
+V-FPI-3S	Verb, Future, Passive, Indicative, third, Singular
+V-FPP-GPN	Verb, Future, Passive, Participle, Genitive, Plural, Neuter
+V-FPS-1S	Verb, Future, Passive, Subjunctive, first, Singular
+V-FXI-1P	Verb, Future, no voice stated, Indicative, first, Plural
+V-FXI-1S	Verb, Future, no voice stated, Indicative, first, Singular
+V-FXI-2P	Verb, Future, no voice stated, Indicative, second, Plural
+V-FXI-2S	Verb, Future, no voice stated, Indicative, second, Singular
+V-FXI-3P	Verb, Future, no voice stated, Indicative, third, Plural
+V-FXI-3S	Verb, Future, no voice stated, Indicative, third, Singular
+V-FXN	Verb, Future, no voice stated, iNfinitive
+V-FXP-ASN	Verb, Future, no voice stated, Participle, Accusative, Singular, Neuter
+V-FXP-NSM	Verb, Future, no voice stated, Participle, Nominative, Singular, Masculine
+V-IAI-1P	Verb, Imperfect, Active, Indicative, first, Plural
+V-IAI-1S	Verb, Imperfect, Active, Indicative, first, Singular
+V-IAI-1S-ATT	Verb, Imperfect, Active, Indicative, first, Singular, ATTic form
+V-IAI-2P	Verb, Imperfect, Active, Indicative, second, Plural
+V-IAI-2S	Verb, Imperfect, Active, Indicative, second, Singular
+V-IAI-3P	Verb, Imperfect, Active, Indicative, third, Plural
+V-IAI-3P-ATT	Verb, Imperfect, Active, Indicative, third, Plural, ATTic form
+V-IAI-3S	Verb, Imperfect, Active, Indicative, third, Singular
+V-IAI-3S-ATT	Verb, Imperfect, Active, Indicative, third, Singular, ATTic form
+V-IDI-3P	Verb, Imperfect, middle Deponent, Indicative, third, Plural
+V-IEI-3S	Verb, Imperfect, Either middle or passive, Indicative, third, Singular
+V-IMI-1P	Verb, Imperfect, Middle, Indicative, first, Plural
+V-IMI-1S	Verb, Imperfect, Middle, Indicative, first, Singular
+V-IMI-3P	Verb, Imperfect, Middle, Indicative, third, Plural
+V-IMI-3S	Verb, Imperfect, Middle, Indicative, third, Singular
+V-INI-1P	Verb, Imperfect, middle or passive depoNent, Indicative, first, Plural
+V-INI-1S	Verb, Imperfect, middle or passive depoNent, Indicative, first, Singular
+V-INI-2P	Verb, Imperfect, middle or passive depoNent, Indicative, second, Plural
+V-INI-2P-ATT	Verb, Imperfect, middle or passive depoNent, Indicative, second, Plural, ATTic form
+V-INI-2S	Verb, Imperfect, middle or passive depoNent, Indicative, second, Singular
+V-INI-3P	Verb, Imperfect, middle or passive depoNent, Indicative, third, Plural
+V-INI-3P-ATT	Verb, Imperfect, middle or passive depoNent, Indicative, third, Plural, ATTic form
+V-INI-3S	Verb, Imperfect, middle or passive depoNent, Indicative, third, Singular
+V-INI-3S-ATT	Verb, Imperfect, middle or passive depoNent, Indicative, third, Singular, ATTic form
+V-IPI-1P	Verb, Imperfect, Passive, Indicative, first, Plural
+V-IPI-1S	Verb, Imperfect, Passive, Indicative, first, Singular
+V-IPI-2P	Verb, Imperfect, Passive, Indicative, second, Plural
+V-IPI-3P	Verb, Imperfect, Passive, Indicative, third, Plural
+V-IPI-3S	Verb, Imperfect, Passive, Indicative, third, Singular
+V-IQI-3S	Verb, Imperfect, impersonal active, Indicative, third, Singular
+V-IXI-1P	Verb, Imperfect, no voice stated, Indicative, first, Plural
+V-IXI-1S	Verb, Imperfect, no voice stated, Indicative, first, Singular
+V-IXI-2P	Verb, Imperfect, no voice stated, Indicative, second, Plural
+V-IXI-2S	Verb, Imperfect, no voice stated, Indicative, second, Singular
+V-IXI-3P	Verb, Imperfect, no voice stated, Indicative, third, Plural
+V-IXI-3S	Verb, Imperfect, no voice stated, Indicative, third, Singular
+V-LAI-1S	Verb, pLuperfect, Active, Indicative, first, Singular
+V-LAI-2P	Verb, pLuperfect, Active, Indicative, second, Plural
+V-LAI-2S	Verb, pLuperfect, Active, Indicative, second, Singular
+V-LAI-3P	Verb, pLuperfect, Active, Indicative, third, Plural
+V-LAI-3P-ATT	Verb, pLuperfect, Active, Indicative, third, Plural, ATTic form
+V-LAI-3S	Verb, pLuperfect, Active, Indicative, third, Singular
+V-LAI-3S-ATT	Verb, pLuperfect, Active, Indicative, third, Singular, ATTic form
+V-LDI-3S	Verb, pLuperfect, middle Deponent, Indicative, third, Singular
+V-LMI-3P	Verb, pLuperfect, Middle, Indicative, third, Plural
+V-LPI-3S	Verb, pLuperfect, Passive, Indicative, third, Singular
+V-PAI-1P	Verb, Present, Active, Indicative, first, Plural
+V-PAI-1S	Verb, Present, Active, Indicative, first, Singular
+V-PAI-1S-C	Verb, Present, Active, Indicative, first, Singular, Contracted form
+V-PAI-2P	Verb, Present, Active, Indicative, second, Plural
+V-PAI-2S	Verb, Present, Active, Indicative, second, Singular
+V-PAI-2S-IRR	Verb, Present, Active, Indicative, second, Singular, IRRegular or inpure form
+V-PAI-3P	Verb, Present, Active, Indicative, third, Plural
+V-PAI-3P-ATT	Verb, Present, Active, Indicative, third, Plural, ATTic form
+V-PAI-3S	Verb, Present, Active, Indicative, third, Singular
+V-PAM-2P	Verb, Present, Active, iMperative, second, Plural
+V-PAM-2S	Verb, Present, Active, iMperative, second, Singular
+V-PAM-3P	Verb, Present, Active, iMperative, third, Plural
+V-PAM-3S	Verb, Present, Active, iMperative, third, Singular
+V-PAN	Verb, Present, Active, iNfinitive
+V-PAO-2P	Verb, Present, Active, Optative, second, Plural
+V-PAO-3P	Verb, Present, Active, Optative, third, Plural
+V-PAO-3S	Verb, Present, Active, Optative, third, Singular
+V-PAP-APF	Verb, Present, Active, Participle, Accusative, Plural, Feminine
+V-PAP-APM	Verb, Present, Active, Participle, Accusative, Plural, Masculine
+V-PAP-APN	Verb, Present, Active, Participle, Accusative, Plural, Neuter
+V-PAP-ASF	Verb, Present, Active, Participle, Accusative, Singular, Feminine
+V-PAP-ASM	Verb, Present, Active, Participle, Accusative, Singular, Masculine
+V-PAP-ASN	Verb, Present, Active, Participle, Accusative, Singular, Neuter
+V-PAP-DPF	Verb, Present, Active, Participle, Dative, Plural, Feminine
+V-PAP-DPM	Verb, Present, Active, Participle, Dative, Plural, Masculine
+V-PAP-DPN	Verb, Present, Active, Participle, Dative, Plural, Neuter
+V-PAP-DSF	Verb, Present, Active, Participle, Dative, Singular, Feminine
+V-PAP-DSM	Verb, Present, Active, Participle, Dative, Singular, Masculine
+V-PAP-DSN	Verb, Present, Active, Participle, Dative, Singular, Neuter
+V-PAP-GPF	Verb, Present, Active, Participle, Genitive, Plural, Feminine
+V-PAP-GPM	Verb, Present, Active, Participle, Genitive, Plural, Masculine
+V-PAP-GPN	Verb, Present, Active, Participle, Genitive, Plural, Neuter
+V-PAP-GSF	Verb, Present, Active, Participle, Genitive, Singular, Feminine
+V-PAP-GSM	Verb, Present, Active, Participle, Genitive, Singular, Masculine
+V-PAP-GSN	Verb, Present, Active, Participle, Genitive, Singular, Neuter
+V-PAP-NPF	Verb, Present, Active, Participle, Nominative, Plural, Feminine
+V-PAP-NPM	Verb, Present, Active, Participle, Nominative, Plural, Masculine
+V-PAP-NPN	Verb, Present, Active, Participle, Nominative, Plural, Neuter
+V-PAP-NSF	Verb, Present, Active, Participle, Nominative, Singular, Feminine
+V-PAP-NSM	Verb, Present, Active, Participle, Nominative, Singular, Masculine
+V-PAP-NSN	Verb, Present, Active, Participle, Nominative, Singular, Neuter
+V-PAPDP	Verb, Present, Active, Participle, Dative, Plural
+V-PAS-1P	Verb, Present, Active, Subjunctive, first, Plural
+V-PAS-1S	Verb, Present, Active, Subjunctive, first, Singular
+V-PAS-2P	Verb, Present, Active, Subjunctive, second, Plural
+V-PAS-2S	Verb, Present, Active, Subjunctive, second, Singular
+V-PAS-3P	Verb, Present, Active, Subjunctive, third, Plural
+V-PAS-3S	Verb, Present, Active, Subjunctive, third, Singular
+V-PDP-NPM	Verb, Present, middle Deponent, Participle, Nominative, Plural, Masculine
+V-PEI-1P	Verb, Present, Either middle or passive, Indicative, first, Plural
+V-PEI-1S	Verb, Present, Either middle or passive, Indicative, first, Singular
+V-PEI-2P	Verb, Present, Either middle or passive, Indicative, second, Plural
+V-PEI-3P	Verb, Present, Either middle or passive, Indicative, third, Plural
+V-PEI-3S	Verb, Present, Either middle or passive, Indicative, third, Singular
+V-PEM-2P	Verb, Present, Either middle or passive, iMperative, second, Plural
+V-PEM-2S	Verb, Present, Either middle or passive, iMperative, second, Singular
+V-PEN	Verb, Present, Either middle or passive, iNfinitive
+V-PEP-DPM	Verb, Present, Either middle or passive, Participle, Dative, Plural, Masculine
+V-PEP-DSM	Verb, Present, Either middle or passive, Participle, Dative, Singular, Masculine
+V-PEP-GPN	Verb, Present, Either middle or passive, Participle, Genitive, Plural, Neuter
+V-PEP-GSF	Verb, Present, Either middle or passive, Participle, Genitive, Singular, Feminine
+V-PEP-GSM	Verb, Present, Either middle or passive, Participle, Genitive, Singular, Masculine
+V-PEP-NPF	Verb, Present, Either middle or passive, Participle, Nominative, Plural, Feminine
+V-PEP-NPM	Verb, Present, Either middle or passive, Participle, Nominative, Plural, Masculine
+V-PEP-NSF	Verb, Present, Either middle or passive, Participle, Nominative, Singular, Feminine
+V-PMI-1P	Verb, Present, Middle, Indicative, first, Plural
+V-PMI-1S	Verb, Present, Middle, Indicative, first, Singular
+V-PMI-2P	Verb, Present, Middle, Indicative, second, Plural
+V-PMI-3P	Verb, Present, Middle, Indicative, third, Plural
+V-PMI-3S	Verb, Present, Middle, Indicative, third, Singular
+V-PMM-2P	Verb, Present, Middle, iMperative, second, Plural
+V-PMM-2S	Verb, Present, Middle, iMperative, second, Singular
+V-PMM-3S	Verb, Present, Middle, iMperative, third, Singular
+V-PMN	Verb, Present, Middle, iNfinitive
+V-PMP-APM	Verb, Present, Middle, Participle, Accusative, Plural, Masculine
+V-PMP-ASF	Verb, Present, Middle, Participle, Accusative, Singular, Feminine
+V-PMP-ASM	Verb, Present, Middle, Participle, Accusative, Singular, Masculine
+V-PMP-ASN	Verb, Present, Middle, Participle, Accusative, Singular, Neuter
+V-PMP-DPM	Verb, Present, Middle, Participle, Dative, Plural, Masculine
+V-PMP-DSM	Verb, Present, Middle, Participle, Dative, Singular, Masculine
+V-PMP-GPF	Verb, Present, Middle, Participle, Genitive, Plural, Feminine
+V-PMP-GPM	Verb, Present, Middle, Participle, Genitive, Plural, Masculine
+V-PMP-GSF	Verb, Present, Middle, Participle, Genitive, Singular, Feminine
+V-PMP-GSM	Verb, Present, Middle, Participle, Genitive, Singular, Masculine
+V-PMP-GSM-T	Verb, Present, Middle, Participle, Genitive, Singular, Masculine, Transitive
+V-PMP-GSN	Verb, Present, Middle, Participle, Genitive, Singular, Neuter
+V-PMP-NPF	Verb, Present, Middle, Participle, Nominative, Plural, Feminine
+V-PMP-NPM	Verb, Present, Middle, Participle, Nominative, Plural, Masculine
+V-PMP-NSF	Verb, Present, Middle, Participle, Nominative, Singular, Feminine
+V-PMP-NSM	Verb, Present, Middle, Participle, Nominative, Singular, Masculine
+V-PMP-NSN	Verb, Present, Middle, Participle, Nominative, Singular, Neuter
+V-PMS-1P	Verb, Present, Middle, Subjunctive, first, Plural
+V-PMS-1S	Verb, Present, Middle, Subjunctive, first, Singular
+V-PMS-2S	Verb, Present, Middle, Subjunctive, second, Singular
+V-PMS-3S	Verb, Present, Middle, Subjunctive, third, Singular
+V-PNI-1P	Verb, Present, middle or passive depoNent, Indicative, first, Plural
+V-PNI-1S	Verb, Present, middle or passive depoNent, Indicative, first, Singular
+V-PNI-1S-C	Verb, Present, middle or passive depoNent, Indicative, first, Singular, Contracted form
+V-PNI-2P	Verb, Present, middle or passive depoNent, Indicative, second, Plural
+V-PNI-2S	Verb, Present, middle or passive depoNent, Indicative, second, Singular
+V-PNI-2S-ATT	Verb, Present, middle or passive depoNent, Indicative, second, Singular, ATTic form
+V-PNI-2S-C	Verb, Present, middle or passive depoNent, Indicative, second, Singular, Contracted form
+V-PNI-3P	Verb, Present, middle or passive depoNent, Indicative, third, Plural
+V-PNI-3S	Verb, Present, middle or passive depoNent, Indicative, third, Singular
+V-PNI-3S-I	Verb, Present, middle or passive depoNent, Indicative, third, Singular
+V-PNM-2P	Verb, Present, middle or passive depoNent, iMperative, second, Plural
+V-PNM-2S	Verb, Present, middle or passive depoNent, iMperative, second, Singular
+V-PNM-3P	Verb, Present, middle or passive depoNent, iMperative, third, Plural
+V-PNM-3S	Verb, Present, middle or passive depoNent, iMperative, third, Singular
+V-PNN	Verb, Present, middle or passive depoNent, iNfinitive
+V-PNO-1S	Verb, Present, middle or passive depoNent, Optative, first, Singular
+V-PNO-3P	Verb, Present, middle or passive depoNent, Optative, third, Plural
+V-PNO-3S	Verb, Present, middle or passive depoNent, Optative, third, Singular
+V-PNP-APF	Verb, Present, middle or passive depoNent, Participle, Accusative, Plural, Feminine
+V-PNP-APM	Verb, Present, middle or passive depoNent, Participle, Accusative, Plural, Masculine
+V-PNP-APN	Verb, Present, middle or passive depoNent, Participle, Accusative, Plural, Neuter
+V-PNP-ASF	Verb, Present, middle or passive depoNent, Participle, Accusative, Singular, Feminine
+V-PNP-ASM	Verb, Present, middle or passive depoNent, Participle, Accusative, Singular, Masculine
+V-PNP-ASN	Verb, Present, middle or passive depoNent, Participle, Accusative, Singular, Neuter
+V-PNP-DPF	Verb, Present, middle or passive depoNent, Participle, Dative, Plural, Feminine
+V-PNP-DPM	Verb, Present, middle or passive depoNent, Participle, Dative, Plural, Masculine
+V-PNP-DPN	Verb, Present, middle or passive depoNent, Participle, Dative, Plural, Neuter
+V-PNP-DSF	Verb, Present, middle or passive depoNent, Participle, Dative, Singular, Feminine
+V-PNP-DSM	Verb, Present, middle or passive depoNent, Participle, Dative, Singular, Masculine
+V-PNP-DSN	Verb, Present, middle or passive depoNent, Participle, Dative, Singular, Neuter
+V-PNP-GPF	Verb, Present, middle or passive depoNent, Participle, Genitive, Plural, Feminine
+V-PNP-GPM	Verb, Present, middle or passive depoNent, Participle, Genitive, Plural, Masculine
+V-PNP-GPN	Verb, Present, middle or passive depoNent, Participle, Genitive, Plural, Neuter
+V-PNP-GSF	Verb, Present, middle or passive depoNent, Participle, Genitive, Singular, Feminine
+V-PNP-GSM	Verb, Present, middle or passive depoNent, Participle, Genitive, Singular, Masculine
+V-PNP-GSN	Verb, Present, middle or passive depoNent, Participle, Genitive, Singular, Neuter
+V-PNP-NPF	Verb, Present, middle or passive depoNent, Participle, Nominative, Plural, Feminine
+V-PNP-NPM	Verb, Present, middle or passive depoNent, Participle, Nominative, Plural, Masculine
+V-PNP-NPN	Verb, Present, middle or passive depoNent, Participle, Nominative, Plural, Neuter
+V-PNP-NSF	Verb, Present, middle or passive depoNent, Participle, Nominative, Singular, Feminine
+V-PNP-NSM	Verb, Present, middle or passive depoNent, Participle, Nominative, Singular, Masculine
+V-PNP-NSN	Verb, Present, middle or passive depoNent, Participle, Nominative, Singular, Neuter
+V-PNS-1P	Verb, Present, middle or passive depoNent, Subjunctive, first, Plural
+V-PNS-1S	Verb, Present, middle or passive depoNent, Subjunctive, first, Singular
+V-PNS-2P	Verb, Present, middle or passive depoNent, Subjunctive, second, Plural
+V-PNS-2S	Verb, Present, middle or passive depoNent, Subjunctive, second, Singular
+V-PNS-3P	Verb, Present, middle or passive depoNent, Subjunctive, third, Plural
+V-PNS-3S	Verb, Present, middle or passive depoNent, Subjunctive, third, Singular
+V-POP-NPM	Verb, Present, passive depOnent, Participle, Nominative, Plural, Masculine
+V-PPI-1P	Verb, Present, Passive, Indicative, first, Plural
+V-PPI-1S	Verb, Present, Passive, Indicative, first, Singular
+V-PPI-2P	Verb, Present, Passive, Indicative, second, Plural
+V-PPI-2S	Verb, Present, Passive, Indicative, second, Singular
+V-PPI-2S-IRR	Verb, Present, Passive, Indicative, second, Singular, IRRegular or inpure form
+V-PPI-3P	Verb, Present, Passive, Indicative, third, Plural
+V-PPI-3S	Verb, Present, Passive, Indicative, third, Singular
+V-PPM-2P	Verb, Present, Passive, iMperative, second, Plural
+V-PPM-2S	Verb, Present, Passive, iMperative, second, Singular
+V-PPM-3P	Verb, Present, Passive, iMperative, third, Plural
+V-PPM-3S	Verb, Present, Passive, iMperative, third, Singular
+V-PPN	Verb, Present, Passive, iNfinitive
+V-PPN-2P	Verb, Present, Passive, iNfinitive, second, Plural
+V-PPP-APF	Verb, Present, Passive, Participle, Accusative, Plural, Feminine
+V-PPP-APM	Verb, Present, Passive, Participle, Accusative, Plural, Masculine
+V-PPP-APN	Verb, Present, Passive, Participle, Accusative, Plural, Neuter
+V-PPP-ASF	Verb, Present, Passive, Participle, Accusative, Singular, Feminine
+V-PPP-ASM	Verb, Present, Passive, Participle, Accusative, Singular, Masculine
+V-PPP-ASN	Verb, Present, Passive, Participle, Accusative, Singular, Neuter
+V-PPP-DPM	Verb, Present, Passive, Participle, Dative, Plural, Masculine
+V-PPP-DPN	Verb, Present, Passive, Participle, Dative, Plural, Neuter
+V-PPP-DSF	Verb, Present, Passive, Participle, Dative, Singular, Feminine
+V-PPP-DSM	Verb, Present, Passive, Participle, Dative, Singular, Masculine
+V-PPP-DSN	Verb, Present, Passive, Participle, Dative, Singular, Neuter
+V-PPP-GPM	Verb, Present, Passive, Participle, Genitive, Plural, Masculine
+V-PPP-GPN	Verb, Present, Passive, Participle, Genitive, Plural, Neuter
+V-PPP-GSF	Verb, Present, Passive, Participle, Genitive, Singular, Feminine
+V-PPP-GSM	Verb, Present, Passive, Participle, Genitive, Singular, Masculine
+V-PPP-GSN	Verb, Present, Passive, Participle, Genitive, Singular, Neuter
+V-PPP-NPF	Verb, Present, Passive, Participle, Nominative, Plural, Feminine
+V-PPP-NPM	Verb, Present, Passive, Participle, Nominative, Plural, Masculine
+V-PPP-NPN	Verb, Present, Passive, Participle, Nominative, Plural, Neuter
+V-PPP-NSF	Verb, Present, Passive, Participle, Nominative, Singular, Feminine
+V-PPP-NSM	Verb, Present, Passive, Participle, Nominative, Singular, Masculine
+V-PPP-NSN	Verb, Present, Passive, Participle, Nominative, Singular, Neuter
+V-PPS-1P	Verb, Present, Passive, Subjunctive, first, Plural
+V-PPS-1S	Verb, Present, Passive, Subjunctive, first, Singular
+V-PPS-2P	Verb, Present, Passive, Subjunctive, second, Plural
+V-PPS-3P	Verb, Present, Passive, Subjunctive, third, Plural
+V-PPS-3S	Verb, Present, Passive, Subjunctive, third, Singular
+V-PQI-3S	Verb, Present, impersonal active, Indicative, third, Singular
+V-PQN	Verb, Present, impersonal active, iNfinitive
+V-PQP-APN	Verb, Present, impersonal active, Participle, Accusative, Plural, Neuter
+V-PQP-NSN	Verb, Present, impersonal active, Participle, Nominative, Singular, Neuter
+V-PQS-3S	Verb, Present, impersonal active, Subjunctive, third, Singular
+V-PXI-1P	Verb, Present, no voice stated, Indicative, first, Plural
+V-PXI-1S	Verb, Present, no voice stated, Indicative, first, Singular
+V-PXI-2P	Verb, Present, no voice stated, Indicative, second, Plural
+V-PXI-2S	Verb, Present, no voice stated, Indicative, second, Singular
+V-PXI-3P	Verb, Present, no voice stated, Indicative, third, Plural
+V-PXI-3S	Verb, Present, no voice stated, Indicative, third, Singular
+V-PXM-2S	Verb, Present, no voice stated, iMperative, second, Singular
+V-PXM-3P	Verb, Present, no voice stated, iMperative, third, Plural
+V-PXM-3S	Verb, Present, no voice stated, iMperative, third, Singular
+V-PXN	Verb, Present, no voice stated, iNfinitive
+V-PXO-2S	Verb, Present, no voice stated, Optative, second, Singular
+V-PXO-3S	Verb, Present, no voice stated, Optative, third, Singular
+V-PXP-APM	Verb, Present, no voice stated, Participle, Accusative, Plural, Masculine
+V-PXP-APN	Verb, Present, no voice stated, Participle, Accusative, Plural, Neuter
+V-PXP-ASF	Verb, Present, no voice stated, Participle, Accusative, Singular, Feminine
+V-PXP-ASM	Verb, Present, no voice stated, Participle, Accusative, Singular, Masculine
+V-PXP-ASN	Verb, Present, no voice stated, Participle, Accusative, Singular, Neuter
+V-PXP-DPM	Verb, Present, no voice stated, Participle, Dative, Plural, Masculine
+V-PXP-DPN	Verb, Present, no voice stated, Participle, Dative, Plural, Neuter
+V-PXP-DSF	Verb, Present, no voice stated, Participle, Dative, Singular, Feminine
+V-PXP-DSM	Verb, Present, no voice stated, Participle, Dative, Singular, Masculine
+V-PXP-GPF	Verb, Present, no voice stated, Participle, Genitive, Plural, Feminine
+V-PXP-GPM	Verb, Present, no voice stated, Participle, Genitive, Plural, Masculine
+V-PXP-GPN	Verb, Present, no voice stated, Participle, Genitive, Plural, Neuter
+V-PXP-GSF	Verb, Present, no voice stated, Participle, Genitive, Singular, Feminine
+V-PXP-GSM	Verb, Present, no voice stated, Participle, Genitive, Singular, Masculine
+V-PXP-GSN	Verb, Present, no voice stated, Participle, Genitive, Singular, Neuter
+V-PXP-NPF	Verb, Present, no voice stated, Participle, Nominative, Plural, Feminine
+V-PXP-NPM	Verb, Present, no voice stated, Participle, Nominative, Plural, Masculine
+V-PXP-NPN	Verb, Present, no voice stated, Participle, Nominative, Plural, Neuter
+V-PXP-NSF	Verb, Present, no voice stated, Participle, Nominative, Singular, Feminine
+V-PXP-NSM	Verb, Present, no voice stated, Participle, Nominative, Singular, Masculine
+V-PXP-NSN	Verb, Present, no voice stated, Participle, Nominative, Singular, Neuter
+V-PXS-1P	Verb, Present, no voice stated, Subjunctive, first, Plural
+V-PXS-1S	Verb, Present, no voice stated, Subjunctive, first, Singular
+V-PXS-2P	Verb, Present, no voice stated, Subjunctive, second, Plural
+V-PXS-2S	Verb, Present, no voice stated, Subjunctive, second, Singular
+V-PXS-3P	Verb, Present, no voice stated, Subjunctive, third, Plural
+V-PXS-3S	Verb, Present, no voice stated, Subjunctive, third, Singular
+V-RAI-1P	Verb, peRfect, Active, Indicative, first, Plural
+V-RAI-1P-ATT	Verb, peRfect, Active, Indicative, first, Plural, ATTic form
+V-RAI-1S	Verb, perfect, Active, Indicative, first, Singular
+V-RAI-1S-ATT	Verb, peRfect, Active, Indicative, first, Singular, ATTic form
+V-RAI-2P	Verb, peRfect, Active, Indicative, second, Plural
+V-RAI-2P-ATT	Verb, peRfect, Active, Indicative, second, Plural, ATTic form
+V-RAI-2S	Verb, peRfect, Active, Indicative, second, Singular
+V-RAI-2S-ATT	Verb, peRfect, Active, Indicative, second, Singular, ATTic form
+V-RAI-3P	Verb, peRfect, Active, Indicative, third, Plural
+V-RAI-3P-ATT	Verb, peRfect, Active, Indicative, third, Plural, ATTic form
+V-RAI-3S	Verb, peRfect, Active, Indicative, third, Singular
+V-RAI-3S-ATT	Verb, peRfect, Active, Indicative, third, Singular, ATTic form
+V-RAM-2P	Verb, peRfect, Active, iMperative, second, Plural
+V-RAN	Verb, peRfect, Active, iNfinitive
+V-RAN-ATT	Verb, peRfect, Active, iNfinitive, Accusative
+V-RAP-APM	Verb, peRfect, Active, Participle, Accusative, Plural, Masculine
+V-RAP-APN	Verb, peRfect, Active, Participle, Accusative, Plural, Neuter
+V-RAP-ASF	Verb, peRfect, Active, Participle, Accusative, Singular, Feminine
+V-RAP-ASM	Verb, peRfect, Active, Participle, Accusative, Singular, Masculine
+V-RAP-ASM-C	Verb, peRfect, Active, Participle, Accusative, Singular, Masculine, Contracted form
+V-RAP-ASN	Verb, peRfect, Active, Participle, Accusative, Singular, Neuter
+V-RAP-DPM	Verb, peRfect, Active, Participle, Dative, Plural, Masculine
+V-RAP-DSM	Verb, peRfect, Active, Participle, Dative, Singular, Masculine
+V-RAP-DSN	Verb, peRfect, Active, Participle, Dative, Singular, Neuter
+V-RAP-GPM	Verb, peRfect, Active, Participle, Genitive, Plural, Masculine
+V-RAP-GPN	Verb, peRfect, Active, Participle, Genitive, Plural, Neuter
+V-RAP-GSF	Verb, peRfect, Active, Participle, Genitive, Singular, Feminine
+V-RAP-GSM	Verb, peRfect, Active, Participle, Genitive, Singular, Masculine
+V-RAP-GSM-ATT	Verb, peRfect, Active, Participle, Genitive, Singular, Masculine, ATTic form
+V-RAP-GSN-ATT	Verb, peRfect, Active, Participle, Genitive, Singular, Neuter, ATTic form
+V-RAP-NPF	Verb, peRfect, Active, Participle, Nominative, Plural, Feminine
+V-RAP-NPM	Verb, peRfect, Active, Participle, Nominative, Plural, Masculine
+V-RAP-NPM-ATT	Verb, peRfect, Active, Participle, Nominative, Plural, Masculine, ATTic form
+V-RAP-NPM-C	Verb, peRfect, Active, Participle, Nominative, Plural, Masculine, Contracted form
+V-RAP-NPN	Verb, peRfect, Active, Participle, Nominative, Plural, Neuter
+V-RAP-NSF	Verb, peRfect, Active, Participle, Nominative, Singular, Feminine
+V-RAP-NSM	Verb, peRfect, Active, Participle, Nominative, Singular, Masculine
+V-RAP-NSM-ATT	Verb, peRfect, Active, Participle, Nominative, Singular, Masculine, ATTic form
+V-RAP-NSN	Verb, peRfect, Active, Participle, Nominative, Singular, Neuter
+V-RAS-1P	Verb, peRfect, Active, Subjunctive, first, Plural
+V-RAS-1S	Verb, peRfect, Active, Subjunctive, first, Singular
+V-RAS-2P	Verb, peRfect, Active, Subjunctive, second, Plural
+V-RAS-2S	Verb, peRfect, Active, Subjunctive, second, Singular
+V-RDI-3S	Verb, peRfect, middle Deponent, Indicative, third, Singular
+V-RMI-2S	Verb, peRfect, Middle, Indicative, second, Singular
+V-RMI-3S	Verb, peRfect, Middle, Indicative, third, Singular
+V-RMP-ASM	Verb, peRfect, Middle, Participle, Accusative, Singular, Masculine
+V-RMP-NPM	Verb, peRfect, Middle, Participle, Nominative, Plural, Masculine
+V-RMP-NSM	Verb, peRfect, Middle, Participle, Nominative, Singular, Masculine
+V-RNI-1P	Verb, peRfect, middle or passive depoNent, Indicative, first, Plural
+V-RNI-1S	Verb, peRfect, middle or passive depoNent, Indicative, first, Singular
+V-RNI-3S	Verb, peRfect, middle or passive depoNent, Indicative, third, Singular
+V-RNN	Verb, peRfect, middle or passive depoNent, iNfinitive
+V-RNP-APM	Verb, peRfect, middle or passive depoNent, Participle, Accusative, Plural, Masculine
+V-RNP-ASF	Verb, peRfect, middle or passive depoNent, Participle, Accusative, Singular, Feminine
+V-RNP-DPF	Verb, peRfect, middle or passive depoNent, Participle, Dative, Plural, Feminine
+V-RNP-NPM	Verb, peRfect, middle or passive depoNent, Participle, Nominative, Plural, Masculine
+V-RNP-NSM	Verb, peRfect, middle or passive depoNent, Participle, Nominative, Singular, Masculine
+V-RPI-1P	Verb, peRfect, Passive, Indicative, first, Plural
+V-RPI-1S	Verb, peRfect, Passive, Indicative, first, Singular
+V-RPI-2P	Verb, peRfect, Passive, Indicative, second, Plural
+V-RPI-2S	Verb, peRfect, Passive, Indicative, second, Singular
+V-RPI-3P	Verb, peRfect, Passive, Indicative, third, Plural
+V-RPI-3S	Verb, peRfect, Passive, Indicative, third, Singular
+V-RPM-2P	Verb, peRfect, Passive, iMperative, second, Plural
+V-RPM-2S	Verb, peRfect, Passive, iMperative, second, Singular
+V-RPN	Verb, peRfect, Passive, iNfinitive
+V-RPP-APF	Verb, peRfect, Passive, Participle, Accusative, Plural, Feminine
+V-RPP-APM	Verb, peRfect, Passive, Participle, Accusative, Plural, Masculine
+V-RPP-APN	Verb, peRfect, Passive, Participle, Accusative, Plural, Neuter
+V-RPP-ASF	Verb, peRfect, Passive, Participle, Accusative, Singular, Feminine
+V-RPP-ASM	Verb, peRfect, Passive, Participle, Accusative, Singular, Masculine
+V-RPP-ASN	Verb, peRfect, Passive, Participle, Accusative, Singular, Neuter
+V-RPP-ASN-ATT	Verb, peRfect, Passive, Participle, Accusative, Singular, Neuter, ATTic form
+V-RPP-DPM	Verb, peRfect, Passive, Participle, Dative, Plural, Masculine
+V-RPP-DPN	Verb, peRfect, Passive, Participle, Dative, Plural, Neuter
+V-RPP-DSF	Verb, peRfect, Passive, Participle, Dative, Singular, Feminine
+V-RPP-DSM	Verb, peRfect, Passive, Participle, Dative, Singular, Masculine
+V-RPP-DSN	Verb, peRfect, Passive, Participle, Dative, Singular, Neuter
+V-RPP-GPF	Verb, peRfect, Passive, Participle, Genitive, Plural, Feminine
+V-RPP-GPM	Verb, peRfect, Passive, Participle, Genitive, Plural, Masculine
+V-RPP-GPN	Verb, peRfect, Passive, Participle, Genitive, Plural, Neuter
+V-RPP-GSF	Verb, peRfect, Passive, Participle, Genitive, Singular, Feminine
+V-RPP-GSM	Verb, peRfect, Passive, Participle, Genitive, Singular, Masculine
+V-RPP-GSN	Verb, peRfect, Passive, Participle, Genitive, Singular, Neuter
+V-RPP-NPF	Verb, peRfect, Passive, Participle, Nominative, Plural, Feminine
+V-RPP-NPM	Verb, peRfect, Passive, Participle, Nominative, Plural, Masculine
+V-RPP-NPN	Verb, peRfect, Passive, Participle, Nominative, Plural, Neuter
+V-RPP-NSF	Verb, peRfect, Passive, Participle, Nominative, Singular, Feminine
+V-RPP-NSM	Verb, peRfect, Passive, Participle, Nominative, Singular, Masculine
+V-RPP-NSN	Verb, peRfect, Passive, Participle, Nominative, Singular, Neuter
+V-RPP-NSN-ATT	Verb, peRfect, Passive, Participle, Nominative, Singular, Neuter, ATTic form
+V-RPP-VSM	Verb, peRfect, Passive, Participle, Vocative, Singular, Masculine
+V-XXM-2P	Verb, no tense stated (adverbial imperative), no voice stated, iMperative, second, Plural
+V-XXM-2S	Verb, no tense stated (adverbial imperative), no voice stated, iMperative, second, Singular
+X-APF	indefinite pronoun, Accusative, Plural, Feminine
+X-APM	indefinite pronoun, Accusative, Plural, Masculine
+X-APN	indefinite pronoun, Accusative, Plural, Neuter
+X-ASF	indefinite pronoun, Accusative, Singular, Feminine
+X-ASM	indefinite pronoun, Accusative, Singular, Masculine
+X-ASN	indefinite pronoun, Accusative, Singular, Neuter
+X-DPM	indefinite pronoun, Dative, Plural, Masculine
+X-DSF	indefinite pronoun, Dative, Singular, Feminine
+X-DSM	indefinite pronoun, Dative, Singular, Masculine
+X-DSN	indefinite pronoun, Dative, Singular, Neuter
+X-GPF	indefinite pronoun, Genitive, Plural, Feminine
+X-GPM	indefinite pronoun, Genitive, Plural, Masculine
+X-GPN	indefinite pronoun, Genitive, Plural, Neuter
+X-GSF	indefinite pronoun, Genitive, Singular, Feminine
+X-GSM	indefinite pronoun, Genitive, Singular, Masculine
+X-GSN	indefinite pronoun, Genitive, Singular, Neuter
+X-NPF	indefinite pronoun, Nominative, Plural, Feminine
+X-NPM	indefinite pronoun, Nominative, Plural, Masculine
+X-NPN	indefinite pronoun, Nominative, Plural, Neuter
+X-NSF	indefinite pronoun, Nominative, Singular, Feminine
+X-NSM	indefinite pronoun, Nominative, Singular, Masculine
+X-NSN	indefinite pronoun, Nominative, Singular, Neuter
