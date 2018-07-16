@@ -42,7 +42,8 @@ File format:
 <br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
-<i>Remarks:</i> 12 lines in the file OpenGNT.csv are redundant for formatting the text of OpenGNT.  They are inserted only for mapping OpenText's annotation data.  Each of these lines starts with a OpenGNT id ended with a letter "o", ie. 140388o, 140395o, 140633o, 141933o, 141944o, 142827o, 143269o, 143417o, 146056o, 146353o, 146651o, 146655o.
+<i>Remarks:</i> Entries starting with the following numbers are created for mapping purpose only:
+48749, 81630, 93287, 100516, 105053o.
 
 # License:
 
