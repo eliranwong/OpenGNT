@@ -42,7 +42,7 @@ File format:
 <br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
-<i>Remarks:</i> Entries starting with the following numbers are created for mapping purpose only:
+<i>Remarks:</i> Lines / Entries starting with the following numbers are created for mapping purpose only:
 48749, 81630, 93287, 100516, 105053o.
 
 # License:
