@@ -63,6 +63,16 @@ Credits of original TANTT data:
 and "STEP Bible" [<a href='www.STEPBible.org' target='_blank'>www.STEPBible.org</a>]<br>
 and source at <a href='tyndale.github.io/STEPBible-Data/' target='_blank'>tyndale.github.io/STEPBible-Data/</a>
 <br><br>
+The OpenText.org Syntactically Annotated Greek New Testament
+Stanley E. Porter
+Matthew Brook O'Donnell
+Jeffrey T. Reed
+
+Source: <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>GNT Annotation (version 1.0)</a>
+This annotation was completed in 2006 and was made available for viewing on the OpenText.org website and also implemented in Logos bible search software.
+
+The annotation data has been migrated to a new, inline XML format by Christopher Land and the base text has been corrected and updated to the NA28 by Christopher Land and Ryder Wishart.
+<br><br>
 [Remarks: Please include all links available in the credit information above.]
 
 # Sources:
