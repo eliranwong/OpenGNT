@@ -53,24 +53,23 @@ You are allowed to use or distribute OpenGNT materials for non-commercial purpos
 <br><br>
 You are required to quote the following information, when any parts of OpenGNT materials are integrated in your own work or distributed:
 <br><br>
-Open Greek New Testament Project<br>
+<b>Open Greek New Testament Project</b><br>
 Developer: Eliran Wong [<a href='https://biblebento.com/contact/contactform.php' target='_blank'>Contact</a>; <a href='https://biblebento.com/' target='_blank'>BibleBento.com</a>],<br>
 Source at <a href='https://github.com/eliranwong/OpenGNT' target='_blank'>https://github.com/eliranwong/OpenGNT/</a>
 <br><br>
-Credits of original TANTT data:
+Credits of original <b>TANTT data</b>:
 <br><br>
 "Tyndale House, Cambridge" [<a href='www.TyndaleHouse.com' target='_blank'>www.TyndaleHouse.com</a>],<br>
 and "STEP Bible" [<a href='www.STEPBible.org' target='_blank'>www.STEPBible.org</a>]<br>
 and source at <a href='tyndale.github.io/STEPBible-Data/' target='_blank'>tyndale.github.io/STEPBible-Data/</a>
 <br><br>
-The OpenText.org Syntactically Annotated Greek New Testament
-Stanley E. Porter
-Matthew Brook O'Donnell
-Jeffrey T. Reed
-
+<b>The OpenText.org Syntactically Annotated Greek New Testament</b><br>
+Stanley E. Porter<br>
+Matthew Brook O'Donnell<br>
+Jeffrey T. Reed<br>
+<br>
 Source: <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>GNT Annotation (version 1.0)</a>
-This annotation was completed in 2006 and was made available for viewing on the OpenText.org website and also implemented in Logos bible search software.
-
+This annotation was completed in 2006 and was made available for viewing on the OpenText.org website and also implemented in Logos bible search software.<br>
 The annotation data has been migrated to a new, inline XML format by Christopher Land and the base text has been corrected and updated to the NA28 by Christopher Land and Ryder Wishart.
 <br><br>
 [Remarks: Please include all links available in the credit information above.]
