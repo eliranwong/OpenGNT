@@ -15,7 +15,8 @@ David Instone-Brewer's words about the source of TANTT:<br>
 • places where this variant meant NIV in distinction to NA were weeded out, leaving NA variants<br>
 • these were incorporated into the SBLGNT text to produce the equivalent NA text<br>
 • a few errors in this process were sent as corrections to Github (where they are recorded)<br>
-So the source is SBLGNT + intelligent manpower. The source is not the Bible Society text."<br>
+So the source is SBLGNT + intelligent manpower.<br>
+The source is not the Bible Society text."<br>
 [quoted from a social media group on 19JULY2018]
 <br><br>
 TANTT is, therefore, developed from <a href='sblgnt.com' target='_blank'>SBLGNT and its apparatus</a>.  Additional work had been done by Tyndale House's scholars to map James Tauber's morphology and Tyndale House's extended Strong's numbers.  Variant markers added for each word to indicate major differences of variants among eight modern editions of Greek New Testament.  Eliran Wong contributed to the final shape of TANTT data, through <a href='https://github.com/tyndale/STEPBible-Data/issues?q=is%3Aissue+is%3Aclosed' target='_blank'>interactions with David Instone-Brewer</a>.  In short, at the time of OGNT being finalised, the main text of TANTT is the closest equivalent to the text of NA27, keyed to Tyndale House's extended Strong's numbers and James Tauber's morphology, and variants from major modern Greek New Testament Editions.
