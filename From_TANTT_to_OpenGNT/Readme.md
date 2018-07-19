@@ -10,7 +10,16 @@ Below is the official introduction of TANTT:
 <br><br>
 TANTT is developed from <a href='sblgnt.com' target='_blank'>SBLGNT and its apparatus</a>.  Additional work had been done by Tyndale House's scholars to map James Tauber's morphology and Tyndale House's extended Strong's numbers.  Variant markers added for each word to indicate major differences of variants among eight modern editions of Greek New Testament.  Eliran Wong contributed to the final shape of TANTT data, through <a href='https://github.com/tyndale/STEPBible-Data/issues?q=is%3Aissue+is%3Aclosed' target='_blank'>interactions with David Instone-Brewer</a>.  In short, at the time of OGNT being finalised, the main text of TANTT is the closest equivalent to the text of NA27, keyed to Tyndale House's extended Strong's numbers and James Tauber's morphology, and variants from major modern Greek New Testament Editions.
 <br><br>
-Credits of TANTT data:
+David Instone-Brewer's words on the source of TANTT:
+"It comes from:
+• SBLGNT text
+• SBLGNT variants marked as NIV (ie NA+NIV)
+• places where this variant meant NIV in distinction to NA were weeded out, leaving NA variants
+• these were incorporated into the SBLGNT text to produce the equivalent NA text
+• a few errors in this process were sent as corrections to Github (where they are recorded)
+So the source is SBLGNT + intelligent manpower. The source is not the Bible Society text."
+<br><br>
+<b>Credits of TANTT data:</b>
 <br><br>
 "Tyndale House, Cambridge" [<a href='www.TyndaleHouse.com' target='_blank'>www.TyndaleHouse.com</a>],<br>
 and "STEP Bible" [<a href='www.STEPBible.org' target='_blank'>www.STEPBible.org</a>]<br>
