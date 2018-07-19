@@ -10,7 +10,7 @@ OGNT is checked against NA28, verse by verse and word by word.  Below are some o
 - <b>SAME</b> word order
 
 # Differences:
-- NA28 is published by German Bible Society, whereas the text of OGNT is based on TANTT, produced by Tyndale House Cambridge UK <b>from an open source</b>.
+- NA28 is published by German Bible Society, whereas the text of OGNT is based on TANTT, produced by Tyndale House Cambridge UK <b><a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>from an open source</a></b>.
 - NA28 is copyrighted; OGNT is released under <a href='https://github.com/eliranwong/OpenGNT#license'>a free-license</a>.
 - different divisions on paragraphs are noted occasionally.
 - OGNT / TANTT does not have special formatting on poetic lines or OT quotations, as found in NA28. 
