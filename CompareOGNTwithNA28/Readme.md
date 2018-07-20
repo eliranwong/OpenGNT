@@ -15,7 +15,7 @@ OGNT is checked against NA28, verse by verse and word by word.  Below are some o
 - different divisions on paragraphs are noted occasionally.
 - OGNT / TANTT does not have special formatting on poetic lines or OT quotations, as found in NA28. 
 - different use of punctuations are observed in various places.  (The most common difference noted is that OGNT / TANTT uses "·" in various places whereas NA28 uses ".".)
-- variants are presented differently.  OGNT / TANTT presents variants from modern GNT editions only.  In addition, OGNT / TANTT, in most cases, does not include variants where the text of NA omits.
+- variants are presented differently.  OGNT / TANTT presents variants from modern GNT editions only.  In addition, OGNT / TANTT, in most cases, does not include variants where the text of NA omits.  In terms of variant readings NA28 covers better and give readings of early manuscripts not modern GNT editions.
 - 3006 words are different in capitalisation (a list of differences is provided in this folder, only words from OGNT are included, words from NA28 are excluded here due to copyright issue)
 - 421 words are different in accents (a list of differences is provided in this folder, only words from OGNT are included, words from NA28 are excluded here due to copyright issue)
 - The text of OGNT is keyed to Tyndale's House's extended Strong's numbers, James Tauber's morphology and mapped to <a href='https://github.com/eliranwong/OpenGNT#enhancement--forthcoming-additions'>various features</a>, through which users can have quick access to lexicons and linguistic features, etc.
