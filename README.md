@@ -25,21 +25,22 @@ File format:
 - the last column contain all current features in the following order:<br>
 1) Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data or other resources based on NA28<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br>
 2) Word IDs for mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a> or other resources based on NA27<br>
-3) editions having the same word [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
-4) unaccented word<br>
-5) accented word<br>
-6) transliteration<br>
-7) modern pronunciation<br>
-8) Tyndale House's extended Strong's number<br>
-9) morphology code<br>
-10) description on morphology<br>
-11) lemma<br>
-12) Tyndale House's English gloss<br>
-13) Louw-Nida numbers<br>
-14) Goodrick-Kohlenberger numbers<br>
-15) BDAG catchwords<br>
-16) EDNT catchwords<br>
-17) variant(s), if any
+3) OT quotations [<ot> means "beginning of an OT quotation"; * means a word withing an OT quotation; </ot> means "end of an OT quotation"]<br>
+4) editions having the same word [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
+5) unaccented word<br>
+6) accented word<br>
+7) transliteration<br>
+8) modern pronunciation<br>
+9) Tyndale House's extended Strong's number<br>
+10) morphology code<br>
+11) description on morphology<br>
+12) lemma<br>
+13) Tyndale House's English gloss<br>
+14) Louw-Nida numbers<br>
+15) Goodrick-Kohlenberger numbers<br>
+16) BDAG catchwords<br>
+17) EDNT catchwords<br>
+18) variant(s), if any
 <br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
@@ -109,6 +110,7 @@ Read more in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/
 - mapping <a href='https://github.com/billmounce/dictionary' target='_blank'>Mounce's NT dictionary</a><br>
 - mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText annotations</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
 - mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
+- marked OT quotations in the text of OGNT, according to <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/OT_quotes.xml'>Levinsohn's data</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
 - mapping "<a href='http://netbible.com/' target='_blank'>The NET Bible® verse text (no Notes) - 2nd Edition; New Testament</a>" (in progress)<br>
 - mapping "Chinese Union Version"<br>
 - more ... you are welcomed to make suggestions at <a href='https://biblebento.com/contact/contactform.php' target='_blank'>https://biblebento.com/contact/contactform.php</a>
