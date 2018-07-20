@@ -23,27 +23,31 @@ File format:
 - each word of the main text is placed on a single line.<br>
 - each line starts with an order number in the whole text, followed by an order number in a single verse, an unique OpenGNT id, book number, chapter number and verse number, separated from each other by a [TAB] character.<br>
 - the last column contain all current features in the following order:<br>
-1) Base WordID for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)
-2) editions having the same word [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
-3) unaccented word<br>
-4) accented word<br>
-5) transliteration<br>
-6) modern pronunciation<br>
-7) Tyndale House's extended Strong's number<br>
-8) morphology code<br>
-9) description on morphology<br>
-10) lemma<br>
-11) Tyndale House's English gloss<br>
-12) Louw-Nida numbers<br>
-13) Goodrick-Kohlenberger numbers<br>
-14) BDAG catchwords<br>
-15) EDNT catchwords<br>
-16) variant(s), if any
+1) Base WordID for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data or other resources based on NA28<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br>
+2) Word ID for mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a> or other resources based on NA27<br>
+3) editions having the same word [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
+4) unaccented word<br>
+5) accented word<br>
+6) transliteration<br>
+7) modern pronunciation<br>
+8) Tyndale House's extended Strong's number<br>
+9) morphology code<br>
+10) description on morphology<br>
+11) lemma<br>
+12) Tyndale House's English gloss<br>
+13) Louw-Nida numbers<br>
+14) Goodrick-Kohlenberger numbers<br>
+15) BDAG catchwords<br>
+16) EDNT catchwords<br>
+17) variant(s), if any
 <br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
-<i>Remarks:</i> Lines / Entries starting with the following numbers are created for mapping purpose only:
-48749, 81630, 93287, 100516, 105053o.
+<i>Remarks:</i><br>
+- Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA28, e.g. OpenText Linguistic Annotations version 1.0):<br>
+48749, 81630, 93287, 100516, 105053o.<br>
+- Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA27, e.g. Levinsohn Discource Features):<br>
+140392, 140400, 140639, 141940, 141952, 142836, 143281, 143431, 146071, 146370, 146668, 146673.
 
 # License:
 
@@ -104,7 +108,7 @@ Read more in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/
 - mapping EDNT catchwords (catchwords only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
 - mapping <a href='https://github.com/billmounce/dictionary' target='_blank'>Mounce's NT dictionary</a><br>
 - mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText annotations</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
-- mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a><br>
+- mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
 - mapping "<a href='http://netbible.com/' target='_blank'>The NET Bible® verse text (no Notes) - 2nd Edition; New Testament</a>" (in progress)<br>
 - mapping "Chinese Union Version"<br>
 - more ... you are welcomed to make suggestions at <a href='https://biblebento.com/contact/contactform.php' target='_blank'>https://biblebento.com/contact/contactform.php</a>
