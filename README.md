@@ -77,7 +77,7 @@ Source: <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_b
 This annotation was completed in 2006 and was made available for viewing on the OpenText.org website and also implemented in Logos bible search software.<br>
 The annotation data has been migrated to a new, inline XML format by Christopher Land and the base text has been corrected and updated to the NA28 by Christopher Land and Ryder Wishart.
 <br><br>
-<b>Levinsohn's Greek New Testament Discourse Features</b>
+<b>Levinsohn's Greek New Testament Discourse Features</b><br>
 Stephen Levinsohn's complete discourse features markup of the Greek New Testament (UBS4/NA27). This data was originally developed in BART and follow principles Levinsohn documented in his volume of Discourse Features of New Testament Greek.<br>
 Source: <a href='https://github.com/biblicalhumanities/levinsohn'>https://github.com/biblicalhumanities/levinsohn</a><br>
 Released by:<br>
