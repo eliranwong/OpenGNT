@@ -30,7 +30,7 @@ File format:
 - <b>Gropu II</b>: 〔unaccentedWord｜accentedWord｜transliteration｜modernPronunciation〕<br>
 1) Unaccented Word<br>
 2) Accented Word<br>
-3) Transliteration<br><br>
+3) Transliteration<br>
 4) Modern Greek Pronunciation<br><br>
 - <b>Gropu III</b>: 〔OpenTextWordID〕<br>
 1) <b>OpenTextWordID</b> - Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br><br>
