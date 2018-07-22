@@ -22,7 +22,7 @@ It gives users a quick access to the main text of OpenGNT, keyed to Tyndale Hous
 File format:
 - each word of the main text is placed on a single line.<br>
 - each line starts with an order number in the whole text, followed by an order number in a single verse, an unique OpenGNT id, which are separated from each other by a [TAB] character,<br>
-- followed by the different groups of data, separated each other by a [TAB] character:<br><br>
+- followed by different groups of data, separated each other by a [TAB] character:<br><br>
 - <b>Gropu I</b>: 〔book｜chapter｜verse〕<br>
 1) Book number<br>
 2) Chapter number<br>
