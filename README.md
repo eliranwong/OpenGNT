@@ -48,7 +48,7 @@ File format:
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA28, e.g. OpenText Linguistic Annotations version 1.0):<br>
 48749, 81630, 93287, 100516, 105053o.<br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA27, e.g. Levinsohn Discource Features):<br>
-140392, 140400, 140639, 141940, 141952, 142836, 143281, 143431, 146071, 146370, 146668, 146673.
+140392, 140400, 140639, 141940, 141964, 142836, 143281, 143431, 146071, 146370, 146668, 146673.
 
 # License:
 
