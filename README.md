@@ -15,33 +15,45 @@ An eclectic text, namely "Open Greek New Testament [OGNT]", is first produced as
 
 "<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>OpenGNT.csv.zip</a>" is currently the main file for practical use. [<i>Remarks: Unzip the file before using it.</i>]
 <br><br>
-It gives users a quick access to the main text of OpenGNT, keyed to Tyndale House' extended Strong's numbers and glosses, James Tauber's morphology, and variant markers on nine modern editions of Greek New Testament (i.e. B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>).
+It gives users a quick access to the main text of OpenGNT, keyed to Tyndale House' extended Strong's numbers and glosses, James Tauber's morphology, and variant markers on nine modern editions of Greek New Testament (i.e. B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>) & various features.
 <br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>This text</a> is currently <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, made available for distribution under an open-license.
 <br><br>
 File format:
 - each word of the main text is placed on a single line.<br>
-- each line starts with an order number in the whole text, followed by an order number in a single verse, an unique OpenGNT id, book number, chapter number and verse number, separated from each other by a [TAB] character.<br>
-- the last column contain all current features in the following order:<br>
-1) Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br>
-2) Word IDs for mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a><br> <b>Full mapping is available in the file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OGNT_FullMapping_Levinsohn.csv.zip'>OGNT_FullMapping_Levinsohn.csv.zip</a>.</b><br> (Remarks: Levinsohn's GNT Discourse Features places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br>
-3) OT quotations [<ot> means "beginning of an OT quotation"; * means a word withing an OT quotation; </ot> means "end of an OT quotation"; the slot is empty where it is not applicable.]<br>
-4) editions having the same word [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
-5) unaccented word<br>
-6) accented word<br>
-7) transliteration<br>
-8) modern pronunciation<br>
-9) Tyndale House's extended Strong's number<br>
-10) morphology code<br>
-11) description on morphology<br>
-12) lemma<br>
-13) Tyndale House's English gloss<br>
-14) Louw-Nida numbers<br>
-15) Goodrick-Kohlenberger numbers<br>
-16) BDAG catchwords<br>
-17) EDNT catchwords<br>
-18) variant(s), if any
-<br><br>
+- each line starts with an order number in the whole text, followed by an order number in a single verse, an unique OpenGNT id, which are separated from each other by a [TAB] character,<br>
+- followed by the different groups of data, separated each other by a [TAB] character:<br><br>
+- <b>Gropu I</b>: 〔book｜chapter｜verse〕<br>
+1) Book number<br>
+2) Chapter number<br>
+3) Verse number<br><br>
+- <b>Gropu II</b>: 〔unaccentedWord｜accentedWord｜transliteration｜modernPronunciation〕<br>
+1) Unaccented Word<br>
+2) Accented Word<br>
+3) Transliteration<br><br>
+4) Modern Greek Pronunciation<br><br>
+- <b>Gropu III</b>: 〔OpenTextWordID〕<br>
+1) <b>OpenTextWordID</b> - Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br><br>
+- <b>Gropu IV</b>: 〔LevinsohnWordID｜noteMarker｜clause｜otQuotation〕<br>
+1) <b>LevinsohnWordID</b> - Word IDs for mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a><br> <b>Full mapping is available in the file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OGNT_FullMapping_Levinsohn.csv.zip'>OGNT_FullMapping_Levinsohn.csv.zip</a>.</b><br> (Remarks: Levinsohn's GNT Discourse Features places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br>
+2) <b>noteMarker</b> - Note marker, mapped to notes of Levinsohn's GNT Discourse Features<br>
+3) <b>clause</b> - Clause markers, according to Levinsohn's GNT Discourse Features<br>
+4) <b>otQuotation</b> - Old Testament Quotations, according to Levinsohn's GNT Discourse Features [<ot> means "beginning of an OT quotation"; * means a word withing an OT quotation; </ot> means "end of an OT quotation"; the slot is empty where it is not applicable.]<br><br>
+- <b>Gropu V</b>: 〔editionMarker1｜editionMarker2｜editions｜variants〕<br>
+1) <b>editionMarker1</b> - a type of marker for details of editions, used in applications, e.g. BibleBento Plus<br>
+2) <b>editionMarker2</b> - a type of marker for details of editions, used in applications, e.g. e-Sword<br>
+3) <b>editions</b> - editions having the same word [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
+4) <b>variants</b> - variant(s), if any<br><br>
+- <b>Gropu VI</b>: 〔extendedStrongNumber｜morphologyCode｜morphologyDescription｜lexeme｜English gloss｜LouwNidaNumbers｜GoodrickKohlenbergerNumbers｜BDAGentry｜EDNTentry〕<br>
+1) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
+2) <b>morphologyCode</b> - RMAC morphology code<br>
+3) <b>morphologyDescription</b> - description on morphology<br>
+4) <b>lexeme</b> - lexeme<br>
+5) <b>English gloss</b> - Tyndale House's English gloss; sub-meanings of pronouns by Eliran wong<br>
+6) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br>
+7) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers<br>
+8) <b>BDAGentry</b> - BDAG catchwords<br>
+9) <b>EDNTentry</b> - EDNT catchwords<br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
 <i>Remarks:</i><br>
