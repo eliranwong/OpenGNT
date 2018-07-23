@@ -43,13 +43,7 @@ File format:
 2) <b>noteMarker</b> - Note marker, mapped to <a href='https://github.com/eliranwong/OpenGNT/blob/master/Levinsohn_notes.csv'>notes of Levinsohn's GNT Discourse Features</a><br>
 3) <b>clause</b> - Clause markers, according to Levinsohn's GNT Discourse Features<br>
 4) <b>otQuotation</b> - Old Testament Quotations, according to Levinsohn's GNT Discourse Features [<ot> means "beginning of an OT quotation"; * means a word withing an OT quotation; </ot> means "end of an OT quotation"; the slot is empty where it is not applicable.]<br><br>
-- <b>Gropu V - Textual Variants</b>: <br>
-〔editionMarker1｜editionMarker2｜editions｜variants〕<br>
-1) <b>editionMarker1</b> - a type of marker for details of editions, used in applications, e.g. BibleBento Plus<br>
-2) <b>editionMarker2</b> - a type of marker for details of editions, used in applications, e.g. e-Sword<br>
-3) <b>editions</b> - GNT editions having the same spelling as the main word of OpenGNT.  There may be variation in accentuation or capitalisation, though.  [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
-4) <b>variants</b> - variant(s), if any<br><br>
-- <b>Gropu VI - Lexical Entries & Morphology</b>: <br>
+- <b>Gropu V - Lexical Entries & Morphology</b>: <br>
 〔lexeme｜BDAGentry｜EDNTentry｜morphologyCode｜morphologyDescription｜extendedStrongNumber｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕<br>
 1) <b>lexeme</b> - lexeme<br>
 2) <b>BDAGentry</b> - BDAG catchwords<br>
@@ -59,12 +53,18 @@ File format:
 6) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
 7) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers<br>
 8) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br><br>
-- <b>Gropu VII - Gloss & Translation</b>: <br>
+- <b>Gropu VI - Gloss & Translation</b>: <br>
 〔EnglishGloss｜NET2Words〕<br>
 1) <b>EnglishGloss</b> - Tyndale House's English gloss; pronouns's sub-meanings worked out by Eliran wong<br>
 2) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition), mapped to OGNT [will be uploaded soon]<br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
+- <b>Gropu VII - Textual Variants</b>: <br>
+〔editionMarker1｜editionMarker2｜editions｜variants〕<br>
+1) <b>editionMarker1</b> - a type of marker for details of editions, used in applications, e.g. BibleBento Plus<br>
+2) <b>editionMarker2</b> - a type of marker for details of editions, used in applications, e.g. e-Sword<br>
+3) <b>editions</b> - GNT editions having the same spelling as the main word of OpenGNT.  There may be variation in accentuation or capitalisation, though.  [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
+4) <b>variants</b> - variant(s), if any<br><br>
 <i>Remarks:</i><br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA28, e.g. OpenText Linguistic Annotations version 1.0):<br>
 48749, 81630, 93287, 100516, 105053o.<br>
