@@ -44,16 +44,18 @@ File format:
 2) <b>editionMarker2</b> - a type of marker for details of editions, used in applications, e.g. e-Sword<br>
 3) <b>editions</b> - editions having the same word [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
 4) <b>variants</b> - variant(s), if any<br><br>
-- <b>Gropu VI</b>: 〔extendedStrongNumber｜morphologyCode｜morphologyDescription｜lexeme｜English gloss｜LouwNidaNumbers｜GoodrickKohlenbergerNumbers｜BDAGentry｜EDNTentry〕<br>
-1) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
-2) <b>morphologyCode</b> - RMAC morphology code<br>
-3) <b>morphologyDescription</b> - description on morphology<br>
-4) <b>lexeme</b> - lexeme<br>
-5) <b>English gloss</b> - Tyndale House's English gloss; sub-meanings of pronouns by Eliran wong<br>
-6) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br>
+- <b>Gropu VI</b>: 〔lexeme｜BDAGentry｜EDNTentry｜morphologyCode｜morphologyDescription｜extendedStrongNumber｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕<br>
+1) <b>lexeme</b> - lexeme<br>
+2) <b>BDAGentry</b> - BDAG catchwords<br>
+3) <b>EDNTentry</b> - EDNT catchwords<br>
+4) <b>morphologyCode</b> - Robinson's Morphological Analysis Codes [RMAC]<br>
+5) <b>morphologyDescription</b> - description on morphology<br>
+6) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
 7) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers<br>
-8) <b>BDAGentry</b> - BDAG catchwords<br>
-9) <b>EDNTentry</b> - EDNT catchwords<br><br>
+8) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br><br>
+- <b>Gropu VII</b>: 〔EnglishGloss｜NET2Words〕<br>
+1) <b>EnglishGloss</b> - Tyndale House's English gloss; pronouns's sub-meanings worked out by Eliran wong<br>
+2) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition) mapped to OGNT [will be uploaded soon]<br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
 <i>Remarks:</i><br>
@@ -92,6 +94,8 @@ The annotation data has been migrated to a new, inline XML format by Christopher
 <b>Levinsohn's Greek New Testament Discourse Features</b><br>
 Stephen Levinsohn's complete discourse features markup of the Greek New Testament (UBS4/NA27). This data was originally developed in BART and follow principles Levinsohn documented in his volume of Discourse Features of New Testament Greek.<br>
 Source: <a href='https://github.com/biblicalhumanities/levinsohn'>https://github.com/biblicalhumanities/levinsohn</a><br>
+©2016 SIL International<br>
+<a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LICENSE.md'>License</a><br>
 Released by:<br>
 Paul O'Rear<br>
 Associate Coordinator<br>
@@ -134,7 +138,7 @@ Read more in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/
 - marked OT quotations in the text of OGNT, according to <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/OT_quotes.xml'>Levinsohn's data</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
 - mapping "<a href='http://netbible.com/' target='_blank'>The NET Bible® verse text (no Notes) - 2nd Edition; New Testament</a>" (in progress)<br>
 - mapping "Chinese Union Version"<br>
-- more ... you are welcomed to make suggestions at <a href='https://biblebento.com/contact/contactform.php' target='_blank'>https://biblebento.com/contact/contactform.php</a>
+- more ... you are welcome to make suggestions at <a href='https://biblebento.com/contact/contactform.php' target='_blank'>https://biblebento.com/contact/contactform.php</a>
 
 # Modules for Software Applications
 
