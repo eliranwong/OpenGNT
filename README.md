@@ -62,7 +62,7 @@ File format:
 - <b>Gropu VII - Gloss & Translation</b>: <br>
 〔EnglishGloss｜NET2Words〕<br>
 1) <b>EnglishGloss</b> - Tyndale House's English gloss; pronouns's sub-meanings worked out by Eliran wong<br>
-2) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition) mapped to OGNT [will be uploaded soon]<br><br>
+2) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition), mapped to OGNT [will be uploaded soon]<br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
 <i>Remarks:</i><br>
