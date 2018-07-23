@@ -36,7 +36,7 @@ File format:
 1) <b>OpenTextWordID</b> - Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br><br>
 - <b>Gropu IV</b>: 〔LevinsohnWordID｜noteMarker｜clause｜otQuotation〕<br>
 1) <b>LevinsohnWordID</b> - Word IDs for mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a><br> <b>Full mapping is available in the file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OGNT_FullMapping_Levinsohn.csv.zip'>OGNT_FullMapping_Levinsohn.csv.zip</a>.</b><br> (Remarks: Levinsohn's GNT Discourse Features places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br>
-2) <b>noteMarker</b> - Note marker, mapped to notes of Levinsohn's GNT Discourse Features<br>
+2) <b>noteMarker</b> - Note marker, mapped to <a href='https://github.com/eliranwong/OpenGNT/blob/master/Levinsohn_notes.csv'>notes of Levinsohn's GNT Discourse Features</a><br>
 3) <b>clause</b> - Clause markers, according to Levinsohn's GNT Discourse Features<br>
 4) <b>otQuotation</b> - Old Testament Quotations, according to Levinsohn's GNT Discourse Features [<ot> means "beginning of an OT quotation"; * means a word withing an OT quotation; </ot> means "end of an OT quotation"; the slot is empty where it is not applicable.]<br><br>
 - <b>Gropu V</b>: 〔editionMarker1｜editionMarker2｜editions｜variants〕<br>
