@@ -9,7 +9,7 @@ Copyright 1993 All Rights Reserved<br>
 www.teknia.com/greek-dictionary<br>
 
 <b>File:</b> eSN_lemma_EnglishGloss.csv - 3 columns, separated one another by [TAB] characters:<br>
-GK number [TAB] lemma [TAB] English gloss<br>
+Extended Strong's number [TAB] lemma [TAB] English gloss<br>
 Source: TBESG in <a href='https://github.com/tyndale/STEPBible-Data' target='_blank'>https://github.com/tyndale/STEPBible-Data</a><br>
 Credits:<br>
 "Tyndale House, Cambridge" [<a href='www.TyndaleHouse.com' target='_blank'>www.TyndaleHouse.com</a>],<br>
