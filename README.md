@@ -72,7 +72,7 @@ File format:
 3) <b>editions</b> - GNT editions having the same spelling as the main word of OpenGNT.  There may be variation in accentuation or capitalisation, though.  [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
 4) <b>variants</b> - variant(s), if any<br><br>
 - <b>The last column - WordInHTML</b>: <br>
-This last column provide words of OGNT in html format, with taggings on extended Strong's numbers, morphology, ot quotation [<ot>...</ot>], reported speech [<rs>...</rs>], embedded reported speech [<ers>...</ers>], textual variant marker, Levinsohn's clause division & note marker, if applicable.<br><br>
+This last column provide words of OGNT in html format, with taggings on extended Strong's numbers, morphology, ot quotation [ot.../ot], reported speech [rs.../rs], embedded reported speech [ers.../ers], textual variant marker, Levinsohn's clause division & note marker, if applicable.<br><br>
 <i>Remarks:</i><br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA28, e.g. OpenText Linguistic Annotations version 1.0):<br>
 48749, 81630, 93287, 100516, 105053o.<br>
