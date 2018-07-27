@@ -48,19 +48,21 @@ File format:
 7) <b>embeddedReportedSpeech</b> - Embedded reported speech, according to Levinsohn's GNT Discourse Features [<ers> means "beginning of an embedded reported speech"; * means a word within an embedded reported speech; </ers> means "end of an embedded reported speech"; the slot is empty where it is not applicable.<br>
 <br>
 - <b>Gropu V - Lexical Entries & Morphology</b>: <br>
-〔lexeme｜BDAGentry｜EDNTentry｜morphologyCode｜morphologyDescription｜extendedStrongNumber｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕<br>
+〔lexeme｜BDAGentry｜EDNTentry｜MounceEntry｜morphologyCode｜morphologyDescription｜extendedStrongNumber｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕<br>
 1) <b>lexeme</b> - lexeme<br>
 2) <b>BDAGentry</b> - BDAG catchwords<br>
 3) <b>EDNTentry</b> - EDNT catchwords<br>
-4) <b>morphologyCode</b> - Robinson's Morphological Analysis Codes [RMAC]<br>
-5) <b>morphologyDescription</b> - description on morphology<br>
-6) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
-7) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers<br>
-8) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br><br>
+4) <b>MounceEntry</b> - Entry words of <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
+5) <b>morphologyCode</b> - Robinson's Morphological Analysis Codes [RMAC]<br>
+6) <b>morphologyDescription</b> - description on morphology<br>
+7) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
+8) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers<br>
+9) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br><br>
 - <b>Gropu VI - Gloss & Translation</b>: <br>
-〔EnglishGloss｜NET2Words〕<br>
-1) <b>EnglishGloss</b> - Tyndale House's English gloss; pronouns's sub-meanings worked out by Eliran wong<br>
-2) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition), mapped to OGNT [will be uploaded soon]<br><br>
+〔TyndaleHouseGloss｜MounceGloss｜NET2Words〕<br>
+1) <b>TyndaleHouseGloss</b> - Tyndale House's English gloss; pronouns's sub-meanings worked out by Eliran wong<br>
+2) <b>MounceGloss</b> - English glosses selected from <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
+3) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition), mapped to OGNT [will be uploaded later]<br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
 <br><br>
 - <b>Gropu VII - Textual Variants</b>: <br>
