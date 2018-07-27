@@ -121,6 +121,9 @@ NET BIble® Copyright THE NET BIBLE®, New English Translation (NET) Scripture q
 The NET Bible® verse text (no Notes) can be used by anyone and integrated into your non-commercial  project or publication upon condition of proper Biblical Studies Press copyright and organizational acknowledgments ... (<a href='http://netbible.com/net-bible-copyright' target='_blank'>http://netbible.com/net-bible-copyright</a>)
 <br><br>
 <b>Mounce Concise Greek-English Dictionary</b><br>
+Source: <a href='https://github.com/billmounce/dictionary'>https://github.com/billmounce/dictionary</a><br>
+Used with the following attribution:<br>
+Mounce Concise Greek-English Dictionary<br>
 Copyright 1993 All Rights Reserved<br>
 www.teknia.com/greek-dictionary
 <br><br>
