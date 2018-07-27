@@ -127,6 +127,10 @@ Mounce Concise Greek-English Dictionary<br>
 Copyright 1993 All Rights Reserved<br>
 www.teknia.com/greek-dictionary
 <br><br>
+<b>Morphological Lexicon of the Greek New Testament</b><br>
+Source: <a href='https://github.com/morphgnt/morphological-lexicon'>https://github.com/morphgnt/morphological-lexicon</a>
+It is used to process data for mapping purpose.<br>
+<br><br>
 [Remarks: Please include all links available in the credit information above.]
 
 # Sources:
