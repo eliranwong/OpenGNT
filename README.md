@@ -21,8 +21,8 @@ It gives users a quick access to the main text of OpenGNT, keyed to various feat
 <br><br>
 File format:
 - each word of the main text is placed on a single line.<br>
-- each line starts with an order number in the whole text, followed by an order number in a single verse, an unique OpenGNT id, separated from each other by a [TAB] character,<br>
-- followed by different groups of data, separated each other by a [TAB] character:<br><br>
+- each line starts with an order number in the whole text, followed by an order number in a single verse, an unique OpenGNT id, separated from one another by a [TAB] character,<br>
+- followed by different groups of data, separated one another by a [TAB] character:<br><br>
 - <b>Gropu I - Bible Reference</b>: <br>
 〔book｜chapter｜verse〕<br>
 1) Book number<br>
