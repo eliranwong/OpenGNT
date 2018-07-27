@@ -7,6 +7,10 @@ Credits:<br>
 Mounce Concise Greek-English Dictionary<br>
 Copyright 1993 All Rights Reserved<br>
 www.teknia.com/greek-dictionary<br>
+Oneline verson <a href='https://www.billmounce.com/greek-dictionary'>https://www.billmounce.com/greek-dictionary</a> is also consulted for entries which are not found in the above github source.<br>
+Statement on the use of online version of Greek-English dictionary:<br>
+"Our committment is that this dictionary will remain free, and we will be encouraging software companies to adopt it as their generic Greek-English dictionary." (This statement is quoted from the page at: <a href='https://www.billmounce.com/greek-dictionary'>https://www.billmounce.com/greek-dictionary</a>)<br><br>
+
 
 <b>File:</b> eSN_lemma_EnglishGloss.csv - 3 columns, separated one another by [TAB] characters:<br>
 Extended Strong's number [TAB] lemma [TAB] English gloss<br>
