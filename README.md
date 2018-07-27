@@ -9,7 +9,7 @@ An eclectic text, namely "Open Greek New Testament [OGNT]", is first produced as
 
 # Screenshot:
 
-<img src="OGNT.jpg">
+<img src="screenshot2.jpg">
 
 # Main File:
 
