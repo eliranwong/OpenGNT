@@ -89,7 +89,9 @@ You are required to quote the following information, when any parts of OpenGNT m
 Developer: Eliran Wong [<a href='https://biblebento.com/contact/contactform.php' target='_blank'>Contact</a>; <a href='https://biblebento.com/' target='_blank'>BibleBento.com</a>],<br>
 Source at <a href='https://github.com/eliranwong/OpenGNT' target='_blank'>https://github.com/eliranwong/OpenGNT/</a>
 <br><br>
-<b>Other Credits:</b>
+[Remarks: Please include all links available in the credit information above.]
+<br><br>
+<b>Other Credits / Attributions:</b>
 <br><br>
 <b>TANTT data</b>:<br>
 "Tyndale House, Cambridge" [<a href='www.TyndaleHouse.com' target='_blank'>www.TyndaleHouse.com</a>],<br>
@@ -130,8 +132,7 @@ www.teknia.com/greek-dictionary
 <b>Morphological Lexicon of the Greek New Testament</b><br>
 Source: <a href='https://github.com/morphgnt/morphological-lexicon'>https://github.com/morphgnt/morphological-lexicon</a><br>
 It is used to process data for mapping purpose.<br>
-<br><br>
-[Remarks: Please include all links available in the credit information above.]
+
 
 # Sources:
 
