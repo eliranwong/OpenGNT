@@ -56,7 +56,7 @@ File format:
 5) <b>morphologyCode</b> - Robinson's Morphological Analysis Codes [RMAC]<br>
 6) <b>morphologyDescription</b> - description on morphology<br>
 7) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
-8) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers<br>
+8) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers; compatible with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
 9) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br><br>
 - <b>Gropu VI - Gloss & Translation</b>: <br>
 〔TyndaleHouseGloss｜MounceGloss｜NET2Words〕<br>
@@ -155,7 +155,7 @@ Read more in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/
 - sub-meanings on 1387 occurrences of οὗτος [this/he/she/it] - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
 - sub-meanings on 2579 occurrences of ἐγώ [I/we] - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
 - sub-meanings on 1865 occurrences of σύ [you] - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
-- mapping GK numbers (numbers only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
+- mapping GK numbers (mapped with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a>) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
 - mapping Louw-Nida numbers (numbers only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
 - mapping BDAG catchwords (catchwords only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
 - mapping EDNT catchwords (catchwords only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
