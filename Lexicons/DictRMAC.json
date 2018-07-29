@@ -1,0 +1,5558 @@
+[
+{
+"top": "rmac.V-PAI-3P (V-PAP-DPM)",
+"def": "Verb, Present, Active, Indicative, third, Plural (Verb, Present, Active, Participle, Dative, Plural, Masculine)"
+},
+{
+"top": "rmac.A-VPF",
+"def": "Adjective, Vocative, Plural, Feminine"
+},
+{
+"top": "rmac.K-NSF",
+"def": "correlative pronoun, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.I-DPN",
+"def": "Interrogative pronoun, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.I-NPF",
+"def": "Interrogative pronoun, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.F-3NSM",
+"def": "reFlexive pronoun, third, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.A-VPN",
+"def": "Adjective, Vocative, Plural, Neuter"
+},
+{
+"top": "rmac.A-VSN",
+"def": "Adjective, Vocative, Singular, Neuter"
+},
+{
+"top": "rmac.Q-GPF",
+"def": "correlative or interrogative pronoun, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.T-VPF",
+"def": "definite article, Vocative, Plural, Feminine"
+},
+{
+"top": "rmac.T-VPM",
+"def": "definite article, Vocative, Plural, Masculine"
+},
+{
+"top": "rmac.T-VPN",
+"def": "definite article, Vocative, Plural, Neuter"
+},
+{
+"top": "rmac.T-VSF",
+"def": "definite article, Vocative, Singular, Feminine"
+},
+{
+"top": "rmac.T-VSM",
+"def": "definite article, Vocative, Singular, Masculine"
+},
+{
+"top": "rmac.T-VSN",
+"def": "definite article, Vocative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2PAN",
+"def": "Verb, second Present, Active, iNfinitive"
+},
+{
+"top": "rmac.V-2PAI-2S",
+"def": "Verb, second Present, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.HEB-T",
+"def": "HEBrew, Title"
+},
+{
+"top": "rmac.A-APF-NUI",
+"def": "Adjective, Accusative, Plural, Feminine, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-APM-LG",
+"def": "Adjective, Accusative, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.A-APM-NUI",
+"def": "Adjective, Accusative, Plural, Masculine, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-APM-PG",
+"def": "Adjective, Accusative, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.A-APN-NUI",
+"def": "Adjective, Accusative, Plural, Neuter, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-ASF-L",
+"def": "Adjective, Accusative, Singular, Feminine, Location"
+},
+{
+"top": "rmac.A-ASF-LG",
+"def": "Adjective, Accusative, Singular, Feminine, Location Gentilic"
+},
+{
+"top": "rmac.A-ASF-PG",
+"def": "Adjective, Accusative, Singular, Feminine, Person Gentilic"
+},
+{
+"top": "rmac.A-ASM-LG",
+"def": "Adjective, Accusative, Singular, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.A-ASM-PG",
+"def": "Adjective, Accusative, Singular, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.A-ASN-LG",
+"def": "Adjective, Accusative, Singular, Neuter, Location Gentilic"
+},
+{
+"top": "rmac.A-DPF-NUI",
+"def": "Adjective, Dative, Plural, Feminine, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-DPM-LG",
+"def": "Adjective, Dative, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.A-DPM-NUI",
+"def": "Adjective, Dative, Plural, Masculine, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-DPM-PG",
+"def": "Adjective, Dative, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.A-DPN-LG",
+"def": "Adjective, Dative, Plural, Neuter, Location Gentilic"
+},
+{
+"top": "rmac.A-DPN-NUI",
+"def": "Adjective, Dative, Plural, Neuter, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-DSF-L",
+"def": "Adjective, Dative, Singular, Feminine, Location"
+},
+{
+"top": "rmac.A-DSF-LG",
+"def": "Adjective, Dative, Singular, Feminine, Location Gentilic"
+},
+{
+"top": "rmac.A-DSF-PG",
+"def": "Adjective, Dative, Singular, Feminine, Person Gentilic"
+},
+{
+"top": "rmac.A-DSM-PG",
+"def": "Adjective, Dative, Singular, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.A-DSN-LG",
+"def": "Adjective, Dative, Singular, Neuter, Location Gentilic"
+},
+{
+"top": "rmac.A-GPF-L",
+"def": "Adjective, Genitive, Plural, Feminine, Location"
+},
+{
+"top": "rmac.A-GPF-NUI",
+"def": "Adjective, Genitive, Plural, Feminine, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-GPM-LG",
+"def": "Adjective, Genitive, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.A-GPM-NUI",
+"def": "Adjective, Genitive, Plural, Masculine, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-GPM-PG",
+"def": "Adjective, Genitive, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.A-GPN-NUI",
+"def": "Adjective, Genitive, Plural, Neuter, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-GSF-L",
+"def": "Adjective, Genitive, Singular, Feminine, Location"
+},
+{
+"top": "rmac.A-GSF-LG",
+"def": "Adjective, Genitive, Singular, Feminine, Location Gentilic"
+},
+{
+"top": "rmac.A-GSF-PG",
+"def": "Adjective, Genitive, Singular, Feminine, Person Gentilic"
+},
+{
+"top": "rmac.A-GSM-PG",
+"def": "Adjective, Genitive, Singular, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.A-NPF-NUI",
+"def": "Adjective, Nominative, Plural, Feminine, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-NPM-LG",
+"def": "Adjective, Nominative, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.A-NPM-NUI",
+"def": "Adjective, Nominative, Plural, Masculine, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-NPM-PG",
+"def": "Adjective, Nominative, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.A-NPN-NUI",
+"def": "Adjective, Nominative, Plural, Neuter, NUmerical Indiclinable (A)"
+},
+{
+"top": "rmac.A-NSF-LG",
+"def": "Adjective, Nominative, Singular, Feminine, Location Gentilic"
+},
+{
+"top": "rmac.A-NSM-LG",
+"def": "Adjective, Nominative, Singular, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.A-NSM-PG",
+"def": "Adjective, Nominative, Singular, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.A-NSM-T",
+"def": "Adjective, Nominative, Singular, Masculine, Title"
+},
+{
+"top": "rmac.A-VPM-PG",
+"def": "Adjective, Vocative, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.N-APF-L",
+"def": "Noun, Accusative, Plural, Feminine, Location"
+},
+{
+"top": "rmac.N-APM-L",
+"def": "Noun, Accusative, Plural, Masculine, Location"
+},
+{
+"top": "rmac.N-APM-LG",
+"def": "Noun, Accusative, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-APM-P",
+"def": "Noun, Accusative, Plural, Masculine, Person"
+},
+{
+"top": "rmac.N-APM-PG",
+"def": "Noun, Accusative, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.N-APM-T",
+"def": "Noun, Accusative, Plural, Masculine, Title"
+},
+{
+"top": "rmac.N-APN-L",
+"def": "Noun, Accusative, Plural, Neuter, Location"
+},
+{
+"top": "rmac.N-ASF-L",
+"def": "Noun, Accusative, Singular, Feminine, Location"
+},
+{
+"top": "rmac.N-ASF-P",
+"def": "Noun, Accusative, Singular, Feminine, Person"
+},
+{
+"top": "rmac.N-ASF-T",
+"def": "Noun, Accusative, Singular, Feminine, Title"
+},
+{
+"top": "rmac.N-ASM-L",
+"def": "Noun, Accusative, Singular, Masculine, Location"
+},
+{
+"top": "rmac.N-ASM-LG",
+"def": "Noun, Accusative, Singular, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-ASM-P",
+"def": "Noun, Accusative, Singular, Masculine, Person"
+},
+{
+"top": "rmac.N-ASM-T",
+"def": "Noun, Accusative, Singular, Masculine, Title"
+},
+{
+"top": "rmac.N-ASN-L",
+"def": "Noun, Accusative, Singular, Neuter, Location"
+},
+{
+"top": "rmac.N-DPF-L",
+"def": "Noun, Dative, Plural, Feminine, Location"
+},
+{
+"top": "rmac.N-DPM-L",
+"def": "Noun, Dative, Plural, Masculine, Location"
+},
+{
+"top": "rmac.N-DPM-LG",
+"def": "Noun, Dative, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-DPM-T",
+"def": "Noun, Dative, Plural, Masculine, Title"
+},
+{
+"top": "rmac.N-DPN-L",
+"def": "Noun, Dative, Plural, Neuter, Location"
+},
+{
+"top": "rmac.N-DSF-L",
+"def": "Noun, Dative, Singular, Feminine, Location"
+},
+{
+"top": "rmac.N-DSF-LG",
+"def": "Noun, Dative, Singular, Feminine, Location Gentilic"
+},
+{
+"top": "rmac.N-DSF-P",
+"def": "Noun, Dative, Singular, Feminine, Person"
+},
+{
+"top": "rmac.N-DSF-T",
+"def": "Noun, Dative, Singular, Feminine, Title"
+},
+{
+"top": "rmac.N-DSM-L",
+"def": "Noun, Dative, Singular, Masculine, Location"
+},
+{
+"top": "rmac.N-DSM-LG",
+"def": "Noun, Dative, Singular, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-DSM-P",
+"def": "Noun, Dative, Singular, Masculine, Person"
+},
+{
+"top": "rmac.N-DSM-T",
+"def": "Noun, Dative, Singular, Masculine, Title"
+},
+{
+"top": "rmac.N-DSN-L",
+"def": "Noun, Dative, Singular, Neuter, Location"
+},
+{
+"top": "rmac.N-GPF-L",
+"def": "Noun, Genitive, Plural, Feminine, Location"
+},
+{
+"top": "rmac.N-GPF-LG",
+"def": "Noun, Genitive, Plural, Feminine, Location Gentilic"
+},
+{
+"top": "rmac.N-GPM-L",
+"def": "Noun, Genitive, Plural, Masculine, Location"
+},
+{
+"top": "rmac.N-GPM-LG",
+"def": "Noun, Genitive, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-GPM-PG",
+"def": "Noun, Genitive, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.N-GPM-T",
+"def": "Noun, Genitive, Plural, Masculine, Title"
+},
+{
+"top": "rmac.N-GPN-L",
+"def": "Noun, Genitive, Plural, Neuter, Location"
+},
+{
+"top": "rmac.N-GSF-L",
+"def": "Noun, Genitive, Singular, Feminine, Location"
+},
+{
+"top": "rmac.N-GSF-LG",
+"def": "Noun, Genitive, Singular, Feminine, Location Gentilic"
+},
+{
+"top": "rmac.N-GSF-P",
+"def": "Noun, Genitive, Singular, Feminine, Person"
+},
+{
+"top": "rmac.N-GSF-T",
+"def": "Noun, Genitive, Singular, Feminine, Title"
+},
+{
+"top": "rmac.N-GSM-L",
+"def": "Noun, Genitive, Singular, Masculine, Location"
+},
+{
+"top": "rmac.N-GSM-LG",
+"def": "Noun, Genitive, Singular, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-GSM-P",
+"def": "Noun, Genitive, Singular, Masculine, Person"
+},
+{
+"top": "rmac.N-GSM-PG",
+"def": "Noun, Genitive, Singular, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.N-GSM-T",
+"def": "Noun, Genitive, Singular, Masculine, Title"
+},
+{
+"top": "rmac.N-GSN-L",
+"def": "Noun, Genitive, Singular, Neuter, Location"
+},
+{
+"top": "rmac.N-NPM-L",
+"def": "Noun, Nominative, Plural, Masculine, Location"
+},
+{
+"top": "rmac.N-NPM-LG",
+"def": "Noun, Nominative, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-NPM-PG",
+"def": "Noun, Nominative, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.N-NPM-T",
+"def": "Noun, Nominative, Plural, Masculine, Title"
+},
+{
+"top": "rmac.N-NPN-L",
+"def": "Noun, Nominative, Plural, Neuter, Location"
+},
+{
+"top": "rmac.N-NPN-T",
+"def": "Noun, Nominative, Plural, Neuter, Title"
+},
+{
+"top": "rmac.N-NSF-L",
+"def": "Noun, Nominative, Singular, Feminine, Location"
+},
+{
+"top": "rmac.N-NSF-LG",
+"def": "Noun, Nominative, Singular, Feminine, Location Gentilic"
+},
+{
+"top": "rmac.N-NSF-P",
+"def": "Noun, Nominative, Singular, Feminine, Person"
+},
+{
+"top": "rmac.N-NSF-T",
+"def": "Noun, Nominative, Singular, Feminine, Title"
+},
+{
+"top": "rmac.N-NSM-L",
+"def": "Noun, Nominative, Singular, Masculine, Location"
+},
+{
+"top": "rmac.N-NSM-LG",
+"def": "Noun, Nominative, Singular, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-NSM-P",
+"def": "Noun, Nominative, Singular, Masculine, Person"
+},
+{
+"top": "rmac.N-NSM-PG",
+"def": "Noun, Nominative, Singular, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.N-NSM-T",
+"def": "Noun, Nominative, Singular, Masculine, Title"
+},
+{
+"top": "rmac.N-NSN-L",
+"def": "Noun, Nominative, Singular, Neuter, Location"
+},
+{
+"top": "rmac.N-NSN-LI",
+"def": "Noun, Nominative, Singular, Neuter, Letter Indeclinable (N)"
+},
+{
+"top": "rmac.N-NSN-T",
+"def": "Noun, Nominative, Singular, Neuter, Title"
+},
+{
+"top": "rmac.N-VPM-LG",
+"def": "Noun, Vocative, Plural, Masculine, Location Gentilic"
+},
+{
+"top": "rmac.N-VPM-PG",
+"def": "Noun, Vocative, Plural, Masculine, Person Gentilic"
+},
+{
+"top": "rmac.N-VPM-T",
+"def": "Noun, Vocative, Plural, Masculine, Title"
+},
+{
+"top": "rmac.N-VSF-L",
+"def": "Noun, Vocative, Singular, Feminine, Location"
+},
+{
+"top": "rmac.N-VSF-P",
+"def": "Noun, Vocative, Singular, Feminine, Person"
+},
+{
+"top": "rmac.N-VSM-L",
+"def": "Noun, Vocative, Singular, Masculine, Location"
+},
+{
+"top": "rmac.N-VSM-P",
+"def": "Noun, Vocative, Singular, Masculine, Person"
+},
+{
+"top": "rmac.N-VSM-T",
+"def": "Noun, Vocative, Singular, Masculine, Title"
+},
+{
+"top": "rmac.V-2RAP-GPN",
+"def": "Verb, second peRfect, Active, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-2RPP-APF",
+"def": "Verb, second peRfect, Passive, Participle, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.V-2RPP-GSF",
+"def": "Verb, second peRfect, Passive, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-2RPP-NSM",
+"def": "Verb, second peRfect, Passive, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-IMI-2P",
+"def": "Verb, Imperfect, Middle, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-IMI-2S",
+"def": "Verb, Imperfect, Middle, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-PAP-VPM",
+"def": "Verb, Present, Active, Participle, Vocative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PAP-VSF",
+"def": "Verb, Present, Active, Participle, Vocative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PAP-VSM",
+"def": "Verb, Present, Active, Participle, Vocative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PEP-ASM",
+"def": "Verb, Present, Either middle or passive, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PMI-2S",
+"def": "Verb, Present, Middle, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-PMM-3P",
+"def": "Verb, Present, Middle, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-PMP-APF",
+"def": "Verb, Present, Middle, Participle, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PMP-APN",
+"def": "Verb, Present, Middle, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PMP-DSF",
+"def": "Verb, Present, Middle, Participle, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PMP-GPN",
+"def": "Verb, Present, Middle, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-PNP-VPM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Vocative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PNP-VSM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Vocative, Singular, Masculine"
+},
+{
+"top": "rmac.V-REP-NSF",
+"def": "Verb, peRfect, Either middle or passive, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-REP-VSF",
+"def": "Verb, peRfect, Either middle or passive, Participle, Vocative, Singular, Feminine"
+},
+{
+"top": "rmac.V-RMI-1S",
+"def": "Verb, peRfect, Middle, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-RMI-2P",
+"def": "Verb, peRfect, Middle, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-RMM-2P",
+"def": "Verb, peRfect, Middle, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-RMP-APM",
+"def": "Verb, peRfect, Middle, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RMP-DPM",
+"def": "Verb, peRfect, Middle, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RMP-GPM",
+"def": "Verb, peRfect, Middle, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-RMP-GSF",
+"def": "Verb, peRfect, Middle, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-RPP-VPM",
+"def": "Verb, peRfect, Passive, Participle, Vocative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RPP-VSF",
+"def": "Verb, peRfect, Passive, Participle, Vocative, Singular, Feminine"
+},
+{
+"top": "rmac.A-APF",
+"def": "Adjective, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.A-APF-C",
+"def": "Adjective, Accusative, Plural, Feminine, Comparative"
+},
+{
+"top": "rmac.A-APF-S",
+"def": "Adjective, Accusative, Plural, Feminine, Superlative"
+},
+{
+"top": "rmac.A-APM",
+"def": "Adjective, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.A-APM-C",
+"def": "Adjective, Accusative, Plural, Masculine, Comparative"
+},
+{
+"top": "rmac.A-APM-S",
+"def": "Adjective, Accusative, Plural, Masculine, Superlative"
+},
+{
+"top": "rmac.A-APN",
+"def": "Adjective, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.A-APN-C",
+"def": "Adjective, Accusative, Plural, Neuter, Comparative"
+},
+{
+"top": "rmac.A-APN-S",
+"def": "Adjective, Accusative, Plural, Neuter, Superlative"
+},
+{
+"top": "rmac.A-ASF",
+"def": "Adjective, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.A-ASF-C",
+"def": "Adjective, Accusative, Singular, Feminine, Comparative"
+},
+{
+"top": "rmac.A-ASF-N",
+"def": "Adjective, Accusative, Singular, Feminine, Negative"
+},
+{
+"top": "rmac.A-ASF-S",
+"def": "Adjective, Accusative, Singular, Feminine, Superlative"
+},
+{
+"top": "rmac.A-ASM",
+"def": "Adjective, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.A-ASM-C",
+"def": "Adjective, Accusative, Singular, Masculine, Comparative"
+},
+{
+"top": "rmac.A-ASM-N",
+"def": "Adjective, Accusative, Singular, Masculine, Negative"
+},
+{
+"top": "rmac.A-ASM-S",
+"def": "Adjective, Accusative, Singular, Masculine, Superlative"
+},
+{
+"top": "rmac.A-ASN",
+"def": "Adjective, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.A-ASN-C",
+"def": "Adjective, Accusative, Singular, Neuter, Comparative"
+},
+{
+"top": "rmac.A-ASN-N",
+"def": "Adjective, Accusative, Singular, Neuter, Negative"
+},
+{
+"top": "rmac.A-ASN-S",
+"def": "Adjective, Accusative, Singular, Neuter, Superlative"
+},
+{
+"top": "rmac.A-DPF",
+"def": "Adjective, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.A-DPF-C",
+"def": "Adjective, Dative, Plural, Feminine, Comparative"
+},
+{
+"top": "rmac.A-DPF-S",
+"def": "Adjective, Dative, Plural, Feminine, Superlative"
+},
+{
+"top": "rmac.A-DPM",
+"def": "Adjective, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.A-DPM-C",
+"def": "Adjective, Dative, Plural, Masculine, Comparative"
+},
+{
+"top": "rmac.A-DPM-S",
+"def": "Adjective, Dative, Plural, Masculine, Superlative"
+},
+{
+"top": "rmac.A-DPN",
+"def": "Adjective, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.A-DPN-S",
+"def": "Adjective, Dative, Plural, Neuter, Superlative"
+},
+{
+"top": "rmac.A-DSF",
+"def": "Adjective, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.A-DSF-C",
+"def": "Adjective, Dative, Singular, Feminine, Comparative"
+},
+{
+"top": "rmac.A-DSF-S",
+"def": "Adjective, Dative, Singular, Feminine, Superlative"
+},
+{
+"top": "rmac.A-DSM",
+"def": "Adjective, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.A-DSM-C",
+"def": "Adjective, Dative, Singular, Masculine, Comparative"
+},
+{
+"top": "rmac.A-DSM-N",
+"def": "Adjective, Dative, Singular, Masculine, Negative"
+},
+{
+"top": "rmac.A-DSM-S",
+"def": "Adjective, Dative, Singular, Masculine, Superlative"
+},
+{
+"top": "rmac.A-DSN",
+"def": "Adjective, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.A-DSN-C",
+"def": "Adjective, Dative, Singular, Neuter, Comparative"
+},
+{
+"top": "rmac.A-DSN-N",
+"def": "Adjective, Dative, Singular, Neuter, Negative"
+},
+{
+"top": "rmac.A-DSN-S",
+"def": "Adjective, Dative, Singular, Neuter, Superlative"
+},
+{
+"top": "rmac.A-GMS",
+"def": "Adjective, Genitive, Masculine, Superlative"
+},
+{
+"top": "rmac.A-GPF",
+"def": "Adjective, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.A-GPF-S",
+"def": "Adjective, Genitive, Plural, Feminine, Superlative"
+},
+{
+"top": "rmac.A-GPM",
+"def": "Adjective, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.A-GPM-C",
+"def": "Adjective, Genitive, Plural, Masculine, Comparative"
+},
+{
+"top": "rmac.A-GPM-S",
+"def": "Adjective, Genitive, Plural, Masculine, Superlative"
+},
+{
+"top": "rmac.A-GPN",
+"def": "Adjective, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.A-GPN-C",
+"def": "Adjective, Genitive, Plural, Neuter, Comparative"
+},
+{
+"top": "rmac.A-GPN-S",
+"def": "Adjective, Genitive, Plural, Neuter, Superlative"
+},
+{
+"top": "rmac.A-GSF",
+"def": "Adjective, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.A-GSF-C",
+"def": "Adjective, Genitive, Singular, Feminine, Comparative"
+},
+{
+"top": "rmac.A-GSF-S",
+"def": "Adjective, Genitive, Singular, Feminine, Superlative"
+},
+{
+"top": "rmac.A-GSM",
+"def": "Adjective, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.A-GSM-C",
+"def": "Adjective, Genitive, Singular, Masculine, Comparative"
+},
+{
+"top": "rmac.A-GSM-N",
+"def": "Adjective, Genitive, Singular, Masculine, Negative"
+},
+{
+"top": "rmac.A-GSM-S",
+"def": "Adjective, Genitive, Singular, Masculine, Superlative"
+},
+{
+"top": "rmac.A-GSN",
+"def": "Adjective, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.A-GSN-N",
+"def": "Adjective, Genitive, Singular, Neuter, Negative"
+},
+{
+"top": "rmac.A-GSN-S",
+"def": "Adjective, Genitive, Singular, Neuter, Superlative"
+},
+{
+"top": "rmac.A-NPF",
+"def": "Adjective, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.A-NPF-C",
+"def": "Adjective, Nominative, Plural, Feminine, Comparative"
+},
+{
+"top": "rmac.A-NPF-S",
+"def": "Adjective, Nominative, Plural, Feminine, Superlative"
+},
+{
+"top": "rmac.A-NPM",
+"def": "Adjective, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.A-NPM-C",
+"def": "Adjective, Nominative, Plural, Masculine, Comparative"
+},
+{
+"top": "rmac.A-NPM-S",
+"def": "Adjective, Nominative, Plural, Masculine, Superlative"
+},
+{
+"top": "rmac.A-NPN",
+"def": "Adjective, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.A-NPN-C",
+"def": "Adjective, Nominative, Plural, Neuter, Comparative"
+},
+{
+"top": "rmac.A-NPN-S",
+"def": "Adjective, Nominative, Plural, Neuter, Superlative"
+},
+{
+"top": "rmac.A-NSF",
+"def": "Adjective, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.A-NSF-C",
+"def": "Adjective, Nominative, Singular, Feminine, Comparative"
+},
+{
+"top": "rmac.A-NSF-N",
+"def": "Adjective, Nominative, Singular, Feminine, Negative"
+},
+{
+"top": "rmac.A-NSF-S",
+"def": "Adjective, Nominative, Singular, Feminine, Superlative"
+},
+{
+"top": "rmac.A-NSM",
+"def": "Adjective, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.A-NSM-ATT",
+"def": "Adjective, Nominative, Singular, Masculine, ATTic Greek form"
+},
+{
+"top": "rmac.A-NSM-C",
+"def": "Adjective, Nominative, Singular, Masculine, Comparative"
+},
+{
+"top": "rmac.A-NSM-N",
+"def": "Adjective, Nominative, Singular, Masculine, Negative"
+},
+{
+"top": "rmac.A-NSM-S",
+"def": "Adjective, Nominative, Singular, Masculine, Superlative"
+},
+{
+"top": "rmac.A-NSN",
+"def": "Adjective, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.A-NSN-C",
+"def": "Adjective, Nominative, Singular, Neuter, Comparative"
+},
+{
+"top": "rmac.A-NSN-N",
+"def": "Adjective, Nominative, Singular, Neuter, Neuter"
+},
+{
+"top": "rmac.A-NSN-S",
+"def": "Adjective, Nominative, Singular, Neuter, Superlative"
+},
+{
+"top": "rmac.A-NUI",
+"def": "Indeclinable NUmeral (Adjective)"
+},
+{
+"top": "rmac.A-NUI-ABB",
+"def": "Adjective, Nominative, ABBreviated form"
+},
+{
+"top": "rmac.A-VPM",
+"def": "Adjective, Vocative, Plural, Masculine"
+},
+{
+"top": "rmac.A-VPM-C",
+"def": "Adjective, Vocative, Plural, Masculine, Comparative"
+},
+{
+"top": "rmac.A-VSF",
+"def": "Adjective, Vocative, Singular, Feminine"
+},
+{
+"top": "rmac.A-VSM",
+"def": "Adjective, Vocative, Singular, Masculine"
+},
+{
+"top": "rmac.A-VSM-S",
+"def": "Adjective, Vocative, Singular, Masculine, Superlative"
+},
+{
+"top": "rmac.ADV",
+"def": "ADVerb or adverb and particle combined"
+},
+{
+"top": "rmac.ADV-C",
+"def": "ADVerb, Contracted form"
+},
+{
+"top": "rmac.ADV-I",
+"def": "ADVerb, Interrogative"
+},
+{
+"top": "rmac.ADV-K",
+"def": "ADVerb, Kai"
+},
+{
+"top": "rmac.ADV-N",
+"def": "ADVerb, Negative"
+},
+{
+"top": "rmac.ADV-S",
+"def": "ADVerb, Superlative"
+},
+{
+"top": "rmac.ARAM",
+"def": "ARAMaic transliterated word (indeclinable)"
+},
+{
+"top": "rmac.C-APM",
+"def": "reCiprocal pronoun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.C-DPM",
+"def": "reCiprocal pronoun, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.C-DPN",
+"def": "reCiprocal pronoun, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.C-GPM",
+"def": "reCiprocal pronoun, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.C-GPN",
+"def": "reCiprocal pronoun, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.COND",
+"def": "CONDitional particle or conjunction"
+},
+{
+"top": "rmac.COND-C",
+"def": "Contracted form"
+},
+{
+"top": "rmac.COND-K",
+"def": "CONDitional particle, Kai"
+},
+{
+"top": "rmac.COND-P",
+"def": "Contracted form"
+},
+{
+"top": "rmac.CONJ",
+"def": "CONJunction or conjunctive particle"
+},
+{
+"top": "rmac.CONJ-N",
+"def": "CONJunction, Negative"
+},
+{
+"top": "rmac.D-APF",
+"def": "Demonstrative pronoun, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.D-APM",
+"def": "Demonstrative pronoun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.D-APM-C",
+"def": "Demonstrative pronoun, Accusative, Plural, Masculine, Contracted form"
+},
+{
+"top": "rmac.D-APM-K",
+"def": "Demonstrative pronoun, Accusative, Plural, Masculine, Kai"
+},
+{
+"top": "rmac.D-APN",
+"def": "Demonstrative pronoun, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.D-APN-K",
+"def": "Demonstrative pronoun, Accusative, Plural, Neuter, Kai"
+},
+{
+"top": "rmac.D-ASF",
+"def": "Demonstrative pronoun, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.D-ASM",
+"def": "Demonstrative pronoun, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.D-ASM-C",
+"def": "Demonstrative pronoun, Accusative, Singular, Masculine, Contracted form"
+},
+{
+"top": "rmac.D-ASM-K",
+"def": "Demonstrative pronoun, Accusative, Singular, Masculine, Kai"
+},
+{
+"top": "rmac.D-ASN",
+"def": "Demonstrative pronoun, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.D-DPF",
+"def": "Demonstrative pronoun, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.D-DPM",
+"def": "Demonstrative pronoun, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.D-DPM-C",
+"def": "Demonstrative pronoun, Dative, Plural, Masculine, Contracted form"
+},
+{
+"top": "rmac.D-DPN",
+"def": "Demonstrative pronoun, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.D-DSF",
+"def": "Demonstrative pronoun, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.D-DSM",
+"def": "Demonstrative pronoun, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.D-DSN",
+"def": "Demonstrative pronoun, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.D-GPF",
+"def": "Demonstrative pronoun, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.D-GPM",
+"def": "Demonstrative pronoun, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.D-GPN",
+"def": "Demonstrative pronoun, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.D-GSF",
+"def": "Demonstrative pronoun, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.D-GSM",
+"def": "Demonstrative pronoun, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.D-GSN",
+"def": "Demonstrative pronoun, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.D-NPF",
+"def": "Demonstrative pronoun, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.D-NPM",
+"def": "Demonstrative pronoun, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.D-NPM-C",
+"def": "Demonstrative pronoun, Nominative, Plural, Masculine, Contracted form"
+},
+{
+"top": "rmac.D-NPM-K",
+"def": "Demonstrative pronoun, Nominative, Plural, Masculine, Kai"
+},
+{
+"top": "rmac.D-NPN",
+"def": "Demonstrative pronoun, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.D-NPN-C",
+"def": "Demonstrative pronoun, Nominative, Plural, Neuter, Contracted form"
+},
+{
+"top": "rmac.D-NPN-K",
+"def": "Demonstrative pronoun, Nominative, Plural, Neuter, Kai"
+},
+{
+"top": "rmac.D-NSF",
+"def": "Demonstrative pronoun, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.D-NSM",
+"def": "Demonstrative pronoun, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.D-NSM-C",
+"def": "Demonstrative pronoun, Nominative, Singular, Masculine, Contracted form"
+},
+{
+"top": "rmac.D-NSM-K",
+"def": "Demonstrative pronoun, Nominative, Singular, Masculine, Kai"
+},
+{
+"top": "rmac.D-NSN",
+"def": "Demonstrative pronoun, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.F-1APM",
+"def": "reFlexive pronoun, first, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.F-1ASM",
+"def": "reFlexive pronoun, first, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.F-1DPM",
+"def": "reFlexive pronoun, first, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.F-1DSM",
+"def": "reFlexive pronoun, first, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.F-1GPM",
+"def": "reFlexive pronoun, first, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.F-1GSM",
+"def": "reFlexive pronoun, first, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.F-2APF",
+"def": "reFlexive pronoun, second, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.F-2APM",
+"def": "reFlexive pronoun, second, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.F-2APN",
+"def": "reFlexive pronoun, second, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.F-2ASM",
+"def": "reFlexive pronoun, second, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.F-2ASM-C",
+"def": "reFlexive pronoun, second, Accusative, Singular, Masculine, Contracted form"
+},
+{
+"top": "rmac.F-2DPF",
+"def": "reFlexive pronoun, second, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.F-2DPM",
+"def": "reFlexive pronoun, second, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.F-2DSM",
+"def": "reFlexive pronoun, second, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.F-2GPM",
+"def": "reFlexive pronoun, second, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.F-2GSM",
+"def": "reFlexive pronoun, second, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.F-3APF",
+"def": "reFlexive pronoun, third, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.F-3APM",
+"def": "reFlexive pronoun, third, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.F-3APN",
+"def": "reFlexive pronoun, third, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.F-3ASF",
+"def": "reFlexive pronoun, third, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.F-3ASM",
+"def": "reFlexive pronoun, third, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.F-3ASN",
+"def": "reFlexive pronoun, third, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.F-3DPF",
+"def": "reFlexive pronoun, third, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.F-3DPM",
+"def": "reFlexive pronoun, third, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.F-3DSF",
+"def": "reFlexive pronoun, third, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.F-3DSM",
+"def": "reFlexive pronoun, third, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.F-3GPF",
+"def": "reFlexive pronoun, third, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.F-3GPM",
+"def": "reFlexive pronoun, third, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.F-3GPN",
+"def": "reFlexive pronoun, third, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.F-3GSF",
+"def": "reFlexive pronoun, third, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.F-3GSM",
+"def": "reFlexive pronoun, third, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.F-3GSN",
+"def": "reFlexive pronoun, third, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.F-GPF",
+"def": "reFlexive pronoun, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.HEB",
+"def": "HEBrew transliterated word (indeclinable)"
+},
+{
+"top": "rmac.I-APF",
+"def": "Interrogative pronoun, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.I-APM",
+"def": "Interrogative pronoun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.I-APN",
+"def": "Interrogative pronoun, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.I-ASF",
+"def": "Interrogative pronoun, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.I-ASM",
+"def": "Interrogative pronoun, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.I-ASN",
+"def": "Interrogative pronoun, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.I-DPM",
+"def": "Interrogative pronoun, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.I-DSF",
+"def": "Interrogative pronoun, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.I-DSM",
+"def": "Interrogative pronoun, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.I-DSN",
+"def": "Interrogative pronoun, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.I-GPM",
+"def": "Interrogative pronoun, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.I-GPN",
+"def": "Interrogative pronoun, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.I-GSF",
+"def": "Interrogative pronoun, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.I-GSM",
+"def": "Interrogative pronoun, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.I-GSN",
+"def": "Interrogative pronoun, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.I-NPM",
+"def": "Interrogative pronoun, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.I-NPN",
+"def": "Interrogative pronoun, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.I-NSF",
+"def": "Interrogative pronoun, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.I-NSM",
+"def": "Interrogative pronoun, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.I-NSN",
+"def": "Interrogative pronoun, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.INJ",
+"def": "INterJection"
+},
+{
+"top": "rmac.K-APF",
+"def": "correlative pronoun, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.K-APM",
+"def": "correlative pronoun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.K-APN",
+"def": "correlative pronoun, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.K-ASM",
+"def": "correlative pronoun, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.K-ASN",
+"def": "correlative pronoun, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.K-DSN",
+"def": "correlative pronoun, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.K-GPM",
+"def": "correlative pronoun, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.K-GSN",
+"def": "correlative pronoun, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.K-NPF",
+"def": "correlative pronoun, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.K-NPM",
+"def": "correlative pronoun, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.K-NPN",
+"def": "correlative pronoun, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.K-NSM",
+"def": "correlative pronoun, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.K-NSN",
+"def": "correlative pronoun, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.N-APF",
+"def": "Noun, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.N-APF-C",
+"def": "Noun, Accusative, Plural, Feminine, Contracted form"
+},
+{
+"top": "rmac.N-APF-S",
+"def": "Noun, Accusative, Plural, Feminine, Superlative"
+},
+{
+"top": "rmac.N-APM",
+"def": "Noun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.N-APN",
+"def": "Noun, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.N-APN-C",
+"def": "Noun, Accusative, Plural, Neuter, Contracted form"
+},
+{
+"top": "rmac.N-APN-S",
+"def": "Noun, Accusative, Plural, Neuter, Superlative"
+},
+{
+"top": "rmac.N-ASF",
+"def": "Noun, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.N-ASF-C",
+"def": "Noun, Accusative, Singular, Feminine, Contracted form"
+},
+{
+"top": "rmac.N-ASF-S",
+"def": "Noun, Accusative, Singular, Feminine, Superlative"
+},
+{
+"top": "rmac.N-ASM",
+"def": "Noun, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.N-ASM-S",
+"def": "Noun, Accusative, Singular, Masculine, Superlative"
+},
+{
+"top": "rmac.N-ASN",
+"def": "Noun, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.N-DPF",
+"def": "Noun, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.N-DPM",
+"def": "Noun, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.N-DPM-S",
+"def": "Noun, Dative, Plural, Masculine, Superlative"
+},
+{
+"top": "rmac.N-DPN",
+"def": "Noun, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.N-DSF",
+"def": "Noun, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.N-DSM",
+"def": "Noun, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.N-DSN",
+"def": "Noun, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.N-GMP",
+"def": "Noun, Genitive, Masculine, Particle attached"
+},
+{
+"top": "rmac.N-GPF",
+"def": "Noun, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.N-GPM",
+"def": "Noun, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.N-GPN",
+"def": "Noun, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.N-GSF",
+"def": "Noun, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.N-GSM",
+"def": "Noun, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.N-GSN",
+"def": "Noun, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.N-LI",
+"def": "Indeclinable Letter (Noun)"
+},
+{
+"top": "rmac.N-NAM",
+"def": "Noun, Nominative"
+},
+{
+"top": "rmac.N-NPF",
+"def": "Noun, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.N-NPM",
+"def": "Noun, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.N-NPM-S",
+"def": "Noun, Nominative, Plural, Masculine, Superlative"
+},
+{
+"top": "rmac.N-NPN",
+"def": "Noun, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.N-NSF",
+"def": "Noun, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.N-NSM",
+"def": "Noun, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.N-NSM-C",
+"def": "Noun, Nominative, Singular, Masculine, Comparative"
+},
+{
+"top": "rmac.N-NSN",
+"def": "Noun, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.N-NSN-C",
+"def": "Noun, Nominative, Singular, Neuter, Contracted form"
+},
+{
+"top": "rmac.N-OI",
+"def": "Indeclinable Noun of Other type"
+},
+{
+"top": "rmac.N-PRI",
+"def": "Indeclinable PRoper Noun"
+},
+{
+"top": "rmac.N-VPF",
+"def": "Noun, Vocative, Plural, Feminine"
+},
+{
+"top": "rmac.N-VPM",
+"def": "Noun, Vocative, Plural, Masculine"
+},
+{
+"top": "rmac.N-VPN",
+"def": "Noun, Vocative, Plural, Neuter"
+},
+{
+"top": "rmac.N-VSF",
+"def": "Noun, Vocative, Singular, Feminine"
+},
+{
+"top": "rmac.N-VSM",
+"def": "Noun, Vocative, Singular, Masculine"
+},
+{
+"top": "rmac.N-VSN",
+"def": "Noun, Vocative, Singular, Neuter"
+},
+{
+"top": "rmac.P-1AP",
+"def": "Personal pronoun, first, Accusative, Plural"
+},
+{
+"top": "rmac.P-1AS",
+"def": "Personal pronoun, first, Accusative, Singular"
+},
+{
+"top": "rmac.P-1AS-C",
+"def": "Personal pronoun, first, Accusative, Singular, Contracted form"
+},
+{
+"top": "rmac.P-1AS-K",
+"def": "Personal pronoun, first, Accusative, Singular, Kai"
+},
+{
+"top": "rmac.P-1DP",
+"def": "Personal pronoun, first, Dative, Plural"
+},
+{
+"top": "rmac.P-1DS",
+"def": "Personal pronoun, first, Dative, Singular"
+},
+{
+"top": "rmac.P-1DS-C",
+"def": "Personal pronoun, first, Dative, Singular, Contracted form"
+},
+{
+"top": "rmac.P-1DS-K",
+"def": "Personal pronoun, first, Dative, Singular, Kai"
+},
+{
+"top": "rmac.P-1GP",
+"def": "Personal pronoun, first, Genitive, Plural"
+},
+{
+"top": "rmac.P-1GS",
+"def": "Personal pronoun, first, Genitive, Singular"
+},
+{
+"top": "rmac.P-1NP",
+"def": "Personal pronoun, first, Nominative, Plural"
+},
+{
+"top": "rmac.P-1NS",
+"def": "Personal pronoun, first, Nominative, Singular"
+},
+{
+"top": "rmac.P-1NS-C",
+"def": "Personal pronoun, first, Nominative, Singular, Contracted form"
+},
+{
+"top": "rmac.P-1NS-K",
+"def": "Personal pronoun, first, Nominative, Singular, Kai"
+},
+{
+"top": "rmac.P-2AP",
+"def": "Personal pronoun, second, Accusative, Plural"
+},
+{
+"top": "rmac.P-2AS",
+"def": "Personal pronoun, second, Accusative, Singular"
+},
+{
+"top": "rmac.P-2DP",
+"def": "Personal pronoun, second, Dative, Plural"
+},
+{
+"top": "rmac.P-2DS",
+"def": "Personal pronoun, second, Dative, Singular"
+},
+{
+"top": "rmac.P-2GP",
+"def": "Personal pronoun, second, Genitive, Plural"
+},
+{
+"top": "rmac.P-2GS",
+"def": "Personal pronoun, second, Genitive, Singular"
+},
+{
+"top": "rmac.P-2NP",
+"def": "Personal pronoun, second, Nominative, Plural"
+},
+{
+"top": "rmac.P-2NS",
+"def": "Personal pronoun, second, Nominative, Singular"
+},
+{
+"top": "rmac.P-APF",
+"def": "Personal pronoun, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.P-APM",
+"def": "Personal pronoun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.P-APN",
+"def": "Personal pronoun, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.P-ASF",
+"def": "Personal pronoun, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.P-ASM",
+"def": "Personal pronoun, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.P-ASN",
+"def": "Personal pronoun, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.P-DPF",
+"def": "Personal pronoun, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.P-DPM",
+"def": "Personal pronoun, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.P-DPN",
+"def": "Personal pronoun, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.P-DSF",
+"def": "Personal pronoun, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.P-DSM",
+"def": "Personal pronoun, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.P-DSN",
+"def": "Personal pronoun, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.P-GPF",
+"def": "Personal pronoun, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.P-GPM",
+"def": "Personal pronoun, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.P-GPN",
+"def": "Personal pronoun, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.P-GSF",
+"def": "Personal pronoun, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.P-GSM",
+"def": "Personal pronoun, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.P-GSN",
+"def": "Personal pronoun, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.P-NPM",
+"def": "Personal pronoun, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.P-NPN",
+"def": "Personal pronoun, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.P-NSF",
+"def": "Personal pronoun, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.P-NSM",
+"def": "Personal pronoun, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.P-NSN",
+"def": "Personal pronoun, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.PREP",
+"def": "PREPosition"
+},
+{
+"top": "rmac.PRT",
+"def": "PaRTicle, disjunctive particle"
+},
+{
+"top": "rmac.PRT-I",
+"def": "PaRTicle, Interrogative"
+},
+{
+"top": "rmac.PRT-N",
+"def": "PaRTicle, Negative"
+},
+{
+"top": "rmac.Q-APF",
+"def": "correlative or interrogative pronoun, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.Q-APM",
+"def": "correlative or interrogative pronoun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.Q-APN",
+"def": "correlative or interrogative pronoun, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.Q-ASF",
+"def": "correlative or interrogative pronoun, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.Q-ASN",
+"def": "correlative or interrogative pronoun, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.Q-DSN",
+"def": "correlative or interrogative pronoun, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.Q-GPN",
+"def": "correlative or interrogative pronoun, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.Q-NPF",
+"def": "correlative or interrogative pronoun, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.Q-NPM",
+"def": "correlative or interrogative pronoun, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.Q-NSM",
+"def": "correlative or interrogative pronoun, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.Q-NSN",
+"def": "correlative or interrogative pronoun, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.R-APF",
+"def": "Relative pronoun, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.R-APM",
+"def": "Relative pronoun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.R-APN",
+"def": "Relative pronoun, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.R-ASF",
+"def": "Relative pronoun, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.R-ASM",
+"def": "Relative pronoun, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.R-ASM-P",
+"def": "Relative pronoun, Accusative, Singular, Masculine, Particle attached"
+},
+{
+"top": "rmac.R-ASN",
+"def": "Relative pronoun, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.R-DPF",
+"def": "Relative pronoun, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.R-DPM",
+"def": "Relative pronoun, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.R-DPN",
+"def": "Relative pronoun, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.R-DSF",
+"def": "Relative pronoun, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.R-DSM",
+"def": "Relative pronoun, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.R-DSN",
+"def": "Relative pronoun, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.R-GPF",
+"def": "Relative pronoun, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.R-GPM",
+"def": "Relative pronoun, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.R-GPN",
+"def": "Relative pronoun, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.R-GSF",
+"def": "Relative pronoun, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.R-GSM",
+"def": "Relative pronoun, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.R-GSN",
+"def": "Relative pronoun, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.R-GSN-ATT",
+"def": "Relative pronoun, Genitive, Singular, Neuter, ATTic Greek form"
+},
+{
+"top": "rmac.R-NPF",
+"def": "Relative pronoun, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.R-NPM",
+"def": "Relative pronoun, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.R-NPN",
+"def": "Relative pronoun, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.R-NSF",
+"def": "Relative pronoun, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.R-NSM",
+"def": "Relative pronoun, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.R-NSN",
+"def": "Relative pronoun, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.S-1APF",
+"def": "poSessive pronoun, first, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.S-1APM",
+"def": "poSessive pronoun, first, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.S-1APN",
+"def": "poSessive pronoun, first, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.S-1ASF",
+"def": "poSessive pronoun, first, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.S-1ASM",
+"def": "poSessive pronoun, first, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.S-1ASN",
+"def": "poSessive pronoun, first, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.S-1DPF",
+"def": "poSessive pronoun, first, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.S-1DPM",
+"def": "poSessive pronoun, first, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.S-1DPN",
+"def": "poSessive pronoun, first, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.S-1DSF",
+"def": "poSessive pronoun, first, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.S-1DSM",
+"def": "poSessive pronoun, first, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.S-1DSN",
+"def": "poSessive pronoun, first, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.S-1GPF",
+"def": "poSessive pronoun, first, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.S-1GPN",
+"def": "poSessive pronoun, first, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.S-1GSF",
+"def": "poSessive pronoun, first, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.S-1NPF",
+"def": "poSessive pronoun, first, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.S-1NPM",
+"def": "poSessive pronoun, first, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.S-1NPN",
+"def": "poSessive pronoun, first, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.S-1NSF",
+"def": "poSessive pronoun, first, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.S-1NSM",
+"def": "poSessive pronoun, first, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.S-1NSN",
+"def": "poSessive pronoun, first, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.S-1PASF",
+"def": "poSsessive pronoun, first, Plural, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.S-1PASN",
+"def": "poSsessive pronoun, first, Plural, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.S-1PDPF",
+"def": "poSsessive pronoun, first, Plural, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.S-1PDPM",
+"def": "poSsessive pronoun, first, Plural, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.S-1PGPF",
+"def": "poSsessive pronoun, first, Plural, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.S-1PGSF",
+"def": "poSsessive pronoun, first, Plural, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.S-1PNPM",
+"def": "poSsessive pronoun, first, Plural, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.S-1PNSF",
+"def": "poSsessive pronoun, first, Plural, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.S-1SAPF",
+"def": "poSsessive pronoun, first, Singular, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.S-1SAPM",
+"def": "poSsessive pronoun, first, Singular, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.S-1SAPN",
+"def": "poSsessive pronoun, first, Singular, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.S-1SASF",
+"def": "poSsessive pronoun, first, Singular, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.S-1SASM",
+"def": "poSsessive pronoun, first, Singular, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.S-1SASN",
+"def": "poSsessive pronoun, first, Singular, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.S-1SDPN",
+"def": "poSsessive pronoun, first, Singular, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.S-1SDSF",
+"def": "poSsessive pronoun, first, Singular, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.S-1SDSM",
+"def": "poSsessive pronoun, first, Singular, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.S-1SDSN",
+"def": "poSsessive pronoun, first, Singular, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.S-1SGPN",
+"def": "poSsessive pronoun, first, Singular, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.S-1SGSF",
+"def": "poSsessive pronoun, first, Singular, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.S-1SGSN",
+"def": "poSsessive pronoun, first, Singular, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.S-1SNPM",
+"def": "poSsessive pronoun, first, Singular, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.S-1SNPN",
+"def": "poSsessive pronoun, first, Singular, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.S-1SNSF",
+"def": "poSsessive pronoun, first, Singular, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.S-1SNSM",
+"def": "poSsessive pronoun, first, Singular, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.S-1SNSN",
+"def": "poSsessive pronoun, first, Singular, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.S-2APF",
+"def": "poSessive pronoun, second, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.S-2APM",
+"def": "poSessive pronoun, second, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.S-2APN",
+"def": "poSessive pronoun, second, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.S-2ASF",
+"def": "poSessive pronoun, second, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.S-2ASN",
+"def": "poSessive pronoun, second, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.S-2DPF",
+"def": "poSessive pronoun, second, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.S-2DPM",
+"def": "poSessive pronoun, second, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.S-2DSF",
+"def": "poSessive pronoun, second, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.S-2DSM",
+"def": "poSessive pronoun, second, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.S-2GPF",
+"def": "poSessive pronoun, second, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.S-2GSF",
+"def": "poSessive pronoun, second, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.S-2NPF",
+"def": "poSessive pronoun, second, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.S-2NPM",
+"def": "poSessive pronoun, second, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.S-2NPN",
+"def": "poSessive pronoun, second, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.S-2NSM",
+"def": "poSessive pronoun, second, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.S-2NSN",
+"def": "poSessive pronoun, second, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.S-2PASF",
+"def": "poSsessive pronoun, second, Plural, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.S-2PASM",
+"def": "poSsessive pronoun, second, Plural, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.S-2PASN",
+"def": "poSsessive pronoun, second, Plural, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.S-2PDSF",
+"def": "poSsessive pronoun, second, Plural, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.S-2PDSM",
+"def": "poSsessive pronoun, second, Plural, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.S-2PDSN",
+"def": "poSsessive pronoun, second, Plural, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.S-2PGSF",
+"def": "poSsessive pronoun, second, Plural, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.S-2PNSF",
+"def": "poSsessive pronoun, second, Plural, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.S-2PNSM",
+"def": "poSsessive pronoun, second, Plural, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.S-2SAPM",
+"def": "poSsessive pronoun, second, Singular, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.S-2SAPN",
+"def": "poSsessive pronoun, second, Singular, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.S-2SASF",
+"def": "poSsessive pronoun, second, Singular, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.S-2SASN",
+"def": "poSsessive pronoun, second, Singular, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.S-2SDSF",
+"def": "poSsessive pronoun, second, Singular, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.S-2SDSM",
+"def": "poSsessive pronoun, second, Singular, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.S-2SDSN",
+"def": "poSsessive pronoun, second, Singular, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.S-2SGSF",
+"def": "poSsessive pronoun, second, Singular, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.S-2SNPM",
+"def": "poSsessive pronoun, second, Singular, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.S-2SNPN",
+"def": "poSsessive pronoun, second, Singular, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.S-2SNSM",
+"def": "poSsessive pronoun, second, Singular, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.S-2SNSN",
+"def": "poSsessive pronoun, second, Singular, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.T-APF",
+"def": "definite article, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.T-APM",
+"def": "definite article, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.T-APN",
+"def": "definite article, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.T-ASF",
+"def": "definite article, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.T-ASM",
+"def": "definite article, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.T-ASN",
+"def": "definite article, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.T-DPF",
+"def": "definite article, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.T-DPM",
+"def": "definite article, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.T-DPN",
+"def": "definite article, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.T-DSF",
+"def": "definite article, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.T-DSM",
+"def": "definite article, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.T-DSN",
+"def": "definite article, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.T-GPF",
+"def": "definite article, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.T-GPM",
+"def": "definite article, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.T-GPN",
+"def": "definite article, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.T-GSF",
+"def": "definite article, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.T-GSM",
+"def": "definite article, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.T-GSN",
+"def": "definite article, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.T-NPF",
+"def": "definite article, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.T-NPM",
+"def": "definite article, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.T-NPN",
+"def": "definite article, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.T-NSF",
+"def": "definite article, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.T-NSM",
+"def": "definite article, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.T-NSN",
+"def": "definite article, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2AAI-1P",
+"def": "Verb, second Aorist, Active, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-2AAI-1S",
+"def": "Verb, second Aorist, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2AAI-2P",
+"def": "Verb, second Aorist, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-2AAI-2S",
+"def": "Verb, second Aorist, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-2AAI-3P",
+"def": "Verb, second Aorist, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2AAI-3P-ATT",
+"def": "Verb, second Aorist, Active, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-2AAI-3S",
+"def": "Verb, second Aorist, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2AAM-2P",
+"def": "Verb, second Aorist, Active, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-2AAM-2S",
+"def": "Verb, second Aorist, Active, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-2AAM-2S-AP",
+"def": "Verb, second Aorist, Active, iMperative, second, Singular, Apocopated form"
+},
+{
+"top": "rmac.V-2AAM-2S-ATT",
+"def": "Verb, second Aorist, Active, iMperative, second, Singular, ATTic form"
+},
+{
+"top": "rmac.V-2AAM-3P",
+"def": "Verb, second Aorist, Active, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-2AAM-3S",
+"def": "Verb, second Aorist, Active, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-2AAN",
+"def": "Verb, second Aorist, Active, iNfinitive"
+},
+{
+"top": "rmac.V-2AAO-3P",
+"def": "Verb, second Aorist, Active, Optative, third, Plural"
+},
+{
+"top": "rmac.V-2AAO-3S",
+"def": "Verb, second Aorist, Active, Optative, third, Singular"
+},
+{
+"top": "rmac.V-2AAP-APF",
+"def": "Verb, second Aorist, Active, Participle, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.V-2AAP-APM",
+"def": "Verb, second Aorist, Active, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2AAP-ASF",
+"def": "Verb, second Aorist, Active, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-2AAP-ASM",
+"def": "Verb, second Aorist, Active, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2AAP-ASN",
+"def": "Verb, second Aorist, Active, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2AAP-DPF",
+"def": "Verb, second Aorist, Active, Participle, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.V-2AAP-DPM",
+"def": "Verb, second Aorist, Active, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2AAP-DSF",
+"def": "Verb, second Aorist, Active, Participle, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.V-2AAP-DSM",
+"def": "Verb, second Aorist, Active, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2AAP-GPM",
+"def": "Verb, second Aorist, Active, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-2AAP-GSF",
+"def": "Verb, second Aorist, Active, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-2AAP-GSM",
+"def": "Verb, second Aorist, Active, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-2AAP-GSN",
+"def": "Verb, second Aorist, Active, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-2AAP-NPF",
+"def": "Verb, second Aorist, Active, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-2AAP-NPM",
+"def": "Verb, second Aorist, Active, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2AAP-NPN",
+"def": "Verb, second Aorist, Active, Participle, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.V-2AAP-NSF",
+"def": "Verb, second Aorist, Active, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-2AAP-NSM",
+"def": "Verb, second Aorist, Active, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2AAP-NSN",
+"def": "Verb, second Aorist, Active, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2AAS-1P",
+"def": "Verb, second Aorist, Active, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-2AAS-1S",
+"def": "Verb, second Aorist, Active, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-2AAS-2P",
+"def": "Verb, second Aorist, Active, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-2AAS-2S",
+"def": "Verb, second Aorist, Active, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-2AAS-3P",
+"def": "Verb, second Aorist, Active, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-2AAS-3S",
+"def": "Verb, second Aorist, Active, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-2ADI-1S",
+"def": "Verb, second Aorist, middle Deponent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2ADI-2P",
+"def": "Verb, second Aorist, middle Deponent, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-2ADI-2S",
+"def": "Verb, second Aorist, middle Deponent, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-2ADI-3P",
+"def": "Verb, second Aorist, middle Deponent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2ADI-3S",
+"def": "Verb, second Aorist, middle Deponent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2ADM-2P",
+"def": "Verb, second Aorist, middle Deponent, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-2ADM-2S",
+"def": "Verb, second Aorist, middle Deponent, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-2ADM-3S",
+"def": "Verb, second Aorist, middle Deponent, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-2ADN",
+"def": "Verb, second Aorist, middle Deponent, iNfinitive"
+},
+{
+"top": "rmac.V-2ADO-1S",
+"def": "Verb, second Aorist, middle Deponent, Optative, first, Singular"
+},
+{
+"top": "rmac.V-2ADO-3S",
+"def": "Verb, second Aorist, middle Deponent, Optative, third, Singular"
+},
+{
+"top": "rmac.V-2ADP-APM",
+"def": "Verb, second Aorist, middle Deponent, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2ADP-APN",
+"def": "Verb, second Aorist, middle Deponent, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-2ADP-ASF",
+"def": "Verb, second Aorist, middle Deponent, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-2ADP-ASM",
+"def": "Verb, second Aorist, middle Deponent, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2ADP-ASN",
+"def": "Verb, second Aorist, middle Deponent, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2ADP-DPM",
+"def": "Verb, second Aorist, middle Deponent, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2ADP-DPN",
+"def": "Verb, second Aorist, middle Deponent, Participle, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.V-2ADP-GPF",
+"def": "Verb, second Aorist, middle Deponent, Participle, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.V-2ADP-GPM",
+"def": "Verb, second Aorist, middle Deponent, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-2ADP-GPN",
+"def": "Verb, second Aorist, middle Deponent, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-2ADP-GSF",
+"def": "Verb, second Aorist, middle Deponent, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-2ADP-GSM",
+"def": "Verb, second Aorist, middle Deponent, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-2ADP-GSN",
+"def": "Verb, second Aorist, middle Deponent, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-2ADP-NPF",
+"def": "Verb, second Aorist, middle Deponent, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-2ADP-NPM",
+"def": "Verb, second Aorist, middle Deponent, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2ADP-NSM",
+"def": "Verb, second Aorist, middle Deponent, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2ADS-1P",
+"def": "Verb, second Aorist, middle Deponent, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-2ADS-1S",
+"def": "Verb, second Aorist, middle Deponent, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-2ADS-2P",
+"def": "Verb, second Aorist, middle Deponent, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-2ADS-3P",
+"def": "Verb, second Aorist, middle Deponent, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-2ADS-3S",
+"def": "Verb, second Aorist, middle Deponent, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-2AMI-1P",
+"def": "Verb, second Aorist, Middle, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-2AMI-1S",
+"def": "Verb, second Aorist, Middle, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2AMI-2P",
+"def": "Verb, second Aorist, Middle, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-2AMI-2S",
+"def": "Verb, second Aorist, Middle, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-2AMI-3P",
+"def": "Verb, second Aorist, Middle, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2AMI-3S",
+"def": "Verb, second Aorist, Middle, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2AMM-2P",
+"def": "Verb, second Aorist, Middle, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-2AMM-2S",
+"def": "Verb, second Aorist, Middle, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-2AMN",
+"def": "Verb, second Aorist, Middle, iNfinitive"
+},
+{
+"top": "rmac.V-2AMP-GSM",
+"def": "Verb, second Aorist, Middle, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-2AMP-NPM",
+"def": "Verb, second Aorist, Middle, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2AMP-NSM",
+"def": "Verb, second Aorist, Middle, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2AMS-1P",
+"def": "Verb, second Aorist, Middle, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-2AMS-1S",
+"def": "Verb, second Aorist, Middle, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-2AMS-2S",
+"def": "Verb, second Aorist, Middle, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-2AMS-3P",
+"def": "Verb, second Aorist, Middle, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-2AMS-3S",
+"def": "Verb, second Aorist, Middle, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-2AOI-1P",
+"def": "Verb, second Aorist, passive depOnent, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-2AOI-1S",
+"def": "Verb, second Aorist, passive depOnent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2AOI-2P",
+"def": "Verb, second Aorist, passive depOnent, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-2AOI-3P",
+"def": "Verb, second Aorist, passive depOnent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2AOI-3S",
+"def": "Verb, second Aorist, passive depOnent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2AOM-2P",
+"def": "Verb, second Aorist, passive depOnent, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-2AON",
+"def": "Verb, second Aorist, passive depOnent, iNfinitive"
+},
+{
+"top": "rmac.V-2AOS-2P",
+"def": "Verb, second Aorist, passive depOnent, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-2API-1P",
+"def": "Verb, second Aorist, Passive, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-2API-1S",
+"def": "Verb, second Aorist, Passive, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2API-2P",
+"def": "Verb, second Aorist, Passive, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-2API-2S",
+"def": "Verb, second Aorist, Passive, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-2API-3P",
+"def": "Verb, second Aorist, Passive, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2API-3S",
+"def": "Verb, second Aorist, Passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2APM-2P",
+"def": "Verb, second Aorist, Passive, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-2APM-2S",
+"def": "Verb, second Aorist, Passive, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-2APM-3S",
+"def": "Verb, second Aorist, Passive, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-2APN",
+"def": "Verb, second Aorist, Passive, iNfinitive"
+},
+{
+"top": "rmac.V-2APP-ASM",
+"def": "Verb, second Aorist, Passive, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2APP-DSN",
+"def": "Verb, second Aorist, Passive, Participle, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2APP-GPM",
+"def": "Verb, second Aorist, Passive, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-2APP-NPF",
+"def": "Verb, second Aorist, Passive, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-2APP-NPM",
+"def": "Verb, second Aorist, Passive, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2APP-NSF",
+"def": "Verb, second Aorist, Passive, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-2APP-NSM",
+"def": "Verb, second Aorist, Passive, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2APP-NSN",
+"def": "Verb, second Aorist, Passive, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2APS-1P",
+"def": "Verb, second Aorist, Passive, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-2APS-2P",
+"def": "Verb, second Aorist, Passive, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-2APS-2S",
+"def": "Verb, second Aorist, Passive, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-2APS-3P",
+"def": "Verb, second Aorist, Passive, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-2APS-3S",
+"def": "Verb, second Aorist, Passive, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-2AXM-2P",
+"def": "Verb, second Aorist, no voice stated, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-2AXP-GPM",
+"def": "Verb, second Aorist, no voice stated, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-2AXS-2P",
+"def": "Verb, second Aorist, no voice stated, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-2FAI-1S",
+"def": "Verb, second Future, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2FAI-3S",
+"def": "Verb, second Future, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2FDI-2S",
+"def": "Verb, second Future, middle Deponent, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-2FDI-3P",
+"def": "Verb, second Future, middle Deponent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2FDI-3S",
+"def": "Verb, second Future, middle Deponent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2FMI-3S",
+"def": "Verb, second Future, Middle, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2FOI-1S",
+"def": "Verb, second Future, passive depOnent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2FOI-3P",
+"def": "Verb, second Future, passive depOnent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2FOI-3S",
+"def": "Verb, second Future, passive depOnent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2FPI-1P",
+"def": "Verb, second Future, Passive, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-2FPI-2P",
+"def": "Verb, second Future, Passive, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-2FPI-2S",
+"def": "Verb, second Future, Passive, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-2FPI-3P",
+"def": "Verb, second Future, Passive, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2FPI-3S",
+"def": "Verb, second Future, Passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2LAI-1S",
+"def": "Verb, second pLuperfect, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2LAI-2P",
+"def": "Verb, second pLuperfect, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-2LAI-2S",
+"def": "Verb, second pLuperfect, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-2LAI-3P",
+"def": "Verb, second pLuperfect, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2LAI-3S",
+"def": "Verb, second pLuperfect, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2RAI-1P",
+"def": "Verb, second peRfect, Active, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-2RAI-1P-ATT",
+"def": "Verb, second peRfect, Active, Indicative, first, Plural, ATTic form"
+},
+{
+"top": "rmac.V-2RAI-1S",
+"def": "Verb, second peRfect, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-2RAI-2P",
+"def": "Verb, second peRfect, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-2RAI-2P-ATT",
+"def": "Verb, second peRfect, Active, Indicative, second, Plural, ATTic form"
+},
+{
+"top": "rmac.V-2RAI-2S",
+"def": "Verb, second peRfect, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-2RAI-3P",
+"def": "Verb, second peRfect, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-2RAI-3P-ATT",
+"def": "Verb, second peRfect, Active, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-2RAI-3P-C",
+"def": "Verb, second peRfect, Active, Indicative, third, Plural, Contracted form"
+},
+{
+"top": "rmac.V-2RAI-3S",
+"def": "Verb, second peRfect, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-2RAI-3S-ATT",
+"def": "Verb, second peRfect, Active, Indicative, third, Singular, ATTic form"
+},
+{
+"top": "rmac.V-2RAN",
+"def": "Verb, second peRfect, Active, iNfinitive"
+},
+{
+"top": "rmac.V-2RAP-APM",
+"def": "Verb, second peRfect, Active, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2RAP-APM-ATT",
+"def": "Verb, second peRfect, Active, Participle, Accusative, Plural, Masculine, ATTic form"
+},
+{
+"top": "rmac.V-2RAP-APN",
+"def": "Verb, second peRfect, Active, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-2RAP-ASF",
+"def": "Verb, second peRfect, Active, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-2RAP-ASM",
+"def": "Verb, second peRfect, Active, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2RAP-ASN",
+"def": "Verb, second peRfect, Active, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2RAP-DSN",
+"def": "Verb, second peRfect, Active, Participle, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2RAP-NPF",
+"def": "Verb, second peRfect, Active, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-2RAP-NPM",
+"def": "Verb, second peRfect, Active, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-2RAP-NSF",
+"def": "Verb, second peRfect, Active, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-2RAP-NSM",
+"def": "Verb, second peRfect, Active, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2RAP-NSN",
+"def": "Verb, second peRfect, Active, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-2RPP-ASM",
+"def": "Verb, second peRfect, Passive, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-2RPP-ASN",
+"def": "Verb, second peRfect, Passive, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-AAI-1P",
+"def": "Verb, Aorist, Active, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-AAI-1S",
+"def": "Verb, Aorist, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-AAI-2P",
+"def": "Verb, Aorist, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-AAI-2S",
+"def": "Verb, Aorist, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-AAI-3P",
+"def": "Verb, Aorist, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-AAI-3S",
+"def": "Verb, Aorist, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-AAM-2P",
+"def": "Verb, Aorist, Active, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-AAM-2S",
+"def": "Verb, Aorist, Active, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-AAM-3P",
+"def": "Verb, Aorist, Active, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-AAM-3S",
+"def": "Verb, Aorist, Active, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-AAN",
+"def": "Verb, Aorist, Active, iNfinitive"
+},
+{
+"top": "rmac.V-AAO-3P",
+"def": "Verb, Aorist, Active, Optative, third, Plural"
+},
+{
+"top": "rmac.V-AAO-3P-A",
+"def": "Verb, Aorist, Active, Optative, third, Plural, Aeolic"
+},
+{
+"top": "rmac.V-AAO-3S",
+"def": "Verb, Aorist, Active, Optative, third, Singular"
+},
+{
+"top": "rmac.V-AAP-APM",
+"def": "Verb, Aorist, Active, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-AAP-APN",
+"def": "Verb, Aorist, Active, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-AAP-ASF",
+"def": "Verb, Aorist, Active, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-AAP-ASM",
+"def": "Verb, Aorist, Active, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-AAP-ASN",
+"def": "Verb, Aorist, Active, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-AAP-DPM",
+"def": "Verb, Aorist, Active, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-AAP-DSM",
+"def": "Verb, Aorist, Active, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-AAP-GPM",
+"def": "Verb, Aorist, Active, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-AAP-GSF",
+"def": "Verb, Aorist, Active, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-AAP-GSM",
+"def": "Verb, Aorist, Active, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-AAP-NPF",
+"def": "Verb, Aorist, Active, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-AAP-NPM",
+"def": "Verb, Aorist, Active, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-AAP-NSF",
+"def": "Verb, Aorist, Active, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-AAP-NSM",
+"def": "Verb, Aorist, Active, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-AAP-NSN",
+"def": "Verb, Aorist, Active, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-AAPNS",
+"def": "Verb, Aorist, Active, Participle, Nominative, Singular"
+},
+{
+"top": "rmac.V-AAS-1P",
+"def": "Verb, Aorist, Active, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-AAS-1S",
+"def": "Verb, Aorist, Active, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-AAS-2P",
+"def": "Verb, Aorist, Active, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-AAS-2S",
+"def": "Verb, Aorist, Active, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-AAS-3P",
+"def": "Verb, Aorist, Active, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-AAS-3S",
+"def": "Verb, Aorist, Active, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-ADI-1P",
+"def": "Verb, Aorist, middle Deponent, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-ADI-1S",
+"def": "Verb, Aorist, middle Deponent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-ADI-2P",
+"def": "Verb, Aorist, middle Deponent, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-ADI-2S",
+"def": "Verb, Aorist, middle Deponent, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-ADI-3P",
+"def": "Verb, Aorist, middle Deponent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-ADI-3S",
+"def": "Verb, Aorist, middle Deponent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-ADM-2P",
+"def": "Verb, Aorist, middle Deponent, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-ADM-2S",
+"def": "Verb, Aorist, middle Deponent, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-ADM-3P",
+"def": "Verb, Aorist, middle Deponent, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-ADM-3S",
+"def": "Verb, Aorist, middle Deponent, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-ADN",
+"def": "Verb, Aorist, middle Deponent, iNfinitive"
+},
+{
+"top": "rmac.V-ADO-1S",
+"def": "Verb, Aorist, middle Deponent, Optative, first, Singular"
+},
+{
+"top": "rmac.V-ADP-APM",
+"def": "Verb, Aorist, middle Deponent, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-ADP-ASM",
+"def": "Verb, Aorist, middle Deponent, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-ADP-DPM",
+"def": "Verb, Aorist, middle Deponent, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-ADP-GSF",
+"def": "Verb, Aorist, middle Deponent, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-ADP-NPM",
+"def": "Verb, Aorist, middle Deponent, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-ADP-NSF",
+"def": "Verb, Aorist, middle Deponent, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-ADP-NSM",
+"def": "Verb, Aorist, middle Deponent, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-ADS-1P",
+"def": "Verb, Aorist, middle Deponent, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-ADS-1S",
+"def": "Verb, Aorist, middle Deponent, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-ADS-2P",
+"def": "Verb, Aorist, middle Deponent, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-ADS-2S",
+"def": "Verb, Aorist, middle Deponent, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-ADS-3P",
+"def": "Verb, Aorist, middle Deponent, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-ADS-3S",
+"def": "Verb, Aorist, middle Deponent, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-AMI-1P",
+"def": "Verb, Aorist, Middle, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-AMI-1S",
+"def": "Verb, Aorist, Middle, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-AMI-2P",
+"def": "Verb, Aorist, Middle, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-AMI-2S",
+"def": "Verb, Aorist, Middle, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-AMI-3P",
+"def": "Verb, Aorist, Middle, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-AMI-3S",
+"def": "Verb, Aorist, Middle, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-AMM-2P",
+"def": "Verb, Aorist, Middle, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-AMM-2S",
+"def": "Verb, Aorist, Middle, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-AMM-3S",
+"def": "Verb, Aorist, Middle, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-AMN",
+"def": "Verb, Aorist, Middle, iNfinitive"
+},
+{
+"top": "rmac.V-AMP-APM",
+"def": "Verb, Aorist, Middle, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-AMP-ASN",
+"def": "Verb, Aorist, Middle, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-AMP-DPM",
+"def": "Verb, Aorist, Middle, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-AMP-GPM",
+"def": "Verb, Aorist, Middle, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-AMP-GSM",
+"def": "Verb, Aorist, Middle, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-AMP-NPM",
+"def": "Verb, Aorist, Middle, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-AMP-NSF",
+"def": "Verb, Aorist, Middle, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-AMP-NSM",
+"def": "Verb, Aorist, Middle, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-AMP-NSN",
+"def": "Verb, Aorist, Middle, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-AMPNP",
+"def": "Verb, Aorist, Middle, Participle, Nominative, Plural"
+},
+{
+"top": "rmac.V-AMS-1P",
+"def": "Verb, Aorist, Middle, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-AMS-1S",
+"def": "Verb, Aorist, Middle, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-AMS-2P",
+"def": "Verb, Aorist, Middle, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-AMS-2S",
+"def": "Verb, Aorist, Middle, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-AMS-3P",
+"def": "Verb, Aorist, Middle, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-AMS-3S",
+"def": "Verb, Aorist, Middle, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-ANI-3P",
+"def": "Verb, Aorist, middle or passive depoNent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-ANI-3S",
+"def": "Verb, Aorist, middle or passive depoNent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-ANP-NSM",
+"def": "Verb, Aorist, middle or passive depoNent, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-ANP-NSN",
+"def": "Verb, Aorist, middle or passive depoNent, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-AOI-1P",
+"def": "Verb, Aorist, passive depOnent, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-AOI-1P-ATT",
+"def": "Verb, Aorist, passive depOnent, Indicative, first, Plural, ATTic form"
+},
+{
+"top": "rmac.V-AOI-1S",
+"def": "Verb, Aorist, passive depOnent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-AOI-1S-ATT",
+"def": "Verb, Aorist, passive depOnent, Indicative, first, Singular, ATTic form"
+},
+{
+"top": "rmac.V-AOI-2P",
+"def": "Verb, Aorist, passive depOnent, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-AOI-2P-ATT",
+"def": "Verb, Aorist, passive depOnent, Indicative, second, Plural, ATTic form"
+},
+{
+"top": "rmac.V-AOI-3P",
+"def": "Verb, Aorist, passive depOnent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-AOI-3P-ATT",
+"def": "Verb, Aorist, passive depOnent, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-AOI-3S",
+"def": "Verb, Aorist, passive depOnent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-AOI-3S-ATT",
+"def": "Verb, Aorist, passive depOnent, Indicative, third, Singular, ATTic form"
+},
+{
+"top": "rmac.V-AOM-2P",
+"def": "Verb, Aorist, passive depOnent, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-AOM-2S",
+"def": "Verb, Aorist, passive depOnent, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-AOM-3S",
+"def": "Verb, Aorist, passive depOnent, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-AON",
+"def": "Verb, Aorist, passive depOnent, iNfinitive"
+},
+{
+"top": "rmac.V-AOO-3S",
+"def": "Verb, Aorist, passive depOnent, Optative, third, Singular"
+},
+{
+"top": "rmac.V-AOP-APM",
+"def": "Verb, Aorist, passive depOnent, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-AOP-ASM",
+"def": "Verb, Aorist, passive depOnent, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-AOP-DSM",
+"def": "Verb, Aorist, passive depOnent, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-AOP-GPM",
+"def": "Verb, Aorist, passive depOnent, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-AOP-GPN",
+"def": "Verb, Aorist, passive depOnent, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-AOP-GSM",
+"def": "Verb, Aorist, passive depOnent, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-AOP-NPF",
+"def": "Verb, Aorist, passive depOnent, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-AOP-NPM",
+"def": "Verb, Aorist, passive depOnent, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-AOP-NSF",
+"def": "Verb, Aorist, passive depOnent, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-AOP-NSM",
+"def": "Verb, Aorist, passive depOnent, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-AOP-NSN",
+"def": "Verb, Aorist, passive depOnent, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-AOS-1P",
+"def": "Verb, Aorist, passive depOnent, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-AOS-1S",
+"def": "Verb, Aorist, passive depOnent, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-AOS-2P",
+"def": "Verb, Aorist, passive depOnent, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-AOS-2S",
+"def": "Verb, Aorist, passive depOnent, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-AOS-3P",
+"def": "Verb, Aorist, passive depOnent, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-AOS-3S",
+"def": "Verb, Aorist, passive depOnent, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-API",
+"def": "Verb, Aorist, Passive, Indicative"
+},
+{
+"top": "rmac.V-API-1P",
+"def": "Verb, Aorist, Passive, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-API-1S",
+"def": "Verb, Aorist, Passive, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-API-2P",
+"def": "Verb, Aorist, Passive, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-API-2S",
+"def": "Verb, Aorist, Passive, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-API-3P",
+"def": "Verb, Aorist, Passive, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-API-3S",
+"def": "Verb, Aorist, Passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-API-3S-M",
+"def": "Verb, Aorist, Passive, Indicative, third, Singular, Middle significance"
+},
+{
+"top": "rmac.V-APM-2P",
+"def": "Verb, Aorist, Passive, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-APM-2S",
+"def": "Verb, Aorist, Passive, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-APM-3P",
+"def": "Verb, Aorist, Passive, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-APM-3S",
+"def": "Verb, Aorist, Passive, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-APN",
+"def": "Verb, Aorist, Passive, iNfinitive"
+},
+{
+"top": "rmac.V-APN-M",
+"def": "Verb, Aorist, Passive, iNfinitive, Masculine"
+},
+{
+"top": "rmac.V-APO-3S",
+"def": "Verb, Aorist, Passive, Optative, third, Singular"
+},
+{
+"top": "rmac.V-APP-APM",
+"def": "Verb, Aorist, Passive, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-APP-APN",
+"def": "Verb, Aorist, Passive, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-APP-ASF",
+"def": "Verb, Aorist, Passive, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-APP-ASM",
+"def": "Verb, Aorist, Passive, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-APP-ASN",
+"def": "Verb, Aorist, Passive, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-APP-DPN",
+"def": "Verb, Aorist, Passive, Participle, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.V-APP-DSF",
+"def": "Verb, Aorist, Passive, Participle, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.V-APP-DSM",
+"def": "Verb, Aorist, Passive, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-APP-GPF",
+"def": "Verb, Aorist, Passive, Participle, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.V-APP-GPM",
+"def": "Verb, Aorist, Passive, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-APP-GPN",
+"def": "Verb, Aorist, Passive, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-APP-GSF",
+"def": "Verb, Aorist, Passive, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-APP-GSM",
+"def": "Verb, Aorist, Passive, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-APP-GSN",
+"def": "Verb, Aorist, Passive, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-APP-NPM",
+"def": "Verb, Aorist, Passive, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-APP-NPN",
+"def": "Verb, Aorist, Passive, Participle, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.V-APP-NSF",
+"def": "Verb, Aorist, Passive, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-APP-NSM",
+"def": "Verb, Aorist, Passive, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-APP-NSM-M",
+"def": "Verb, Aorist, Passive, Participle, Nominative, Singular, Masculine, Middle significance"
+},
+{
+"top": "rmac.V-APP-NSN",
+"def": "Verb, Aorist, Passive, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-APS-1P",
+"def": "Verb, Aorist, Passive, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-APS-1S",
+"def": "Verb, Aorist, Passive, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-APS-2P",
+"def": "Verb, Aorist, Passive, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-APS-2S",
+"def": "Verb, Aorist, Passive, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-APS-3P",
+"def": "Verb, Aorist, Passive, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-APS-3S",
+"def": "Verb, Aorist, Passive, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-FAI-1P",
+"def": "Verb, Future, Active, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-FAI-1S",
+"def": "Verb, Future, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-FAI-1S-ATT",
+"def": "Verb, Future, Active, Indicative, first, Singular, ATTic form"
+},
+{
+"top": "rmac.V-FAI-2P",
+"def": "Verb, Future, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-FAI-2S",
+"def": "Verb, Future, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-FAI-3P",
+"def": "Verb, Future, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-FAI-3P-ATT",
+"def": "Verb, Future, Active, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-FAI-3S",
+"def": "Verb, Future, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-FAI-3S-ATT",
+"def": "Verb, Future, Active, Indicative, third, Singular, ATTic form"
+},
+{
+"top": "rmac.V-FAN",
+"def": "Verb, Future, Active, iNfinitive"
+},
+{
+"top": "rmac.V-FAP-APN",
+"def": "Verb, Future, Active, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-FAP-GPM",
+"def": "Verb, Future, Active, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-FAP-NPM",
+"def": "Verb, Future, Active, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-FAP-NSM",
+"def": "Verb, Future, Active, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-FDI-1P",
+"def": "Verb, Future, middle Deponent, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-FDI-1S",
+"def": "Verb, Future, middle Deponent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-FDI-2P",
+"def": "Verb, Future, middle Deponent, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-FDI-2P-ATT",
+"def": "Verb, Future, middle Deponent, Indicative, second, Plural, ATTic form"
+},
+{
+"top": "rmac.V-FDI-2S",
+"def": "Verb, Future, middle Deponent, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-FDI-2S-ATT",
+"def": "Verb, Future, middle Deponent, Indicative, second, Singular, ATTic form"
+},
+{
+"top": "rmac.V-FDI-3P",
+"def": "Verb, Future, middle Deponent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-FDI-3S",
+"def": "Verb, Future, middle Deponent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-FDI-3S-ATT",
+"def": "Verb, Future, middle Deponent, Indicative, third, Singular, ATTic form"
+},
+{
+"top": "rmac.V-FDN",
+"def": "Verb, Future, middle Deponent, iNfinitive"
+},
+{
+"top": "rmac.V-FDP-ASN",
+"def": "Verb, Future, middle Deponent, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-FDP-NPM",
+"def": "Verb, Future, middle Deponent, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-FMI-1P",
+"def": "Verb, Future, Middle, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-FMI-1S",
+"def": "Verb, Future, Middle, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-FMI-2P",
+"def": "Verb, Future, Middle, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-FMI-2S",
+"def": "Verb, Future, Middle, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-FMI-3P",
+"def": "Verb, Future, Middle, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-FMI-3S",
+"def": "Verb, Future, Middle, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-FNI-3P",
+"def": "Verb, Future, middle or passive depoNent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-FNI-3S",
+"def": "Verb, Future, middle or passive depoNent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-FOI-1S",
+"def": "Verb, Future, passive depOnent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-FOI-3P",
+"def": "Verb, Future, passive depOnent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-FOI-3S",
+"def": "Verb, Future, passive depOnent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-FPI-1P",
+"def": "Verb, Future, Passive, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-FPI-1S",
+"def": "Verb, Future, Passive, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-FPI-2P",
+"def": "Verb, Future, Passive, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-FPI-2S",
+"def": "Verb, Future, Passive, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-FPI-3P",
+"def": "Verb, Future, Passive, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-FPI-3S",
+"def": "Verb, Future, Passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-FPP-GPN",
+"def": "Verb, Future, Passive, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-FPS-1S",
+"def": "Verb, Future, Passive, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-FXI-1P",
+"def": "Verb, Future, no voice stated, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-FXI-1S",
+"def": "Verb, Future, no voice stated, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-FXI-2P",
+"def": "Verb, Future, no voice stated, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-FXI-2S",
+"def": "Verb, Future, no voice stated, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-FXI-3P",
+"def": "Verb, Future, no voice stated, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-FXI-3S",
+"def": "Verb, Future, no voice stated, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-FXN",
+"def": "Verb, Future, no voice stated, iNfinitive"
+},
+{
+"top": "rmac.V-FXP-ASN",
+"def": "Verb, Future, no voice stated, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-FXP-NSM",
+"def": "Verb, Future, no voice stated, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-IAI-1P",
+"def": "Verb, Imperfect, Active, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-IAI-1S",
+"def": "Verb, Imperfect, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-IAI-1S-ATT",
+"def": "Verb, Imperfect, Active, Indicative, first, Singular, ATTic form"
+},
+{
+"top": "rmac.V-IAI-2P",
+"def": "Verb, Imperfect, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-IAI-2S",
+"def": "Verb, Imperfect, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-IAI-3P",
+"def": "Verb, Imperfect, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-IAI-3P-ATT",
+"def": "Verb, Imperfect, Active, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-IAI-3S",
+"def": "Verb, Imperfect, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-IAI-3S-ATT",
+"def": "Verb, Imperfect, Active, Indicative, third, Singular, ATTic form"
+},
+{
+"top": "rmac.V-IDI-3P",
+"def": "Verb, Imperfect, middle Deponent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-IEI-3S",
+"def": "Verb, Imperfect, Either middle or passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-IMI-1P",
+"def": "Verb, Imperfect, Middle, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-IMI-1S",
+"def": "Verb, Imperfect, Middle, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-IMI-3P",
+"def": "Verb, Imperfect, Middle, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-IMI-3S",
+"def": "Verb, Imperfect, Middle, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-INI-1P",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-INI-1S",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-INI-2P",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-INI-2P-ATT",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, second, Plural, ATTic form"
+},
+{
+"top": "rmac.V-INI-2S",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-INI-3P",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-INI-3P-ATT",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-INI-3S",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-INI-3S-ATT",
+"def": "Verb, Imperfect, middle or passive depoNent, Indicative, third, Singular, ATTic form"
+},
+{
+"top": "rmac.V-IPI-1P",
+"def": "Verb, Imperfect, Passive, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-IPI-1S",
+"def": "Verb, Imperfect, Passive, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-IPI-2P",
+"def": "Verb, Imperfect, Passive, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-IPI-3P",
+"def": "Verb, Imperfect, Passive, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-IPI-3S",
+"def": "Verb, Imperfect, Passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-IQI-3S",
+"def": "Verb, Imperfect, impersonal active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-IXI-1P",
+"def": "Verb, Imperfect, no voice stated, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-IXI-1S",
+"def": "Verb, Imperfect, no voice stated, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-IXI-2P",
+"def": "Verb, Imperfect, no voice stated, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-IXI-2S",
+"def": "Verb, Imperfect, no voice stated, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-IXI-3P",
+"def": "Verb, Imperfect, no voice stated, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-IXI-3S",
+"def": "Verb, Imperfect, no voice stated, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-LAI-1S",
+"def": "Verb, pLuperfect, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-LAI-2P",
+"def": "Verb, pLuperfect, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-LAI-2S",
+"def": "Verb, pLuperfect, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-LAI-3P",
+"def": "Verb, pLuperfect, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-LAI-3P-ATT",
+"def": "Verb, pLuperfect, Active, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-LAI-3S",
+"def": "Verb, pLuperfect, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-LAI-3S-ATT",
+"def": "Verb, pLuperfect, Active, Indicative, third, Singular, ATTic form"
+},
+{
+"top": "rmac.V-LDI-3S",
+"def": "Verb, pLuperfect, middle Deponent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-LMI-3P",
+"def": "Verb, pLuperfect, Middle, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-LPI-3S",
+"def": "Verb, pLuperfect, Passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PAI-1P",
+"def": "Verb, Present, Active, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-PAI-1S",
+"def": "Verb, Present, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-PAI-1S-C",
+"def": "Verb, Present, Active, Indicative, first, Singular, Contracted form"
+},
+{
+"top": "rmac.V-PAI-2P",
+"def": "Verb, Present, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-PAI-2S",
+"def": "Verb, Present, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-PAI-2S-IRR",
+"def": "Verb, Present, Active, Indicative, second, Singular, IRRegular or inpure form"
+},
+{
+"top": "rmac.V-PAI-3P",
+"def": "Verb, Present, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-PAI-3P-ATT",
+"def": "Verb, Present, Active, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-PAI-3S",
+"def": "Verb, Present, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PAM-2P",
+"def": "Verb, Present, Active, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-PAM-2S",
+"def": "Verb, Present, Active, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-PAM-3P",
+"def": "Verb, Present, Active, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-PAM-3S",
+"def": "Verb, Present, Active, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-PAN",
+"def": "Verb, Present, Active, iNfinitive"
+},
+{
+"top": "rmac.V-PAO-2P",
+"def": "Verb, Present, Active, Optative, second, Plural"
+},
+{
+"top": "rmac.V-PAO-3P",
+"def": "Verb, Present, Active, Optative, third, Plural"
+},
+{
+"top": "rmac.V-PAO-3S",
+"def": "Verb, Present, Active, Optative, third, Singular"
+},
+{
+"top": "rmac.V-PAP-APF",
+"def": "Verb, Present, Active, Participle, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PAP-APM",
+"def": "Verb, Present, Active, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PAP-APN",
+"def": "Verb, Present, Active, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PAP-ASF",
+"def": "Verb, Present, Active, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PAP-ASM",
+"def": "Verb, Present, Active, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PAP-ASN",
+"def": "Verb, Present, Active, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PAP-DPF",
+"def": "Verb, Present, Active, Participle, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PAP-DPM",
+"def": "Verb, Present, Active, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PAP-DPN",
+"def": "Verb, Present, Active, Participle, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PAP-DSF",
+"def": "Verb, Present, Active, Participle, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PAP-DSM",
+"def": "Verb, Present, Active, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PAP-DSN",
+"def": "Verb, Present, Active, Participle, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PAP-GPF",
+"def": "Verb, Present, Active, Participle, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.V-PAP-GPM",
+"def": "Verb, Present, Active, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-PAP-GPN",
+"def": "Verb, Present, Active, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-PAP-GSF",
+"def": "Verb, Present, Active, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-PAP-GSM",
+"def": "Verb, Present, Active, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-PAP-GSN",
+"def": "Verb, Present, Active, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-PAP-NPF",
+"def": "Verb, Present, Active, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PAP-NPM",
+"def": "Verb, Present, Active, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PAP-NPN",
+"def": "Verb, Present, Active, Participle, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PAP-NSF",
+"def": "Verb, Present, Active, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PAP-NSM",
+"def": "Verb, Present, Active, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PAP-NSN",
+"def": "Verb, Present, Active, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PAPDP",
+"def": "Verb, Present, Active, Participle, Dative, Plural"
+},
+{
+"top": "rmac.V-PAS-1P",
+"def": "Verb, Present, Active, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-PAS-1S",
+"def": "Verb, Present, Active, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-PAS-2P",
+"def": "Verb, Present, Active, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-PAS-2S",
+"def": "Verb, Present, Active, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-PAS-3P",
+"def": "Verb, Present, Active, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-PAS-3S",
+"def": "Verb, Present, Active, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-PDP-NPM",
+"def": "Verb, Present, middle Deponent, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PEI-1P",
+"def": "Verb, Present, Either middle or passive, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-PEI-1S",
+"def": "Verb, Present, Either middle or passive, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-PEI-2P",
+"def": "Verb, Present, Either middle or passive, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-PEI-3P",
+"def": "Verb, Present, Either middle or passive, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-PEI-3S",
+"def": "Verb, Present, Either middle or passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PEM-2P",
+"def": "Verb, Present, Either middle or passive, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-PEM-2S",
+"def": "Verb, Present, Either middle or passive, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-PEN",
+"def": "Verb, Present, Either middle or passive, iNfinitive"
+},
+{
+"top": "rmac.V-PEP-DPM",
+"def": "Verb, Present, Either middle or passive, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PEP-DSM",
+"def": "Verb, Present, Either middle or passive, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PEP-GPN",
+"def": "Verb, Present, Either middle or passive, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-PEP-GSF",
+"def": "Verb, Present, Either middle or passive, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-PEP-GSM",
+"def": "Verb, Present, Either middle or passive, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-PEP-NPF",
+"def": "Verb, Present, Either middle or passive, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PEP-NPM",
+"def": "Verb, Present, Either middle or passive, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PEP-NSF",
+"def": "Verb, Present, Either middle or passive, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PMI-1P",
+"def": "Verb, Present, Middle, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-PMI-1S",
+"def": "Verb, Present, Middle, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-PMI-2P",
+"def": "Verb, Present, Middle, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-PMI-3P",
+"def": "Verb, Present, Middle, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-PMI-3S",
+"def": "Verb, Present, Middle, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PMM-2P",
+"def": "Verb, Present, Middle, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-PMM-2S",
+"def": "Verb, Present, Middle, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-PMM-3S",
+"def": "Verb, Present, Middle, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-PMN",
+"def": "Verb, Present, Middle, iNfinitive"
+},
+{
+"top": "rmac.V-PMP-APM",
+"def": "Verb, Present, Middle, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PMP-ASF",
+"def": "Verb, Present, Middle, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PMP-ASM",
+"def": "Verb, Present, Middle, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PMP-ASN",
+"def": "Verb, Present, Middle, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PMP-DPM",
+"def": "Verb, Present, Middle, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PMP-DSM",
+"def": "Verb, Present, Middle, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PMP-GPF",
+"def": "Verb, Present, Middle, Participle, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.V-PMP-GPM",
+"def": "Verb, Present, Middle, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-PMP-GSF",
+"def": "Verb, Present, Middle, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-PMP-GSM",
+"def": "Verb, Present, Middle, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-PMP-GSM-T",
+"def": "Verb, Present, Middle, Participle, Genitive, Singular, Masculine, Transitive"
+},
+{
+"top": "rmac.V-PMP-GSN",
+"def": "Verb, Present, Middle, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-PMP-NPF",
+"def": "Verb, Present, Middle, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PMP-NPM",
+"def": "Verb, Present, Middle, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PMP-NSF",
+"def": "Verb, Present, Middle, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PMP-NSM",
+"def": "Verb, Present, Middle, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PMP-NSN",
+"def": "Verb, Present, Middle, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PMS-1P",
+"def": "Verb, Present, Middle, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-PMS-1S",
+"def": "Verb, Present, Middle, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-PMS-2S",
+"def": "Verb, Present, Middle, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-PMS-3S",
+"def": "Verb, Present, Middle, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-PNI-1P",
+"def": "Verb, Present, middle or passive depoNent, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-PNI-1S",
+"def": "Verb, Present, middle or passive depoNent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-PNI-1S-C",
+"def": "Verb, Present, middle or passive depoNent, Indicative, first, Singular, Contracted form"
+},
+{
+"top": "rmac.V-PNI-2P",
+"def": "Verb, Present, middle or passive depoNent, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-PNI-2S",
+"def": "Verb, Present, middle or passive depoNent, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-PNI-2S-ATT",
+"def": "Verb, Present, middle or passive depoNent, Indicative, second, Singular, ATTic form"
+},
+{
+"top": "rmac.V-PNI-2S-C",
+"def": "Verb, Present, middle or passive depoNent, Indicative, second, Singular, Contracted form"
+},
+{
+"top": "rmac.V-PNI-3P",
+"def": "Verb, Present, middle or passive depoNent, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-PNI-3S",
+"def": "Verb, Present, middle or passive depoNent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PNI-3S-I",
+"def": "Verb, Present, middle or passive depoNent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PNM-2P",
+"def": "Verb, Present, middle or passive depoNent, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-PNM-2S",
+"def": "Verb, Present, middle or passive depoNent, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-PNM-3P",
+"def": "Verb, Present, middle or passive depoNent, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-PNM-3S",
+"def": "Verb, Present, middle or passive depoNent, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-PNN",
+"def": "Verb, Present, middle or passive depoNent, iNfinitive"
+},
+{
+"top": "rmac.V-PNO-1S",
+"def": "Verb, Present, middle or passive depoNent, Optative, first, Singular"
+},
+{
+"top": "rmac.V-PNO-3P",
+"def": "Verb, Present, middle or passive depoNent, Optative, third, Plural"
+},
+{
+"top": "rmac.V-PNO-3S",
+"def": "Verb, Present, middle or passive depoNent, Optative, third, Singular"
+},
+{
+"top": "rmac.V-PNP-APF",
+"def": "Verb, Present, middle or passive depoNent, Participle, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PNP-APM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PNP-APN",
+"def": "Verb, Present, middle or passive depoNent, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PNP-ASF",
+"def": "Verb, Present, middle or passive depoNent, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PNP-ASM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PNP-ASN",
+"def": "Verb, Present, middle or passive depoNent, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PNP-DPF",
+"def": "Verb, Present, middle or passive depoNent, Participle, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PNP-DPM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PNP-DPN",
+"def": "Verb, Present, middle or passive depoNent, Participle, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PNP-DSF",
+"def": "Verb, Present, middle or passive depoNent, Participle, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PNP-DSM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PNP-DSN",
+"def": "Verb, Present, middle or passive depoNent, Participle, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PNP-GPF",
+"def": "Verb, Present, middle or passive depoNent, Participle, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.V-PNP-GPM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-PNP-GPN",
+"def": "Verb, Present, middle or passive depoNent, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-PNP-GSF",
+"def": "Verb, Present, middle or passive depoNent, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-PNP-GSM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-PNP-GSN",
+"def": "Verb, Present, middle or passive depoNent, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-PNP-NPF",
+"def": "Verb, Present, middle or passive depoNent, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PNP-NPM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PNP-NPN",
+"def": "Verb, Present, middle or passive depoNent, Participle, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PNP-NSF",
+"def": "Verb, Present, middle or passive depoNent, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PNP-NSM",
+"def": "Verb, Present, middle or passive depoNent, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PNP-NSN",
+"def": "Verb, Present, middle or passive depoNent, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PNS-1P",
+"def": "Verb, Present, middle or passive depoNent, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-PNS-1S",
+"def": "Verb, Present, middle or passive depoNent, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-PNS-2P",
+"def": "Verb, Present, middle or passive depoNent, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-PNS-2S",
+"def": "Verb, Present, middle or passive depoNent, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-PNS-3P",
+"def": "Verb, Present, middle or passive depoNent, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-PNS-3S",
+"def": "Verb, Present, middle or passive depoNent, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-POP-NPM",
+"def": "Verb, Present, passive depOnent, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PPI-1P",
+"def": "Verb, Present, Passive, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-PPI-1S",
+"def": "Verb, Present, Passive, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-PPI-2P",
+"def": "Verb, Present, Passive, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-PPI-2S",
+"def": "Verb, Present, Passive, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-PPI-2S-IRR",
+"def": "Verb, Present, Passive, Indicative, second, Singular, IRRegular or inpure form"
+},
+{
+"top": "rmac.V-PPI-3P",
+"def": "Verb, Present, Passive, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-PPI-3S",
+"def": "Verb, Present, Passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PPM-2P",
+"def": "Verb, Present, Passive, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-PPM-2S",
+"def": "Verb, Present, Passive, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-PPM-3P",
+"def": "Verb, Present, Passive, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-PPM-3S",
+"def": "Verb, Present, Passive, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-PPN",
+"def": "Verb, Present, Passive, iNfinitive"
+},
+{
+"top": "rmac.V-PPN-2P",
+"def": "Verb, Present, Passive, iNfinitive, second, Plural"
+},
+{
+"top": "rmac.V-PPP-APF",
+"def": "Verb, Present, Passive, Participle, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PPP-APM",
+"def": "Verb, Present, Passive, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PPP-APN",
+"def": "Verb, Present, Passive, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PPP-ASF",
+"def": "Verb, Present, Passive, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PPP-ASM",
+"def": "Verb, Present, Passive, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PPP-ASN",
+"def": "Verb, Present, Passive, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PPP-DPM",
+"def": "Verb, Present, Passive, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PPP-DPN",
+"def": "Verb, Present, Passive, Participle, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PPP-DSF",
+"def": "Verb, Present, Passive, Participle, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PPP-DSM",
+"def": "Verb, Present, Passive, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PPP-DSN",
+"def": "Verb, Present, Passive, Participle, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PPP-GPM",
+"def": "Verb, Present, Passive, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-PPP-GPN",
+"def": "Verb, Present, Passive, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-PPP-GSF",
+"def": "Verb, Present, Passive, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-PPP-GSM",
+"def": "Verb, Present, Passive, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-PPP-GSN",
+"def": "Verb, Present, Passive, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-PPP-NPF",
+"def": "Verb, Present, Passive, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PPP-NPM",
+"def": "Verb, Present, Passive, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PPP-NPN",
+"def": "Verb, Present, Passive, Participle, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PPP-NSF",
+"def": "Verb, Present, Passive, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PPP-NSM",
+"def": "Verb, Present, Passive, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PPP-NSN",
+"def": "Verb, Present, Passive, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PPS-1P",
+"def": "Verb, Present, Passive, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-PPS-1S",
+"def": "Verb, Present, Passive, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-PPS-2P",
+"def": "Verb, Present, Passive, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-PPS-3P",
+"def": "Verb, Present, Passive, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-PPS-3S",
+"def": "Verb, Present, Passive, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-PQI-3S",
+"def": "Verb, Present, impersonal active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PQN",
+"def": "Verb, Present, impersonal active, iNfinitive"
+},
+{
+"top": "rmac.V-PQP-APN",
+"def": "Verb, Present, impersonal active, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PQP-NSN",
+"def": "Verb, Present, impersonal active, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PQS-3S",
+"def": "Verb, Present, impersonal active, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-PXI-1P",
+"def": "Verb, Present, no voice stated, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-PXI-1S",
+"def": "Verb, Present, no voice stated, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-PXI-2P",
+"def": "Verb, Present, no voice stated, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-PXI-2S",
+"def": "Verb, Present, no voice stated, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-PXI-3P",
+"def": "Verb, Present, no voice stated, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-PXI-3S",
+"def": "Verb, Present, no voice stated, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-PXM-2S",
+"def": "Verb, Present, no voice stated, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-PXM-3P",
+"def": "Verb, Present, no voice stated, iMperative, third, Plural"
+},
+{
+"top": "rmac.V-PXM-3S",
+"def": "Verb, Present, no voice stated, iMperative, third, Singular"
+},
+{
+"top": "rmac.V-PXN",
+"def": "Verb, Present, no voice stated, iNfinitive"
+},
+{
+"top": "rmac.V-PXO-2S",
+"def": "Verb, Present, no voice stated, Optative, second, Singular"
+},
+{
+"top": "rmac.V-PXO-3S",
+"def": "Verb, Present, no voice stated, Optative, third, Singular"
+},
+{
+"top": "rmac.V-PXP-APM",
+"def": "Verb, Present, no voice stated, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PXP-APN",
+"def": "Verb, Present, no voice stated, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PXP-ASF",
+"def": "Verb, Present, no voice stated, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PXP-ASM",
+"def": "Verb, Present, no voice stated, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PXP-ASN",
+"def": "Verb, Present, no voice stated, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PXP-DPM",
+"def": "Verb, Present, no voice stated, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PXP-DPN",
+"def": "Verb, Present, no voice stated, Participle, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PXP-DSF",
+"def": "Verb, Present, no voice stated, Participle, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PXP-DSM",
+"def": "Verb, Present, no voice stated, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PXP-GPF",
+"def": "Verb, Present, no voice stated, Participle, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.V-PXP-GPM",
+"def": "Verb, Present, no voice stated, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-PXP-GPN",
+"def": "Verb, Present, no voice stated, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-PXP-GSF",
+"def": "Verb, Present, no voice stated, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-PXP-GSM",
+"def": "Verb, Present, no voice stated, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-PXP-GSN",
+"def": "Verb, Present, no voice stated, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-PXP-NPF",
+"def": "Verb, Present, no voice stated, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-PXP-NPM",
+"def": "Verb, Present, no voice stated, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-PXP-NPN",
+"def": "Verb, Present, no voice stated, Participle, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.V-PXP-NSF",
+"def": "Verb, Present, no voice stated, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-PXP-NSM",
+"def": "Verb, Present, no voice stated, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-PXP-NSN",
+"def": "Verb, Present, no voice stated, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-PXS-1P",
+"def": "Verb, Present, no voice stated, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-PXS-1S",
+"def": "Verb, Present, no voice stated, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-PXS-2P",
+"def": "Verb, Present, no voice stated, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-PXS-2S",
+"def": "Verb, Present, no voice stated, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-PXS-3P",
+"def": "Verb, Present, no voice stated, Subjunctive, third, Plural"
+},
+{
+"top": "rmac.V-PXS-3S",
+"def": "Verb, Present, no voice stated, Subjunctive, third, Singular"
+},
+{
+"top": "rmac.V-RAI-1P",
+"def": "Verb, peRfect, Active, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-RAI-1P-ATT",
+"def": "Verb, peRfect, Active, Indicative, first, Plural, ATTic form"
+},
+{
+"top": "rmac.V-RAI-1S",
+"def": "Verb, perfect, Active, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-RAI-1S-ATT",
+"def": "Verb, peRfect, Active, Indicative, first, Singular, ATTic form"
+},
+{
+"top": "rmac.V-RAI-2P",
+"def": "Verb, peRfect, Active, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-RAI-2P-ATT",
+"def": "Verb, peRfect, Active, Indicative, second, Plural, ATTic form"
+},
+{
+"top": "rmac.V-RAI-2S",
+"def": "Verb, peRfect, Active, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-RAI-2S-ATT",
+"def": "Verb, peRfect, Active, Indicative, second, Singular, ATTic form"
+},
+{
+"top": "rmac.V-RAI-3P",
+"def": "Verb, peRfect, Active, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-RAI-3P-ATT",
+"def": "Verb, peRfect, Active, Indicative, third, Plural, ATTic form"
+},
+{
+"top": "rmac.V-RAI-3S",
+"def": "Verb, peRfect, Active, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-RAI-3S-ATT",
+"def": "Verb, peRfect, Active, Indicative, third, Singular, ATTic form"
+},
+{
+"top": "rmac.V-RAM-2P",
+"def": "Verb, peRfect, Active, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-RAN",
+"def": "Verb, peRfect, Active, iNfinitive"
+},
+{
+"top": "rmac.V-RAN-ATT",
+"def": "Verb, peRfect, Active, iNfinitive, Accusative"
+},
+{
+"top": "rmac.V-RAP-APM",
+"def": "Verb, peRfect, Active, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RAP-APN",
+"def": "Verb, peRfect, Active, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-RAP-ASF",
+"def": "Verb, peRfect, Active, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-RAP-ASM",
+"def": "Verb, peRfect, Active, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RAP-ASM-C",
+"def": "Verb, peRfect, Active, Participle, Accusative, Singular, Masculine, Contracted form"
+},
+{
+"top": "rmac.V-RAP-ASN",
+"def": "Verb, peRfect, Active, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-RAP-DPM",
+"def": "Verb, peRfect, Active, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RAP-DSM",
+"def": "Verb, peRfect, Active, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RAP-DSN",
+"def": "Verb, peRfect, Active, Participle, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.V-RAP-GPM",
+"def": "Verb, peRfect, Active, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-RAP-GPN",
+"def": "Verb, peRfect, Active, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-RAP-GSF",
+"def": "Verb, peRfect, Active, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-RAP-GSM",
+"def": "Verb, peRfect, Active, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-RAP-GSM-ATT",
+"def": "Verb, peRfect, Active, Participle, Genitive, Singular, Masculine, ATTic form"
+},
+{
+"top": "rmac.V-RAP-GSN-ATT",
+"def": "Verb, peRfect, Active, Participle, Genitive, Singular, Neuter, ATTic form"
+},
+{
+"top": "rmac.V-RAP-NPF",
+"def": "Verb, peRfect, Active, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-RAP-NPM",
+"def": "Verb, peRfect, Active, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RAP-NPM-ATT",
+"def": "Verb, peRfect, Active, Participle, Nominative, Plural, Masculine, ATTic form"
+},
+{
+"top": "rmac.V-RAP-NPM-C",
+"def": "Verb, peRfect, Active, Participle, Nominative, Plural, Masculine, Contracted form"
+},
+{
+"top": "rmac.V-RAP-NPN",
+"def": "Verb, peRfect, Active, Participle, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.V-RAP-NSF",
+"def": "Verb, peRfect, Active, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-RAP-NSM",
+"def": "Verb, peRfect, Active, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RAP-NSM-ATT",
+"def": "Verb, peRfect, Active, Participle, Nominative, Singular, Masculine, ATTic form"
+},
+{
+"top": "rmac.V-RAP-NSN",
+"def": "Verb, peRfect, Active, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-RAS-1P",
+"def": "Verb, peRfect, Active, Subjunctive, first, Plural"
+},
+{
+"top": "rmac.V-RAS-1S",
+"def": "Verb, peRfect, Active, Subjunctive, first, Singular"
+},
+{
+"top": "rmac.V-RAS-2P",
+"def": "Verb, peRfect, Active, Subjunctive, second, Plural"
+},
+{
+"top": "rmac.V-RAS-2S",
+"def": "Verb, peRfect, Active, Subjunctive, second, Singular"
+},
+{
+"top": "rmac.V-RDI-3S",
+"def": "Verb, peRfect, middle Deponent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-RMI-2S",
+"def": "Verb, peRfect, Middle, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-RMI-3S",
+"def": "Verb, peRfect, Middle, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-RMP-ASM",
+"def": "Verb, peRfect, Middle, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RMP-NPM",
+"def": "Verb, peRfect, Middle, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RMP-NSM",
+"def": "Verb, peRfect, Middle, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RNI-1P",
+"def": "Verb, peRfect, middle or passive depoNent, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-RNI-1S",
+"def": "Verb, peRfect, middle or passive depoNent, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-RNI-3S",
+"def": "Verb, peRfect, middle or passive depoNent, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-RNN",
+"def": "Verb, peRfect, middle or passive depoNent, iNfinitive"
+},
+{
+"top": "rmac.V-RNP-APM",
+"def": "Verb, peRfect, middle or passive depoNent, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RNP-ASF",
+"def": "Verb, peRfect, middle or passive depoNent, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-RNP-DPF",
+"def": "Verb, peRfect, middle or passive depoNent, Participle, Dative, Plural, Feminine"
+},
+{
+"top": "rmac.V-RNP-NPM",
+"def": "Verb, peRfect, middle or passive depoNent, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RNP-NSM",
+"def": "Verb, peRfect, middle or passive depoNent, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RPI-1P",
+"def": "Verb, peRfect, Passive, Indicative, first, Plural"
+},
+{
+"top": "rmac.V-RPI-1S",
+"def": "Verb, peRfect, Passive, Indicative, first, Singular"
+},
+{
+"top": "rmac.V-RPI-2P",
+"def": "Verb, peRfect, Passive, Indicative, second, Plural"
+},
+{
+"top": "rmac.V-RPI-2S",
+"def": "Verb, peRfect, Passive, Indicative, second, Singular"
+},
+{
+"top": "rmac.V-RPI-3P",
+"def": "Verb, peRfect, Passive, Indicative, third, Plural"
+},
+{
+"top": "rmac.V-RPI-3S",
+"def": "Verb, peRfect, Passive, Indicative, third, Singular"
+},
+{
+"top": "rmac.V-RPM-2P",
+"def": "Verb, peRfect, Passive, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-RPM-2S",
+"def": "Verb, peRfect, Passive, iMperative, second, Singular"
+},
+{
+"top": "rmac.V-RPN",
+"def": "Verb, peRfect, Passive, iNfinitive"
+},
+{
+"top": "rmac.V-RPP-APF",
+"def": "Verb, peRfect, Passive, Participle, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.V-RPP-APM",
+"def": "Verb, peRfect, Passive, Participle, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RPP-APN",
+"def": "Verb, peRfect, Passive, Participle, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.V-RPP-ASF",
+"def": "Verb, peRfect, Passive, Participle, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.V-RPP-ASM",
+"def": "Verb, peRfect, Passive, Participle, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RPP-ASN",
+"def": "Verb, peRfect, Passive, Participle, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.V-RPP-ASN-ATT",
+"def": "Verb, peRfect, Passive, Participle, Accusative, Singular, Neuter, ATTic form"
+},
+{
+"top": "rmac.V-RPP-DPM",
+"def": "Verb, peRfect, Passive, Participle, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RPP-DPN",
+"def": "Verb, peRfect, Passive, Participle, Dative, Plural, Neuter"
+},
+{
+"top": "rmac.V-RPP-DSF",
+"def": "Verb, peRfect, Passive, Participle, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.V-RPP-DSM",
+"def": "Verb, peRfect, Passive, Participle, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RPP-DSN",
+"def": "Verb, peRfect, Passive, Participle, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.V-RPP-GPF",
+"def": "Verb, peRfect, Passive, Participle, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.V-RPP-GPM",
+"def": "Verb, peRfect, Passive, Participle, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.V-RPP-GPN",
+"def": "Verb, peRfect, Passive, Participle, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.V-RPP-GSF",
+"def": "Verb, peRfect, Passive, Participle, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.V-RPP-GSM",
+"def": "Verb, peRfect, Passive, Participle, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.V-RPP-GSN",
+"def": "Verb, peRfect, Passive, Participle, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.V-RPP-NPF",
+"def": "Verb, peRfect, Passive, Participle, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.V-RPP-NPM",
+"def": "Verb, peRfect, Passive, Participle, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.V-RPP-NPN",
+"def": "Verb, peRfect, Passive, Participle, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.V-RPP-NSF",
+"def": "Verb, peRfect, Passive, Participle, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.V-RPP-NSM",
+"def": "Verb, peRfect, Passive, Participle, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.V-RPP-NSN",
+"def": "Verb, peRfect, Passive, Participle, Nominative, Singular, Neuter"
+},
+{
+"top": "rmac.V-RPP-NSN-ATT",
+"def": "Verb, peRfect, Passive, Participle, Nominative, Singular, Neuter, ATTic form"
+},
+{
+"top": "rmac.V-RPP-VSM",
+"def": "Verb, peRfect, Passive, Participle, Vocative, Singular, Masculine"
+},
+{
+"top": "rmac.V-XXM-2P",
+"def": "Verb, no tense stated (adverbial imperative), no voice stated, iMperative, second, Plural"
+},
+{
+"top": "rmac.V-XXM-2S",
+"def": "Verb, no tense stated (adverbial imperative), no voice stated, iMperative, second, Singular"
+},
+{
+"top": "rmac.X-APF",
+"def": "indefinite pronoun, Accusative, Plural, Feminine"
+},
+{
+"top": "rmac.X-APM",
+"def": "indefinite pronoun, Accusative, Plural, Masculine"
+},
+{
+"top": "rmac.X-APN",
+"def": "indefinite pronoun, Accusative, Plural, Neuter"
+},
+{
+"top": "rmac.X-ASF",
+"def": "indefinite pronoun, Accusative, Singular, Feminine"
+},
+{
+"top": "rmac.X-ASM",
+"def": "indefinite pronoun, Accusative, Singular, Masculine"
+},
+{
+"top": "rmac.X-ASN",
+"def": "indefinite pronoun, Accusative, Singular, Neuter"
+},
+{
+"top": "rmac.X-DPM",
+"def": "indefinite pronoun, Dative, Plural, Masculine"
+},
+{
+"top": "rmac.X-DSF",
+"def": "indefinite pronoun, Dative, Singular, Feminine"
+},
+{
+"top": "rmac.X-DSM",
+"def": "indefinite pronoun, Dative, Singular, Masculine"
+},
+{
+"top": "rmac.X-DSN",
+"def": "indefinite pronoun, Dative, Singular, Neuter"
+},
+{
+"top": "rmac.X-GPF",
+"def": "indefinite pronoun, Genitive, Plural, Feminine"
+},
+{
+"top": "rmac.X-GPM",
+"def": "indefinite pronoun, Genitive, Plural, Masculine"
+},
+{
+"top": "rmac.X-GPN",
+"def": "indefinite pronoun, Genitive, Plural, Neuter"
+},
+{
+"top": "rmac.X-GSF",
+"def": "indefinite pronoun, Genitive, Singular, Feminine"
+},
+{
+"top": "rmac.X-GSM",
+"def": "indefinite pronoun, Genitive, Singular, Masculine"
+},
+{
+"top": "rmac.X-GSN",
+"def": "indefinite pronoun, Genitive, Singular, Neuter"
+},
+{
+"top": "rmac.X-NPF",
+"def": "indefinite pronoun, Nominative, Plural, Feminine"
+},
+{
+"top": "rmac.X-NPM",
+"def": "indefinite pronoun, Nominative, Plural, Masculine"
+},
+{
+"top": "rmac.X-NPN",
+"def": "indefinite pronoun, Nominative, Plural, Neuter"
+},
+{
+"top": "rmac.X-NSF",
+"def": "indefinite pronoun, Nominative, Singular, Feminine"
+},
+{
+"top": "rmac.X-NSM",
+"def": "indefinite pronoun, Nominative, Singular, Masculine"
+},
+{
+"top": "rmac.X-NSN",
+"def": "indefinite pronoun, Nominative, Singular, Neuter"
+}
+]
