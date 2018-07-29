@@ -73,7 +73,7 @@ File format:
 4) <b>variants</b> - variant(s), if any<br><br>
 - <b>The last column - WordInHTML</b>: <br>
 This last column provide words of OGNT in html format, with taggings on extended Strong's numbers, morphology, ot quotation [ot.../ot], reported speech [rs.../rs], embedded reported speech [ers.../ers], textual variant marker, Levinsohn's clause division & note marker, if applicable.<br><br>
-<i>Remarks:</i><br>
+<b><i>Remarks:</i></b><br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA28, e.g. OpenText Linguistic Annotations version 1.0):<br>
 48749, 81630, 93287, 100516, 105053o.<br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA27, e.g. Levinsohn Discource Features):<br>
