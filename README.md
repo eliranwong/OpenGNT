@@ -174,7 +174,7 @@ Modules based on OpenGNT project are released gradually for use with bible appli
 <br><br>
 If you are a software developer and interested in this project, you are welcomed to contact <a href='https://biblebento.com/contact/contactform.php' target='_blank'>Eliran Wong</a>.
 <br><br>
-<img src="Screenshot/screenshot.jpg">
+<img src="Screenshot/screenshot1.jpg">
 
 <img src="Screenshot/screenshot3.png">
 
