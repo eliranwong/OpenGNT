@@ -59,11 +59,12 @@ File format:
 8) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers; compatible with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
 9) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br><br>
 - <b>Gropu VI - Gloss & Translation</b>: <br>
-〔TyndaleHouseGloss｜MounceGloss｜NET2Words〕<br>
-1) <b>TyndaleHouseGloss</b> - Tyndale House's English gloss; pronouns's sub-meanings worked out by Eliran wong<br>
-2) <b>MounceGloss</b> - English glosses selected from <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
-3) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition), mapped to OGNT [will be uploaded later]<br><br>
-<a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in this file.
+〔TyndaleHouseGloss｜OpenGNTGloss｜MounceGloss｜NET2Words〕<br>
+1) <b>TyndaleHouseGloss</b> - English glosses (Context-insensitive) - Generated from glosses of TBESG, produced by Tyndale House, Cambridge UK<br>
+2) <b>OpenGNTGloss</b> - English glosses (Context-sensitive) - A full set of context-sensitive glosses for OpenGNT, worked out by Eliran Wong [initial data are drawn from "TyndaleHouseGloss" mentioned above; every gloss will be checked against its context; on-going updates are gradually integrated <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>HERE</a>; please check regularly]<br>
+3) <b>MounceGloss</b> - English glosses selected from <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
+4) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition), mapped to OGNT [will be uploaded later]<br><br>
+<a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>this file</a>.
 <br><br>
 - <b>Gropu VII - Textual Variants</b>: <br>
 〔editionMarker1｜editionMarker2｜editions｜variants〕<br>
