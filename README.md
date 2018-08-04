@@ -155,11 +155,7 @@ Read more in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/
 - transliteration (according to SBL guide) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
 - modern Greek pronunciation guide - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
 - an analytical lexicon containing all words of OpenGNT text - <a href='https://github.com/eliranwong/OpenGNT/blob/master/Lexicons/OGNT-Analytical_Lexicon.csv'>DONE!</a><br>
-- sub-meanings on 5594 occurrences of αὐτός [he/she/it/self] - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
-- sub-meanings on 1387 occurrences of οὗτος [this/he/she/it] - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
-- sub-meanings on 2579 occurrences of ἐγώ [I/we] - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
-- sub-meanings on 1865 occurrences of σύ [you] - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
-- in addition to sub-meanings, which had already been worked out above, OpenGNT Project is working on sub-meanings for the rest of the text, to provide a full set of context-sensitive glosses for OpenGNT [<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>Find regular updates HERE</a>; read file description <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#main-file'>HERE</a>.]
+- a full set of context-sensitive glosses for OpenGNT [<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>Find regular updates HERE</a>; read file description <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#main-file'>HERE</a>.]
 - mapping GK numbers (mapped with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a>) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
 - mapping Louw-Nida numbers (numbers only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
 - mapping BDAG catchwords (catchwords only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
