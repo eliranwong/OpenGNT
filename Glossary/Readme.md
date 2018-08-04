@@ -1,7 +1,7 @@
 These files are used for mapping data, building interlinear or vacabulary list, etc:
 
 <b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/OpenGNTGloss.csv'>OpenGNTGloss.csv</a> - 2 columns, separated one another by [TAB] characters:<br>
-Word Order [TAB] Context-sensitive glosses for OpenGNT<br>
+Word order used in the first column of <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>the Main Database File HERE</a> [TAB] Context-sensitive glosses for OpenGNT<br>
 (on-going revisions / corrections; regular updates here)<br>
 <br>
 <b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/GK_lemma_EnglishGloss.csv'>GK_lemma_EnglishGloss.csv</a> - 3 columns, separated one another by [TAB] characters:<br>
