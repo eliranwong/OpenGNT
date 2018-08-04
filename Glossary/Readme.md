@@ -1,6 +1,10 @@
 These files are used for mapping data, building interlinear or vacabulary list, etc:
 
-<b>File:</b> GK_lemma_EnglishGloss.csv - 3 columns, separated one another by [TAB] characters:<br>
+<b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/OpenGNTGloss.csv'>OpenGNTGloss.csv</a> - 2 columns, separated one another by [TAB] characters:<br>
+Word Order [TAB] Context-sensitive glosses for OpenGNT<br>
+(on-going revisions / corrections; regular updates here)<br>
+<br>
+<b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/GK_lemma_EnglishGloss.csv'>GK_lemma_EnglishGloss.csv</a> - 3 columns, separated one another by [TAB] characters:<br>
 GK number [TAB] lemma [TAB] English gloss<br>
 Source: <a href='https://github.com/billmounce/dictionary'>https://github.com/billmounce/dictionary</a><br>
 Credits:<br>
@@ -12,7 +16,7 @@ Statement on the use of online version of Greek-English dictionary:<br>
 "Our committment is that this dictionary will remain free, and we will be encouraging software companies to adopt it as their generic Greek-English dictionary." (This statement is quoted from the page at: <a href='https://www.billmounce.com/greek-dictionary'>https://www.billmounce.com/greek-dictionary</a>)<br><br>
 
 
-<b>File:</b> eSN_lemma_EnglishGloss.csv - 3 columns, separated one another by [TAB] characters:<br>
+<b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/SN_lemma_EnglishGloss.csv'>eSN_lemma_EnglishGloss.csv</a> - 3 columns, separated one another by [TAB] characters:<br>
 Extended Strong's number [TAB] lemma [TAB] English gloss<br>
 Source: TBESG in <a href='https://github.com/tyndale/STEPBible-Data' target='_blank'>https://github.com/tyndale/STEPBible-Data</a><br>
 Credits:<br>
