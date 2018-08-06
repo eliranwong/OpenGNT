@@ -29,11 +29,13 @@ File format:
 2) Chapter number<br>
 3) Verse number<br><br>
 - <b>Gropu II - Main text of OpenGNT</b>: <br>
-〔unaccentedWord｜accentedWord｜transliteration｜modernPronunciation〕<br>
-1) Unaccented Word<br>
-2) Accented Word<br>
-3) Transliteration<br>
-4) Modern Greek Pronunciation<br><br>
+〔unaccentedWord｜accentedWordV1｜accentedWordV1｜transliteration｜modernPronunciation〕<br>
+1) unaccentedWord = Unaccented Word<br>
+2) accentedWordV1 = Accented Word (version 1) - <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>Find details HERE</a><br>
+3) accentedWordV2 = Accented Word (version 2) - "M" variants of the latest TANTT; TANTT had been updated after the 1st version of OpenGNT is compiled, this field reflects mapping data to the latest TANTT.<br>
+4) transliteration = Transliteration<br>
+5) modernPronunciation = Modern Greek Pronunciation<br>
+<br>
 - <b>Gropu III - Mapping to OpenText.org Data</b>: <br>
 〔OpenTextWordID〕<br>
 1) <b>OpenTextWordID</b> - Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br><br>
