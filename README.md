@@ -32,7 +32,7 @@ File format:
 〔unaccentedWord｜accentedWordV1｜accentedWordV1｜transliteration｜modernPronunciation〕<br>
 1) unaccentedWord = Unaccented Word<br>
 2) accentedWordV1 = Accented Word (version 1) - <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>details HERE</a><br>
-3) accentedWordV2 = Accented Word (version 2) - "M" variants of the latest TANTT; TANTT had been updated after the 1st version of OpenGNT is compiled, this field reflects mapping data to the latest TANTT.<br>
+3) accentedWordV2 = Accented Word (version 2) - "M" variants of the latest TANTT; TANTT had been updated after the 1st version of OpenGNT was compiled, mapping data to the latest TANTT are placed in this field.<br>
 4) transliteration = Transliteration<br>
 5) modernPronunciation = Modern Greek Pronunciation<br>
 <br>
