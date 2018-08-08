@@ -2,7 +2,7 @@ These files are used for mapping data, building interlinear or vacabulary list, 
 
 <b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/OpenGNTGloss_NET2Words.csv'>OpenGNTGloss_NET2Words.csv</a> - 3 columns, separated one another by [TAB] characters:<br>
 Word order used in the first column of <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>the Main Database File HERE</a> [TAB] Context-sensitive glosses for OpenGNT [TAB] mapping to words of NET2<br>
-(on-going revisions / corrections; regular updates here)<br>
+(subject to on-going revisions / corrections)<br>
 <br>
 <b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/GK_lemma_EnglishGloss.csv'>GK_lemma_EnglishGloss.csv</a> - 3 columns, separated one another by [TAB] characters:<br>
 GK number [TAB] lemma [TAB] English gloss<br>
