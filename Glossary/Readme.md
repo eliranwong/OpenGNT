@@ -25,7 +25,7 @@ and source at <a href='https://github.com/tyndale/STEPBible-Data' target='_blank
 
 <hr>
 
-The following file is the template Eliran Wong is working on updating OpenGNTGloss and mapping NET2 words.
+Below is a template for working on updating OpenGNTGloss and mapping NET2 words.
 
 <b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/OpenGNTGloss_NET2Words_updating.csv.zip'>OpenGNTGloss_NET2Words_updating.csv.zip</a>
 
