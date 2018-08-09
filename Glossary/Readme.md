@@ -15,7 +15,6 @@ Oneline verson <a href='https://www.billmounce.com/greek-dictionary'>https://www
 Statement on the use of online version of Greek-English dictionary:<br>
 "Our committment is that this dictionary will remain free, and we will be encouraging software companies to adopt it as their generic Greek-English dictionary." (This statement is quoted from the page at: <a href='https://www.billmounce.com/greek-dictionary'>https://www.billmounce.com/greek-dictionary</a>)<br><br>
 
-
 <b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/SN_lemma_EnglishGloss.csv'>eSN_lemma_EnglishGloss.csv</a> - 3 columns, separated one another by [TAB] characters:<br>
 Extended Strong's number [TAB] lemma [TAB] English gloss<br>
 Source: TBESG in <a href='https://github.com/tyndale/STEPBible-Data' target='_blank'>https://github.com/tyndale/STEPBible-Data</a><br>
@@ -23,3 +22,8 @@ Credits:<br>
 "Tyndale House, Cambridge" [<a href='www.TyndaleHouse.com' target='_blank'>www.TyndaleHouse.com</a>],<br>
 and "STEP Bible" [<a href='www.STEPBible.org' target='_blank'>www.STEPBible.org</a>]<br>
 and source at <a href='https://github.com/tyndale/STEPBible-Data' target='_blank'>https://github.com/tyndale/STEPBible-Data/</a>
+
+The following file is the template Eliran Wong is working on updating OpenGNTGloss and mapping NET2 words.
+
+<b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/OpenGNTGloss_NET2Words_updating.csv.zip'>OpenGNTGloss_NET2Words_updating.csv.zip</a>
+
