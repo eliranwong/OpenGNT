@@ -33,6 +33,6 @@ Latest data on "OpenGNTGloss" & "NET2Words" are exported to <a href='https://git
 
 The 1st vertical column is order number.
 Each verse starts with a verse text of NET2,
-followed by lines on lines on words of OGNT, with features in the following format:
+followed by lines of OpenGNT words, with features in the following format:
 
 orderNumber	〔book｜chapter｜verse〕｛OpenGNTGloss｜NET2Words｝	〈orderNumber used in OpenGNT.csv｜mainWord of OGNT｜Tyndale House's gloss｜Tyndale House's extended Strong's numbers｜morphology〉
