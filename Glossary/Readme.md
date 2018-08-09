@@ -30,3 +30,9 @@ The following file is the template Eliran Wong is working on updating OpenGNTGlo
 <b>File:</b> <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/OpenGNTGloss_NET2Words_updating.csv.zip'>OpenGNTGloss_NET2Words_updating.csv.zip</a>
 
 Latest data on "OpenGNTGloss" & "NET2Words" are exported to <a href='https://github.com/eliranwong/OpenGNT/blob/master/Glossary/OpenGNTGloss_NET2Words.csv'>OpenGNTGloss_NET2Words.csv</a> and integrated into <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>the main Database file</a>.
+
+The 1st vertical column is order number.
+Each verse starts with a verse text of NET2,
+followed by lines on lines on words of OGNT, with features in the following format:
+
+orderNumber	〔book｜chapter｜verse〕｛OpenGNTGloss｜NET2Words｝	〈orderNumber used in OpenGNT.csv｜mainWord of OGNT｜Tyndale House's gloss｜Tyndale House's extended Strong's numbers｜morphology〉
