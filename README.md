@@ -29,7 +29,7 @@ File format:
 2) Chapter number<br>
 3) Verse number<br><br>
 - <b>Gropu II - Main text of OpenGNT</b>: <br>
-〔unaccentedWord｜accentedWordV1｜accentedWordV1｜transliteration｜modernPronunciation〕<br>
+〔unaccentedWord｜accentedWordV1｜accentedWordV2｜transliteration｜modernPronunciation〕<br>
 1) unaccentedWord = Unaccented Word<br>
 2) accentedWordV1 = Accented Word (version 1) - <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>details HERE</a><br>
 3) accentedWordV2 = Accented Word (version 2) - "M" variants of the latest TANTT; find updates <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>HERE</a> for the differences between "accentedWordV1" and "accentedWordV2".<br>
