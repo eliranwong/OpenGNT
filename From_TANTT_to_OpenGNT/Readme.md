@@ -1,5 +1,7 @@
 # Main Source - TANTT:
 
+<i><b>Remarks:</b> It is noted that TANTT has a continuous developement.  The version of TANTT, first imported by OpenGNT project, had been archieved <a href='https://github.com/eliranwong/OpenGNT/blob/master/From_TANTT_to_OpenGNT/archive/000-004_archive_sourceVersion.zip'>HERE</a> for reference.  The following description on TANTT is based on the very version OpenGNT project first imported.  The main text of the 1st version of OGNT is now marked as "accentedWordV1" in <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>the main database file</a>, whereas the latest version of TANTT is mapped as "accentedWordV1" in the same <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>database file</a></i>
+<br><br>
 The text of OpenGNT [OGNT] is largely built on a scholarly database, "TANTT - Tyndale Amalgamated NT Tagged texts".
 <br><br>
 TANTT is "created and curated collaboratively by Tyndale scholars, directed by David Instone-Brewer with the oversight of Peter Williams, and by their successors."  It is freely distributed at <a href='https://github.com/tyndale/STEPBible-Data' target='_blank'>https://github.com/tyndale/STEPBible-Data</a>, under a creative license, namely <a href='https://creativecommons.org/licenses/by-nd/4.0/legalcode' target='_blank'>CC BY-NC-ND 4.0 with additional specified relaxations</a>.
