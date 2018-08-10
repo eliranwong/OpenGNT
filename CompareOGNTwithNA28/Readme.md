@@ -20,3 +20,5 @@ OGNT is checked against NA28, verse by verse and word by word.  Below are some o
 - 3006 words are different in capitalisation (a list of differences is provided in this folder, only words from OGNT are included, words from NA28 are excluded here due to copyright issue)
 - 421 words are different in accents (a list of differences is provided in this folder, only words from OGNT are included, words from NA28 are excluded here due to copyright issue)
 - The text of OGNT is keyed to Tyndale's House's extended Strong's numbers, James Tauber's morphology and mapped to <a href='https://github.com/eliranwong/OpenGNT#enhancement--forthcoming-additions'>various features</a>, through which users can have quick access to lexicons and linguistic features, etc.
+<br><br>
+<b><i>Remarks:</i></b> <i>Most differences found above account for the fact that TANTT used SBLGNT as its source.  This is the ground that the text of OGNT is made free for the public, as SBLGNT has a public license.</i>
