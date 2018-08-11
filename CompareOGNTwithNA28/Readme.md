@@ -11,7 +11,7 @@ OGNT is checked against NA28, verse by verse and word by word.  Below are some o
 
 # Differences:
 - NA28 is published by German Bible Society, whereas the text of OGNT is based on TANTT, produced by Tyndale House Cambridge UK <b><a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>from an open source</a></b>.
-- NA28 is copyrighted; OGNT is released under <a href='https://github.com/eliranwong/OpenGNT#license'>a free-license</a>.
+- NA28 is copyrighted; OGNT is released under <a href='https://github.com/eliranwong/OpenGNT#license'>a public license</a>.
 - different divisions on paragraphs are noted occasionally.
 - OGNT / TANTT does not have special formatting on poetic lines, as found in NA28.
 - OT quotations in OGNT are marked according to an open resource avaialble at https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/OT_quotes.xml .
@@ -21,5 +21,5 @@ OGNT is checked against NA28, verse by verse and word by word.  Below are some o
 - 421 words are different in accents (a list of differences is provided in this folder, only words from OGNT are included, words from NA28 are excluded here due to copyright issue)
 - The text of OGNT is keyed to Tyndale's House's extended Strong's numbers, James Tauber's morphology and mapped to <a href='https://github.com/eliranwong/OpenGNT#enhancement--forthcoming-additions'>various features</a>, through which users can have quick access to lexicons and linguistic features, etc.
 <br><br>
-<b><i>Remarks:</i></b> <i>Most differences found above account for the fact that TANTT used SBLGNT as its source.  This is the ground that the text of OGNT is made available for the public for free, as SBLGNT has a public license.  You may find details of developement from TANTT to OGNT <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>HERE</a>.</i>
+<b><i>Remarks:</i></b> <i>OGNT is NA28-equivalent, but not NA28.  Most differences mentioned above account for the fact that TANTT used SBLGNT as its source.  This is the ground that the text of OGNT is made available for the public for free, as SBLGNT has a public license.  You may find details of developement from TANTT to OGNT <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>HERE</a>.</i>
 
