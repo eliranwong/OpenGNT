@@ -22,12 +22,14 @@ It gives users a quick access to the main text of OpenGNT, keyed to various feat
 File format:
 - each word of the main text is placed on a single line.<br>
 - each line starts with a sort number in the whole text, followed by two different versions of mapping id, separated from one another by a [TAB] character,<br>
-- followed by different groups of data, separated one another by a [TAB] character:<br><br>
+- followed by different groups of data, separated one another by a [TAB] character:<br>
+<br>
 - <b>Gropu I - Bible Reference</b>: <br>
 〔book｜chapter｜verse〕<br>
 1) Book number<br>
 2) Chapter number<br>
-3) Verse number<br><br>
+3) Verse number<br>
+<br>
 - <b>Gropu II - Main text of OpenGNT</b>: <br>
 〔unaccentedWord｜accentedWordV1｜accentedWordV2｜transliteration｜modernPronunciation〕<br>
 1) unaccentedWord = Unaccented Word<br>
@@ -42,7 +44,7 @@ File format:
 2) puncMfWv1 = Punctuation mark(s), which follow(s) the main word (version 1)<br>
 3) puncMpWv2 = Punctuation mark(s), which precede(s) the main word (version 2)<br>
 4) puncMfWv2 = Punctuation mark(s), which follow(s) the main word (version 2)<br>
-Find updates <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>HERE</a> for the differences between "version 1" and "version 2".<br>
+<i>Remarks:</i> "puncMpWv2" & "puncMfWv2" conform to the puctuations in TANTT.  Find updates <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>HERE</a> for the differences between "version 1" and "version 2".<br>
 <br>
 - <b>Gropu IV - Mapping to OpenText.org Data</b>: <br>
 〔OpenTextWordID〕<br>
