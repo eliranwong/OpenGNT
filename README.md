@@ -21,7 +21,7 @@ It gives users a quick access to the main text of OpenGNT, keyed to various feat
 <br><br>
 File format:
 - each word of the main text is placed on a single line.<br>
-- each line starts with a sort number in the whole text, followed by two different versions of mapping id, separated from one another by a [TAB] character,<br>
+- each line starts with a sort number in the whole text, followed by two different versions of mapping id (i.e. "mapIDV2" & "mapIDV1"), separated from one another by a [TAB] character,<br>
 - followed by different groups of data, separated one another by a [TAB] character:<br>
 <br>
 - <b>Gropu I - Bible Reference</b>: <br>
@@ -91,7 +91,8 @@ A full set of context-sensitive glosses for OpenGNT, worked out by Eliran Wong [
 This last column provide words of OGNT in html format, with taggings on extended Strong's numbers, morphology, ot quotation [ot.../ot], reported speech [rs.../rs], embedded reported speech [ers.../ers], textual variant marker, Levinsohn's clause division & note marker, if applicable.<br><br>
 <b><i>Remarks:</i></b><br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA27, e.g. Levinsohn Discource Features):<br>
-140392, 140400, 140639, 141940, 141964, 142836, 143281, 143431, 146071, 146370, 146668, 146673.
+122580, 122586, 122796, 123928, 123948, 124712, 125108, 125238, 127544, 127800, 128058, 128061.<br>
+These lines may not be relevant to compilation of the main text of OGNT.
 
 # License:
 
