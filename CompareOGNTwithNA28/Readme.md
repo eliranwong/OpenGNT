@@ -6,8 +6,8 @@ OGNT is checked against NA28, verse by verse and word by word.  Below are some o
 - <b>SAME</b> number of verse
 - <b>SAME</b> versification (Remarks: Shorter ending of Mark 16 is placed at the end of Mark 16:20, enclosed by a pair of brackets.)
 - <b>SAME</b> number of words
-- <b>SAME</b> spelling for every word
 - <b>SAME</b> word order
+- <b>CLOSE</b> spelling for every word, with differences mentioned below
 
 # Differences:
 - NA28 is published by German Bible Society, whereas the text of OGNT is based on TANTT, produced by Tyndale House Cambridge UK <b><a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>from an open source</a></b>.
