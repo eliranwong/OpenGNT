@@ -1,7 +1,3 @@
-# Updates (20th August 2018)
-
-Version 2 removed.  Below is description on version 1.
-
 # Main Source - TANTT:
 
 The text of OpenGNT [OGNT] is largely built on a scholarly database, "TANTT - Tyndale Amalgamated NT Tagged texts", dated on 6th June 2018.
