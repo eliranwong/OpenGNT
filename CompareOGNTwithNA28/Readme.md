@@ -2,7 +2,7 @@ update: version 2 removed on 20Aug2018
 
 # Differences between 1st version of OGNT and NA28:
 - More than 3400 words are different.
-- NA28 is published by German Bible Society, whereas the text of OGNT is based on TANTT, produced by Tyndale House Cambridge UK <b><a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>from an open source</a></b>.
+- NA28 is published by German Bible Society, whereas the text of OGNT is based on TANTT (dated on 6th June 2018), produced by Tyndale House Cambridge UK <b><a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>from an open source</a></b>.
 - NA28 is copyrighted; OGNT is released under <a href='https://github.com/eliranwong/OpenGNT#license'>a public license</a>.
 - different divisions on paragraphs are noted occasionally.
 - OGNT / TANTT does not have special formatting on poetic lines, as found in NA28.
