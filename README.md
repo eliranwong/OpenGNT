@@ -1,6 +1,3 @@
-# OpenGNT
-NA28 / NA27 - Equivalent; Open Greek New Testament Resources
-
 # Open Greek New Testament Project
 
 Open Greek New Testament project aims to provide a bundle of high-quality and open-source materials on Greek New Testament for biblical studies.
