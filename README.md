@@ -1,5 +1,5 @@
 # OpenGNT
-NA28 / NA27 Equivalent; Open Greek New Testament Resources
+NA28-Equivalent; Open Greek New Testament Resources
 
 # Open Greek New Testament Project
 
