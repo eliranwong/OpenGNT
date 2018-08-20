@@ -1,5 +1,5 @@
 # OpenGNT
-NA28-Equivalent; Open Greek New Testament Resources
+NA28 / NA27 - Equivalent; Open Greek New Testament Resources
 
 # Open Greek New Testament Project
 
@@ -34,17 +34,13 @@ File format:
 〔unaccentedWord｜accentedWordV1｜accentedWordV2｜transliteration｜modernPronunciation〕<br>
 1) unaccentedWord = Unaccented Word<br>
 2) accentedWordV1 = Accented Word (version 1) - <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>details HERE</a><br>
-3) accentedWordV2 = Accented Word (version 2) - "M" variants of the latest TANTT; find updates <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>HERE</a> for the differences between "accentedWordV1" and "accentedWordV2".<br>
-4) transliteration = Transliteration<br>
-5) modernPronunciation = Modern Greek Pronunciation<br>
+3) transliteration = Transliteration<br>
+4) modernPronunciation = Modern Greek Pronunciation<br>
 <br>
 - <b>Gropu III - Punctuation Marks</b>: <br>
 〔puncMpWv1｜puncMfWv1｜puncMpWv2｜puncMfWv2〕<br>
 1) puncMpWv1 = Punctuation mark(s), which precede(s) the main word (version 1)<br>
 2) puncMfWv1 = Punctuation mark(s), which follow(s) the main word (version 1)<br>
-3) puncMpWv2 = Punctuation mark(s), which precede(s) the main word (version 2)<br>
-4) puncMfWv2 = Punctuation mark(s), which follow(s) the main word (version 2)<br>
-<i>Remarks:</i> "puncMpWv2" & "puncMfWv2" conform to the puctuations in TANTT.  Find updates <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>HERE</a> for the differences between "version 1" and "version 2".<br>
 <br>
 - <b>Gropu IV - Mapping to OpenText.org Data</b>: <br>
 〔OpenTextWordID〕<br>
