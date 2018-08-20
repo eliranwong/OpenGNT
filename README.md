@@ -127,6 +127,7 @@ Associate Coordinator<br>
 International Translation<br>
 SIL International
 <br><br>
+<b>Berean Greek / Interlinear Bible</b><br>
 The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BSB<br>
 Copyright ©2016, 2018 by Bible Hub<br>
 Used by Permission. All Rights Reserved Worldwide.
