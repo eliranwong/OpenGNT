@@ -127,6 +127,10 @@ Associate Coordinator<br>
 International Translation<br>
 SIL International
 <br><br>
+The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BSB<br>
+Copyright ©2016, 2018 by Bible Hub<br>
+Used by Permission. All Rights Reserved Worldwide.
+<br><br>
 <b>NET Bible Copyright 2nd Edition (2017)</b><br>
 NET BIble® Copyright THE NET BIBLE®, New English Translation (NET) Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996-2016 by Biblical Studies Press, L.L.C. <a href='http://netbible.com' target='_blank'>http://netbible.com</a> All rights reserved.  The names: THE NET BIBLE®, NEW ENGLISH TRANSLATION COPYRIGHT (c) 1996 BY BIBLICAL STUDIES PRESS, L.L.C. NET Bible® IS A  REGISTERED TRADEMARK THE NET BIBLE® LOGO, SERVICE MARK COPYRIGHT (c) 1997 BY BIBLICAL STUDIES PRESS, L.L.C. ALL RIGHTS RESERVEDSATELLITE IMAGERY COPYRIGHT (c) RØHR PRODUCTIONS LTD. AND CENTRE NATIONAL D'ÉTUDES SPATIALES PHOTOGRAPHS COPYRIGHT (c) RØHR PRODUCTIONS LTD.
 <br>
@@ -169,6 +173,7 @@ Read more in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/
 - creating a html template for visual presentation of OpenText annotations - <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_OpenTextAnnotations/OpenText_v1_formatted_in_HTML.csv.zip'>DONE!</a><br>
 - mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OGNT_FullMapping_Levinsohn.csv.zip'>DONE!</a>; Full mapping is availalbe <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>HERE</a><br>
 - tagging the text of OGNT with <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>Levinsohn GNT discourse features</a>, like <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/Main_clauses.xml'>main clauses</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/OT_quotes.xml'>OT quotations</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/Reported_Speech.xml'>reported speeches</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/EmbeddedRepSpeech.xml'>embedded reported speeches</a>, etc. - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
+- mapping <a href='https://interlinearbible.com'>Berean Greek Bible</a> and its associated data - in progress<br>
 - mapping "<a href='http://netbible.com/' target='_blank'>The NET Bible® verse text (no Notes) - 2nd Edition; New Testament</a>" (1st draft uploaded <a href='https://github.com/eliranwong/OpenGNT/blob/master/OGNT_FullMapping_Levinsohn.csv.zip'>HERE</a>; subject to on-going revision)<br>
 - mapping "Chinese Union Version"<br>
 - more ... you are welcome to make suggestions at <a href='https://biblebento.com/contact/contactform.php' target='_blank'>https://biblebento.com/contact/contactform.php</a>
