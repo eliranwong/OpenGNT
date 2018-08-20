@@ -1,4 +1,4 @@
-update: version 2 removed on 20Aug2018
+update: version 2 removed on 20Aug2018.  Below are differences between version 1 of the main text of OGNT and NA28.
 
 # Differences between 1st version of OGNT and NA28:
 - More than 3400 words are different.
