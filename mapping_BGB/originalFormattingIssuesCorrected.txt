@@ -1,0 +1,7 @@
+extra String on morphology
+64779	...	〈ἐκδεχομένων:V-PNP-GPMV-PNP-GPM	ekdechomenōn	awaiting:V-PNP-GPM
+
+English "T" used instead of Greek "Τ"
+12491	...	⧼Tοῦτο
+45461	...	Tίς
+116699	...	⧼Tοῦ
