@@ -1,4 +1,3 @@
-# This file is created for merging latest work on OpenGNTGloss and NET2Words into main database file OpenGNT.csv
 # rename TANTT database to 'TANTT.csv'
 # put 'TANTT.csv' and this script in the same folder
 # locate the folder in terminal
@@ -76,21 +75,21 @@ newData = re.sub('\t00', '\t', newData)
 newData = re.sub('\t0', '\t', newData)
 
 # Greek unicode characters
-newData = re.sub('ά', 'ά', newData)
-newData = re.sub('ί', 'ί', newData)
-newData = re.sub('έ', 'έ', newData)
-newData = re.sub('ώ', 'ώ', newData)
-newData = re.sub('ή', 'ή', newData)
-newData = re.sub('ύ', 'ύ', newData)
-newData = re.sub('ό', 'ό', newData)
+newData = re.sub('ά', 'ά', newData)
+newData = re.sub('ί', 'ί', newData)
+newData = re.sub('έ', 'έ', newData)
+newData = re.sub('ώ', 'ώ', newData)
+newData = re.sub('ή', 'ή', newData)
+newData = re.sub('ύ', 'ύ', newData)
+newData = re.sub('ό', 'ό', newData)
 newData = re.sub('̓͂Α', 'Ἆ', newData)
 newData = re.sub('̓͂Η', 'Ἦ', newData)
 newData = re.sub('̓͂Ω', 'Ὦ', newData)
 newData = re.sub('ί̈', 'ΐ', newData)
-newData = re.sub('ΐ', 'ΐ', newData)
-newData = re.sub('ΰ', 'ΰ', newData)
+newData = re.sub('ΐ', 'ΐ', newData)
+newData = re.sub('ΰ', 'ΰ', newData)
 newData = re.sub('[᾿ʼ]', '᾽', newData)
-newData = re.sub('ῇ', 'ῇ', newData)
+newData = re.sub('ῇ', 'ῇ', newData)
 
 # punctuations
 newData = re.sub('¶', '¶ ', newData)
