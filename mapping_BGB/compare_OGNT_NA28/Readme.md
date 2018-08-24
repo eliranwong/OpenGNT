@@ -1,6 +1,6 @@
 Differences between words of OGNT and NA28 are placed here.
 
-File: <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_NA28/diff_major.csv'>diff_major.csv</a>
+File: <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_NA28/diff_main.csv'>diff_main.csv</a>
 OGNT has only a total of 111 words, different from NA28.
 
 File: <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_NA28/diff_minor.csv'>diff_minor.csv</a>
