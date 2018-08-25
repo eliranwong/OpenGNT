@@ -34,7 +34,11 @@ Source at <a href='https://github.com/eliranwong/OpenGNT' target='_blank'>https:
 
 # Source: A brief History 
 
-<b>From Nestle (1904) to OpenGNT</b>
+<b>Previous Versions (versions 1 & 2)</b>
+
+Previous two versions of the base text of OpenGNT project were compiled from <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TANTT%20-%20Tyndale%20Amalgamated%20NT%20Tagged%20texts.txt'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.  They are now replaced by the latest version (version 3).  No support will be provided for the previous versions.
+
+<b>The Latest Version (version 3)</b>
 
 The latest base text of Open Greek New Testament Project, OGNT in short, was compiled from Berean Greek Bible and its associated database, which is primarily based on the Greek New Testament, <a href='https://sites.google.com/site/nestle1904/'>Η ΚΑΙΝΗ ΔΙΑΘΗΚΗ</a>, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society.
 
