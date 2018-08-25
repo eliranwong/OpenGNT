@@ -52,11 +52,6 @@ Usage of the script:
 
 
 
-<hr>
-
-Some of the description below are outdated.  All description and documentation will be updated soon.
-
-<hr>
 
 # Open Greek New Testament Project
 
@@ -67,6 +62,13 @@ An eclectic text, namely "Open Greek New Testament [OGNT]", is first produced as
 # Screenshot:
 
 <img src="Screenshot/screenshot2.jpg">
+
+
+<hr>
+
+Some of the description below are outdated.  All description and documentation will be updated soon.
+
+<hr>
 
 # Main File:
 
