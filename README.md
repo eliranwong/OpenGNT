@@ -76,11 +76,14 @@ Comparison between OGNT and NA28 is briefly described <a href='https://github.co
 
 <img src="Screenshot/screenshot2.jpg">
 
-
+<hr>
+<hr>
 <hr>
 
-Some of the description below are outdated.  All description and documentation will be updated soon.
+Some of the description below are written about previous versions, i.e. versions 1 & 2, and therefore outdated.  All description and documentation will be updated soon.
 
+<hr>
+<hr>
 <hr>
 
 # Main File:
