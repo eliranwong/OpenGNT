@@ -109,7 +109,7 @@ and "STEP Bible" [<a href='www.STEPBible.org' target='_blank'>www.STEPBible.org<
 and source at <a href='tyndale.github.io/STEPBible-Data/' target='_blank'>tyndale.github.io/STEPBible-Data/</a>
 <br><br>
 <b>Berean Interlinear Bible</b><br>
-The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BSB<br>
+The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BIB<br>
 Copyright ©2016, 2018 by Bible Hub<br>
 Used by Permission. All Rights Reserved Worldwide.
 //<a href='berean.bible'>berean.bible</a> - Berean Bible Homepage
