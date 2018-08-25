@@ -24,46 +24,46 @@ These numbers are important bridges to map associated data of Berean Greek Bible
 
 <b>3rd Column - 〔Book｜Chapter｜Verse〕</b>
 
-Book = Book number, ranging from 40 to 66, representing books from Matthew to the book of Revelation.<br>
-Chpter = Chapter number<br>
-Verse = Verse number
+<b>Book</b> = Book number, ranging from 40 to 66, representing books from Matthew to the book of Revelation.<br>
+<b>Chpter</b> = Chapter number<br>
+<b>Verse</b> = Verse number
 
 <b>4th Column - 〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕</b>
 
-OGNTu = Greek word of OGNT in unaccented form<br>
-OGNTa = Greek word of OGNT in accented form<br>
-lexeme = Greek word of OGNT in lexical form<br>
-sn = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
-rmac = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
+<b>OGNTu</b> = Greek word of OGNT in unaccented form<br>
+<b>OGNTa</b> = Greek word of OGNT in accented form<br>
+<b>lexeme</b> = Greek word of OGNT in lexical form<br>
+<b>sn</b> = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
+<b>rmac</b> = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
 
 <b>4th Column - 〔transSBL｜modernGreek〕</b>
 
-transSBL = transliteration according to SBL's conventions<br>
-modernGreek = modern Greek pronunciation
+<b>transSBL</b> = transliteration according to SBL's conventions<br>
+<b>modernGreek</b> = modern Greek pronunciation
 
 <b>5th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
 
-TBESG = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
-BIB = translation from Berean Interlinear Bible (context-sensitive)<br>
-BLB = translation from Berean Literal Bible (context-sensitive)<br>
-BSB = translation from Berean Study Bible (context-sensitive)
+<b>TBESG</b> = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
+<b>BIB</b> = translation from Berean Interlinear Bible (context-sensitive)<br>
+<b>BLB</b> = translation from Berean Literal Bible (context-sensitive)<br>
+<b>BSB</b> = translation from Berean Study Bible (context-sensitive)
 
 <b>6th Column - 〔PMpWord｜PMfWord〕</b>
 
-PMpWord = punctuation mark(s) preceding the main word<br>
-PMfWord = punctuation mark(s) following the main word
+<b>PMpWord</b> = punctuation mark(s) preceding the main word<br>
+<b>PMfWord</b> = punctuation mark(s) following the main word
 
 <b>7th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
 
-Note = Notes on a specific word<br>
+<b>Note</b> = Notes on a specific word<br>
 (3 Types:<br>
 '＋' means Greek word, which are not in original Berean Greek data, 3 words adapted from Byzantine text, 2 words adapted from BHP; <br>
 '＊' means the main word is different from NA28; <br>
 '＝' means the main word is identical to the corresponding word in NA28, with minor orthographical difference)<br>
-Mvar = Greek variant in accented form, taken from TANTT database, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
-Mlexeme = lexical form of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
-Msn = Extended Strong's number of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
-Mrmac = Robinson's Morphological Analysis Codes of the Greek variant, Mvar,, applied only where '＊' or '＝' appear in 'Note' on the same row.
+<b>Mvar</b> = Greek variant in accented form, taken from TANTT database, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+<b>Mlexeme</b> = lexical form of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+<b>Msn</b> = Extended Strong's number of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+<b>Mrmac</b> = Robinson's Morphological Analysis Codes of the Greek variant, Mvar,, applied only where '＊' or '＝' appear in 'Note' on the same row.
 
 # OpenGNT_keyedFeatures.csv.zip:
 
