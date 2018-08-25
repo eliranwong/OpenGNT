@@ -1,20 +1,20 @@
 # Upgraded to Version 3
 
-<b>25 August 2018: The main text of OpenGNT project had been upgraded to version 3.</b>
+<b>25 August 2018:</b> The base text of OpenGNT project had been upgraded to version 3.  Previous versions, 1 & 2, are no longer supported.
 
 There are 2 major files: 
-- Main Text of OGNT: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_MAIN_TEXT.zip'>OpenGNT_MAIN_TEXT.zip</a>
+- Base Text of OGNT: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OpenGNT_BASE_TEXT.zip</a>
 - Keyed Features and Mapping IDs: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>
 
 Comparison between OGNT and NA28 is now briefly available <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
 
-License:
+# License:
 
 The main text of Open Greek New Testament Project, OGNT in short, is release under the following license:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://BibleBento.com" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://biblebento.com/contact/contactform.php" rel="cc:morePermissions">https://biblebento.com/contact/contactform.php</a>.
 
-Source: A brief History 
+# Source: A brief History 
 
 <b>From Nestle (1904) to OpenGNT</b>
 
