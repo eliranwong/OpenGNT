@@ -38,7 +38,7 @@ The final text of <a href='https://greekbible.org'>Berean Greek Bible</a> is pri
 
 In August, 2018, Eliran Wong [<a href='https://biblebento.com'>BibleBento.com</a>] received permission from John Isett [<a href='https://biblehub.com'>BibleHub.com</a>] to integrate Berean Greek Bible and its associated data into Open Greek New Testament Project, for compilation, mapping resources and distribution.
 
-As the original Greek New Testament (Nestle, 1904) is akin to recent editions of NA texts (e.g. NA27, NA28), Berean Greek data soon became obvious to be a very good source for compiling a base text for use in Open Greek New Testament Project, for further mapping valuables resources based on NA27 / NA28.
+As the original Greek New Testament (Nestle, 1904) is akin to recent editions of NA texts (e.g. NA27, NA28), it soon became obvious that Berean Greek data is a very good source for compiling the base text of Open Greek New Testament Project, both for reading and for further mapping valuables resources based on NA27 / NA28.
 
 <b>Compilation of the base text of OGNT</b>
 
@@ -47,7 +47,7 @@ Berean Greek Bible and its associated data were then taken into review and proce
 - Variants markers were reviewed, a few were refined.
 - Three missing variants from Byzantine text were added to the database.
 - <a href='https://github.com/greekcntr/BHP'>Bunning Heuristic Prototype Greek New Testament</a>, BHP in short, released by <a href='https://greekcntr.org'>Center for New Testament Restoration</a>, was compared in the review process.  BHP was taken into weighing textual decisions, as it reflects the latest efforts to reflect the best and earliest manuscripts.  BHP was not considered in the development of Berean Greek Bible, because it had not been published at the first launch of Berean Greek Bible.  The result is that two textual variants, taken from the text of BHP, were added to the database.
-- Berean Greek Bible uses KJV versification.  Mapping data to original GNT's versification (Nestle 1904).  Minor variations follows the versification of SBLGNT.
+- Berean Greek Bible uses KJV versification.  Mapping data to original GNT's versification (Nestle 1904).  Minor variations follows SBLGNT's versification.
 - Punctuation marks adapts data provided in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.  OpenGNT project further places punctuation marks into two groups, i.e. those preceding a word and those following a word.
 
 <b>Transparency</b>
@@ -95,11 +95,11 @@ and source at <a href='tyndale.github.io/STEPBible-Data/' target='_blank'>tyndal
 The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BIB<br>
 Copyright ©2016, 2018 by Bible Hub<br>
 Used by Permission. All Rights Reserved Worldwide.<br>
-//<a href='berean.bible'>berean.bible</a> - Berean Bible Homepage<br>
-//<a href='interlinearbible.com'>interlinearbible.com</a> - Berean Interlinear Bible<br>
-//<a href='literalbible.com'>literalbible.com</a> - Berean Literal Bible<br>
-//<a href='bereanbible.com'>bereanbible.com</a> - Berean Study Bible<br>
-//<a href='emphasizedbible.com'>emphasizedbible.com</a> - Berean Emphasized Bible
+<a href='berean.bible'>berean.bible</a> - Berean Bible Homepage<br>
+<a href='interlinearbible.com'>interlinearbible.com</a> - Berean Interlinear Bible<br>
+<a href='literalbible.com'>literalbible.com</a> - Berean Literal Bible<br>
+<a href='bereanbible.com'>bereanbible.com</a> - Berean Study Bible<br>
+<a href='emphasizedbible.com'>emphasizedbible.com</a> - Berean Emphasized Bible
 <br><br>
 <b>The OpenText.org Syntactically Annotated Greek New Testament</b><br>
 Stanley E. Porter<br>
