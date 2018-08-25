@@ -4,9 +4,15 @@ Two files are described on this page:
 - Base Text of OGNT: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OpenGNT_BASE_TEXT.zip</a>
 - Keyed Features and Mapping IDs: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>
 
-# Main File:
+# OpenGNT_BASE_TEXT.zip:
 
-"<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>OpenGNT.csv.zip</a>" is currently the main file for practical use. [<i>Remarks: Unzip the file before using it.</i>]
+<b>Usage:</b>
+
+- unzip the zip file to unpack "OpenGNT_version3.csv"
+- open "OpenGNT_version3.csv" with a text editor
+- locate columns of data, separated from one another with a [TAB] character.
+
+
 <br><br>
 It gives users a quick access to the main text of OpenGNT, keyed to various features.
 <br><br>
