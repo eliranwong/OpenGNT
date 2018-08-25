@@ -82,19 +82,8 @@ Comparison between OGNT and NA28 is briefly described <a href='https://github.co
 
 <img src="Screenshot/screenshot2.jpg">
 
-<hr>
-<hr>
-<hr>
 
-Some of the description below are written about previous versions, i.e. versions 1 & 2, and therefore outdated.  All description and documentation will be updated soon.
-
-<hr>
-<hr>
-<hr>
-
-
-
-# License:
+# Other Credits:
 
 The main text of Open Greek New Testament Project, OGNT in short, is release under the following license:
 
@@ -162,6 +151,16 @@ www.teknia.com/greek-dictionary
 <b>Morphological Lexicon of the Greek New Testament</b><br>
 Source: <a href='https://github.com/morphgnt/morphological-lexicon'>https://github.com/morphgnt/morphological-lexicon</a><br>
 It is used to process data for mapping purpose.<br>
+
+<hr>
+<hr>
+<hr>
+
+Some of the links will be updated soon.
+
+<hr>
+<hr>
+<hr>
 
 # Enhancement / Forthcoming additions:
 
