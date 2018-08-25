@@ -111,11 +111,11 @@ and source at <a href='tyndale.github.io/STEPBible-Data/' target='_blank'>tyndal
 <b>Berean Interlinear Bible</b><br>
 The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BIB<br>
 Copyright ©2016, 2018 by Bible Hub<br>
-Used by Permission. All Rights Reserved Worldwide.
-//<a href='berean.bible'>berean.bible</a> - Berean Bible Homepage
-//<a href='interlinearbible.com'>interlinearbible.com</a> - Berean Interlinear Bible
-//<a href='literalbible.com'>literalbible.com</a> - Berean Literal Bible
-//<a href='bereanbible.com'>bereanbible.com</a> - Berean Study Bible
+Used by Permission. All Rights Reserved Worldwide.<br>
+//<a href='berean.bible'>berean.bible</a> - Berean Bible Homepage<br>
+//<a href='interlinearbible.com'>interlinearbible.com</a> - Berean Interlinear Bible<br>
+//<a href='literalbible.com'>literalbible.com</a> - Berean Literal Bible<br>
+//<a href='bereanbible.com'>bereanbible.com</a> - Berean Study Bible<br>
 //<a href='emphasizedbible.com'>emphasizedbible.com</a> - Berean Emphasized Bible
 <br><br>
 <b>The OpenText.org Syntactically Annotated Greek New Testament</b><br>
