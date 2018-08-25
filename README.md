@@ -1,6 +1,17 @@
-# Open Greek New Testament Project
+# Upgraded to Version 3
 
-(25 August 2018: The main text of OGNT had been upgraded to version 3.  Some of the description below are outdated.  Description and documentation will be updated soon.)
+<b>25 August 2018: The main text of OpenGNT project had been upgraded to version 3.</b>
+
+There are 2 major files: 
+- Main Text of OGNT: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_MAIN_TEXT.zip'>OpenGNT_MAIN_TEXT.zip</a>
+- Keyed Features and Mapping IDs: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>
+
+Comparison between OGNT and NA28 is now briefly available <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
+
+Some of the description below are outdated.  
+All description and documentation will be updated soon.
+
+# Open Greek New Testament Project
 
 Open Greek New Testament project aims to provide a bundle of high-quality and open-source materials on Greek New Testament for biblical studies.
 <br><br>
