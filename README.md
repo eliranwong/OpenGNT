@@ -2,9 +2,9 @@
 
 Open Greek New Testament project aims to provide a bundle of high-quality and open-source materials on Greek New Testament for biblical studies.
 <br><br>
-An eclectic text, namely "Open Greek New Testament [OGNT]", was first compiled as the base text for the rest of the project.  The text of OGNT is built upon a group of high-quality scholarly materials</a>.  This aims to provide all bible students or scholars <b>a free text</b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, for studies or research purposes.
+An eclectic text, namely "Open Greek New Testament [OGNT]", was first compiled as the base text for the rest of the project.  The text of OGNT was built upon a group of high-quality scholarly materials</a>.  This aims to provide all bible students or scholars <b>a free text</b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, for studies or research purposes.
 <br><br>
-The base text of OGNT is akin to the text of NA28 / NA27, it is a good candidate for bridging a free Greek New Testament text with New Testament resources, which were originally keyed to NA28 / NA27.  The Open Greek New Testament Project is, indeed, designed both to provide a free NA-equivalent text of Greek New Testament and to bring many New Testament into public access.
+As <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>the base text of OGNT</a> is akin to the text of NA28 / NA27, it is a very good candidate for bridging a free Greek New Testament text with resources, which were originally keyed to the text of NA28 / NA27.  This is indeeed the purposes of Open Greek New Testament Project to both provide a free NA-equivalent text of Greek New Testament and bring many valuable New Testament resources into public access.
 <br><br>
 Currently, the base text of OGNT had been settled.  Extensive mapping had been done to scholarly resources, e.g. TANTT, OpenText Linguisitic Annotations, Levinsohn Greek New Testament Features, Berean interlinear translations, etc.
 
