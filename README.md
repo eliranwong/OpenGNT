@@ -36,7 +36,7 @@ The Greek New Testament (Nestle, 1904) is now a public domain document worldwide
 
 The final text of <a href='https://greekbible.org'>Berean Greek Bible</a> is primary based on Nestle Greek New Testament (1904), with standardisation of spellings and textual decisions reflecting the best and earliest manuscripts.  In addition, Berean translation table marks some significant textual variants of popular critical Greek New Testament editions, with <a href='https://greekbible.org'>a set of symbols</a>.
 
-In August, 2018, Eliran Wong [<a href='https://biblebento.com'>BibleBento.com</a>] received permission from John Isett [<a href='https://biblehub.com'>BibleHub.com</a>] to integrate Berean Greek Bible and its associated data into Open Greek New Testament Project, for compilation, mapping resources and distribution.
+In August, 2018, Eliran Wong [<a href='https://biblebento.com'>BibleBento.com</a>] received permission, granted by John Isett [<a href='https://biblehub.com'>BibleHub.com</a>] to integrate Berean Greek Bible and its associated data into Open Greek New Testament Project, for compilation, mapping resources and distribution.
 
 As the original Greek New Testament (Nestle, 1904) is akin to recent editions of NA texts (e.g. NA27, NA28), it soon became obvious that Berean Greek data is a very good source for compiling the base text of Open Greek New Testament Project, both for reading and for further mapping valuables resources based on NA27 / NA28.
 
@@ -46,9 +46,9 @@ Berean Greek Bible and its associated data were then taken into review and proce
 
 - Variants markers were reviewed, a few were refined.
 - Three missing variants from Byzantine text were added to the database.
-- <a href='https://github.com/greekcntr/BHP'>Bunning Heuristic Prototype Greek New Testament</a>, BHP in short, released by <a href='https://greekcntr.org'>Center for New Testament Restoration</a>, was compared in the review process.  BHP was taken into weighing textual decisions, as it reflects the latest efforts to reflect the best and earliest manuscripts.  BHP was not considered in the development of Berean Greek Bible, because it had not been published at the first launch of Berean Greek Bible.  The result is that two textual variants, taken from the text of BHP, were added to the database.
-- Berean Greek Bible uses KJV versification.  Mapping data to original GNT's versification (Nestle 1904).  Minor variations follows SBLGNT's versification.
-- Punctuation marks adapts data provided in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.  OpenGNT project further places punctuation marks into two groups, i.e. those preceding a word and those following a word.
+- <a href='https://github.com/greekcntr/BHP'>Bunning Heuristic Prototype Greek New Testament</a>, BHP in short, released by <a href='https://greekcntr.org'>Center for New Testament Restoration</a>, was compared in the review process.  BHP was taken into weighing textual decisions, as it is one of the latest projects to reflect the best and earliest manuscripts.  The result is that two textual variants, taken from the text of BHP, were added to the database.
+- Berean Greek Bible uses KJV versification.  Mapping data to original GNT's versification (Nestle 1904).  Minor variations follows SBLGNT's versification.  <i>Remarks: </i>BHP was not considered in the development of Berean Greek Bible, because it had not been published at the first launch of Berean Greek Bible.
+- Punctuation marks were adapted from data provided in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.  OpenGNT project further places punctuation marks into two groups, i.e. those preceding a word and those following a word.
 
 <b>Transparency</b>
 
