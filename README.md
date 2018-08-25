@@ -68,6 +68,9 @@ The resulting text is suprisingly very close to the text of NA28.  The latest ve
 
 Comparison between OGNT and NA28 is briefly described <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
 
+<br>
+<img src="Screenshot/screenshot1.jpg">
+
 # License:
 
 The main text of Open Greek New Testament Project, OGNT in short, is released under the following license:
@@ -135,8 +138,6 @@ www.teknia.com/greek-dictionary
 <b>Morphological Lexicon of the Greek New Testament</b><br>
 Source: <a href='https://github.com/morphgnt/morphological-lexicon'>https://github.com/morphgnt/morphological-lexicon</a><br>
 It is used to process data for mapping purpose.<br>
-<br>
-<img src="Screenshot/screenshot1.jpg">
 
 # Enhancement / Forthcoming additions:
 
@@ -164,6 +165,5 @@ Modules based on OpenGNT project are released gradually for use with bible appli
 <br><br>
 If you are a software developer and interested in this project, you are welcomed to contact <a href='https://biblebento.com/contact/contactform.php' target='_blank'>Eliran Wong</a>.
 <br><br>
-
 <img src="Screenshot/screenshot3.png">
 
