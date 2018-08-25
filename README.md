@@ -8,7 +8,7 @@ There are 2 major files:
 
 The base text of OpenGNT project is currently the closest equivalent to the text of NA28 available freely.
 
-Comparison between OGNT and NA28 is now briefly available <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
+Comparison between OGNT and NA28 is briefly described <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
 
 # License:
 
