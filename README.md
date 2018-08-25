@@ -22,7 +22,7 @@ The base text and the rest of Open Greek New Testament Project is released under
 
 Comparison between OGNT and NA28 is briefly described <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
 
-# Source: A brief History 
+# Source: A Brief History 
 
 <b>Previous Versions (versions 1 & 2)</b>
 
@@ -40,7 +40,7 @@ In August, 2018, Eliran Wong [<a href='https://biblebento.com'>BibleBento.com</a
 
 As the original Greek New Testament (Nestle, 1904) is akin to recent editions of NA texts (e.g. NA27, NA28), it soon became obvious that Berean Greek data is a very good source for compiling the base text of Open Greek New Testament Project, both for reading and for further mapping valuables resources based on NA27 / NA28.
 
-<b>Compilation of the base text of OGNT</b>
+<b>Compilation of the Base Text of OGNT</b>
 
 Berean Greek Bible and its associated data were then taken into review and processed, for compilation of a NA-equivalent Greek New Testament.  The process of compilation is briefly described below:
 
@@ -60,11 +60,11 @@ To use the script:
 - place files "berean_tablesInclusive.csv" and "compileOGNT.py" in the same folder
 - run command "python compileOGNT.py"
 
-<b>The resulting base text</b>
+<b>The Resulting Text</b>
 
-The resulting text is suprisingly very close to the text of NA28.  The latest version (version 3).  It only has 111 words different from the text of NA28.  It is not only the closest equivalent to the text of NA28 / NA27, but also <b>the best FREE candidate</b> for mapping resources originally keyed to NA28 / NA27, e.g. OpenText Linguistic Annotations, Levinsohn Greek New Testament discourse features.
+The resulting text is suprisingly very close to the text of NA28.  It only has 111 words different from the text of NA28.  The text is now taken as the latest version (version 3) of the base text of Open Greek New Testament Project, replacing all previous versions.  It is not only the closest equivalent to the text of NA28 / NA27, but also <b>the best FREE candidate</b> for mapping resources originally keyed to NA28 / NA27, e.g. OpenText Linguistic Annotations, Levinsohn Greek New Testament discourse features.
 
-<b>Comparison with NA28</b>
+<b>Comparison OGNT with NA28</b>
 
 Comparison between OGNT and NA28 is briefly described <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
 
