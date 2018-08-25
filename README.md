@@ -51,7 +51,8 @@ Berean Greek Bible and its associated data were then taken into review and proce
 - Variants markers were reviewed, a few were refined.
 - Three missing variants from Byzantine text were added to the database.
 - <a href='https://github.com/greekcntr/BHP'>Bunning Heuristic Prototype Greek New Testament</a>, BHP in short, released by <a href='https://greekcntr.org'>Center for New Testament Restoration</a>, was compared in the review process.  BHP was taken into weighing textual decisions, as it is one of the latest projects to reflect the best and earliest manuscripts.  The result is that two textual variants, taken from the text of BHP, were added to the database.
-- All TR, BYZ, WH and some of SBL variants were taken away from the compilation.
+- All TR, BYZ, WH, NE variants, originally marked in Berean database with symbols "{} ⧼⧽ () 〈〉", and some of SBL variants, marked with "〈〉", were taken away from the compilation.
+- Punctuation marks were taken away during the compilation.
 - Berean Greek Bible uses KJV versification.  Mapping data to original GNT's versification (Nestle 1904).  Minor variations follows SBLGNT's versification.  <i>Remarks: </i>BHP was not considered in the development of Berean Greek Bible, because it had not been published at the first launch of Berean Greek Bible.
 - Punctuation marks were adapted from data provided in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.  OpenGNT project further places punctuation marks into two groups, i.e. those preceding a word and those following a word.
 
