@@ -77,7 +77,7 @@ These numbers are important bridges to map associated data of Berean Greek Bible
 This sort number is used to sort word order mapped in GNT features.<br>
 <br>
 <b>2nd Column - mapIDV2</b><br>
-This is a set of mapping ID, used to map resources, e.g. check the 1st column in file for mapping<a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>Levinsohn GNT discourse features</a>.<br>
+This is a set of mapping ID, used to map resources, e.g. check the 1st column in file, mapping <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>Levinsohn GNT discourse features</a> to OGNT.<br>
 <br>
 <b>3rd Column - mapIDV1</b><br>
 This is a old set of mapping ID, used to map an early version of TANTT's data.<br>
