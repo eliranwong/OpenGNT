@@ -55,15 +55,15 @@ These numbers are important bridges to map associated data of Berean Greek Bible
 
 <b>7th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
 
-<b>Note</b> = Notes on a specific word<br>
+1) <b>Note</b> = Notes on a specific word<br>
 (3 Types:<br>
 '＋' means Greek word, which are not in original Berean Greek data, 3 words adapted from Byzantine text, 2 words adapted from BHP; <br>
 '＊' means the main word is different from NA28; <br>
 '＝' means the main word is identical to the corresponding word in NA28, with minor orthographical difference)<br>
-<b>Mvar</b> = Greek variant in accented form, taken from TANTT database, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
-<b>Mlexeme</b> = lexical form of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
-<b>Msn</b> = Extended Strong's number of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
-<b>Mrmac</b> = Robinson's Morphological Analysis Codes of the Greek variant, Mvar,, applied only where '＊' or '＝' appear in 'Note' on the same row.
+2) <b>Mvar</b> = Greek variant in accented form, taken from TANTT database, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+3) <b>Mlexeme</b> = lexical form of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+4) <b>Msn</b> = Extended Strong's number of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+5) <b>Mrmac</b> = Robinson's Morphological Analysis Codes of the Greek variant, Mvar,, applied only where '＊' or '＝' appear in 'Note' on the same row.
 
 # OpenGNT_keyedFeatures.csv.zip:
 
@@ -88,7 +88,7 @@ This is a old set of mapping ID, used to map an early version of TANTT's data.<b
 3) Verse number<br>
 <br>
 <b>5th Column - 〔OGNT_KEY｜OpenTextWord_KEY〕</b><br>
-1) OGNT_KEY - It is same as the main sort number in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OpenGNT_BASE_TEXT.zip</a>; this number is used as a mapping id in this file, to map the base text of OGNT to various GNT features.<br>
+1) <b>OGNT_KEY</b> - It is same as the main sort number in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OpenGNT_BASE_TEXT.zip</a>; this number is used as a mapping id in this file, to map the base text of OGNT to various GNT features.<br>
 2) <b>OpenTextWordID</b> - Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br><br>
 <b>6th Column - Mapping to Levinsohn GNTDF's Data</b>: <br>
 〔LevinsohnWordID｜noteMarker｜noteMarkerNoClause｜clause｜otQuotation｜reportedSpeech｜embeddedReportedSpeech〕<br>
