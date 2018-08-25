@@ -108,6 +108,16 @@ Source at <a href='https://github.com/eliranwong/OpenGNT' target='_blank'>https:
 and "STEP Bible" [<a href='www.STEPBible.org' target='_blank'>www.STEPBible.org</a>]<br>
 and source at <a href='tyndale.github.io/STEPBible-Data/' target='_blank'>tyndale.github.io/STEPBible-Data/</a>
 <br><br>
+<b>Berean Interlinear Bible</b><br>
+The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BSB<br>
+Copyright ©2016, 2018 by Bible Hub<br>
+Used by Permission. All Rights Reserved Worldwide.
+//<a href='berean.bible'>berean.bible</a> - Berean Bible Homepage
+//<a href='interlinearbible.com'>interlinearbible.com</a> - Berean Interlinear Bible
+//<a href='literalbible.com'>literalbible.com</a> - Berean Literal Bible
+//<a href='bereanbible.com'>bereanbible.com</a> - Berean Study Bible
+//<a href='emphasizedbible.com'>emphasizedbible.com</a> - Berean Emphasized Bible
+<br><br>
 <b>The OpenText.org Syntactically Annotated Greek New Testament</b><br>
 Stanley E. Porter<br>
 Matthew Brook O'Donnell<br>
@@ -126,11 +136,6 @@ Paul O'Rear<br>
 Associate Coordinator<br>
 International Translation<br>
 SIL International
-<br><br>
-<b>Berean Greek / Interlinear Bible</b><br>
-The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BSB<br>
-Copyright ©2016, 2018 by Bible Hub<br>
-Used by Permission. All Rights Reserved Worldwide.
 <br><br>
 <b>NET Bible Copyright 2nd Edition (2017)</b><br>
 NET BIble® Copyright THE NET BIBLE®, New English Translation (NET) Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996-2016 by Biblical Studies Press, L.L.C. <a href='http://netbible.com' target='_blank'>http://netbible.com</a> All rights reserved.  The names: THE NET BIBLE®, NEW ENGLISH TRANSLATION COPYRIGHT (c) 1996 BY BIBLICAL STUDIES PRESS, L.L.C. NET Bible® IS A  REGISTERED TRADEMARK THE NET BIBLE® LOGO, SERVICE MARK COPYRIGHT (c) 1997 BY BIBLICAL STUDIES PRESS, L.L.C. ALL RIGHTS RESERVEDSATELLITE IMAGERY COPYRIGHT (c) RØHR PRODUCTIONS LTD. AND CENTRE NATIONAL D'ÉTUDES SPATIALES PHOTOGRAPHS COPYRIGHT (c) RØHR PRODUCTIONS LTD.
