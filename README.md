@@ -61,7 +61,7 @@ Berean Greek Bible and its associated data were then taken into review and proce
 - To ensure transparency, the original database for compilation, including Berean Greek Data, and additional data mentioned above, is uploaded <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/source_BereanGreekBible_Inclusive.csv.zip'>HERE</a>.
 - The process of the compilation is repeatable through the use of a simple Python script uploaded <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/script/compileOGNT.py'>HERE</a>.  The script is provided for the sake of transparency.  In addition, it may be useful for validation or checking.
 
-Usage of the script:
+To use the script:
 - unzip file "source_BereanGreekBible_Inclusive.csv.zip"
 - places files "berean_tablesInclusive.csv" and "compileOGNT.py" in the same folder
 - run command "python compileOGNT.py"
