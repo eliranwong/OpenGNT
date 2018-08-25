@@ -14,21 +14,27 @@ Two files are described on this page:
 
 <b>1st Column - OGNT Sort Number</b>
 
-This column contains sort numbers of all words.
+This column contains sort numbers of all words.<br>
 These sort numbers are also important bridges for mapping key features in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>.
 
-<b>2st Column - BGBsort</b>
+<b>2nd Column - BGBsort</b>
 
-These are original sort numbers of Berean Greek Bible, BGB, available in Berean translation table.
+These are original sort numbers of Berean Greek Bible, BGB, available in Berean translation table.<br>
 These numbers are important bridges to map associated data of Berean Greek Bible.
 
-<b>3st Column - 〔Book｜Chapter｜Verse〕</b>
+<b>3rd Column - 〔Book｜Chapter｜Verse〕</b>
 
-Book = Book number, ranging from 40 to 66, representing books from Matthew to the book of Revelation.
-Chpter = Chapter number
+Book = Book number, ranging from 40 to 66, representing books from Matthew to the book of Revelation.<br>
+Chpter = Chapter number<br>
 Verse = Verse number
 
+<b>4th Column - 〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕</b>
 
+OGNTu = Greek word of OGNT in unaccented form<br>
+OGNTa = Greek word of OGNT in accented form<br>
+lexeme = lexeme, sources from <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
+sn = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
+rmac = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
 
 000000	BGBsort	〔Book｜Chapter｜Verse〕	〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕	〔transSBL｜modernGreek〕	〔TBESG｜BIB｜BLB｜BSB〕	〔PMpWord｜PMfWord〕	〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕
 
