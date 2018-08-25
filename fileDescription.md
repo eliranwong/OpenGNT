@@ -19,7 +19,7 @@ These sort numbers are also important bridges for mapping key features in file <
 
 <b>2nd Column - BGBsort</b>
 
-These are original sort numbers of Berean Greek Bible, BGB, available in Berean translation table.<br>
+These are original sort numbers ("Inclusive") of Berean Greek Bible, BGB, available in Berean translation table.<br>
 These numbers are important bridges to map associated data of Berean Greek Bible.
 
 <b>3rd Column - 〔Book｜Chapter｜Verse〕</b>
