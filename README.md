@@ -1,3 +1,13 @@
+# Open Greek New Testament Project
+
+Open Greek New Testament project aims to provide a bundle of high-quality and open-source materials on Greek New Testament for biblical studies.
+<br><br>
+An eclectic text, namely "Open Greek New Testament [OGNT]", is first produced as the base text for the rest of the project.  The text of OPNT is built upon a group of high-quality scholarly materials</a>.  This aims to provide all bible students or scholars <b>a free text</b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, for studies or research purposes.
+
+# Screenshot:
+
+<img src="Screenshot/screenshot2.jpg">
+
 # Upgraded to Version 3
 
 <b>25 August 2018:</b> The base text of OpenGNT project had been upgraded to version 3.  Previous versions, 1 & 2, are no longer supported.
@@ -11,26 +21,6 @@ The base text of OpenGNT project, OGNT, is currently the closest equivalent to t
 The base text and the rest of Open Greek New Testament Project is released under a public license described below.
 
 Comparison between OGNT and NA28 is briefly described <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
-
-# Open Greek New Testament Project
-
-Open Greek New Testament project aims to provide a bundle of high-quality and open-source materials on Greek New Testament for biblical studies.
-<br><br>
-An eclectic text, namely "Open Greek New Testament [OGNT]", is first produced as the base text for the rest of the project.  The text of OPNT is built upon a group of high-quality scholarly materials</a>.  This aims to provide all bible students or scholars <b>a free text</b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, for studies or research purposes.
-
-# License:
-
-The main text of Open Greek New Testament Project, OGNT in short, is released under the following license:
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://BibleBento.com" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://biblebento.com/contact/contactform.php" rel="cc:morePermissions">https://biblebento.com/contact/contactform.php</a>.
-
-You are allowed to use, adapt and distribute OpenGNT materials for non-commercial purpose only.  Commercial use is NOT granted with the license stated above.  You may <a href='https://biblebento.com/contact/contactform.php'>email</a> to ask for permission to use in commercial project.
-<br><br>
-You are required to quote the following information, when any parts of OpenGNT materials are integrated in your own work or distributed:
-<br><br>
-<b>Open Greek New Testament Project</b><br>
-Developer: Eliran Wong [<a href='https://biblebento.com/' target='_blank'>BibleBento.com</a>; <a href='https://biblebento.com/contact/contactform.php' target='_blank'>Contact</a>],<br>
-Source at <a href='https://github.com/eliranwong/OpenGNT' target='_blank'>https://github.com/eliranwong/OpenGNT/</a>
 
 # Source: A brief History 
 
@@ -78,30 +68,24 @@ The resulting text is suprisingly very close to the text of NA28.  The latest ve
 
 Comparison between OGNT and NA28 is briefly described <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
 
-# Screenshot:
+# License:
 
-<img src="Screenshot/screenshot2.jpg">
-
-
-# Other Credits:
-
-The main text of Open Greek New Testament Project, OGNT in short, is release under the following license:
+The main text of Open Greek New Testament Project, OGNT in short, is released under the following license:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://BibleBento.com" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://biblebento.com/contact/contactform.php" rel="cc:morePermissions">https://biblebento.com/contact/contactform.php</a>.
 
-<br><br>
-You are allowed to use, adapt and distribute OpenGNT materials for non-commercial purpose only.  Commercial use is NOT granted with the license stated above.  You may <a href='https://biblebento.com/contact/contactform.php'>email</a> to ask for use in commercial project.
+You are allowed to use, adapt and distribute OpenGNT materials for non-commercial purpose only.  Commercial use is NOT granted with the license stated above.  You may <a href='https://biblebento.com/contact/contactform.php'>email</a> to ask for permission to use in commercial project.
 <br><br>
 You are required to quote the following information, when any parts of OpenGNT materials are integrated in your own work or distributed:
 <br><br>
 <b>Open Greek New Testament Project</b><br>
-Developer: Eliran Wong [<a href='https://biblebento.com/contact/contactform.php' target='_blank'>Contact</a>; <a href='https://biblebento.com/' target='_blank'>BibleBento.com</a>],<br>
+Developer: Eliran Wong [<a href='https://biblebento.com/' target='_blank'>BibleBento.com</a>; <a href='https://biblebento.com/contact/contactform.php' target='_blank'>Contact</a>],<br>
 Source at <a href='https://github.com/eliranwong/OpenGNT' target='_blank'>https://github.com/eliranwong/OpenGNT/</a>
 <br><br>
 [Remarks: Please include all links available in the credit information above.]
-<br><br>
-<b>Other Credits / Attributions:</b>
-<br><br>
+
+# Other Credits:
+
 <b>TANTT data</b>:<br>
 "Tyndale House, Cambridge" [<a href='www.TyndaleHouse.com' target='_blank'>www.TyndaleHouse.com</a>],<br>
 and "STEP Bible" [<a href='www.STEPBible.org' target='_blank'>www.STEPBible.org</a>]<br>
