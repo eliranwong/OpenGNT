@@ -63,7 +63,7 @@ Berean Greek Bible and its associated data were then taken into review and proce
 
 To use the script:
 - unzip file "source_BereanGreekBible_Inclusive.csv.zip"
-- places files "berean_tablesInclusive.csv" and "compileOGNT.py" in the same folder
+- place files "berean_tablesInclusive.csv" and "compileOGNT.py" in the same folder
 - run command "python compileOGNT.py"
 
 <b>The resulting base text</b>
