@@ -24,34 +24,34 @@ These numbers are important bridges to map associated data of Berean Greek Bible
 
 <b>3rd Column - 〔Book｜Chapter｜Verse〕</b>
 
-<b>Book</b> = Book number, ranging from 40 to 66, representing books from Matthew to the book of Revelation.<br>
-<b>Chpter</b> = Chapter number<br>
-<b>Verse</b> = Verse number
+1) <b>Book</b> = Book number, ranging from 40 to 66, representing books from Matthew to the book of Revelation.<br>
+2) <b>Chpter</b> = Chapter number<br>
+3) <b>Verse</b> = Verse number
 
 <b>4th Column - 〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕</b>
 
-<b>OGNTu</b> = Greek word of OGNT in unaccented form<br>
-<b>OGNTa</b> = Greek word of OGNT in accented form<br>
-<b>lexeme</b> = Greek word of OGNT in lexical form<br>
-<b>sn</b> = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
-<b>rmac</b> = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
+1) <b>OGNTu</b> = Greek word of OGNT in unaccented form<br>
+2) <b>OGNTa</b> = Greek word of OGNT in accented form<br>
+3) <b>lexeme</b> = Greek word of OGNT in lexical form<br>
+4) <b>sn</b> = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
+5) <b>rmac</b> = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
 
 <b>4th Column - 〔transSBL｜modernGreek〕</b>
 
-<b>transSBL</b> = transliteration according to SBL's conventions<br>
-<b>modernGreek</b> = modern Greek pronunciation
+1) <b>transSBL</b> = transliteration according to SBL's conventions<br>
+2) <b>modernGreek</b> = modern Greek pronunciation
 
 <b>5th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
 
-<b>TBESG</b> = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
-<b>BIB</b> = translation from Berean Interlinear Bible (context-sensitive)<br>
-<b>BLB</b> = translation from Berean Literal Bible (context-sensitive)<br>
-<b>BSB</b> = translation from Berean Study Bible (context-sensitive)
+1) <b>TBESG</b> = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
+2) <b>BIB</b> = translation from Berean Interlinear Bible (context-sensitive)<br>
+3) <b>BLB</b> = translation from Berean Literal Bible (context-sensitive)<br>
+4) <b>BSB</b> = translation from Berean Study Bible (context-sensitive)
 
 <b>6th Column - 〔PMpWord｜PMfWord〕</b>
 
-<b>PMpWord</b> = punctuation mark(s) preceding the main word<br>
-<b>PMfWord</b> = punctuation mark(s) following the main word
+1) <b>PMpWord</b> = punctuation mark(s) preceding the main word<br>
+2) <b>PMfWord</b> = punctuation mark(s) following the main word
 
 <b>7th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
 
