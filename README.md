@@ -48,11 +48,11 @@ As the original Greek New Testament (Nestle, 1904) is akin to recent editions of
 
 Berean Greek Bible and its associated data were then taken into review and processed, for compilation of a NA-equivalent Greek New Testament.  The compilation process is briefly described below:
 
-- Berean Greek Bible uses KJV versification.  Mapping data to original GNT's versification (Nestle 1904).  Minor variations follows SBLGNT's versification.
 - Variants markers were reviewed, a few were refined.
 - Three missing variants from Byzantine text were added to the database.
 - <a href='https://github.com/greekcntr/BHP'>Bunning Heuristic Prototype Greek New Testament</a>, BHP in short, released by <a href='https://greekcntr.org'>Center for New Testament Restoration</a>, was compared in the review process.  BHP was taken into weighing textual decisions, as it is one of the latest projects to reflect the best and earliest manuscripts.  The result is that two textual variants, taken from the text of BHP, were added to the database.  <i>Remarks:</i> BHP was not considered in the development of Berean Greek Bible, because it had not been published at the first launch of Berean Greek Bible.
 - All TR, BYZ, WH, NE variants, originally marked in Berean database with symbols "{} ⧼⧽ () 〈〉", and some of SBL variants, marked with "〈〉", were taken away from the compilation.
+- Berean Greek Bible uses KJV versification.  Original GNT's versification (Nestle 1904) had been worked out, with minor variations following SBLGNT's versification.
 - Punctuation marks were taken away during the compilation.
 - Punctuation marks were adapted from data provided in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.  OpenGNT project further places punctuation marks into two groups, i.e. those preceding a word and those following a word.
 
