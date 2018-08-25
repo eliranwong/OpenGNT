@@ -8,8 +8,55 @@ There are 2 major files:
 
 Comparison between OGNT and NA28 is now briefly available <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
 
-Some of the description below are outdated.  
-All description and documentation will be updated soon.
+License:
+
+The main text of Open Greek New Testament Project, OGNT in short, is release under the following license:
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://BibleBento.com" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://biblebento.com/contact/contactform.php" rel="cc:morePermissions">https://biblebento.com/contact/contactform.php</a>.
+
+Source: A brief History 
+
+<b>From Nestle (1904) to OpenGNT</b>
+
+The latest base text of Open Greek New Testament Project, OGNT in short, was compiled from Berean Greek Bible and its associated database, which is primarily based on the Greek New Testament, <a href='https://sites.google.com/site/nestle1904/'>Η ΚΑΙΝΗ ΔΙΑΘΗΚΗ</a>, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society.
+
+The Greek New Testament (Nestle, 1904) is now a public domain document worldwide, without any limitations for use or copyright issues.  <a href='https://berean.bible/committee.htm'>The Berean Bible Translation Committee</a> adopted it years ago as the base text for developing Berean Greek Bible and associated resources on New Testament.  
+
+The final text of <a href='https://greekbible.org'>Berean Greek Bible</a> is primary based on Nestle Greek New Testament (1904), with standardisation of spellings and textual decisions reflecting the best and earliest manuscripts.  In addition, Berean translation table marks some significant textual variants of popular critical Greek New Testament editions, with <a href='https://greekbible.org'>a set of symbols</a>.
+
+In August, 2018, Eliran Wong [<a href='https://biblebento.com'>BibleBento.com</a>] received permission from John Isett [<a href='https://biblehub.com'>BibleHub.com</a>] to integrate Berean Greek Bible and its associated data into Open Greek New Testament Project, for compilation, mapping resources and distribution.
+
+As the original Greek New Testament (Nestle, 1904) is akin to recent editions of NA texts (e.g. NA27, NA28), Berean Greek data soon became obvious to be a very good source for compiling a base text for use in Open Greek New Testament Project, for further mapping valuables resources based on NA27 / NA28.
+
+<b>Compilation of the base text of OGNT</b>
+
+Berean Greek Bible and its associated data were then taken into review and processed, for compilation of a NA-equivalent Greek New Testament.  The process of compilation is briefly described below:
+
+- Variants markers were reviewed, a few were refined.
+- Three missing variants from Byzantine text were added to the database.
+- <a href='https://github.com/greekcntr/BHP'>Bunning Heuristic Prototype Greek New Testament</a>, BHP in short, released by <a href='https://greekcntr.org'>Center for New Testament Restoration</a>, was compared in the review process.  BHP was taken into weighing textual decisions, as it reflects the latest efforts to reflect the best and earliest manuscripts.  BHP was not considered in the development of Berean Greek Bible, because it had not been published at the first launch of Berean Greek Bible.  The result is that two textual variants, taken from the text of BHP, were added to the database.
+- Berean Greek Bible uses KJV versification.  Mapping data to original GNT's versification (Nestle 1904).  Minor variations follows the versification of SBLGNT.
+- Punctuation marks adapts data provided in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.  OpenGNT project further places punctuation marks into two groups, i.e. those preceding a word and those following a word.
+
+<b>Transparency</b>
+
+- To ensure transparency, the original database for compilation, including Berean Greek Data, and additional data mentioned above, is uploaded <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/source_BereanGreekBible_Inclusive.csv.zip'>HERE</a>.
+- The process of the compilation is repeatable through the use of a simple Python script uploaded <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/script/compileOGNT.py'>HERE</a>.  The script is provided for the sake of transparency.  In addition, it may be useful for validation or checking.
+
+Usage of the script:
+- unzip file "source_BereanGreekBible_Inclusive.csv.zip"
+- places files "berean_tablesInclusive.csv" and "compileOGNT.py" in the same folder
+- run command "python compileOGNT.py"
+
+<b>Result and Comparison with NA28</b>
+
+
+
+<hr>
+
+Some of the description below are outdated.  All description and documentation will be updated soon.
+
+<hr>
 
 # Open Greek New Testament Project
 
