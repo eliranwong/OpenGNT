@@ -73,16 +73,16 @@ These numbers are important bridges to map associated data of Berean Greek Bible
 - open "OpenGNT_keyedFeatures.csv" with a text editor
 - locate columns of data, separated from one another with a [TAB] character.
 
-<b>1st Column - Features Sort Number</b>
-This sort number is used to sort word order mapped in GNT features.
-
-<b>2nd Column - mapIDV2</b>
-This is a set of mapping ID, used to map resources like Levinsohn GNT discourse features.
-
-<b>3rd Column - mapIDV1</b>
-This is a old set of mapping ID, used to map an early version of TANTT's data.
-
-<b>4th Column - 〔book｜chapter｜verse〕</b><br>
+- <b>1st Column - Features Sort Number</b><br>
+This sort number is used to sort word order mapped in GNT features.<br>
+<br>
+- <b>2nd Column - mapIDV2</b><br>
+This is a set of mapping ID, used to map resources like Levinsohn GNT discourse features.<br>
+<br>
+- <b>3rd Column - mapIDV1</b><br>
+This is a old set of mapping ID, used to map an early version of TANTT's data.<br>
+<br>
+- <b>4th Column - 〔book｜chapter｜verse〕</b><br>
 1) Book number<br>
 2) Chapter number<br>
 3) Verse number<br>
