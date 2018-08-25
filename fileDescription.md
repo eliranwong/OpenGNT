@@ -32,16 +32,54 @@ Verse = Verse number
 
 OGNTu = Greek word of OGNT in unaccented form<br>
 OGNTa = Greek word of OGNT in accented form<br>
-lexeme = lexeme, sources from <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
+lexeme = Greek word of OGNT in lexical form<br>
 sn = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
 rmac = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
 
-000000	BGBsort	〔Book｜Chapter｜Verse〕	〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕	〔transSBL｜modernGreek〕	〔TBESG｜BIB｜BLB｜BSB〕	〔PMpWord｜PMfWord〕	〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕
+<b>4th Column - 〔transSBL｜modernGreek〕</b>
 
-<br><br>
-It gives users a quick access to the main text of OpenGNT, keyed to various features.
-<br><br>
-<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>This main text of OGNT </a> is currently <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, made available for distribution under an open-license.
+transSBL = transliteration according to SBL's conventions<br>
+modernGreek = modern Greek pronunciation
+
+<b>5th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
+
+TBESG = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
+BIB = translation from Berean Interlinear Bible (context-sensitive)<br>
+BLB = translation from Berean Literal Bible (context-sensitive)<br>
+BSB = translation from Berean Study Bible (context-sensitive)
+
+<b>6th Column - 〔PMpWord｜PMfWord〕</b>
+
+PMpWord = punctuation mark(s) preceding the main word<br>
+PMfWord = punctuation mark(s) following the main word
+
+<b>7th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
+
+Note = Notes on a specific word<br>
+(3 Types:<br>
+'＋' means Greek word, which are not in original Berean Greek data, 3 words adapted from Byzantine text, 2 words adapted from BHP; <br>
+'＊' means the main word is different from NA28; <br>
+'＝' means the main word is identical to the corresponding word in NA28, with minor orthographical difference)<br>
+Mvar = Greek variant in accented form, taken from TANTT database, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+Mlexeme = lexical form of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+Msn = Extended Strong's number of the Greek variant, Mvar, applied only where '＊' or '＝' appear in 'Note' on the same row.<br>
+Mrmac = Robinson's Morphological Analysis Codes of the Greek variant, Mvar,, applied only where '＊' or '＝' appear in 'Note' on the same row.
+
+(information below is outdated; pending updates ...)
+
+# OpenGNT_keyedFeatures.csv.zip:
+
+<b>Usage:</b>
+
+- unzip the zip file to unpack "OpenGNT_keyedFeatures.csv"
+- open "OpenGNT_keyedFeatures.csv" with a text editor
+- locate columns of data, separated from one another with a [TAB] character.
+
+000000	mapIDV2	mapIDV1	〔book｜chapter｜verse〕	〔OGNT_KEY｜OpenTextWord_KEY〕	〔LevinsohnWord_KEY｜noteMarker｜noteMarkerNoClause｜clause｜otQuotation｜reportedSpeech｜embeddedReportedSpeech〕	〔lexeme｜BDAGentry｜EDNTentry｜MounceEntry｜morphologyCode｜morphologyDescription｜extendedStrongNumber｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕	〔MounceGloss｜TyndaleHouseGloss｜OpenGNTGloss｜NET2Words〕	〔editionMarker1｜editionMarker2｜editions｜variants〕
+
+<b>1st Column - Features Sort Number</b>
+
+It gives users a quick access to mapping keys to various GNT features.
 <br><br>
 File format:
 - each word of the main text is placed on a single line.<br>
@@ -53,18 +91,6 @@ File format:
 1) Book number<br>
 2) Chapter number<br>
 3) Verse number<br>
-<br>
-- <b>Gropu II - Main text of OpenGNT</b>: <br>
-〔unaccentedWord｜accentedWordV1｜accentedWordV2｜transliteration｜modernPronunciation〕<br>
-1) unaccentedWord = Unaccented Word<br>
-2) accentedWordV1 = Accented Word (version 1) - <a href='https://github.com/eliranwong/OpenGNT/tree/master/From_TANTT_to_OpenGNT'>details HERE</a><br>
-3) transliteration = Transliteration<br>
-4) modernPronunciation = Modern Greek Pronunciation<br>
-<br>
-- <b>Gropu III - Punctuation Marks</b>: <br>
-〔puncMpWv1｜puncMfWv1｜puncMpWv2｜puncMfWv2〕<br>
-1) puncMpWv1 = Punctuation mark(s), which precede(s) the main word (version 1)<br>
-2) puncMfWv1 = Punctuation mark(s), which follow(s) the main word (version 1)<br>
 <br>
 - <b>Gropu IV - Mapping to OpenText.org Data</b>: <br>
 〔OpenTextWordID〕<br>
