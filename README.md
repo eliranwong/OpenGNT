@@ -64,7 +64,7 @@ To use the script:
 - place files "berean_tablesInclusive.csv" and "compileOGNT.py" in the same folder
 - run command "python compileOGNT.py"
 
-<b>The Resulting Text</b>
+<b>A NA-Equivalent Text</b>
 
 The resulting text is suprisingly very close to the text of NA28.  It only has 111 words different from the text of NA28.  The text is now taken as the latest version (version 3) of the base text of Open Greek New Testament Project, replacing all previous versions.  It is not only the closest equivalent to the text of NA28 / NA27, but also <b>the best FREE candidate</b> for mapping resources originally keyed to NA28 / NA27, e.g. OpenText Linguistic Annotations, Levinsohn Greek New Testament discourse features.
 
@@ -81,7 +81,7 @@ The main text of Open Greek New Testament Project, OGNT in short, is released un
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Open Greek New Testament Project</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://BibleBento.com" property="cc:attributionName" rel="cc:attributionURL">Eliran Wong</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/OpenGNT" rel="dct:source">https://github.com/eliranwong/OpenGNT</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://biblebento.com/contact/contactform.php" rel="cc:morePermissions">https://biblebento.com/contact/contactform.php</a>.
 
-You are allowed to use, adapt and distribute OpenGNT materials for non-commercial purpose only.  Commercial use is NOT granted with the license stated above.  You may <a href='https://biblebento.com/contact/contactform.php'>email</a> to ask for permission to use in commercial project.
+You are allowed to use, adapt and distribute OpenGNT materials for non-commercial purposes only.  Commercial use is NOT granted with the license stated above.  You may <a href='https://biblebento.com/contact/contactform.php'>email</a> to ask for permission to use in commercial projects.
 <br><br>
 You are required to quote the following information, when any parts of OpenGNT materials are integrated in your own work or distributed:
 <br><br>
