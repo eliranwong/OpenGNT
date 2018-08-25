@@ -12,6 +12,25 @@ Two files are described on this page:
 - open "OpenGNT_version3.csv" with a text editor
 - locate columns of data, separated from one another with a [TAB] character.
 
+<b>1st Column - OGNT Sort Number</b>
+
+This column contains sort numbers of all words.
+These sort numbers are also important bridges for mapping key features in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>.
+
+<b>2st Column - BGBsort</b>
+
+These are original sort numbers of Berean Greek Bible, BGB, available in Berean translation table.
+These numbers are important bridges to map associated data of Berean Greek Bible.
+
+<b>3st Column - 〔Book｜Chapter｜Verse〕</b>
+
+Book = Book number, ranging from 40 to 66, representing books from Matthew to the book of Revelation.
+Chpter = Chapter number
+Verse = Verse number
+
+
+
+000000	BGBsort	〔Book｜Chapter｜Verse〕	〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕	〔transSBL｜modernGreek〕	〔TBESG｜BIB｜BLB｜BSB〕	〔PMpWord｜PMfWord〕	〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕
 
 <br><br>
 It gives users a quick access to the main text of OpenGNT, keyed to various features.
