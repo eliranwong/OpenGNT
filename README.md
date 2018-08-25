@@ -135,32 +135,24 @@ www.teknia.com/greek-dictionary
 <b>Morphological Lexicon of the Greek New Testament</b><br>
 Source: <a href='https://github.com/morphgnt/morphological-lexicon'>https://github.com/morphgnt/morphological-lexicon</a><br>
 It is used to process data for mapping purpose.<br>
-
-<hr>
-<hr>
-<hr>
-
-Some of the links will be updated soon.
-
-<hr>
-<hr>
-<hr>
+<br>
+<img src="Screenshot/screenshot1.jpg">
 
 # Enhancement / Forthcoming additions:
 
-- transliteration (according to SBL guide) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
-- modern Greek pronunciation guide - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
+- transliteration (according to SBL guide) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>DONE!</a><br>
+- modern Greek pronunciation guide - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>DONE!</a><br>
 - an analytical lexicon containing all words of OpenGNT text - <a href='https://github.com/eliranwong/OpenGNT/blob/master/Lexicons/OGNT-Analytical_Lexicon.csv'>DONE!</a><br>
-- a full set of context-sensitive glosses for OpenGNT [<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>Find regular updates HERE</a>; read file description <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#main-file'>HERE</a>.]
-- mapping GK numbers (mapped with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a>) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
-- mapping Louw-Nida numbers (numbers only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
-- mapping BDAG catchwords (catchwords only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
-- mapping EDNT catchwords (catchwords only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>First draft; CHECKING in progress</a><br>
-- mapping <a href='https://github.com/billmounce/dictionary' target='_blank'>Mounce's NT dictionary</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
-- mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText annotations</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
+- a full set of context-sensitive glosses for OpenGNT [<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>Find regular updates HERE</a>; read file description <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#main-file'>HERE</a>.]
+- mapping GK numbers (mapped with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a>) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>First draft; CHECKING in progress</a><br>
+- mapping Louw-Nida numbers (numbers only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>First draft; CHECKING in progress</a><br>
+- mapping BDAG catchwords (catchwords only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>First draft; CHECKING in progress</a><br>
+- mapping EDNT catchwords (catchwords only, not copyrighted materials) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>First draft; CHECKING in progress</a><br>
+- mapping <a href='https://github.com/billmounce/dictionary' target='_blank'>Mounce's NT dictionary</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>DONE!</a><br>
+- mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText annotations</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>DONE!</a><br>
 - creating a html template for visual presentation of OpenText annotations - <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_OpenTextAnnotations/OpenText_v1_formatted_in_HTML.csv.zip'>DONE!</a><br>
 - mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a> - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OGNT_FullMapping_Levinsohn.csv.zip'>DONE!</a>; Full mapping is availalbe <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>HERE</a><br>
-- tagging the text of OGNT with <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>Levinsohn GNT discourse features</a>, like <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/Main_clauses.xml'>main clauses</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/OT_quotes.xml'>OT quotations</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/Reported_Speech.xml'>reported speeches</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/EmbeddedRepSpeech.xml'>embedded reported speeches</a>, etc. - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>DONE!</a><br>
+- tagging the text of OGNT with <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>Levinsohn GNT discourse features</a>, like <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/Main_clauses.xml'>main clauses</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/OT_quotes.xml'>OT quotations</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/Reported_Speech.xml'>reported speeches</a>, <a href='https://github.com/biblicalhumanities/levinsohn/blob/master/LGNTDF/EmbeddedRepSpeech.xml'>embedded reported speeches</a>, etc. - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>DONE!</a><br>
 - mapping <a href='https://interlinearbible.com'>Berean Greek Bible</a> and its associated data - in progress<br>
 - mapping "<a href='http://netbible.com/' target='_blank'>The NET Bible® verse text (no Notes) - 2nd Edition; New Testament</a>" (1st draft uploaded <a href='https://github.com/eliranwong/OpenGNT/blob/master/OGNT_FullMapping_Levinsohn.csv.zip'>HERE</a>; subject to on-going revision)<br>
 - mapping "Chinese Union Version"<br>
@@ -172,7 +164,6 @@ Modules based on OpenGNT project are released gradually for use with bible appli
 <br><br>
 If you are a software developer and interested in this project, you are welcomed to contact <a href='https://biblebento.com/contact/contactform.php' target='_blank'>Eliran Wong</a>.
 <br><br>
-<img src="Screenshot/screenshot1.jpg">
 
 <img src="Screenshot/screenshot3.png">
 
