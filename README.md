@@ -6,7 +6,7 @@ An eclectic text, namely "Open Greek New Testament [OGNT]", was first compiled a
 <br><br>
 As <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>the base text of OGNT</a> is akin to the text of NA28 / NA27, it is a very good candidate for bridging a free Greek New Testament text with resources, which were originally keyed to the text of NA28 / NA27.  This is indeeed the purposes of Open Greek New Testament Project to both provide a free NA-equivalent text of Greek New Testament and bring many valuable New Testament resources into public access.
 <br><br>
-Currently, <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>the base text of OGNT</a> had been settled.  Extensive mapping had been done to scholarly resources, e.g. TANTT, OpenText Linguisitic Annotations, Levinsohn Greek New Testament Features, Berean interlinear translations, etc.
+Currently, <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>the base text of OGNT</a> had been settled.  The text had been used for extensive mapping to various scholarly resources, e.g. TANTT, OpenText Linguisitic Annotations, Levinsohn Greek New Testament Features, Berean interlinear translations, etc.
 
 # Screenshot:
 
