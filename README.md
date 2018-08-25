@@ -46,7 +46,7 @@ As the original Greek New Testament (Nestle, 1904) is akin to recent editions of
 
 <b>Compilation of the Base Text of OGNT</b>
 
-Berean Greek Bible and its associated data were then taken into review and processed, for compilation of a NA-equivalent Greek New Testament.  The process of compilation is briefly described below:
+Berean Greek Bible and its associated data were then taken into review and processed, for compilation of a NA-equivalent Greek New Testament.  The compilation process is briefly described below:
 
 - Variants markers were reviewed, a few were refined.
 - Three missing variants from Byzantine text were added to the database.
