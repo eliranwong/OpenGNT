@@ -2,7 +2,7 @@
 
 <b>25 August 2018:</b> The base text of OpenGNT project had been upgraded to version 3.  Previous versions, 1 & 2, are no longer supported.
 
-There are 2 major files: 
+There are 2 major files (file description is available <a href='https://github.com/eliranwong/OpenGNT/blob/master/fileDescription.md'>HERE</a>): 
 - Base Text of OGNT: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OpenGNT_BASE_TEXT.zip</a>
 - Keyed Features and Mapping IDs: <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>
 
