@@ -66,9 +66,11 @@ To use the script:
 - places files "berean_tablesInclusive.csv" and "compileOGNT.py" in the same folder
 - run command "python compileOGNT.py"
 
-<b>Result and Comparison with NA28</b>
+<b>The resulting base text</b>
 
-The resulting text is suprisingly very close to the text of NA28.  The latest version (version 3).  It only has 111 words different from from the text of NA28.  It is not only the closest equivalent to the text of NA28 / NA27, but also the best candidate, apart from copyrighted NA28 / NA27, for mapping resources originally keyed to NA28 / NA27, e.g. OpenText Linguistic Annotations, Levinsohn Greek New Testament discourse features.
+The resulting text is suprisingly very close to the text of NA28.  The latest version (version 3).  It only has 111 words different from the text of NA28.  It is not only the closest equivalent to the text of NA28 / NA27, but also <b>the best FREE candidate</b> for mapping resources originally keyed to NA28 / NA27, e.g. OpenText Linguistic Annotations, Levinsohn Greek New Testament discourse features.
+
+<b>Comparison with NA28</b>
 
 Comparison between OGNT and NA28 is briefly described <a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>HERE</a>.
 
