@@ -1,6 +1,6 @@
 # Open Greek New Testament Project
 
-(25 August 2018: The main text of OGNT had been upgraded to version 3.  Some of the descriptions below are old.  Descriptions and documentation will be updated soon.)
+(25 August 2018: The main text of OGNT had been upgraded to version 3.  Some of the description below are old.  Description and documentation will be updated soon.)
 
 Open Greek New Testament project aims to provide a bundle of high-quality and open-source materials on Greek New Testament for biblical studies.
 <br><br>
