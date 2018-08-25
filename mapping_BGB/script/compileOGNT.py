@@ -1,5 +1,4 @@
 # compile a NA-equivalent text from Berean Greek data (inclusive)
-# the text is compiled to become the main text of OpenGNT project
 
 import re
 
@@ -22,13 +21,13 @@ newData = re.sub('^.*?⧼[^⧼⧽]*?⧽.*?\n', '', newData, flags=re.M)
 # take away some of WH variants; those variants are reserved in footnotes
 newData = re.sub('^.*?\([^\(\)]*?\).*?\n', '', newData, flags=re.M)
 # take away Nestle 1904 variants; those variants are reserved in footnotes
-newData = re.sub('^.*?〈[^〈〉]*?〉.*?\n', '', newData, flags=re.M)
+newData = re.sub('^.*?〈[^〈〉]*?〉.*?\n', '', newData, flags=re.M)
 # take away some of SBLGNT variants; those variants are reserved in footnotes
 newData = re.sub('^.*?〈[^〈〉]*?〉.*?\n', '', newData, flags=re.M)
 
 # take away punctuation marks and variant markers
-newData = re.sub('[ \-\—\,\;\:\?\.\·\·\'\‘\’\‹\›\“\”\«\»\(\)\[\]\{\}\⧼\⧽\〈\〉\*\‿\⇔\¦]᾽', '', newData)
-newData = re.sub('[ \-\—\,\;\:\?\.\·\·\'\‘\’\‹\›\“\”\«\»\(\)\[\]\{\}\⧼\⧽\〈\〉\*\‿\⇔\¦]', '', newData)
+newData = re.sub('[ \-\—\,\;\:\?\.\·\·\'\‘\’\‹\›\“\”\«\»\(\)\[\]\{\}\⧼\⧽\〈\〉\*\‿\⇔\¦]᾽', '', newData)
+newData = re.sub('[ \-\—\,\;\:\?\.\·\·\'\‘\’\‹\›\“\”\«\»\(\)\[\]\{\}\⧼\⧽\〈\〉\*\‿\⇔\¦]', '', newData)
 
 # 2 lines below replace words in main text with variants, use for mapping purposes ONLY
 #newData = re.sub('^([^\t\n]*?\t[^\t\n]*?\t[^\t\n]*?\t[^\t\n]*?\t)[^\t\n]*?\t([^\t\n]*?\t)([^\t\n＋＠＄]+?)$', r'\1\3\t\2\3', newData, flags=re.M)
