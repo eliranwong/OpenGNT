@@ -163,7 +163,7 @@ It is used to process data for mapping purpose.<br>
 - mapping <a href='https://interlinearbible.com'>Berean Greek Bible</a> and its associated data - in progress<br>
 - mapping "<a href='http://netbible.com/' target='_blank'>The NET Bible® verse text (no Notes) - 2nd Edition; New Testament</a>" (1st draft uploaded <a href='https://github.com/eliranwong/OpenGNT/blob/master/OGNT_FullMapping_Levinsohn.csv.zip'>HERE</a>; subject to on-going revision)<br>
 - mapping "Chinese Union Version"<br>
-- more ... you are welcome to make suggestions at <a href='https://biblebento.com/contact/contactform.php' target='_blank'>https://biblebento.com/contact/contactform.php</a>
+- more ... you are welcome to suggest other features at <a href='https://biblebento.com/contact/contactform.php' target='_blank'>https://biblebento.com/contact/contactform.php</a>
 
 # Modules for Software Applications
 
