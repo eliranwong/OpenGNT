@@ -87,7 +87,7 @@ This is a old set of mapping ID, used to map an early version of TANTT's data.
 2) Chapter number<br>
 3) Verse number<br>
 <br>
-- <b>4th Column - 〔OGNT_KEY｜OpenTextWord_KEY〕<br>
+- <b>4th Column - 〔OGNT_KEY｜OpenTextWord_KEY〕</b><br>
 1) OGNT_KEY - It is same as the main sort number in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OpenGNT_BASE_TEXT.zip</a>; this number is used as a mapping id in this file, to map the base text of OGNT to various GNT features.<br>
 2) <b>OpenTextWordID</b> - Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br><br>
 - <b>5th Column - Mapping to Levinsohn GNTDF's Data</b>: <br>
