@@ -29,7 +29,7 @@ You are allowed to use, adapt and distribute OpenGNT materials for non-commercia
 You are required to quote the following information, when any parts of OpenGNT materials are integrated in your own work or distributed:
 <br><br>
 <b>Open Greek New Testament Project</b><br>
-Developer: Eliran Wong [<a href='https://biblebento.com/contact/contactform.php' target='_blank'>Contact</a>; <a href='https://biblebento.com/' target='_blank'>BibleBento.com</a>],<br>
+Developer: Eliran Wong [<a href='https://biblebento.com/' target='_blank'>BibleBento.com</a>; <a href='https://biblebento.com/contact/contactform.php' target='_blank'>Contact</a>],<br>
 Source at <a href='https://github.com/eliranwong/OpenGNT' target='_blank'>https://github.com/eliranwong/OpenGNT/</a>
 
 # Source: A brief History 
