@@ -54,7 +54,6 @@ Berean Greek Bible and its associated data were then taken into review and proce
 - All TR, BYZ, WH, NE variants, originally marked in Berean database with symbols "{} ⧼⧽ () 〈〉", and some of SBL variants, marked with "〈〉", were taken away from the compilation.
 - Berean Greek Bible uses KJV versification.  Original GNT's versification (Nestle 1904) had been worked out, with minor variations following SBLGNT's versification.
 - Punctuation marks were taken away during the compilation.
-- Punctuation marks were adapted from data provided in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.  OpenGNT project further places punctuation marks into two groups, i.e. those preceding a word and those following a word.
 
 <b>Transparency</b>
 
