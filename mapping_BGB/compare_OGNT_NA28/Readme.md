@@ -6,4 +6,4 @@ Apart from minor orthographical variations mentioned below, OGNT has only a tota
 File: <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_NA28/diff_minor.tsv'>diff_minor.tsv</a>
 Words are basically identical, only with minor orthographical variations like movable ν, αλλ / αλλα, etc.
 
-NA variants in two files stated above were taken from <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TANTT%20-%20Tyndale%20Amalgamated%20NT%20Tagged%20texts.txt'>TANTT - Tyndale Amalgamated NT Tagged texts</a> for reference.
+NA variants in two files stated above were taken from "M" variants in <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TANTT%20-%20Tyndale%20Amalgamated%20NT%20Tagged%20texts.txt'>TANTT - Tyndale Amalgamated NT Tagged texts</a> for reference.
