@@ -68,7 +68,7 @@ To use the script:
 
 <b>A NA-Equivalent Text</b>
 
-The resulting text is suprisingly very close to the text of NA28.  Apart from orthographical variations, it only has a total of 111 words different from the text of NA28.  The text is now taken as the latest version (version 3) of the base text of Open Greek New Testament Project, replacing all previous versions.  It is not only the closest equivalent to the text of NA28 / NA27, but also <b>the best FREE candidate</b> for mapping resources originally keyed to NA28 / NA27, e.g. OpenText Linguistic Annotations, Levinsohn Greek New Testament discourse features.
+The resulting text is suprisingly very close to the text of NA28.  Apart from minor orthographical variations, it only has a total of 111 words different from the text of NA28.  The text is now taken as the latest version (version 3) of the base text of Open Greek New Testament Project, replacing all previous versions.  It is not only the closest equivalent to the text of NA28 / NA27, but also <b>the best FREE candidate</b> for mapping resources originally keyed to NA28 / NA27, e.g. OpenText Linguistic Annotations, Levinsohn Greek New Testament discourse features.
 
 <b>Comparison OGNT with NA28</b>
 
