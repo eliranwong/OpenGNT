@@ -51,7 +51,8 @@ These numbers are important bridges to map associated data of Berean Greek Bible
 <b>6th Column - 〔PMpWord｜PMfWord〕</b>
 
 1) <b>PMpWord</b> = punctuation mark(s) preceding the main word<br>
-2) <b>PMfWord</b> = punctuation mark(s) following the main word
+2) <b>PMfWord</b> = punctuation mark(s) following the main word<br>
+<i>Remarks:</i> Punctuation marks were adapted from data available in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.
 
 <b>7th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
 
