@@ -38,7 +38,7 @@ The latest base text of Open Greek New Testament Project, OGNT in short, was com
 
 The Greek New Testament (Nestle, 1904) is now a public domain document worldwide, without any limitations for use or copyright issues.  <a href='https://berean.bible/committee.htm'>The Berean Bible Translation Committee</a> adopted it years ago as the base text for developing Berean Greek Bible and associated resources on New Testament.  
 
-The final text of <a href='https://greekbible.org'>Berean Greek Bible</a> is primary based on Nestle Greek New Testament (1904), with standardisation of spellings and textual decisions reflecting the best and earliest manuscripts.  In addition, Berean translation table marks some significant textual variants of popular critical Greek New Testament editions, with <a href='https://greekbible.org'>a set of symbols</a>.
+The final text of <a href='https://greekbible.org'>Berean Greek Bible</a> is primary based on Nestle Greek New Testament (1904), with modernisation of spellings and textual decisions reflecting the best and earliest manuscripts.  In addition, Berean translation table marks some significant textual variants of popular critical Greek New Testament editions, with <a href='https://greekbible.org'>a set of symbols</a>.
 
 In August 2018, Eliran Wong [<a href='https://biblebento.com'>BibleBento.com</a>] received permission, granted by John Isett [<a href='https://biblehub.com'>BibleHub.com</a>] to integrate Berean Greek Bible and its associated data into Open Greek New Testament Project, for compilation, mapping resources and distribution.
 
