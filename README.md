@@ -145,8 +145,9 @@ It is used to process data for mapping purpose.<br>
 
 # Enhancement / Forthcoming additions:
 
-- transliteration (according to SBL guide) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>DONE!</a><br>
-- modern Greek pronunciation guide - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>DONE!</a><br>
+- OGNT mapped to Berean Interlinear Translation - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.csv.zip'>DONE!</a><br>
+- transliteration (according to SBL guide) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.csv.zip'>DONE!</a><br>
+- modern Greek pronunciation guide - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.csv.zip'>DONE!</a><br>
 - an analytical lexicon containing all words of OpenGNT text - <a href='https://github.com/eliranwong/OpenGNT/blob/master/Lexicons/OGNT-Analytical_Lexicon.csv'>DONE!</a><br>
 - a full set of context-sensitive glosses for OpenGNT [<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>Find regular updates HERE</a>; read file description <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#main-file'>HERE</a>.]
 - mapping GK numbers (mapped with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a>) - <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>First draft; CHECKING in progress</a><br>
