@@ -1,3 +1,13 @@
+File processed for mapping Berean Greek Bible and its associated data (first imported on 20Aug2018).
+
+Berean Greek Bible is copyrighted and licensed by Bible Hub.  Used with permission.
+
+© 2016 by Bible Hub. The Holy Bible, Berean Bible. All Rights Reserved Worldwide. Free Licensing for use in Websites, Apps, Software, and Audio:  <a href='http://berean.bible/licensing.htm'>http://berean.bible/licensing.htm</a>
+
+Special thanks to John Isett, Bible Hub, for all his help and support.
+
+<hr>
+
 Berean Greek Bible and its associated data were taken into review and processed, for compilation of a NA-equivalent Greek New Testament.
 
 The compilation process is briefly described below:
@@ -12,10 +22,8 @@ The compilation process is briefly described below:
 
 <hr>
 
-File processed for mapping Berean Greek Bible and its associated data (first imported on 20Aug2018).
+<b>Result:</b> A NA-Equivalent text, <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OGNT (version 3)</a>, compiled from Berean Greek data (Inclusive)
 
-Berean Greek Bible is copyrighted and licensed by Bible Hub.  Used with permission.
+<a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_BGB'>Compare OGNT (version 3) with original BGB</a>
 
-© 2016 by Bible Hub. The Holy Bible, Berean Bible. All Rights Reserved Worldwide. Free Licensing for use in Websites, Apps, Software, and Audio:  <a href='http://berean.bible/licensing.htm'>http://berean.bible/licensing.htm</a>
-
-Special thanks to John Isett, Bible Hub, for all his help and support.
+<a href='https://github.com/eliranwong/OpenGNT/tree/master/mapping_BGB/compare_OGNT_NA28'>Compare OGNT (version 3) with NA28</a>
