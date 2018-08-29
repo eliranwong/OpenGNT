@@ -1,4 +1,4 @@
-Differences between words of OGNT and NA28 are placed here.
+Differences between words of OGNT and NA28 are placed <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_NA28/Readme.md'>HERE</a>.
 
 <b>Words</b>:
 
