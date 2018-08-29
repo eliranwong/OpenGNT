@@ -46,13 +46,12 @@ As the Greek New Testament (Nestle, 1904) shares the same heritage with later NA
 
 <b>Compilation of the Base Text of OGNT</b>
 
-Berean Greek Bible and its associated data were then taken into review and processed, for compilation of a NA-equivalent Greek New Testament.  The compilation process is briefly described below:
+Berean Greek Bible and its associated data (inclusive) were then taken into review and processed, for compilation of a NA-equivalent Greek New Testament.  The compilation process is briefly described below:
 
-- Variants markers were reviewed, a few were refined.
-- Three missing variants from Byzantine text were added to the database.
-- <a href='https://github.com/greekcntr/BHP'>Bunning Heuristic Prototype Greek New Testament</a>, BHP in short, released by <a href='https://greekcntr.org'>Center for New Testament Restoration</a>, was compared in the review process.  BHP was taken into weighing textual decisions, as it is one of the latest projects, reflecting the best and earliest manuscripts.  The result is that two textual variants, taken from the text of BHP, were added to the database for compilation.  <i>Remarks:</i> BHP was not considered in the original development of Berean Greek Bible, because it had not been published at the first launch of Berean Greek Bible.
+- Original variants markers in Berean database (inclusive) were reviewed, a few of them were refined. A few missing variants from Byzantine text were added to the database.  The were marked with "＋BYZ" in the database.
+- BGB was compared with <a href='https://github.com/greekcntr/BHP'>Bunning Heuristic Prototype Greek New Testament</a>, BHP in short, released by <a href='https://greekcntr.org'>Center for New Testament Restoration</a>.  The comparison considers major variants only, ignoring minor issues like movable ν, αλλ vs αλλα, etc.  BHP was taken into weighing textual decisions, as it is one of the latest projects, reflecting the best and earliest manuscripts.  The review resulted in adaptation of some BHP's readings in place of some BGB readings.  They were marked with "＋BHP" in the database.  <i>Remarks:</i> BHP was not considered in the original development of Berean Greek Bible, because it had not been published at the first launch of Berean Greek Bible.
 - All TR, BYZ, WH, NE variants, originally marked in Berean database with symbols "{} ⧼⧽ () 〈〉", and some of SBL variants, marked with "〈〉", were taken away from the compilation.
-- Verses containing ⇔ in original Berean database were reviewed and compared with free GNT editons (i.e. TR, BYZ, WH, SBL, BHP).  OGNT has 71 verses different in word order from BGB.  Agreement with other GNT editions were documented <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_BGB/wordOrder_BGB_OGNT.tsv'>HERE</a>.
+- Verses containing ⇔ in original Berean database were reviewed and compared with free GNT editons (i.e. TR, BYZ, WH, SBL, BHP).  Word order in 71 verses were adapted from other editions and were documented <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_BGB/wordOrder_BGB_OGNT.tsv'>HERE</a>.
 - Berean Greek Bible uses KJV versification.  Original GNT's versification (Nestle 1904) had been worked out, with minor variations following SBLGNT's versification.
 - Punctuation marks were taken away during the compilation.
 
