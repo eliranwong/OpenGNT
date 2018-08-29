@@ -1,4 +1,4 @@
-<a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_BGB/compare_BGB_BGBinclusive_OGNT.tsv'>Compare OGNT (3rd version) with BGB</a>
+Compare OGNT (3rd version) with BGB
 
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_BGB/compare_OGNT_BGB/diff_word_BGB_OGNT.tsv'>Difference - Word</a>
 
