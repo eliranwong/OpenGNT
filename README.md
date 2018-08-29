@@ -1,8 +1,10 @@
 # Open Greek New Testament Project
 
-Open Greek New Testament project aims to provide a bundle of high-quality and open-source materials on Greek New Testament for biblical studies.
+Open Greek New Testament Project aims to:
+- offer <b>a FREE NA-equivalent text</b> of Greek New Testament, compiled from open-resources;
+- align <b>a FREE NA-equivalent Greek New Testament</b> with a group of high-quality and open-source materials.
 <br><br>
-An eclectic text, namely "<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>Open Greek New Testament [OGNT]</a>", was first compiled as the base text for the rest of the project.  The text of OGNT was built upon a group of high-quality scholarly materials</a>.  This provides all bible students or scholars <b><a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>a FREE text</a></b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, for studies or research purposes.
+An eclectic text, namely "<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>Open Greek New Testament [OGNT]</a>", was first compiled as the base text for the rest of the project.  The text of OGNT was built upon a group of high-quality scholarly materials.  This provides all bible students or scholars <b><a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>a FREE text</a></b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28</b></a>, for studies or research purposes.
 <br><br>
 As <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>the base text of OGNT</a> is akin to the text of NA28 / NA27, it is a very good candidate for bridging a free Greek New Testament text with resources, which were originally keyed to the text of NA28 / NA27.  This is indeeed the purposes of Open Greek New Testament Project to both offer a free NA-equivalent text of Greek New Testament and bring many valuable New Testament resources into public access.
 <br><br>
