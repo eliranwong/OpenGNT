@@ -21,10 +21,11 @@ This column contains sort numbers of all words of the base text of OGNT.
 This column of sort numbers represent the order of "M" variants in TANTT.<br>
 These sort numbers are also important bridges for mapping key features in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>.
 
-<b>3rd Column - BGBsort</b>
+<b>3rd Column - 〔BGBsortI｜BLBsortI｜BSBsortI〕</b>
 
-These are original sort numbers ("Inclusive") of Berean Greek Bible, BGB, available in Berean translation table.<br>
-These numbers are important bridges to map associated data of Berean Greek Bible.
+1) <b>BGBsortI</b> = Sort number of BGB (inclusive) as in original "berean_tables5.xlsx".<br>
+2) <b>BLBsortI</b> = Sort number of BLB (inclusive) as in original "berean_tables5.xlsx".<br>
+3) <b>BSBsortI</b> = Sort number of BSB (inclusive) as in original "berean_tables5.xlsx".
 
 <b>4th Column - 〔Book｜Chapter｜Verse〕</b>
 
