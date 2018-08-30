@@ -19,21 +19,25 @@ This column contains sort numbers of all words of the base text of OGNT.
 <b>2nd Column - TANTTsort</b>
 
 This column of sort numbers represent the order of "M" variants in TANTT.<br>
-These sort numbers are also important bridges for mapping key features in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>.
+These are important bridges for mapping key features in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>.
 
-<b>3rd Column - 〔BGBsortI｜BLBsortI｜BSBsortI〕</b>
+<b>3rd Column - FEATURESsort</b>
+
+Sort numbers as in the first column of the file "<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv</a>"
+
+<b>4th Column - 〔BGBsortI｜BLBsortI｜BSBsortI〕</b>
 
 1) <b>BGBsortI</b> = Sort number of BGB (inclusive) as in original "berean_tables5.xlsx".<br>
 2) <b>BLBsortI</b> = Sort number of BLB (inclusive) as in original "berean_tables5.xlsx".<br>
 3) <b>BSBsortI</b> = Sort number of BSB (inclusive) as in original "berean_tables5.xlsx".
 
-<b>4th Column - 〔Book｜Chapter｜Verse〕</b>
+<b>5th Column - 〔Book｜Chapter｜Verse〕</b>
 
 1) <b>Book</b> = Book number, ranging from 40 to 66, representing books from Matthew to the book of Revelation.<br>
 2) <b>Chpter</b> = Chapter number<br>
 3) <b>Verse</b> = Verse number
 
-<b>5th Column - 〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕</b>
+<b>6th Column - 〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕</b>
 
 1) <b>OGNTu</b> = Greek word of OGNT in unaccented form<br>
 2) <b>OGNTa</b> = Greek word of OGNT in accented form<br>
@@ -41,25 +45,25 @@ These sort numbers are also important bridges for mapping key features in file <
 4) <b>sn</b> = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
 5) <b>rmac</b> = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
 
-<b>6th Column - 〔transSBL｜modernGreek〕</b>
+<b>7th Column - 〔transSBL｜modernGreek〕</b>
 
 1) <b>transSBL</b> = transliteration according to SBL's conventions<br>
 2) <b>modernGreek</b> = modern Greek pronunciation
 
-<b>7th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
+<b>8th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
 
 1) <b>TBESG</b> = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
 2) <b>BIB</b> = translation from Berean Interlinear Bible (context-sensitive)<br>
 3) <b>BLB</b> = translation from Berean Literal Bible (context-sensitive)<br>
 4) <b>BSB</b> = translation from Berean Study Bible (context-sensitive)
 
-<b>8th Column - 〔PMpWord｜PMfWord〕</b>
+<b>9th Column - 〔PMpWord｜PMfWord〕</b>
 
 1) <b>PMpWord</b> = punctuation mark(s) preceding the main word<br>
 2) <b>PMfWord</b> = punctuation mark(s) following the main word<br>
 <i>Remarks:</i> Punctuation marks were adapted from data available in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.
 
-<b>9th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
+<b>10th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
 
 1) <b>Note</b> = Notes on a specific word<br>
 (3 Types:<br>
