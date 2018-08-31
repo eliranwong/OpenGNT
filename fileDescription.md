@@ -21,7 +21,7 @@ This column contains sort numbers of all words of the base text of OGNT.
 This column of sort numbers represent the order of "M" variants in TANTT.<br>
 These are important bridges for mapping key features in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv.zip</a>.
 
-<b>3rd Column - FEATURESsort</b>
+<b>3rd Column - FEATURESsort1</b>
 
 Sort numbers as in the first column of the file "<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv</a>"
 
