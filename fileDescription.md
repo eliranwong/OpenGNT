@@ -83,25 +83,28 @@ Sort numbers as in the first column of the file "<a href='https://github.com/eli
 - open "OpenGNT_keyedFeatures.csv" with a text editor
 - locate columns of data, separated from one another with a [TAB] character.
 
-<b>1st Column - Features Sort Number</b><br>
-This sort number is used to sort word order mapped in GNT features.<br>
+<b>1st Column - FEATURESsort1</b><br>
+This sort number is used to sort word order (TANTT) mapped in GNT features.<br>
 <br>
-<b>2nd Column - mapIDV2</b><br>
+<b>2nd Column - FEATURESsort2</b><br>
+This sort number is used to sort word order (OGNT) mapped in GNT features.<br>
+<br>
+<b>3rd Column - mapIDV2</b><br>
 This is a set of mapping ID, used to map resources, e.g. check the 1st column in file, mapping <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>Levinsohn GNT discourse features</a> to OGNT.<br>
 <br>
-<b>3rd Column - mapIDV1</b><br>
+<b>4th Column - mapIDV1</b><br>
 This is a old set of mapping ID, used to map an early version of TANTT's data.<br>
 <br>
-<b>4th Column - 〔book｜chapter｜verse〕</b><br>
+<b>5th Column - 〔book｜chapter｜verse〕</b><br>
 1) Book number<br>
 2) Chapter number<br>
 3) Verse number<br>
 <br>
-<b>5th Column - 〔TANTTsort｜OpenTextWord_KEY〕</b><br>
+<b>6th Column - 〔TANTTsort｜OpenTextWord_KEY〕</b><br>
 1) <b>OGNTsort</b> - It is same as the "OGNTsort" in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OpenGNT_BASE_TEXT.zip</a>; this number is used as a mapping id in this file, to map the base text of OGNT to various GNT features.<br>
 2) <b>TANTTsort</b> - It is same as the "TANTTsort" in file <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>OpenGNT_BASE_TEXT.zip</a>; this number is used as a mapping id in this file, to map the base text of OGNT to various GNT features.<br>
 3) <b>OpenTextWordID</b> - Base Word IDs for for mapping <a href='https://github.com/OpenText-org/GNT_annotation_v1.0' target='_blank'>OpenText.org Linguisitc Annotation of the Greek New Testament</a>'s data<br> (Remarks: OpenText's GNT annotations places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br><br>
-<b>6th Column - Mapping to Levinsohn GNTDF's Data</b>: <br>
+<b>7th Column - Mapping to Levinsohn GNTDF's Data</b>: <br>
 〔LevinsohnWordID｜noteMarker｜noteMarkerNoClause｜clause｜otQuotation｜reportedSpeech｜embeddedReportedSpeech〕<br>
 1) <b>LevinsohnWordID</b> - Word IDs for mapping <a href='https://github.com/biblicalhumanities/levinsohn' target='_blank'>Levinsohn's GNT Discourse Features</a><br> <b>Full mapping is available in the file <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/OGNT_FullMapping_Levinsohn.csv.zip'>OGNT_FullMapping_Levinsohn.csv.zip</a>.</b><br> (Remarks: Levinsohn's GNT Discourse Features places shorter ending of Mark 16 at the end of Mark 16:8 whereas OpenGNT places it at the end of Mark 16:20)<br>
 2) <b>noteMarker</b> - Note marker, mapped to <a href='https://github.com/eliranwong/OpenGNT/blob/master/mapping_LevinsohnGNTDF/Levinsohn_notes.csv'>notes of Levinsohn's GNT Discourse Features</a><br>
@@ -111,7 +114,7 @@ This is a old set of mapping ID, used to map an early version of TANTT's data.<b
 6) <b>reportedSpeech</b> - Reported speech, according to Levinsohn's GNT Discourse Features [<rs> means "beginning of a reported speech"; * means a word within a reported speech; </rs> means "end of a reported speech"; the slot is empty where it is not applicable.<br>
 7) <b>embeddedReportedSpeech</b> - Embedded reported speech, according to Levinsohn's GNT Discourse Features [<ers> means "beginning of an embedded reported speech"; * means a word within an embedded reported speech; </ers> means "end of an embedded reported speech"; the slot is empty where it is not applicable.<br>
 <br>
-<b>7th Column - Lexical Entries & Morphology</b>: <br>
+<b>8th Column - Lexical Entries & Morphology</b>: <br>
 〔lexeme｜BDAGentry｜EDNTentry｜MounceEntry｜morphologyCode｜morphologyDescription｜extendedStrongNumber｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕<br>
 1) <b>lexeme</b> - lexeme<br>
 2) <b>BDAGentry</b> - BDAG catchwords<br>
@@ -122,7 +125,7 @@ This is a old set of mapping ID, used to map an early version of TANTT's data.<b
 7) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
 8) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers; compatible with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
 9) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br><br>
-- <b>8th Column - Gloss & Translation</b>: <br>
+- <b>9th Column - Gloss & Translation</b>: <br>
 〔MounceGloss｜TyndaleHouseGloss｜OpenGNTGloss｜NET2Words〕<br>
 1) <b>MounceGloss</b> - English glosses (Context-<b>insensitive</b>) -<br>
 English glosses selected from <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
@@ -133,14 +136,13 @@ A full set of context-sensitive glosses for OpenGNT, worked out by Eliran Wong [
 4) <b>NET2Words</b> - Words of The NET Bible® verse text (no Notes; 2nd Edition), mapped to OGNT [1st draft uploaded; subject to on-going revision]<br><br>
 <a href='https://github.com/eliranwong/OpenGNT/blob/master/README.md#enhancement--forthcoming-additions'>Enhanced features</a> are gradually integrated in <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>this file</a>.
 <br><br>
-<b>9th Column - Textual Variants</b>: <br>
+<b>10th Column - Textual Variants</b>: <br>
 〔editionMarker1｜editionMarker2｜editions｜variants〕<br>
 1) <b>editionMarker1</b> - a type of marker for details of editions, used in applications, e.g. BibleBento Plus<br>
 2) <b>editionMarker2</b> - a type of marker for details of editions, used in applications, e.g. e-Sword<br>
 3) <b>editions</b> - GNT editions having the same spelling as the main word of OpenGNT.  There may be variation in accentuation or capitalisation, though.  [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
-4) <b>variants</b> - variant(s), if any<br><br>
-- <b>The last column - WordInHTML</b>: <br>
-This last column provide words of OGNT in html format, with taggings on extended Strong's numbers, morphology, ot quotation [ot.../ot], reported speech [rs.../rs], embedded reported speech [ers.../ers], textual variant marker, Levinsohn's clause division & note marker, if applicable.<br><br>
+4) <b>variants</b> - variant(s), if any<br>
+<br>
 <b><i>Remarks:</i></b><br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA27, e.g. Levinsohn Discource Features):<br>
 122580, 122586, 122796, 123928, 123948, 124712, 125108, 125238, 127544, 127800, 128058, 128061.
