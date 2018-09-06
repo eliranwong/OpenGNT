@@ -29,11 +29,11 @@ Sort numbers as in the first column of the file "<a href='https://github.com/eli
 
 Clause ID assigned to each word, corresponding to main cluase features as keyed in "<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_keyedFeatures.csv.zip'>OpenGNT_keyedFeatures.csv</a>"
 
-<b>5th Column - 〔BGBsortI｜BLBsortI｜BSBsortI〕</b>
+<b>5th Column - 〔BGBsortI｜LTsort｜STsort〕</b>
 
 1) <b>BGBsortI</b> = Sort number of BGB (inclusive) as in original "berean_tables5.xlsx".<br>
-2) <b>BLBsortI</b> = Sort number of BLB (inclusive) as in original "berean_tables5.xlsx".<br>
-3) <b>BSBsortI</b> = Sort number of BSB (inclusive) as in original "berean_tables5.xlsx".
+2) <b>LTsort</b> = Sort number of Literal Translation, LT, described below.<br>
+3) <b>STsort</b> = Sort number of Study Translation, ST, described below.
 
 <b>6th Column - 〔Book｜Chapter｜Verse〕</b>
 
@@ -57,9 +57,9 @@ Clause ID assigned to each word, corresponding to main cluase features as keyed 
 <b>9th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
 
 1) <b>TBESG</b> = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
-2) <b>BIB</b> = translation from Berean Interlinear Bible (context-sensitive)<br>
-3) <b>BLB</b> = translation from Berean Literal Bible (context-sensitive)<br>
-4) <b>BSB</b> = translation from Berean Study Bible (context-sensitive)
+2) <b>IT</b> = Interlinear Translation (context-sensitive); <br>adapted from Berean Interlinear Bible, with changes made where OGNT is different from BGB.<br>
+3) <b>LT</b> = Literal Translation (context-sensitive); <br>adapted from Berean Literal Bible, with changes made where OGNT is different from BGB.<br>
+4) <b>ST</b> = Study Translation (context-sensitive); <br>adapted from Berean Study Bible, with changes made where OGNT is different from BGB.
 
 <b>10th Column - 〔PMpWord｜PMfWord〕</b>
 
