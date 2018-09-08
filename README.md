@@ -43,7 +43,7 @@ The final text of <a href='https://greekbible.org'>Berean Greek Bible</a> is pri
 
 In August 2018, OpenGNT project was granted permission to integrate Berean Greek Bible and its associated data for compilation, mapping resources and distribution.
 
-As the Greek New Testament (Nestle, 1904) shares the same heritage with later NA texts (e.g. NA27, NA28), it soon became obvious that Berean Greek data is a very good source for compiling a NA-equivalent text, which is free for both reading and mapping valuables resources, which were based on NA27 / NA28.
+As the Greek New Testament (Nestle, 1904) shares the same heritage with later NA texts (e.g. NA27, NA28), it soon became obvious that Berean Greek data is a very good source for compiling a NA-equivalent text, which is free for both reading and mapping valuables resources based on NA27 / NA28.
 
 <b>Compilation of the Base Text of OGNT</b>
 
