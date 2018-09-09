@@ -132,6 +132,10 @@ NET BIble® Copyright THE NET BIBLE®, New English Translation (NET) Scripture q
 <br>
 The NET Bible® verse text (no Notes) can be used by anyone and integrated into your non-commercial  project or publication upon condition of proper Biblical Studies Press copyright and organizational acknowledgments ... (<a href='http://netbible.com/net-bible-copyright' target='_blank'>http://netbible.com/net-bible-copyright</a>)
 <br><br>
+The CHINESE STANDARD BIBLE© Simplified and Traditional texts and audio versions of the same, Copyright © 2005, 2008, 2011 by Global Bible Initiative are licensed under the Creative Commons Attribution-Non Commercial-No Derivatives 4.0 International License. To view a copy of this license, visit <a href='http://creativecommons.org/licenses/by-nc-nd/4.0/'>http://creativecommons.org/licenses/by-nc-nd/4.0/</a>  or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.  Permissions beyond the scope of this license may be available and may be requested by contacting <a href='mailto:Permissions@GlobalBibleInitiative.org'>Permissions@GlobalBibleInitiative.org</a><br>
+Learn More at <a href='https://www.globalbibleinitiative.org/'>https://www.globalbibleinitiative.org/</a><br>
+<b>Remarks: </b> OpenGNT project confirmed with Ken Stephens, Director of Publishing and Donor Engagement of Global Bible Initiative, that aligning the text of CSB with a Greek text, without changing the wordings, is permitted.
+<br><br>
 <b>Mounce Concise Greek-English Dictionary</b><br>
 Source: <a href='https://github.com/billmounce/dictionary'>https://github.com/billmounce/dictionary</a><br>
 Used with the following attribution:<br>
