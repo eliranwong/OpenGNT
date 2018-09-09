@@ -172,7 +172,7 @@ It is used to process data for mapping purpose.<br>
 
 Modules based on OpenGNT project are released gradually for use with bible applications.  They are made available in folder "<a href='https://github.com/eliranwong/OpenGNT/tree/master/Modules_for_Bible_Applications'>Modules_for_Bible_Applications</a>"
 <br><br>
-If you are a software developer and interested in this project, you are welcome to contact <a href='https://biblebento.com/contact/contactform.php' target='_blank'>Eliran Wong</a>.
+If you are a software developer and interested in this project, you are welcome to <a href='https://biblebento.com/contact/contactform.php' target='_blank'>contact us</a>.
 <br><br>
 <img src="Screenshot/screenshot3.jpg">
 
