@@ -137,7 +137,7 @@ The CHINESE STANDARD BIBLE© Simplified and Traditional texts and audio versions
 Learn More at <a href='https://www.globalbibleinitiative.org/'>https://www.globalbibleinitiative.org/</a><br>
 <b>Remarks: </b> OpenGNT project confirmed with Ken Stephens, Director of Publishing and Donor Engagement of Global Bible Initiative, that aligning the text of CSB with a Greek text, without changing its wordings, is permitted.
 <br><br>
-<b>Chinese Equivalent Koine Grammar And Syntax 20180423</b><br>
+<b>Chinese Equivalent Koine Grammar And Syntax</b><br>
 <b>中文代表字原文新約聖經</b><br>
 <b>基礎文法 及 經文結構分析</b><br>
 Copyright 2005~2018 by BRSI<br>
