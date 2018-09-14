@@ -10,6 +10,6 @@ BRSI = 聖經研讀學會 Bible Research Study Institute
 Copyright 2005~2018 by BRSI<br>
 Permission to all Christians for use, study or share.<br><br>
 <br>
-Source: <a href='http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html'>http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html</a><br>
+Source: <a href='http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html'>http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html</a>
 <br>
 Last updated on 2018/04/23
