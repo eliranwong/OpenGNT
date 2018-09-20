@@ -141,8 +141,10 @@ Copyright 2005~2018 by BRSI<br>
 Permission to all Christians for use, study or share.<br>
 Source: <a href='http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html'>http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html</a>
 <br><br>
-<b>Chinese Description on RMAC</b><br>
-Translated by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and Eliran Wong
+<b>Chinese translation by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and Eliran Wong</b><br>
+The following Chinese terms were translated:<br>
+RMAC's description<br>
+OpenText Linguistic Annotations
 <br><br>
 <b>Mounce Concise Greek-English Dictionary</b><br>
 Source: <a href='https://github.com/billmounce/dictionary'>https://github.com/billmounce/dictionary</a><br>
@@ -192,3 +194,5 @@ If you are a software developer and interested in this project, you are welcome 
 <img src="Screenshot/screenshot3.jpg">
 <br><br>
 <img src="Screenshot/screenshot4.jpg">
+<br><br>
+<img src="Screenshot/screenshot5.jpg">
