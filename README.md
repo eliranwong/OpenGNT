@@ -160,7 +160,7 @@ It is used to process data for mapping purpose.
 <br><br>
 <b>The Copenhagen Alliance for Open Biblical Language Resources</b><br>
 <a href='http://copenhagen-alliance.org'>http://copenhagen-alliance.org</a><br>
-The Copenhagen Alliance for Open Biblical Language Resources is a diverse coalition of organizations, institutions, and individuals with a common interest in making biblical language data free and openly accessible to anyone for research, language learning, translation, and other uses.<br>
+Advice about licensing.<br>
 
 # Enhancement / Forthcoming additions:
 
