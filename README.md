@@ -141,6 +141,9 @@ Copyright 2005~2018 by BRSI<br>
 Permission to all Christians for use, study or share.<br>
 Source: <a href='http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html'>http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html</a>
 <br><br>
+<b>Chinese Description on RMAC</b><br>
+Translated by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and Eliran Wong
+<br><br>
 <b>Mounce Concise Greek-English Dictionary</b><br>
 Source: <a href='https://github.com/billmounce/dictionary'>https://github.com/billmounce/dictionary</a><br>
 Used with the following attribution:<br>
