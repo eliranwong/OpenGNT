@@ -142,7 +142,6 @@ Permission to all Christians for use, study or share.<br>
 Source: <a href='http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html'>http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html</a>
 <br><br>
 <b>Chinese translation by <a href='https://github.com/stephen-ku'>Stephen Ku</a> and Eliran Wong</b><br>
-The following Chinese terms were translated:<br>
 RMAC's description<br>
 OpenText Linguistic Annotations
 <br><br>
