@@ -139,12 +139,9 @@ Generated from glosses of TBESG, produced by Tyndale House, Cambridge UK<br>
 3) <b>OpenGNTGloss</b> - English glosses (Context-<b>sensitive</b>) -<br>
 A full set of context-sensitive glosses for OpenGNT, worked out by Eliran Wong [initial data are drawn from "TyndaleHouseGloss" mentioned above; every gloss will be checked against its context; on-going updates are gradually integrated <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>HERE</a>; please check regularly]
 <br><br>
-<b>10th Column - Textual Variants</b>: <br>
-〔editionMarker1｜editionMarker2｜editions｜variants〕<br>
-1) <b>editionMarker1</b> - a type of marker for details of editions, used in applications, e.g. BibleBento Plus<br>
-2) <b>editionMarker2</b> - a type of marker for details of editions, used in applications, e.g. e-Sword<br>
-3) <b>editions</b> - GNT editions having the same spelling as the main word of OpenGNT.  There may be variation in accentuation or capitalisation, though.  [B=Byzantine, I=NIV Greek, N=NA27, M=NA28 where words are different from NA27, R=Textus Receptus, S=SBLGNT, T=<a href='http://www.tyndalehouse.com/tregelles/' target='_blank'>Tregelles's GNT</a>, W=Westcott-Hort, H=<a href='https://www.thegreeknewtestament.com' target='_blank'>Tydale House GNT</a>]<br>
-4) <b>variants</b> - variant(s), if any<br>
+<b>10th Column - Corresponding TANTT data</b>: <br>
+〔TANTT〕<br>
+Corresponding TANTT data aligned with OGNT<br>
 <br>
 <b><i>Remarks:</i></b><br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA27, e.g. Levinsohn Discource Features):<br>
