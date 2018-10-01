@@ -2,8 +2,8 @@
 
 Open Greek New Testament Project aims to:
 - offer <b>a FREE NA-equivalent text</b> of Greek New Testament, compiled from open-resources;
-- align <b>a FREE NA-equivalent Greek New Testament</b> with a group of high-quality and open-source materials.
-
+- align <b>a FREE NA-equivalent Greek New Testament</b> with a group of high-quality and open-source materials;
+- develop a website for public access of major resources in this project.
 
 The FREE NA-equivalent text is named as "<a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>Open Greek New Testament [OGNT]</a>".  The text of OGNT was built upon and compiled from a group of high-quality scholarly materials.  It serves as the base text for the rest of the project.  This provides all bible students or scholars <b><a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT_BASE_TEXT.zip'>a FREE text of Greek New Testament</a></b>, which is <a href='https://github.com/eliranwong/OpenGNT/tree/master/CompareOGNTwithNA28'><b>the closest equivalent to the text of NA28 / NA27</b></a>, for studies or research purposes.
 <br><br>
