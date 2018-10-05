@@ -54,7 +54,7 @@ Clause ID assigned to each word, corresponding to main cluase features as keyed 
 1) <b>BDAGentry</b> = Lexical entry for lookup in <i>A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.</i><br>
 2) <b>EDNTentry</b> = Lexical entry for lookup in <i>Eerdman's Exegetical Dictionary of the New Testament</i><br>
 3) <b>MounceEntry</b> = Lexical entry for lookup in <i>Mounce's Greek NT dictionary</i><br>
-4) <b>GoodrickKohlenbergerNumbers</b> = GK number for lookup in GK-supported dictionary<br>
+4) <b>GoodrickKohlenbergerNumbers</b> = GK number for lookup in GK-keyed dictionary<br>
 5) <b>LN-LouwNidaNumbers</b> = LN number for lookup in <i>Greek-English Lexicon of the New Testament based on Semantic Domains</i>.
 
 <b>9th Column - 〔transSBL｜modernGreek〕</b>
