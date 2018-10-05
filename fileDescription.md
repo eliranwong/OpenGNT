@@ -119,17 +119,10 @@ This is a old set of mapping ID, used to map an early version of TANTT's data.<b
 7) <b>reportedSpeech</b> - Reported speech, according to Levinsohn's GNT Discourse Features [<rs> means "beginning of a reported speech"; * means a word within a reported speech; </rs> means "end of a reported speech"; the slot is empty where it is not applicable.<br>
 8) <b>embeddedReportedSpeech</b> - Embedded reported speech, according to Levinsohn's GNT Discourse Features [<ers> means "beginning of an embedded reported speech"; * means a word within an embedded reported speech; </ers> means "end of an embedded reported speech"; the slot is empty where it is not applicable.<br>
 <br>
-<b>8th Column - Lexical Entries & Morphology</b>: <br>
-〔lexeme｜BDAGentry｜EDNTentry｜MounceEntry｜morphologyCode｜morphologyDescription｜extendedStrongNumber｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕<br>
-1) <b>lexeme</b> - lexeme<br>
-2) <b>BDAGentry</b> - BDAG catchwords<br>
-3) <b>EDNTentry</b> - EDNT catchwords<br>
-4) <b>MounceEntry</b> - Entry words of <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
-5) <b>morphologyCode</b> - Robinson's Morphological Analysis Codes [RMAC]<br>
-6) <b>morphologyDescription</b> - description on morphology<br>
-7) <b>extendedStrongNumber</b> - Tyndale House's extended Strong's number<br>
-8) <b>GoodrickKohlenbergerNumbers</b> - Goodrick-Kohlenberger numbers; compatible with <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
-9) <b>LouwNidaNumbers</b> - Louw-Nida numbers<br><br>
+<b>8th Column - Corresponding TANTT data</b>: <br>
+〔TANTT〕<br>
+Corresponding TANTT data aligned with OGNT<br>
+<br>
 - <b>9th Column - Gloss & Translation</b>: <br>
 〔MounceGloss｜TyndaleHouseGloss｜OpenGNTGloss〕<br>
 1) <b>MounceGloss</b> - English glosses (Context-<b>insensitive</b>) -<br>
@@ -139,10 +132,6 @@ Generated from glosses of TBESG, produced by Tyndale House, Cambridge UK<br>
 3) <b>OpenGNTGloss</b> - English glosses (Context-<b>sensitive</b>) -<br>
 A full set of context-sensitive glosses for OpenGNT, worked out by Eliran Wong [initial data are drawn from "TyndaleHouseGloss" mentioned above; every gloss will be checked against its context; on-going updates are gradually integrated <a href='https://github.com/eliranwong/OpenGNT/blob/master/OpenGNT.csv.zip'>HERE</a>; please check regularly]
 <br><br>
-<b>10th Column - Corresponding TANTT data</b>: <br>
-〔TANTT〕<br>
-Corresponding TANTT data aligned with OGNT<br>
-<br>
 <b><i>Remarks:</i></b><br>
 - Lines / Entries starting with the following numbers are created for mapping purpose only (mapping resouces based on NA27, e.g. Levinsohn Discource Features):<br>
 122580, 122586, 122796, 123928, 123948, 124712, 125108, 125238, 127544, 127800, 128058, 128061.
