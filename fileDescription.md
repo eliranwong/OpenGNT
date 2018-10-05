@@ -49,25 +49,33 @@ Clause ID assigned to each word, corresponding to main cluase features as keyed 
 4) <b>sn</b> = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
 5) <b>rmac</b> = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
 
-<b>8th Column - 〔transSBL｜modernGreek〕</b>
+<b>8th Column - 〔BDAGentry｜EDNTentry｜MounceEntry｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕</b>
+
+1) <b>BDAGentry</b> = Lexical entry for lookup in <i>A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.</i><br>
+2) <b>EDNTentry</b> = Lexical entry for lookup in <i>Eerdman's Exegetical Dictionary of the New Testament</i><br>
+3) <b>MounceEntry</b> = Lexical entry for lookup in <i>Mounce's Greek NT dictionary</i><br>
+4) <b>GoodrickKohlenbergerNumbers</b> = GK number for lookup in GK-supported dictionary<br>
+5) <b>LN-LouwNidaNumbers</b> = LN number for lookup in <i>Greek-English Lexicon of the New Testament based on Semantic Domains</i>.
+
+<b>9th Column - 〔transSBL｜modernGreek〕</b>
 
 1) <b>transSBL</b> = transliteration according to SBL's conventions<br>
 2) <b>modernGreek</b> = modern Greek pronunciation
 
-<b>9th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
+<b>10th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
 
 1) <b>TBESG</b> = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
 2) <b>IT</b> = Interlinear Translation (context-sensitive); <br>adapted from Berean Interlinear Bible, with changes made where OGNT is different from BGB.<br>
 3) <b>LT</b> = Literal Translation (context-sensitive); <br>adapted from Berean Literal Bible, with changes made where OGNT is different from BGB.<br>
 4) <b>ST</b> = Study Translation (context-sensitive); <br>adapted from Berean Study Bible, with changes made where OGNT is different from BGB.
 
-<b>10th Column - 〔PMpWord｜PMfWord〕</b>
+<b>11th Column - 〔PMpWord｜PMfWord〕</b>
 
 1) <b>PMpWord</b> = punctuation mark(s) preceding the main word<br>
 2) <b>PMfWord</b> = punctuation mark(s) following the main word<br>
 <i>Remarks:</i> Punctuation marks were adapted from data available in <a href='https://github.com/tyndale/STEPBible-Data'>TANTT - Tyndale Amalgamated NT Tagged texts</a>.
 
-<b>11th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
+<b>12th Column - 〔Note｜Mvar｜Mlexeme｜Msn｜Mrmac〕</b>
 
 1) <b>Note</b> = Notes on a specific word<br>
 (3 Types:<br>
@@ -123,7 +131,7 @@ This is a old set of mapping ID, used to map an early version of TANTT's data.<b
 〔TANTT〕<br>
 Corresponding TANTT data aligned with OGNT<br>
 <br>
-- <b>9th Column - Gloss & Translation</b>: <br>
+<b>9th Column - Gloss & Translation</b>: <br>
 〔MounceGloss｜TyndaleHouseGloss｜OpenGNTGloss〕<br>
 1) <b>MounceGloss</b> - English glosses (Context-<b>insensitive</b>) -<br>
 English glosses selected from <a href='https://github.com/billmounce/dictionary'>Mounce's Concise Greek-English dictionary</a><br>
