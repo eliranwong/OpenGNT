@@ -89,10 +89,13 @@ Information given for attribution:
 
 # Other Credits:
 
-<b>TANTT data</b>:<br>
+<b>STEPBible-Data</b>:<br>
 "Tyndale House, Cambridge" [<a href='www.TyndaleHouse.com' target='_blank'>www.TyndaleHouse.com</a>],<br>
 and "STEP Bible" [<a href='www.STEPBible.org' target='_blank'>www.STEPBible.org</a>]<br>
 and source at <a href='tyndale.github.io/STEPBible-Data/' target='_blank'>tyndale.github.io/STEPBible-Data/</a>
+<br><br>
+<b>Bunning Heuristic Prototype Greek New Testament</b>:<br>
+Bunning, Alan, ed. (2017) Bunning Heuristic Protoype Greek New Testament. Preliminary Draft, December 29, 2017. <br><a href='https://github.com/greekcntr/BHP'>https://github.com/greekcntr/BHP</a>
 <br><br>
 <b>Berean Interlinear Bible</b><br>
 The Holy Bible, <a href='https://interlinearbible.com'>Berean Interlinear Bible</a>, BIB<br>
