@@ -43,11 +43,12 @@ Clause ID assigned to each word, corresponding to main cluase features as keyed 
 
 <b>7th Column - 〔OGNTu｜OGNTa｜lexeme｜sn｜rmac〕</b>
 
-1) <b>OGNTu</b> = Greek word of OGNT in unaccented form<br>
-2) <b>OGNTa</b> = Greek word of OGNT in accented form<br>
-3) <b>lexeme</b> = Greek word of OGNT in lexical form<br>
-4) <b>sn</b> = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
-5) <b>rmac</b> = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
+1) <b>OGNTk</b> = Greek word of OGNT in <a href='https://greekcntr.org/downloads/NTGRG.pdf'>Koine Greek</a>; used with <a href='https://greekcntr.org/downloads/KoineGreek.ttf'>KoineGreek Font</a><br>
+2) <b>OGNTu</b> = Greek word of OGNT in unaccented form<br>
+3) <b>OGNTa</b> = Greek word of OGNT in accented form<br>
+4) <b>lexeme</b> = Greek word of OGNT in lexical form<br>
+5) <b>sn</b> = Extended Strong's number, according to conventions of <a href='https://github.com/tyndale/STEPBible-Data/blob/master/TBESG%20-%20Tyndale%20Brief%20lexicon%20of%20Extended%20Strongs%20for%20Greek%20-%20TyndaleHouse.com%20STEPBible.org%20CC%20BY-NC-ND.txt'>TBESG - Tyndale Brief lexicon of Extended Strongs for Greek</a><br>
+6) <b>rmac</b> = Robinson's Morphological Analysis Codes, morphological analysis combining James Tauber's work in TANTT and data in Berean translation table
 
 <b>8th Column - 〔BDAGentry｜EDNTentry｜MounceEntry｜GoodrickKohlenbergerNumbers｜LN-LouwNidaNumbers〕</b>
 
@@ -57,17 +58,20 @@ Clause ID assigned to each word, corresponding to main cluase features as keyed 
 4) <b>GoodrickKohlenbergerNumbers</b> = GK number for lookup in GK-keyed dictionary<br>
 5) <b>LN-LouwNidaNumbers</b> = LN number for lookup in <i>Greek-English Lexicon of the New Testament based on Semantic Domains</i>.
 
-<b>9th Column - 〔transSBL｜modernGreek〕</b>
+<b>9th Column - 〔transSBLcap｜transSBL｜modernGreek｜Fonética_Transliteración〕</b>
 
-1) <b>transSBL</b> = transliteration according to SBL's conventions<br>
-2) <b>modernGreek</b> = modern Greek pronunciation
+1) <b>transSBL</b> = transliteration according to SBL's conventions; with capitalisation<br>
+2) <b>transSBL</b> = transliteration according to SBL's conventions<br>
+3) <b>modernGreek</b> = modern Greek pronunciation<br>
+4) <b>Fonética_Transliteración</b> = modern Greek pronunciation with phonetic pronunciation in Spanish
 
-<b>10th Column - 〔TBESG｜BIB｜BLB｜BSB〕</b>
+<b>10th Column - 〔TBESG｜BIB｜BLB｜BSB｜Español〕</b>
 
 1) <b>TBESG</b> = Tyndale House's glosses, taken from TBESG (context-insensitive)<br>
 2) <b>IT</b> = Interlinear Translation (context-sensitive); <br>adapted from Berean Interlinear Bible, with changes made where OGNT is different from BGB.<br>
 3) <b>LT</b> = Literal Translation (context-sensitive); <br>adapted from Berean Literal Bible, with changes made where OGNT is different from BGB.<br>
-4) <b>ST</b> = Study Translation (context-sensitive); <br>adapted from Berean Study Bible, with changes made where OGNT is different from BGB.
+4) <b>ST</b> = Study Translation (context-sensitive); <br>adapted from Berean Study Bible, with changes made where OGNT is different from BGB.<br>
+5) <b>Español</b> = Spanish literal translation
 
 <b>11th Column - 〔PMpWord｜PMfWord〕</b>
 
