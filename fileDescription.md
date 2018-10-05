@@ -60,7 +60,7 @@ Clause ID assigned to each word, corresponding to main cluase features as keyed 
 
 <b>9th Column - 〔transSBLcap｜transSBL｜modernGreek｜Fonética_Transliteración〕</b>
 
-1) <b>transSBL</b> = transliteration according to SBL's conventions; with capitalisation<br>
+1) <b>transSBLcap</b> = transliteration according to SBL's conventions; with capitalisation<br>
 2) <b>transSBL</b> = transliteration according to SBL's conventions<br>
 3) <b>modernGreek</b> = modern Greek pronunciation<br>
 4) <b>Fonética_Transliteración</b> = modern Greek pronunciation with phonetic pronunciation in Spanish
