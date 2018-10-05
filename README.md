@@ -155,7 +155,7 @@ Mounce Concise Greek-English Dictionary<br>
 Copyright 1993 All Rights Reserved<br>
 www.teknia.com/greek-dictionary
 <br><br>
-<b>Spanish Interlinear Translation</b><br>
+<b>Spanish Literal Translation</b><br>
 La traducción al español fue mapeada y ajustada por E. Barrientos al texto del Proyecto OGNT del módulo para el Programa E-Sword del Proyecto GALEED 2017 "Una traducción literal palabra por palabra al español" auspiciado por Biblioteca Hispana, Última Revisión: 01 de febrero de 2017 que contiene una traducción literal del Texto Griego Maestro NA27.<br>
 [The translation into Spanish was mapped and adjusted by E. Barrientos to the text of the OGNT Project of the module for the E-Sword Program of the GALEED Project 2017 "A literal translation word for word into Spanish" sponsored by Biblioteca Hispana, Last Revision: February 1 of 2017 that contains a literal translation of the Greek Text Master NA27.]
 <br><br>
