@@ -1,0 +1,1393 @@
+RMAC	Description
+A-APF	Adjetivo, Acusativo, Plural, Femenino
+A-APF-C	Adjetivo, Acusativo, Plural, Femenino, Comparativo
+A-APF-NUI	Adjetivo, Acusativo, Plural, Femenino, NUmérico Indeclinable (Adjetivo)
+A-APF-S	Adjetivo, Acusativo, Plural, Femenino, Superlativo
+A-APM	Adjetivo, Acusativo, Plural, Masculino
+A-APM-C	Adjetivo, Acusativo, Plural, Masculino, Comparativo
+A-APM-LG	Adjetivo, Acusativo, Plural, Masculino, (LG) Gentilicio de Localización
+A-APM-NUI	Adjetivo, Acusativo, Plural, Masculino, NUmérico Indeclinable (Adjetivo)
+A-APM-PG	Adjetivo, Acusativo, Plural, Masculino, (PG) Gentilicio de Persona
+A-APM-S	Adjetivo, Acusativo, Plural, Masculino, Superlativo
+A-APN	Adjetivo, Acusativo, Plural, Neutro
+A-APN-C	Adjetivo, Acusativo, Plural, Neutro, Comparativo
+A-APN-NUI	Adjetivo, Acusativo, Plural, Neutro, NUmérico Indeclinable (Adjetivo)
+A-APN-S	Adjetivo, Acusativo, Plural, Neutro, Superlativo
+A-ASF	Adjetivo, Acusativo, Singular, Femenino
+A-ASF-C	Adjetivo, Acusativo, Singular, Femenino, Comparativo
+A-ASF-L	Adjetivo, Acusativo, Singular, Femenino, Localización
+A-ASF-LG	Adjetivo, Acusativo, Singular, Femenino, (LG) Gentilicio de Localización
+A-ASF-N	Adjetivo, Acusativo, Singular, Femenino, Negativo
+A-ASF-PG	Adjetivo, Acusativo, Singular, Femenino, (PG) Gentilicio de Persona
+A-ASF-S	Adjetivo, Acusativo, Singular, Femenino, Superlativo
+A-ASM	Adjetivo, Acusativo, Singular, Masculino
+A-ASM-C	Adjetivo, Acusativo, Singular, Masculino, Comparativo
+A-ASM-LG	Adjetivo, Acusativo, Singular, Masculino, (LG) Gentilicio de Localización
+A-ASM-N	Adjetivo, Acusativo, Singular, Masculino, Negativo
+A-ASM-PG	Adjetivo, Acusativo, Singular, Masculino, (PG) Gentilicio de Persona
+A-ASM-S	Adjetivo, Acusativo, Singular, Masculino, Superlativo
+A-ASN	Adjetivo, Acusativo, Singular, Neutro
+A-ASN-C	Adjetivo, Acusativo, Singular, Neutro, Comparativo
+A-ASN-LG	Adjetivo, Acusativo, Singular, Neutro, (LG) Gentilicio de Localización
+A-ASN-N	Adjetivo, Acusativo, Singular, Neutro, Negativo
+A-ASN-S	Adjetivo, Acusativo, Singular, Neutro, Superlativo
+A-DPF	Adjetivo, Dativo, Plural, Femenino
+A-DPF-C	Adjetivo, Dativo, Plural, Femenino, Comparativo
+A-DPF-NUI	Adjetivo, Dativo, Plural, Femenino, NUmérico Indeclinable (Adjetivo)
+A-DPF-S	Adjetivo, Dativo, Plural, Femenino, Superlativo
+A-DPM	Adjetivo, Dativo, Plural, Masculino
+A-DPM-C	Adjetivo, Dativo, Plural, Masculino, Comparativo
+A-DPM-LG	Adjetivo, Dativo, Plural, Masculino, (LG) Gentilicio de Localización
+A-DPM-NUI	Adjetivo, Dativo, Plural, Masculino, NUmérico Indeclinable (Adjetivo)
+A-DPM-PG	Adjetivo, Dativo, Plural, Masculino, (PG) Gentilicio de Persona
+A-DPM-S	Adjetivo, Dativo, Plural, Masculino, Superlativo
+A-DPN	Adjetivo, Dativo, Plural, Neutro
+A-DPN-LG	Adjetivo, Dativo, Plural, Neutro, (LG) Gentilicio de Localización
+A-DPN-NUI	Adjetivo, Dativo, Plural, Neutro, NUmérico Indeclinable (Adjetivo)
+A-DPN-S	Adjetivo, Dativo, Plural, Neutro, Superlativo
+A-DSF	Adjetivo, Dativo, Singular, Femenino
+A-DSF-C	Adjetivo, Dativo, Singular, Femenino, Comparativo
+A-DSF-L	Adjetivo, Dativo, Singular, Femenino, Localización
+A-DSF-LG	Adjetivo, Dativo, Singular, Femenino, (LG) Gentilicio de Localización
+A-DSF-PG	Adjetivo, Dativo, Singular, Femenino, (PG) Gentilicio de Persona
+A-DSF-S	Adjetivo, Dativo, Singular, Femenino, Superlativo
+A-DSM	Adjetivo, Dativo, Singular, Masculino
+A-DSM-C	Adjetivo, Dativo, Singular, Masculino, Comparativo
+A-DSM-N	Adjetivo, Dativo, Singular, Masculino, Negativo
+A-DSM-PG	Adjetivo, Dativo, Singular, Masculino, (PG) Gentilicio de Persona
+A-DSM-S	Adjetivo, Dativo, Singular, Masculino, Superlativo
+A-DSN	Adjetivo, Dativo, Singular, Neutro
+A-DSN-C	Adjetivo, Dativo, Singular, Neutro, Comparativo
+A-DSN-LG	Adjetivo, Dativo, Singular, Neutro, (LG) Gentilicio de Localización
+A-DSN-N	Adjetivo, Dativo, Singular, Neutro, Negativo
+A-DSN-S	Adjetivo, Dativo, Singular, Neutro, Superlativo
+A-GMS	Adjetivo, Genitivo, Masculino, Superlativo
+A-GPF	Adjetivo, Genitivo, Plural, Femenino
+A-GPF-L	Adjetivo, Genitivo, Plural, Femenino, Localización
+A-GPF-NUI	Adjetivo, Genitivo, Plural, Femenino, NUmérico Indeclinable (Adjetivo)
+A-GPF-S	Adjetivo, Genitivo, Plural, Femenino, Superlativo
+A-GPM	Adjetivo, Genitivo, Plural, Masculino
+A-GPM-C	Adjetivo, Genitivo, Plural, Masculino, Comparativo
+A-GPM-LG	Adjetivo, Genitivo, Plural, Masculino, (LG) Gentilicio de Localización
+A-GPM-NUI	Adjetivo, Genitivo, Plural, Masculino, NUmérico Indeclinable (Adjetivo)
+A-GPM-PG	Adjetivo, Genitivo, Plural, Masculino, (PG) Gentilicio de Persona
+A-GPM-S	Adjetivo, Genitivo, Plural, Masculino, Superlativo
+A-GPN	Adjetivo, Genitivo, Plural, Neutro
+A-GPN-C	Adjetivo, Genitivo, Plural, Neutro, Comparativo
+A-GPN-NUI	Adjetivo, Genitivo, Plural, Neutro, NUmérico Indeclinable (Adjetivo)
+A-GPN-S	Adjetivo, Genitivo, Plural, Neutro, Superlativo
+A-GSF	Adjetivo, Genitivo, Singular, Femenino
+A-GSF-C	Adjetivo, Genitivo, Singular, Femenino, Comparativo
+A-GSF-L	Adjetivo, Genitivo, Singular, Femenino, Localización
+A-GSF-LG	Adjetivo, Genitivo, Singular, Femenino, (LG) Gentilicio de Localización
+A-GSF-PG	Adjetivo, Genitivo, Singular, Femenino, (PG) Gentilicio de Persona
+A-GSF-S	Adjetivo, Genitivo, Singular, Femenino, Superlativo
+A-GSM	Adjetivo, Genitivo, Singular, Masculino
+A-GSM-C	Adjetivo, Genitivo, Singular, Masculino, Comparativo
+A-GSM-N	Adjetivo, Genitivo, Singular, Masculino, Negativo
+A-GSM-PG	Adjetivo, Genitivo, Singular, Masculino, (PG) Gentilicio de Persona
+A-GSM-S	Adjetivo, Genitivo, Singular, Masculino, Superlativo
+A-GSN	Adjetivo, Genitivo, Singular, Neutro
+A-GSN-N	Adjetivo, Genitivo, Singular, Neutro, Negativo
+A-GSN-S	Adjetivo, Genitivo, Singular, Neutro, Superlativo
+A-NPF	Adjetivo, Nominativo, Plural, Femenino
+A-NPF-C	Adjetivo, Nominativo, Plural, Femenino, Comparativo
+A-NPF-NUI	Adjetivo, Nominativo, Plural, Femenino, NUmérico Indeclinable (Adjetivo)
+A-NPF-S	Adjetivo, Nominativo, Plural, Femenino, Superlativo
+A-NPM	Adjetivo, Nominativo, Plural, Masculino
+A-NPM-C	Adjetivo, Nominativo, Plural, Masculino, Comparativo
+A-NPM-LG	Adjetivo, Nominativo, Plural, Masculino, (LG) Gentilicio de Localización
+A-NPM-NUI	Adjetivo, Nominativo, Plural, Masculino, NUmérico Indeclinable (Adjetivo)
+A-NPM-PG	Adjetivo, Nominativo, Plural, Masculino, (PG) Gentilicio de Persona
+A-NPM-S	Adjetivo, Nominativo, Plural, Masculino, Superlativo
+A-NPN	Adjetivo, Nominativo, Plural, Neutro
+A-NPN-C	Adjetivo, Nominativo, Plural, Neutro, Comparativo
+A-NPN-NUI	Adjetivo, Nominativo, Plural, Neutro, NUmérico Indeclinable (Adjetivo)
+A-NPN-S	Adjetivo, Nominativo, Plural, Neutro, Superlativo
+A-NSF	Adjetivo, Nominativo, Singular, Femenino
+A-NSF-C	Adjetivo, Nominativo, Singular, Femenino, Comparativo
+A-NSF-LG	Adjetivo, Nominativo, Singular, Femenino, (LG) Gentilicio de Localización
+A-NSF-N	Adjetivo, Nominativo, Singular, Femenino, Negativo
+A-NSF-S	Adjetivo, Nominativo, Singular, Femenino, Superlativo
+A-NSM	Adjetivo, Nominativo, Singular, Masculino
+A-NSM-ATT	Adjetivo, Nominativo, Singular, Masculino, forma ÁTica griega
+A-NSM-C	Adjetivo, Nominativo, Singular, Masculino, Comparativo
+A-NSM-LG	Adjetivo, Nominativo, Singular, Masculino, (LG) Gentilicio de Localización
+A-NSM-N	Adjetivo, Nominativo, Singular, Masculino, Negativo
+A-NSM-PG	Adjetivo, Nominativo, Singular, Masculino, (PG) Gentilicio de Persona
+A-NSM-S	Adjetivo, Nominativo, Singular, Masculino, Superlativo
+A-NSM-T	Adjetivo, Nominativo, Singular, Masculino, Título
+A-NSN	Adjetivo, Nominativo, Singular, Neutro
+A-NSN-C	Adjetivo, Nominativo, Singular, Neutro, Comparativo
+A-NSN-N	Adjetivo, Nominativo, Singular, Neutro, Neutro
+A-NSN-S	Adjetivo, Nominativo, Singular, Neutro, Superlativo
+A-NUI	NUmeral Indeclinable (Adjetivo)
+A-NUI-ABB	Adjetivo, Nominativo, forma ABreviada
+A-VPF	Adjetivo, Vocativo, Plural, Femenino
+A-VPM	Adjetivo, Vocativo, Plural, Masculino
+A-VPM-C	Adjetivo, Vocativo, Plural, Masculino, Comparativo
+A-VPM-PG	Adjetivo, Vocativo, Plural, Masculino, (PG) Gentilicio de Persona
+A-VPN	Adjetivo, Vocativo, Plural, Neutro
+A-VSF	Adjetivo, Vocativo, Singular, Femenino
+A-VSM	Adjetivo, Vocativo, Singular, Masculino
+A-VSM-S	Adjetivo, Vocativo, Singular, Masculino, Superlativo
+A-VSN	Adjetivo, Vocativo, Singular, Neutro
+ADV	ADVerbio o adverbio y partícula combinados
+ADV-C	ADVerbio, forma Contraída
+ADV-I	ADVerbio, Interrogativo
+ADV-K	ADVerbio, Kai
+ADV-N	ADVerbio, Negativo
+ADV-S	ADVerbio, Superlativo
+ARAM	palabra transliterada ARAMea (indeclinable)
+C-APM	pronombre reCíproco, Acusativo, Plural, Masculino
+C-DPM	pronombre reCíproco, Dativo, Plural, Masculino
+C-DPN	pronombre reCíproco, Dativo, Plural, Neutro
+C-GPM	pronombre reCíproco, Genitivo, Plural, Masculino
+C-GPN	pronombre reCíproco, Genitivo, Plural, Neutro
+COND	partícula CONDicional o conjunción
+COND-C	forma Contraída
+COND-K	partícula CONDicional, Kai
+COND-P	forma Contraída
+CONJ	CONJunción o partícula cunjuntiva
+CONJ-N	CONJunción, Negativo
+D-APF	pronombre Demostrativo, Acusativo, Plural, Femenino
+D-APM	pronombre Demostrativo, Acusativo, Plural, Masculino
+D-APM-C	pronombre Demostrativo, Acusativo, Plural, Masculino, forma Contraída
+D-APM-K	pronombre Demostrativo, Acusativo, Plural, Masculino, Kai
+D-APN	pronombre Demostrativo, Acusativo, Plural, Neutro
+D-APN-K	pronombre Demostrativo, Acusativo, Plural, Neutro, Kai
+D-ASF	pronombre Demostrativo, Acusativo, Singular, Femenino
+D-ASM	pronombre Demostrativo, Acusativo, Singular, Masculino
+D-ASM-C	pronombre Demostrativo, Acusativo, Singular, Masculino, forma Contraída
+D-ASM-K	pronombre Demostrativo, Acusativo, Singular, Masculino, Kai
+D-ASN	pronombre Demostrativo, Acusativo, Singular, Neutro
+D-DPF	pronombre Demostrativo, Dativo, Plural, Femenino
+D-DPM	pronombre Demostrativo, Dativo, Plural, Masculino
+D-DPM-C	pronombre Demostrativo, Dativo, Plural, Masculino, forma Contraída
+D-DPM-K	pronombre Demostrativo, Dativo, Plural, Masculino, Kai
+D-DPN	pronombre Demostrativo, Dativo, Plural, Neutro
+D-DSF	pronombre Demostrativo, Dativo, Singular, Femenino
+D-DSM	pronombre Demostrativo, Dativo, Singular, Masculino
+D-DSN	pronombre Demostrativo, Dativo, Singular, Neutro
+D-GPF	pronombre Demostrativo, Genitivo, Plural, Femenino
+D-GPM	pronombre Demostrativo, Genitivo, Plural, Masculino
+D-GPN	pronombre Demostrativo, Genitivo, Plural, Neutro
+D-GSF	pronombre Demostrativo, Genitivo, Singular, Femenino
+D-GSM	pronombre Demostrativo, Genitivo, Singular, Masculino
+D-GSN	pronombre Demostrativo, Genitivo, Singular, Neutro
+D-NPF	pronombre Demostrativo, Nominativo, Plural, Femenino
+D-NPM	pronombre Demostrativo, Nominativo, Plural, Masculino
+D-NPM-C	pronombre Demostrativo, Nominativo, Plural, Masculino, forma Contraída
+D-NPM-K	pronombre Demostrativo, Nominativo, Plural, Masculino, Kai
+D-NPN	pronombre Demostrativo, Nominativo, Plural, Neutro
+D-NPN-C	pronombre Demostrativo, Nominativo, Plural, Neutro, forma Contraída
+D-NPN-K	pronombre Demostrativo, Nominativo, Plural, Neutro, Kai
+D-NSF	pronombre Demostrativo, Nominativo, Singular, Femenino
+D-NSM	pronombre Demostrativo, Nominativo, Singular, Masculino
+D-NSM-C	pronombre Demostrativo, Nominativo, Singular, Masculino, forma Contraída
+D-NSM-K	pronombre Demostrativo, Nominativo, Singular, Masculino, Kai
+D-NSN	pronombre Demostrativo, Nominativo, Singular, Neutro
+F-1APM	pronombre reFlexivo, (1) primera, Acusativo, Plural, Masculino
+F-1ASM	pronombre reFlexivo, (1) primera, Acusativo, Singular, Masculino
+F-1DPM	pronombre reFlexivo, (1) primera, Dativo, Plural, Masculino
+F-1DSM	pronombre reFlexivo, (1) primera, Dativo, Singular, Masculino
+F-1GPM	pronombre reFlexivo, (1) primera, Genitivo, Plural, Masculino
+F-1GSM	pronombre reFlexivo, (1) primera, Genitivo, Singular, Masculino
+F-2APF	pronombre reFlexivo, (2) segunda, Acusativo, Plural, Femenino
+F-2APM	pronombre reFlexivo, (2) segunda, Acusativo, Plural, Masculino
+F-2APN	pronombre reFlexivo, (2) segunda, Acusativo, Plural, Neutro
+F-2ASM	pronombre reFlexivo, (2) segunda, Acusativo, Singular, Masculino
+F-2ASM-C	pronombre reFlexivo, (2) segunda, Acusativo, Singular, Masculino, forma Contraída
+F-2DPF	pronombre reFlexivo, (2) segunda, Dativo, Plural, Femenino
+F-2DPM	pronombre reFlexivo, (2) segunda, Dativo, Plural, Masculino
+F-2DSM	pronombre reFlexivo, (2) segunda, Dativo, Singular, Masculino
+F-2GPM	pronombre reFlexivo, (2) segunda, Genitivo, Plural, Masculino
+F-2GSM	pronombre reFlexivo, (2) segunda, Genitivo, Singular, Masculino
+F-3APF	pronombre reFlexivo, (3) tercera, Acusativo, Plural, Femenino
+F-3APM	pronombre reFlexivo, (3) tercera, Acusativo, Plural, Masculino
+F-3APN	pronombre reFlexivo, (3) tercera, Acusativo, Plural, Neutro
+F-3ASF	pronombre reFlexivo, (3) tercera, Acusativo, Singular, Femenino
+F-3ASM	pronombre reFlexivo, (3) tercera, Acusativo, Singular, Masculino
+F-3ASN	pronombre reFlexivo, (3) tercera, Acusativo, Singular, Neutro
+F-3DPF	pronombre reFlexivo, (3) tercera, Dativo, Plural, Femenino
+F-3DPM	pronombre reFlexivo, (3) tercera, Dativo, Plural, Masculino
+F-3DSF	pronombre reFlexivo, (3) tercera, Dativo, Singular, Femenino
+F-3DSM	pronombre reFlexivo, (3) tercera, Dativo, Singular, Masculino
+F-3GPF	pronombre reFlexivo, (3) tercera, Genitivo, Plural, Femenino
+F-3GPM	pronombre reFlexivo, (3) tercera, Genitivo, Plural, Masculino
+F-3GPN	pronombre reFlexivo, (3) tercera, Genitivo, Plural, Neutro
+F-3GSF	pronombre reFlexivo, (3) tercera, Genitivo, Singular, Femenino
+F-3GSM	pronombre reFlexivo, (3) tercera, Genitivo, Singular, Masculino
+F-3GSN	pronombre reFlexivo, (3) tercera, Genitivo, Singular, Neutro
+F-3NSM	pronombre reFlexivo, (3) tercera, Nominativo, Singular, Masculino
+F-GPF	pronombre reFlexivo, Genitivo, Plural, Femenino
+HEB	palabra transliterada HEBrea (indeclinable)
+HEB-T	HEBreo, Título
+I-APF	pronombre Interrogativo, Acusativo, Plural, Femenino
+I-APM	pronombre Interrogativo, Acusativo, Plural, Masculino
+I-APN	pronombre Interrogativo, Acusativo, Plural, Neutro
+I-ASF	pronombre Interrogativo, Acusativo, Singular, Femenino
+I-ASM	pronombre Interrogativo, Acusativo, Singular, Masculino
+I-ASN	pronombre Interrogativo, Acusativo, Singular, Neutro
+I-DPM	pronombre Interrogativo, Dativo, Plural, Masculino
+I-DPN	pronombre Interrogativo, Dativo, Plural, Neutro
+I-DSF	pronombre Interrogativo, Dativo, Singular, Femenino
+I-DSM	pronombre Interrogativo, Dativo, Singular, Masculino
+I-DSN	pronombre Interrogativo, Dativo, Singular, Neutro
+I-GPM	pronombre Interrogativo, Genitivo, Plural, Masculino
+I-GPN	pronombre Interrogativo, Genitivo, Plural, Neutro
+I-GSF	pronombre Interrogativo, Genitivo, Singular, Femenino
+I-GSM	pronombre Interrogativo, Genitivo, Singular, Masculino
+I-GSN	pronombre Interrogativo, Genitivo, Singular, Neutro
+I-NPF	pronombre Interrogativo, Nominativo, Plural, Femenino
+I-NPM	pronombre Interrogativo, Nominativo, Plural, Masculino
+I-NPN	pronombre Interrogativo, Nominativo, Plural, Neutro
+I-NSF	pronombre Interrogativo, Nominativo, Singular, Femenino
+I-NSM	pronombre Interrogativo, Nominativo, Singular, Masculino
+I-NSN	pronombre Interrogativo, Nominativo, Singular, Neutro
+INJ	INterJección
+K-APF	(K) pronombre correlativo, Acusativo, Plural, Femenino
+K-APM	(K) pronombre correlativo, Acusativo, Plural, Masculino
+K-APN	(K) pronombre correlativo, Acusativo, Plural, Neutro
+K-ASM	(K) pronombre correlativo, Acusativo, Singular, Masculino
+K-ASN	(K) pronombre correlativo, Acusativo, Singular, Neutro
+K-DSN	(K) pronombre correlativo, Dativo, Singular, Neutro
+K-GPM	(K) pronombre correlativo, Genitivo, Plural, Masculino
+K-GSN	(K) pronombre correlativo, Genitivo, Singular, Neutro
+K-NPF	(K) pronombre correlativo, Nominativo, Plural, Femenino
+K-NPM	(K) pronombre correlativo, Nominativo, Plural, Masculino
+K-NPN	(K) pronombre correlativo, Nominativo, Plural, Neutro
+K-NSF	(K) pronombre correlativo, Nominativo, Singular, Femenino
+K-NSM	(K) pronombre correlativo, Nominativo, Singular, Masculino
+K-NSN	(K) pronombre correlativo, Nominativo, Singular, Neutro
+N-APF	SustaNtivo, Acusativo, Plural, Femenino
+N-APF-C	SustaNtivo, Acusativo, Plural, Femenino, forma Contraída
+N-APF-L	SustaNtivo, Acusativo, Plural, Femenino, Localización
+N-APF-S	SustaNtivo, Acusativo, Plural, Femenino, Superlativo
+N-APM	SustaNtivo, Acusativo, Plural, Masculino
+N-APM-L	SustaNtivo, Acusativo, Plural, Masculino, Localización
+N-APM-LG	SustaNtivo, Acusativo, Plural, Masculino, (LG) Gentilicio de Localización
+N-APM-P	SustaNtivo, Acusativo, Plural, Masculino, Persona
+N-APM-PG	SustaNtivo, Acusativo, Plural, Masculino, (PG) Gentilicio de Persona
+N-APM-T	SustaNtivo, Acusativo, Plural, Masculino, Título
+N-APN	SustaNtivo, Acusativo, Plural, Neutro
+N-APN-C	SustaNtivo, Acusativo, Plural, Neutro, forma Contraída
+N-APN-L	SustaNtivo, Acusativo, Plural, Neutro, Localización
+N-APN-S	SustaNtivo, Acusativo, Plural, Neutro, Superlativo
+N-ASF	SustaNtivo, Acusativo, Singular, Femenino
+N-ASF-C	SustaNtivo, Acusativo, Singular, Femenino, forma Contraída
+N-ASF-L	SustaNtivo, Acusativo, Singular, Femenino, Localización
+N-ASF-P	SustaNtivo, Acusativo, Singular, Femenino, Persona
+N-ASF-S	SustaNtivo, Acusativo, Singular, Femenino, Superlativo
+N-ASF-T	SustaNtivo, Acusativo, Singular, Femenino, Título
+N-ASM	SustaNtivo, Acusativo, Singular, Masculino
+N-ASM-L	SustaNtivo, Acusativo, Singular, Masculino, Localización
+N-ASM-LG	SustaNtivo, Acusativo, Singular, Masculino, (LG) Gentilicio de Localización
+N-ASM-P	SustaNtivo, Acusativo, Singular, Masculino, Persona
+N-ASM-S	SustaNtivo, Acusativo, Singular, Masculino, Superlativo
+N-ASM-T	SustaNtivo, Acusativo, Singular, Masculino, Título
+N-ASN	SustaNtivo, Acusativo, Singular, Neutro
+N-ASN-L	SustaNtivo, Acusativo, Singular, Neutro, Localización
+N-DPF	SustaNtivo, Dativo, Plural, Femenino
+N-DPF-L	SustaNtivo, Dativo, Plural, Femenino, Localización
+N-DPM	SustaNtivo, Dativo, Plural, Masculino
+N-DPM-L	SustaNtivo, Dativo, Plural, Masculino, Localización
+N-DPM-LG	SustaNtivo, Dativo, Plural, Masculino, (LG) Gentilicio de Localización
+N-DPM-S	SustaNtivo, Dativo, Plural, Masculino, Superlativo
+N-DPM-T	SustaNtivo, Dativo, Plural, Masculino, Título
+N-DPN	SustaNtivo, Dativo, Plural, Neutro
+N-DPN-L	SustaNtivo, Dativo, Plural, Neutro, Localización
+N-DSF	SustaNtivo, Dativo, Singular, Femenino
+N-DSF-L	SustaNtivo, Dativo, Singular, Femenino, Localización
+N-DSF-LG	SustaNtivo, Dativo, Singular, Femenino, (LG) Gentilicio de Localización
+N-DSF-P	SustaNtivo, Dativo, Singular, Femenino, Persona
+N-DSF-T	SustaNtivo, Dativo, Singular, Femenino, Título
+N-DSM	SustaNtivo, Dativo, Singular, Masculino
+N-DSM-L	SustaNtivo, Dativo, Singular, Masculino, Localización
+N-DSM-LG	SustaNtivo, Dativo, Singular, Masculino, (LG) Gentilicio de Localización
+N-DSM-P	SustaNtivo, Dativo, Singular, Masculino, Persona
+N-DSM-T	SustaNtivo, Dativo, Singular, Masculino, Título
+N-DSN	SustaNtivo, Dativo, Singular, Neutro
+N-DSN-L	SustaNtivo, Dativo, Singular, Neutro, Localización
+N-GMP	SustaNtivo, Genitivo, Masculino, Partícula adjunta
+N-GPF	SustaNtivo, Genitivo, Plural, Femenino
+N-GPF-L	SustaNtivo, Genitivo, Plural, Femenino, Localización
+N-GPF-LG	SustaNtivo, Genitivo, Plural, Femenino, (LG) Gentilicio de Localización
+N-GPM	SustaNtivo, Genitivo, Plural, Masculino
+N-GPM-L	SustaNtivo, Genitivo, Plural, Masculino, Localización
+N-GPM-LG	SustaNtivo, Genitivo, Plural, Masculino, (LG) Gentilicio de Localización
+N-GPM-PG	SustaNtivo, Genitivo, Plural, Masculino, (PG) Gentilicio de Persona
+N-GPM-T	SustaNtivo, Genitivo, Plural, Masculino, Título
+N-GPN	SustaNtivo, Genitivo, Plural, Neutro
+N-GPN-L	SustaNtivo, Genitivo, Plural, Neutro, Localización
+N-GSF	SustaNtivo, Genitivo, Singular, Femenino
+N-GSF-L	SustaNtivo, Genitivo, Singular, Femenino, Localización
+N-GSF-LG	SustaNtivo, Genitivo, Singular, Femenino, (LG) Gentilicio de Localización
+N-GSF-P	SustaNtivo, Genitivo, Singular, Femenino, Persona
+N-GSF-T	SustaNtivo, Genitivo, Singular, Femenino, Título
+N-GSM	SustaNtivo, Genitivo, Singular, Masculino
+N-GSM-L	SustaNtivo, Genitivo, Singular, Masculino, Localización
+N-GSM-LG	SustaNtivo, Genitivo, Singular, Masculino, (LG) Gentilicio de Localización
+N-GSM-P	SustaNtivo, Genitivo, Singular, Masculino, Persona
+N-GSM-PG	SustaNtivo, Genitivo, Singular, Masculino, (PG) Gentilicio de Persona
+N-GSM-T	SustaNtivo, Genitivo, Singular, Masculino, Título
+N-GSN	SustaNtivo, Genitivo, Singular, Neutro
+N-GSN-L	SustaNtivo, Genitivo, Singular, Neutro, Localización
+N-LI	(LI) Letra Indeclinable (Sustantivo)
+N-NAM	SustaNtivo, Nominativo
+N-NPF	SustaNtivo, Nominativo, Plural, Femenino
+N-NPM	SustaNtivo, Nominativo, Plural, Masculino
+N-NPM-L	SustaNtivo, Nominativo, Plural, Masculino, Localización
+N-NPM-LG	SustaNtivo, Nominativo, Plural, Masculino, (LG) Gentilicio de Localización
+N-NPM-PG	SustaNtivo, Nominativo, Plural, Masculino, (PG) Gentilicio de Persona
+N-NPM-S	SustaNtivo, Nominativo, Plural, Masculino, Superlativo
+N-NPM-T	SustaNtivo, Nominativo, Plural, Masculino, Título
+N-NPN	SustaNtivo, Nominativo, Plural, Neutro
+N-NPN-L	SustaNtivo, Nominativo, Plural, Neutro, Localización
+N-NPN-T	SustaNtivo, Nominativo, Plural, Neutro, Título
+N-NSF	SustaNtivo, Nominativo, Singular, Femenino
+N-NSF-L	SustaNtivo, Nominativo, Singular, Femenino, Localización
+N-NSF-LG	SustaNtivo, Nominativo, Singular, Femenino, (LG) Gentilicio de Localización
+N-NSF-P	SustaNtivo, Nominativo, Singular, Femenino, Persona
+N-NSF-T	SustaNtivo, Nominativo, Singular, Femenino, Título
+N-NSM	SustaNtivo, Nominativo, Singular, Masculino
+N-NSM-C	SustaNtivo, Nominativo, Singular, Masculino, Comparativo
+N-NSM-L	SustaNtivo, Nominativo, Singular, Masculino, Localización
+N-NSM-LG	SustaNtivo, Nominativo, Singular, Masculino, (LG) Gentilicio de Localización
+N-NSM-P	SustaNtivo, Nominativo, Singular, Masculino, Persona
+N-NSM-PG	SustaNtivo, Nominativo, Singular, Masculino, (PG) Gentilicio de Persona
+N-NSM-T	SustaNtivo, Nominativo, Singular, Masculino, Título
+N-NSN	SustaNtivo, Nominativo, Singular, Neutro
+N-NSN-C	SustaNtivo, Nominativo, Singular, Neutro, forma Contraída
+N-NSN-L	SustaNtivo, Nominativo, Singular, Neutro, Localización
+N-NSN-LI	SustaNtivo, Nominativo, Singular, Neutro, (LI) Letra Indeclinable (N)
+N-NSN-T	SustaNtivo, Nominativo, Singular, Neutro, Título
+N-OI	(OI) Sustantivo Indeclinable de Otro tipo
+N-PRI	Nombre PRopio Indeclinable
+N-VPF	SustaNtivo, Vocativo, Plural, Femenino
+N-VPM	SustaNtivo, Vocativo, Plural, Masculino
+N-VPM-LG	SustaNtivo, Vocativo, Plural, Masculino, (LG) Gentilicio de Localización
+N-VPM-PG	SustaNtivo, Vocativo, Plural, Masculino, (PG) Gentilicio de Persona
+N-VPM-T	SustaNtivo, Vocativo, Plural, Masculino, Título
+N-VPN	SustaNtivo, Vocativo, Plural, Neutro
+N-VSF	SustaNtivo, Vocativo, Singular, Femenino
+N-VSF-L	SustaNtivo, Vocativo, Singular, Femenino, Localización
+N-VSF-P	SustaNtivo, Vocativo, Singular, Femenino, Persona
+N-VSM	SustaNtivo, Vocativo, Singular, Masculino
+N-VSM-L	SustaNtivo, Vocativo, Singular, Masculino, Localización
+N-VSM-P	SustaNtivo, Vocativo, Singular, Masculino, Persona
+N-VSM-T	SustaNtivo, Vocativo, Singular, Masculino, Título
+N-VSN	SustaNtivo, Vocativo, Singular, Neutro
+P-1AP	pronombre Personal, (1) primera, Acusativo, Plural
+P-1AS	pronombre Personal, (1) primera, Acusativo, Singular
+P-1AS-C	pronombre Personal, (1) primera, Acusativo, Singular, forma Contraída
+P-1AS-K	pronombre Personal, (1) primera, Acusativo, Singular, Kai
+P-1DP	pronombre Personal, (1) primera, Dativo, Plural
+P-1DS	pronombre Personal, (1) primera, Dativo, Singular
+P-1DS-C	pronombre Personal, (1) primera, Dativo, Singular, forma Contraída
+P-1DS-K	pronombre Personal, (1) primera, Dativo, Singular, Kai
+P-1GP	pronombre Personal, (1) primera, Genitivo, Plural
+P-1GS	pronombre Personal, (1) primera, Genitivo, Singular
+P-1NP	pronombre Personal, (1) primera, Nominativo, Plural
+P-1NS	pronombre Personal, (1) primera, Nominativo, Singular
+P-1NS-C	pronombre Personal, (1) primera, Nominativo, Singular, forma Contraída
+P-1NS-K	pronombre Personal, (1) primera, Nominativo, Singular, Kai
+P-2AP	pronombre Personal, (2) segunda, Acusativo, Plural
+P-2AS	pronombre Personal, (2) segunda, Acusativo, Singular
+P-2DP	pronombre Personal, (2) segunda, Dativo, Plural
+P-2DS	pronombre Personal, (2) segunda, Dativo, Singular
+P-2GP	pronombre Personal, (2) segunda, Genitivo, Plural
+P-2GS	pronombre Personal, (2) segunda, Genitivo, Singular
+P-2NP	pronombre Personal, (2) segunda, Nominativo, Plural
+P-2NS	pronombre Personal, (2) segunda, Nominativo, Singular
+P-APF	pronombre Personal, Acusativo, Plural, Femenino
+P-APM	pronombre Personal, Acusativo, Plural, Masculino
+P-APN	pronombre Personal, Acusativo, Plural, Neutro
+P-ASF	pronombre Personal, Acusativo, Singular, Femenino
+P-ASM	pronombre Personal, Acusativo, Singular, Masculino
+P-ASN	pronombre Personal, Acusativo, Singular, Neutro
+P-DPF	pronombre Personal, Dativo, Plural, Femenino
+P-DPM	pronombre Personal, Dativo, Plural, Masculino
+P-DPN	pronombre Personal, Dativo, Plural, Neutro
+P-DSF	pronombre Personal, Dativo, Singular, Femenino
+P-DSM	pronombre Personal, Dativo, Singular, Masculino
+P-DSN	pronombre Personal, Dativo, Singular, Neutro
+P-GPF	pronombre Personal, Genitivo, Plural, Femenino
+P-GPM	pronombre Personal, Genitivo, Plural, Masculino
+P-GPN	pronombre Personal, Genitivo, Plural, Neutro
+P-GSF	pronombre Personal, Genitivo, Singular, Femenino
+P-GSM	pronombre Personal, Genitivo, Singular, Masculino
+P-GSN	pronombre Personal, Genitivo, Singular, Neutro
+P-NPM	pronombre Personal, Nominativo, Plural, Masculino
+P-NPN	pronombre Personal, Nominativo, Plural, Neutro
+P-NSF	pronombre Personal, Nominativo, Singular, Femenino
+P-NSM	pronombre Personal, Nominativo, Singular, Masculino
+P-NSN	pronombre Personal, Nominativo, Singular, Neutro
+PREP	PREPosición
+PRT	PaRTícula, partícula disyuntiva
+PRT-I	PaRTícula, Interrogativo
+PRT-N	PaRTícula, Negativo
+Q-APF	(Q) pronombre correlativo o interrogativo, Acusativo, Plural, Femenino
+Q-APM	(Q) pronombre correlativo o interrogativo, Acusativo, Plural, Masculino
+Q-APN	(Q) pronombre correlativo o interrogativo, Acusativo, Plural, Neutro
+Q-ASF	(Q) pronombre correlativo o interrogativo, Acusativo, Singular, Femenino
+Q-ASN	(Q) pronombre correlativo o interrogativo, Acusativo, Singular, Neutro
+Q-DSN	(Q) pronombre correlativo o interrogativo, Dativo, Singular, Neutro
+Q-GPF	(Q) pronombre correlativo o interrogativo, Genitivo, Plural, Femenino
+Q-GPN	(Q) pronombre correlativo o interrogativo, Genitivo, Plural, Neutro
+Q-NPF	(Q) pronombre correlativo o interrogativo, Nominativo, Plural, Femenino
+Q-NPM	(Q) pronombre correlativo o interrogativo, Nominativo, Plural, Masculino
+Q-NSM	(Q) pronombre correlativo o interrogativo, Nominativo, Singular, Masculino
+Q-NSN	(Q) pronombre correlativo o interrogativo, Nominativo, Singular, Neutro
+R-APF	pronombre Relativo, Acusativo, Plural, Femenino
+R-APM	pronombre Relativo, Acusativo, Plural, Masculino
+R-APN	pronombre Relativo, Acusativo, Plural, Neutro
+R-ASF	pronombre Relativo, Acusativo, Singular, Femenino
+R-ASM	pronombre Relativo, Acusativo, Singular, Masculino
+R-ASM-P	pronombre Relativo, Acusativo, Singular, Masculino, Partícula adjunta
+R-ASN	pronombre Relativo, Acusativo, Singular, Neutro
+R-DPF	pronombre Relativo, Dativo, Plural, Femenino
+R-DPM	pronombre Relativo, Dativo, Plural, Masculino
+R-DPN	pronombre Relativo, Dativo, Plural, Neutro
+R-DSF	pronombre Relativo, Dativo, Singular, Femenino
+R-DSM	pronombre Relativo, Dativo, Singular, Masculino
+R-DSN	pronombre Relativo, Dativo, Singular, Neutro
+R-GPF	pronombre Relativo, Genitivo, Plural, Femenino
+R-GPM	pronombre Relativo, Genitivo, Plural, Masculino
+R-GPN	pronombre Relativo, Genitivo, Plural, Neutro
+R-GSF	pronombre Relativo, Genitivo, Singular, Femenino
+R-GSM	pronombre Relativo, Genitivo, Singular, Masculino
+R-GSN	pronombre Relativo, Genitivo, Singular, Neutro
+R-GSN-ATT	pronombre Relativo, Genitivo, Singular, Neutro, forma ÁTica griega
+R-NPF	pronombre Relativo, Nominativo, Plural, Femenino
+R-NPM	pronombre Relativo, Nominativo, Plural, Masculino
+R-NPN	pronombre Relativo, Nominativo, Plural, Neutro
+R-NSF	pronombre Relativo, Nominativo, Singular, Femenino
+R-NSM	pronombre Relativo, Nominativo, Singular, Masculino
+R-NSN	pronombre Relativo, Nominativo, Singular, Neutro
+S-1APF	pronombre poSesivo, (1) primera, Acusativo, Plural, Femenino
+S-1APM	pronombre poSesivo, (1) primera, Acusativo, Plural, Masculino
+S-1APN	pronombre poSesivo, (1) primera, Acusativo, Plural, Neutro
+S-1ASF	pronombre poSesivo, (1) primera, Acusativo, Singular, Femenino
+S-1ASM	pronombre poSesivo, (1) primera, Acusativo, Singular, Masculino
+S-1ASN	pronombre poSesivo, (1) primera, Acusativo, Singular, Neutro
+S-1DPF	pronombre poSesivo, (1) primera, Dativo, Plural, Femenino
+S-1DPM	pronombre poSesivo, (1) primera, Dativo, Plural, Masculino
+S-1DPN	pronombre poSesivo, (1) primera, Dativo, Plural, Neutro
+S-1DSF	pronombre poSesivo, (1) primera, Dativo, Singular, Femenino
+S-1DSM	pronombre poSesivo, (1) primera, Dativo, Singular, Masculino
+S-1DSN	pronombre poSesivo, (1) primera, Dativo, Singular, Neutro
+S-1GPF	pronombre poSesivo, (1) primera, Genitivo, Plural, Femenino
+S-1GPN	pronombre poSesivo, (1) primera, Genitivo, Plural, Neutro
+S-1GSF	pronombre poSesivo, (1) primera, Genitivo, Singular, Femenino
+S-1NPF	pronombre poSesivo, (1) primera, Nominativo, Plural, Femenino
+S-1NPM	pronombre poSesivo, (1) primera, Nominativo, Plural, Masculino
+S-1NPN	pronombre poSesivo, (1) primera, Nominativo, Plural, Neutro
+S-1NSF	pronombre poSesivo, (1) primera, Nominativo, Singular, Femenino
+S-1NSM	pronombre poSesivo, (1) primera, Nominativo, Singular, Masculino
+S-1NSN	pronombre poSesivo, (1) primera, Nominativo, Singular, Neutro
+S-1PASF	pronombre poSesivo, (1) primera, Plural, Acusativo, Singular, Femenino
+S-1PASN	pronombre poSesivo, (1) primera, Plural, Acusativo, Singular, Neutro
+S-1PDPF	pronombre poSesivo, (1) primera, Plural, Dativo, Plural, Femenino
+S-1PDPM	pronombre poSesivo, (1) primera, Plural, Dativo, Plural, Masculino
+S-1PGPF	pronombre poSesivo, (1) primera, Plural, Genitivo, Plural, Femenino
+S-1PGSF	pronombre poSesivo, (1) primera, Plural, Genitivo, Singular, Femenino
+S-1PNPM	pronombre poSesivo, (1) primera, Plural, Nominativo, Plural, Masculino
+S-1PNSF	pronombre poSesivo, (1) primera, Plural, Nominativo, Singular, Femenino
+S-1SAPF	pronombre poSesivo, (1) primera, Singular, Acusativo, Plural, Femenino
+S-1SAPM	pronombre poSesivo, (1) primera, Singular, Acusativo, Plural, Masculino
+S-1SAPN	pronombre poSesivo, (1) primera, Singular, Acusativo, Plural, Neutro
+S-1SASF	pronombre poSesivo, (1) primera, Singular, Acusativo, Singular, Femenino
+S-1SASM	pronombre poSesivo, (1) primera, Singular, Acusativo, Singular, Masculino
+S-1SASN	pronombre poSesivo, (1) primera, Singular, Acusativo, Singular, Neutro
+S-1SDPN	pronombre poSesivo, (1) primera, Singular, Dativo, Plural, Neutro
+S-1SDSF	pronombre poSesivo, (1) primera, Singular, Dativo, Singular, Femenino
+S-1SDSM	pronombre poSesivo, (1) primera, Singular, Dativo, Singular, Masculino
+S-1SDSN	pronombre poSesivo, (1) primera, Singular, Dativo, Singular, Neutro
+S-1SGPN	pronombre poSesivo, (1) primera, Singular, Genitivo, Plural, Neutro
+S-1SGSF	pronombre poSesivo, (1) primera, Singular, Genitivo, Singular, Femenino
+S-1SGSN	pronombre poSesivo, (1) primera, Singular, Genitivo, Singular, Neutro
+S-1SNPM	pronombre poSesivo, (1) primera, Singular, Nominativo, Plural, Masculino
+S-1SNPN	pronombre poSesivo, (1) primera, Singular, Nominativo, Plural, Neutro
+S-1SNSF	pronombre poSesivo, (1) primera, Singular, Nominativo, Singular, Femenino
+S-1SNSM	pronombre poSesivo, (1) primera, Singular, Nominativo, Singular, Masculino
+S-1SNSN	pronombre poSesivo, (1) primera, Singular, Nominativo, Singular, Neutro
+S-2APF	pronombre poSesivo, (2) segunda, Acusativo, Plural, Femenino
+S-2APM	pronombre poSesivo, (2) segunda, Acusativo, Plural, Masculino
+S-2APN	pronombre poSesivo, (2) segunda, Acusativo, Plural, Neutro
+S-2ASF	pronombre poSesivo, (2) segunda, Acusativo, Singular, Femenino
+S-2ASN	pronombre poSesivo, (2) segunda, Acusativo, Singular, Neutro
+S-2DPF	pronombre poSesivo, (2) segunda, Dativo, Plural, Femenino
+S-2DPM	pronombre poSesivo, (2) segunda, Dativo, Plural, Masculino
+S-2DSF	pronombre poSesivo, (2) segunda, Dativo, Singular, Femenino
+S-2DSM	pronombre poSesivo, (2) segunda, Dativo, Singular, Masculino
+S-2GPF	pronombre poSesivo, (2) segunda, Genitivo, Plural, Femenino
+S-2GSF	pronombre poSesivo, (2) segunda, Genitivo, Singular, Femenino
+S-2NPF	pronombre poSesivo, (2) segunda, Nominativo, Plural, Femenino
+S-2NPM	pronombre poSesivo, (2) segunda, Nominativo, Plural, Masculino
+S-2NPN	pronombre poSesivo, (2) segunda, Nominativo, Plural, Neutro
+S-2NSM	pronombre poSesivo, (2) segunda, Nominativo, Singular, Masculino
+S-2NSN	pronombre poSesivo, (2) segunda, Nominativo, Singular, Neutro
+S-2PASF	pronombre poSesivo, (2) segunda, Plural, Acusativo, Singular, Femenino
+S-2PASM	pronombre poSesivo, (2) segunda, Plural, Acusativo, Singular, Masculino
+S-2PASN	pronombre poSesivo, (2) segunda, Plural, Acusativo, Singular, Neutro
+S-2PDSF	pronombre poSesivo, (2) segunda, Plural, Dativo, Singular, Femenino
+S-2PDSM	pronombre poSesivo, (2) segunda, Plural, Dativo, Singular, Masculino
+S-2PDSN	pronombre poSesivo, (2) segunda, Plural, Dativo, Singular, Neutro
+S-2PGSF	pronombre poSesivo, (2) segunda, Plural, Genitivo, Singular, Femenino
+S-2PNSF	pronombre poSesivo, (2) segunda, Plural, Nominativo, Singular, Femenino
+S-2PNSM	pronombre poSesivo, (2) segunda, Plural, Nominativo, Singular, Masculino
+S-2SAPM	pronombre poSesivo, (2) segunda, Singular, Acusativo, Plural, Masculino
+S-2SAPN	pronombre poSesivo, (2) segunda, Singular, Acusativo, Plural, Neutro
+S-2SASF	pronombre poSesivo, (2) segunda, Singular, Acusativo, Singular, Femenino
+S-2SASN	pronombre poSesivo, (2) segunda, Singular, Acusativo, Singular, Neutro
+S-2SDSF	pronombre poSesivo, (2) segunda, Singular, Dativo, Singular, Femenino
+S-2SDSM	pronombre poSesivo, (2) segunda, Singular, Dativo, Singular, Masculino
+S-2SDSN	pronombre poSesivo, (2) segunda, Singular, Dativo, Singular, Neutro
+S-2SGSF	pronombre poSesivo, (2) segunda, Singular, Genitivo, Singular, Femenino
+S-2SNPM	pronombre poSesivo, (2) segunda, Singular, Nominativo, Plural, Masculino
+S-2SNPN	pronombre poSesivo, (2) segunda, Singular, Nominativo, Plural, Neutro
+S-2SNSM	pronombre poSesivo, (2) segunda, Singular, Nominativo, Singular, Masculino
+S-2SNSN	pronombre poSesivo, (2) segunda, Singular, Nominativo, Singular, Neutro
+T-APF	(T) artículo determinado, Acusativo, Plural, Femenino
+T-APM	(T) artículo determinado, Acusativo, Plural, Masculino
+T-APN	(T) artículo determinado, Acusativo, Plural, Neutro
+T-ASF	(T) artículo determinado, Acusativo, Singular, Femenino
+T-ASM	(T) artículo determinado, Acusativo, Singular, Masculino
+T-ASN	(T) artículo determinado, Acusativo, Singular, Neutro
+T-DPF	(T) artículo determinado, Dativo, Plural, Femenino
+T-DPM	(T) artículo determinado, Dativo, Plural, Masculino
+T-DPN	(T) artículo determinado, Dativo, Plural, Neutro
+T-DSF	(T) artículo determinado, Dativo, Singular, Femenino
+T-DSM	(T) artículo determinado, Dativo, Singular, Masculino
+T-DSN	(T) artículo determinado, Dativo, Singular, Neutro
+T-GPF	(T) artículo determinado, Genitivo, Plural, Femenino
+T-GPM	(T) artículo determinado, Genitivo, Plural, Masculino
+T-GPN	(T) artículo determinado, Genitivo, Plural, Neutro
+T-GSF	(T) artículo determinado, Genitivo, Singular, Femenino
+T-GSM	(T) artículo determinado, Genitivo, Singular, Masculino
+T-GSN	(T) artículo determinado, Genitivo, Singular, Neutro
+T-NPF	(T) artículo determinado, Nominativo, Plural, Femenino
+T-NPM	(T) artículo determinado, Nominativo, Plural, Masculino
+T-NPN	(T) artículo determinado, Nominativo, Plural, Neutro
+T-NSF	(T) artículo determinado, Nominativo, Singular, Femenino
+T-NSM	(T) artículo determinado, Nominativo, Singular, Masculino
+T-NSN	(T) artículo determinado, Nominativo, Singular, Neutro
+T-VPF	(T) artículo determinado, Vocativo, Plural, Femenino
+T-VPM	(T) artículo determinado, Vocativo, Plural, Masculino
+T-VPN	(T) artículo determinado, Vocativo, Plural, Neutro
+T-VSF	(T) artículo determinado, Vocativo, Singular, Femenino
+T-VSM	(T) artículo determinado, Vocativo, Singular, Masculino
+T-VSN	(T) artículo determinado, Vocativo, Singular, Neutro
+V-2AAI-1P	Verbo, (2A) Aoristo segundo, Activa, Indicativo, (1) primera, Plural
+V-2AAI-1S	Verbo, (2A) Aoristo segundo, Activa, Indicativo, (1) primera, Singular
+V-2AAI-2P	Verbo, (2A) Aoristo segundo, Activa, Indicativo, (2) segunda, Plural
+V-2AAI-2S	Verbo, (2A) Aoristo segundo, Activa, Indicativo, (2) segunda, Singular
+V-2AAI-3P	Verbo, (2A) Aoristo segundo, Activa, Indicativo, (3) tercera, Plural
+V-2AAI-3P-ATT	Verbo, (2A) Aoristo segundo, Activa, Indicativo, (3) tercera, Plural, forma ÁTica
+V-2AAI-3S	Verbo, (2A) Aoristo segundo, Activa, Indicativo, (3) tercera, Singular
+V-2AAM-2P	Verbo, (2A) Aoristo segundo, Activa, IMperativo, (2) segunda, Plural
+V-2AAM-2S	Verbo, (2A) Aoristo segundo, Activa, IMperativo, (2) segunda, Singular
+V-2AAM-2S-AP	Verbo, (2A) Aoristo segundo, Activa, IMperativo, (2) segunda, Singular, forma APócopa
+V-2AAM-2S-ATT	Verbo, (2A) Aoristo segundo, Activa, IMperativo, (2) segunda, Singular, forma ÁTica
+V-2AAM-3P	Verbo, (2A) Aoristo segundo, Activa, IMperativo, (3) tercera, Plural
+V-2AAM-3S	Verbo, (2A) Aoristo segundo, Activa, IMperativo, (3) tercera, Singular
+V-2AAN	Verbo, (2A) Aoristo segundo, Activa, iNfinitivo
+V-2AAO-3P	Verbo, (2A) Aoristo segundo, Activa, Optativo, (3) tercera, Plural
+V-2AAO-3S	Verbo, (2A) Aoristo segundo, Activa, Optativo, (3) tercera, Singular
+V-2AAP-APF	Verbo, (2A) Aoristo segundo, Activa, Participio, Acusativo, Plural, Femenino
+V-2AAP-APM	Verbo, (2A) Aoristo segundo, Activa, Participio, Acusativo, Plural, Masculino
+V-2AAP-ASF	Verbo, (2A) Aoristo segundo, Activa, Participio, Acusativo, Singular, Femenino
+V-2AAP-ASM	Verbo, (2A) Aoristo segundo, Activa, Participio, Acusativo, Singular, Masculino
+V-2AAP-ASN	Verbo, (2A) Aoristo segundo, Activa, Participio, Acusativo, Singular, Neutro
+V-2AAP-DPF	Verbo, (2A) Aoristo segundo, Activa, Participio, Dativo, Plural, Femenino
+V-2AAP-DPM	Verbo, (2A) Aoristo segundo, Activa, Participio, Dativo, Plural, Masculino
+V-2AAP-DSF	Verbo, (2A) Aoristo segundo, Activa, Participio, Dativo, Singular, Femenino
+V-2AAP-DSM	Verbo, (2A) Aoristo segundo, Activa, Participio, Dativo, Singular, Masculino
+V-2AAP-GPM	Verbo, (2A) Aoristo segundo, Activa, Participio, Genitivo, Plural, Masculino
+V-2AAP-GSF	Verbo, (2A) Aoristo segundo, Activa, Participio, Genitivo, Singular, Femenino
+V-2AAP-GSM	Verbo, (2A) Aoristo segundo, Activa, Participio, Genitivo, Singular, Masculino
+V-2AAP-GSN	Verbo, (2A) Aoristo segundo, Activa, Participio, Genitivo, Singular, Neutro
+V-2AAP-NPF	Verbo, (2A) Aoristo segundo, Activa, Participio, Nominativo, Plural, Femenino
+V-2AAP-NPM	Verbo, (2A) Aoristo segundo, Activa, Participio, Nominativo, Plural, Masculino
+V-2AAP-NPN	Verbo, (2A) Aoristo segundo, Activa, Participio, Nominativo, Plural, Neutro
+V-2AAP-NSF	Verbo, (2A) Aoristo segundo, Activa, Participio, Nominativo, Singular, Femenino
+V-2AAP-NSM	Verbo, (2A) Aoristo segundo, Activa, Participio, Nominativo, Singular, Masculino
+V-2AAP-NSN	Verbo, (2A) Aoristo segundo, Activa, Participio, Nominativo, Singular, Neutro
+V-2AAS-1P	Verbo, (2A) Aoristo segundo, Activa, Subjuntivo, (1) primera, Plural
+V-2AAS-1S	Verbo, (2A) Aoristo segundo, Activa, Subjuntivo, (1) primera, Singular
+V-2AAS-2P	Verbo, (2A) Aoristo segundo, Activa, Subjuntivo, (2) segunda, Plural
+V-2AAS-2S	Verbo, (2A) Aoristo segundo, Activa, Subjuntivo, (2) segunda, Singular
+V-2AAS-3P	Verbo, (2A) Aoristo segundo, Activa, Subjuntivo, (3) tercera, Plural
+V-2AAS-3S	Verbo, (2A) Aoristo segundo, Activa, Subjuntivo, (3) tercera, Singular
+V-2ADI-1S	Verbo, (2A) Aoristo segundo, Deponente medio, Indicativo, (1) primera, Singular
+V-2ADI-2P	Verbo, (2A) Aoristo segundo, Deponente medio, Indicativo, (2) segunda, Plural
+V-2ADI-2S	Verbo, (2A) Aoristo segundo, Deponente medio, Indicativo, (2) segunda, Singular
+V-2ADI-3P	Verbo, (2A) Aoristo segundo, Deponente medio, Indicativo, (3) tercera, Plural
+V-2ADI-3S	Verbo, (2A) Aoristo segundo, Deponente medio, Indicativo, (3) tercera, Singular
+V-2ADM-2P	Verbo, (2A) Aoristo segundo, Deponente medio, IMperativo, (2) segunda, Plural
+V-2ADM-2S	Verbo, (2A) Aoristo segundo, Deponente medio, IMperativo, (2) segunda, Singular
+V-2ADM-3S	Verbo, (2A) Aoristo segundo, Deponente medio, IMperativo, (3) tercera, Singular
+V-2ADN	Verbo, (2A) Aoristo segundo, Deponente medio, iNfinitivo
+V-2ADO-1S	Verbo, (2A) Aoristo segundo, Deponente medio, Optativo, (1) primera, Singular
+V-2ADO-3S	Verbo, (2A) Aoristo segundo, Deponente medio, Optativo, (3) tercera, Singular
+V-2ADP-APM	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Acusativo, Plural, Masculino
+V-2ADP-APN	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Acusativo, Plural, Neutro
+V-2ADP-ASF	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Acusativo, Singular, Femenino
+V-2ADP-ASM	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Acusativo, Singular, Masculino
+V-2ADP-ASN	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Acusativo, Singular, Neutro
+V-2ADP-DPM	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Dativo, Plural, Masculino
+V-2ADP-DPN	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Dativo, Plural, Neutro
+V-2ADP-GPF	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Genitivo, Plural, Femenino
+V-2ADP-GPM	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Genitivo, Plural, Masculino
+V-2ADP-GPN	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Genitivo, Plural, Neutro
+V-2ADP-GSF	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Genitivo, Singular, Femenino
+V-2ADP-GSM	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Genitivo, Singular, Masculino
+V-2ADP-GSN	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Genitivo, Singular, Neutro
+V-2ADP-NPF	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Nominativo, Plural, Femenino
+V-2ADP-NPM	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Nominativo, Plural, Masculino
+V-2ADP-NSM	Verbo, (2A) Aoristo segundo, Deponente medio, Participio, Nominativo, Singular, Masculino
+V-2ADS-1P	Verbo, (2A) Aoristo segundo, Deponente medio, Subjuntivo, (1) primera, Plural
+V-2ADS-1S	Verbo, (2A) Aoristo segundo, Deponente medio, Subjuntivo, (1) primera, Singular
+V-2ADS-2P	Verbo, (2A) Aoristo segundo, Deponente medio, Subjuntivo, (2) segunda, Plural
+V-2ADS-3P	Verbo, (2A) Aoristo segundo, Deponente medio, Subjuntivo, (3) tercera, Plural
+V-2ADS-3S	Verbo, (2A) Aoristo segundo, Deponente medio, Subjuntivo, (3) tercera, Singular
+V-2AMI-1P	Verbo, (2A) Aoristo segundo, Media, Indicativo, (1) primera, Plural
+V-2AMI-1S	Verbo, (2A) Aoristo segundo, Media, Indicativo, (1) primera, Singular
+V-2AMI-2P	Verbo, (2A) Aoristo segundo, Media, Indicativo, (2) segunda, Plural
+V-2AMI-2S	Verbo, (2A) Aoristo segundo, Media, Indicativo, (2) segunda, Singular
+V-2AMI-3P	Verbo, (2A) Aoristo segundo, Media, Indicativo, (3) tercera, Plural
+V-2AMI-3S	Verbo, (2A) Aoristo segundo, Media, Indicativo, (3) tercera, Singular
+V-2AMM-2P	Verbo, (2A) Aoristo segundo, Media, IMperativo, (2) segunda, Plural
+V-2AMM-2S	Verbo, (2A) Aoristo segundo, Media, IMperativo, (2) segunda, Singular
+V-2AMN	Verbo, (2A) Aoristo segundo, Media, iNfinitivo
+V-2AMP-GSM	Verbo, (2A) Aoristo segundo, Media, Participio, Genitivo, Singular, Masculino
+V-2AMP-NPM	Verbo, (2A) Aoristo segundo, Media, Participio, Nominativo, Plural, Masculino
+V-2AMP-NSM	Verbo, (2A) Aoristo segundo, Media, Participio, Nominativo, Singular, Masculino
+V-2AMS-1P	Verbo, (2A) Aoristo segundo, Media, Subjuntivo, (1) primera, Plural
+V-2AMS-1S	Verbo, (2A) Aoristo segundo, Media, Subjuntivo, (1) primera, Singular
+V-2AMS-2S	Verbo, (2A) Aoristo segundo, Media, Subjuntivo, (2) segunda, Singular
+V-2AMS-3P	Verbo, (2A) Aoristo segundo, Media, Subjuntivo, (3) tercera, Plural
+V-2AMS-3S	Verbo, (2A) Aoristo segundo, Media, Subjuntivo, (3) tercera, Singular
+V-2AOI-1P	Verbo, (2A) Aoristo segundo, depOnente pasivo, Indicativo, (1) primera, Plural
+V-2AOI-1S	Verbo, (2A) Aoristo segundo, depOnente pasivo, Indicativo, (1) primera, Singular
+V-2AOI-2P	Verbo, (2A) Aoristo segundo, depOnente pasivo, Indicativo, (2) segunda, Plural
+V-2AOI-3P	Verbo, (2A) Aoristo segundo, depOnente pasivo, Indicativo, (3) tercera, Plural
+V-2AOI-3S	Verbo, (2A) Aoristo segundo, depOnente pasivo, Indicativo, (3) tercera, Singular
+V-2AOM-2P	Verbo, (2A) Aoristo segundo, depOnente pasivo, IMperativo, (2) segunda, Plural
+V-2AON	Verbo, (2A) Aoristo segundo, depOnente pasivo, iNfinitivo
+V-2AOS-2P	Verbo, (2A) Aoristo segundo, depOnente pasivo, Subjuntivo, (2) segunda, Plural
+V-2API-1P	Verbo, (2A) Aoristo segundo, Pasivo, Indicativo, (1) primera, Plural
+V-2API-1S	Verbo, (2A) Aoristo segundo, Pasivo, Indicativo, (1) primera, Singular
+V-2API-2P	Verbo, (2A) Aoristo segundo, Pasivo, Indicativo, (2) segunda, Plural
+V-2API-2S	Verbo, (2A) Aoristo segundo, Pasivo, Indicativo, (2) segunda, Singular
+V-2API-3P	Verbo, (2A) Aoristo segundo, Pasivo, Indicativo, (3) tercera, Plural
+V-2API-3S	Verbo, (2A) Aoristo segundo, Pasivo, Indicativo, (3) tercera, Singular
+V-2APM-2P	Verbo, (2A) Aoristo segundo, Pasivo, IMperativo, (2) segunda, Plural
+V-2APM-2S	Verbo, (2A) Aoristo segundo, Pasivo, IMperativo, (2) segunda, Singular
+V-2APM-3S	Verbo, (2A) Aoristo segundo, Pasivo, IMperativo, (3) tercera, Singular
+V-2APN	Verbo, (2A) Aoristo segundo, Pasivo, iNfinitivo
+V-2APP-ASM	Verbo, (2A) Aoristo segundo, Pasivo, Participio, Acusativo, Singular, Masculino
+V-2APP-DSN	Verbo, (2A) Aoristo segundo, Pasivo, Participio, Dativo, Singular, Neutro
+V-2APP-GPM	Verbo, (2A) Aoristo segundo, Pasivo, Participio, Genitivo, Plural, Masculino
+V-2APP-NPF	Verbo, (2A) Aoristo segundo, Pasivo, Participio, Nominativo, Plural, Femenino
+V-2APP-NPM	Verbo, (2A) Aoristo segundo, Pasivo, Participio, Nominativo, Plural, Masculino
+V-2APP-NSF	Verbo, (2A) Aoristo segundo, Pasivo, Participio, Nominativo, Singular, Femenino
+V-2APP-NSM	Verbo, (2A) Aoristo segundo, Pasivo, Participio, Nominativo, Singular, Masculino
+V-2APP-NSN	Verbo, (2A) Aoristo segundo, Pasivo, Participio, Nominativo, Singular, Neutro
+V-2APS-1P	Verbo, (2A) Aoristo segundo, Pasivo, Subjuntivo, (1) primera, Plural
+V-2APS-2P	Verbo, (2A) Aoristo segundo, Pasivo, Subjuntivo, (2) segunda, Plural
+V-2APS-2S	Verbo, (2A) Aoristo segundo, Pasivo, Subjuntivo, (2) segunda, Singular
+V-2APS-3P	Verbo, (2A) Aoristo segundo, Pasivo, Subjuntivo, (3) tercera, Plural
+V-2APS-3S	Verbo, (2A) Aoristo segundo, Pasivo, Subjuntivo, (3) tercera, Singular
+V-2AXM-2P	Verbo, (2A) Aoristo segundo, (X) voz no declarada, IMperativo, (2) segunda, Plural
+V-2AXP-GPM	Verbo, (2A) Aoristo segundo, (X) voz no declarada, Participio, Genitivo, Plural, Masculino
+V-2AXS-2P	Verbo, (2A) Aoristo segundo, (X) voz no declarada, Subjuntivo, (2) segunda, Plural
+V-2FAI-1S	Verbo, (2F) Futuro segundo, Activa, Indicativo, (1) primera, Singular
+V-2FAI-3S	Verbo, (2F) Futuro segundo, Activa, Indicativo, (3) tercera, Singular
+V-2FDI-2S	Verbo, (2F) Futuro segundo, Deponente medio, Indicativo, (2) segunda, Singular
+V-2FDI-3P	Verbo, (2F) Futuro segundo, Deponente medio, Indicativo, (3) tercera, Plural
+V-2FDI-3S	Verbo, (2F) Futuro segundo, Deponente medio, Indicativo, (3) tercera, Singular
+V-2FMI-3S	Verbo, (2F) Futuro segundo, Media, Indicativo, (3) tercera, Singular
+V-2FOI-1S	Verbo, (2F) Futuro segundo, depOnente pasivo, Indicativo, (1) primera, Singular
+V-2FOI-3P	Verbo, (2F) Futuro segundo, depOnente pasivo, Indicativo, (3) tercera, Plural
+V-2FOI-3S	Verbo, (2F) Futuro segundo, depOnente pasivo, Indicativo, (3) tercera, Singular
+V-2FPI-1P	Verbo, (2F) Futuro segundo, Pasivo, Indicativo, (1) primera, Plural
+V-2FPI-2P	Verbo, (2F) Futuro segundo, Pasivo, Indicativo, (2) segunda, Plural
+V-2FPI-2S	Verbo, (2F) Futuro segundo, Pasivo, Indicativo, (2) segunda, Singular
+V-2FPI-3P	Verbo, (2F) Futuro segundo, Pasivo, Indicativo, (3) tercera, Plural
+V-2FPI-3S	Verbo, (2F) Futuro segundo, Pasivo, Indicativo, (3) tercera, Singular
+V-2LAI-1S	Verbo, (2L) pLuscuanperfecto segundo, Activa, Indicativo, (1) primera, Singular
+V-2LAI-2P	Verbo, (2L) pLuscuanperfecto segundo, Activa, Indicativo, (2) segunda, Plural
+V-2LAI-2S	Verbo, (2L) pLuscuanperfecto segundo, Activa, Indicativo, (2) segunda, Singular
+V-2LAI-3P	Verbo, (2L) pLuscuanperfecto segundo, Activa, Indicativo, (3) tercera, Plural
+V-2LAI-3S	Verbo, (2L) pLuscuanperfecto segundo, Activa, Indicativo, (3) tercera, Singular
+V-2PAI-2S	Verbo, (2P) Presente segundo, Activa, Indicativo, (2) segunda, Singular
+V-2PAN	Verbo, (2P) Presente segundo, Activa, iNfinitivo
+V-2PAP-NSM	Verbo, (2P) Presente segundo, Activa, Participio, Nominativo, Singular, Masculino
+V-2RAI-1P	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (1) primera, Plural
+V-2RAI-1P-ATT	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (1) primera, Plural, forma ÁTica
+V-2RAI-1S	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (1) primera, Singular
+V-2RAI-2P	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (2) segunda, Plural
+V-2RAI-2P-ATT	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (2) segunda, Plural, forma ÁTica
+V-2RAI-2S	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (2) segunda, Singular
+V-2RAI-3P	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (3) tercera, Plural
+V-2RAI-3P-ATT	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (3) tercera, Plural, forma ÁTica
+V-2RAI-3P-C	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (3) tercera, Plural, forma Contraída
+V-2RAI-3S	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (3) tercera, Singular
+V-2RAI-3S-ATT	Verbo, (2R) peRfecto segundo, Activa, Indicativo, (3) tercera, Singular, forma ÁTica
+V-2RAN	Verbo, (2R) peRfecto segundo, Activa, iNfinitivo
+V-2RAP-APM	Verbo, (2R) peRfecto segundo, Activa, Participio, Acusativo, Plural, Masculino
+V-2RAP-APM-ATT	Verbo, (2R) peRfecto segundo, Activa, Participio, Acusativo, Plural, Masculino, forma ÁTica
+V-2RAP-APN	Verbo, (2R) peRfecto segundo, Activa, Participio, Acusativo, Plural, Neutro
+V-2RAP-ASF	Verbo, (2R) peRfecto segundo, Activa, Participio, Acusativo, Singular, Femenino
+V-2RAP-ASM	Verbo, (2R) peRfecto segundo, Activa, Participio, Acusativo, Singular, Masculino
+V-2RAP-ASN	Verbo, (2R) peRfecto segundo, Activa, Participio, Acusativo, Singular, Neutro
+V-2RAP-DSN	Verbo, (2R) peRfecto segundo, Activa, Participio, Dativo, Singular, Neutro
+V-2RAP-GPN	Verbo, (2R) peRfecto segundo, Activa, Participio, Genitivo, Plural, Neutro
+V-2RAP-NPF	Verbo, (2R) peRfecto segundo, Activa, Participio, Nominativo, Plural, Femenino
+V-2RAP-NPM	Verbo, (2R) peRfecto segundo, Activa, Participio, Nominativo, Plural, Masculino
+V-2RAP-NSF	Verbo, (2R) peRfecto segundo, Activa, Participio, Nominativo, Singular, Femenino
+V-2RAP-NSM	Verbo, (2R) peRfecto segundo, Activa, Participio, Nominativo, Singular, Masculino
+V-2RAP-NSN	Verbo, (2R) peRfecto segundo, Activa, Participio, Nominativo, Singular, Neutro
+V-2RPP-APF	Verbo, (2R) peRfecto segundo, Pasivo, Participio, Acusativo, Plural, Femenino
+V-2RPP-ASM	Verbo, (2R) peRfecto segundo, Pasivo, Participio, Acusativo, Singular, Masculino
+V-2RPP-ASN	Verbo, (2R) peRfecto segundo, Pasivo, Participio, Acusativo, Singular, Neutro
+V-2RPP-GSF	Verbo, (2R) peRfecto segundo, Pasivo, Participio, Genitivo, Singular, Femenino
+V-2RPP-NSM	Verbo, (2R) peRfecto segundo, Pasivo, Participio, Nominativo, Singular, Masculino
+V-AAI-1P	Verbo, Aoristo, Activa, Indicativo, (1) primera, Plural
+V-AAI-1S	Verbo, Aoristo, Activa, Indicativo, (1) primera, Singular
+V-AAI-2P	Verbo, Aoristo, Activa, Indicativo, (2) segunda, Plural
+V-AAI-2S	Verbo, Aoristo, Activa, Indicativo, (2) segunda, Singular
+V-AAI-3P	Verbo, Aoristo, Activa, Indicativo, (3) tercera, Plural
+V-AAI-3S	Verbo, Aoristo, Activa, Indicativo, (3) tercera, Singular
+V-AAM-2P	Verbo, Aoristo, Activa, IMperativo, (2) segunda, Plural
+V-AAM-2S	Verbo, Aoristo, Activa, IMperativo, (2) segunda, Singular
+V-AAM-3P	Verbo, Aoristo, Activa, IMperativo, (3) tercera, Plural
+V-AAM-3S	Verbo, Aoristo, Activa, IMperativo, (3) tercera, Singular
+V-AAN	Verbo, Aoristo, Activa, iNfinitivo
+V-AAO-3P	Verbo, Aoristo, Activa, Optativo, (3) tercera, Plural
+V-AAO-3P-A	Verbo, Aoristo, Activa, Optativo, (3) tercera, Plural, (A) Eólico
+V-AAO-3S	Verbo, Aoristo, Activa, Optativo, (3) tercera, Singular
+V-AAP-APM	Verbo, Aoristo, Activa, Participio, Acusativo, Plural, Masculino
+V-AAP-APN	Verbo, Aoristo, Activa, Participio, Acusativo, Plural, Neutro
+V-AAP-ASF	Verbo, Aoristo, Activa, Participio, Acusativo, Singular, Femenino
+V-AAP-ASM	Verbo, Aoristo, Activa, Participio, Acusativo, Singular, Masculino
+V-AAP-ASN	Verbo, Aoristo, Activa, Participio, Acusativo, Singular, Neutro
+V-AAP-DPM	Verbo, Aoristo, Activa, Participio, Dativo, Plural, Masculino
+V-AAP-DSM	Verbo, Aoristo, Activa, Participio, Dativo, Singular, Masculino
+V-AAP-GPM	Verbo, Aoristo, Activa, Participio, Genitivo, Plural, Masculino
+V-AAP-GSF	Verbo, Aoristo, Activa, Participio, Genitivo, Singular, Femenino
+V-AAP-GSM	Verbo, Aoristo, Activa, Participio, Genitivo, Singular, Masculino
+V-AAP-NPF	Verbo, Aoristo, Activa, Participio, Nominativo, Plural, Femenino
+V-AAP-NPM	Verbo, Aoristo, Activa, Participio, Nominativo, Plural, Masculino
+V-AAP-NSF	Verbo, Aoristo, Activa, Participio, Nominativo, Singular, Femenino
+V-AAP-NSM	Verbo, Aoristo, Activa, Participio, Nominativo, Singular, Masculino
+V-AAP-NSN	Verbo, Aoristo, Activa, Participio, Nominativo, Singular, Neutro
+V-AAPNS	Verbo, Aoristo, Activa, Participio, Nominativo, Singular
+V-AAS-1P	Verbo, Aoristo, Activa, Subjuntivo, (1) primera, Plural
+V-AAS-1S	Verbo, Aoristo, Activa, Subjuntivo, (1) primera, Singular
+V-AAS-2P	Verbo, Aoristo, Activa, Subjuntivo, (2) segunda, Plural
+V-AAS-2S	Verbo, Aoristo, Activa, Subjuntivo, (2) segunda, Singular
+V-AAS-3P	Verbo, Aoristo, Activa, Subjuntivo, (3) tercera, Plural
+V-AAS-3S	Verbo, Aoristo, Activa, Subjuntivo, (3) tercera, Singular
+V-ADI-1P	Verbo, Aoristo, Deponente medio, Indicativo, (1) primera, Plural
+V-ADI-1S	Verbo, Aoristo, Deponente medio, Indicativo, (1) primera, Singular
+V-ADI-2P	Verbo, Aoristo, Deponente medio, Indicativo, (2) segunda, Plural
+V-ADI-2S	Verbo, Aoristo, Deponente medio, Indicativo, (2) segunda, Singular
+V-ADI-3P	Verbo, Aoristo, Deponente medio, Indicativo, (3) tercera, Plural
+V-ADI-3S	Verbo, Aoristo, Deponente medio, Indicativo, (3) tercera, Singular
+V-ADM-2P	Verbo, Aoristo, Deponente medio, IMperativo, (2) segunda, Plural
+V-ADM-2S	Verbo, Aoristo, Deponente medio, IMperativo, (2) segunda, Singular
+V-ADM-3P	Verbo, Aoristo, Deponente medio, IMperativo, (3) tercera, Plural
+V-ADM-3S	Verbo, Aoristo, Deponente medio, IMperativo, (3) tercera, Singular
+V-ADN	Verbo, Aoristo, Deponente medio, iNfinitivo
+V-ADO-1S	Verbo, Aoristo, Deponente medio, Optativo, (1) primera, Singular
+V-ADP-APM	Verbo, Aoristo, Deponente medio, Participio, Acusativo, Plural, Masculino
+V-ADP-ASM	Verbo, Aoristo, Deponente medio, Participio, Acusativo, Singular, Masculino
+V-ADP-DPM	Verbo, Aoristo, Deponente medio, Participio, Dativo, Plural, Masculino
+V-ADP-GSF	Verbo, Aoristo, Deponente medio, Participio, Genitivo, Singular, Femenino
+V-ADP-NPM	Verbo, Aoristo, Deponente medio, Participio, Nominativo, Plural, Masculino
+V-ADP-NSF	Verbo, Aoristo, Deponente medio, Participio, Nominativo, Singular, Femenino
+V-ADP-NSM	Verbo, Aoristo, Deponente medio, Participio, Nominativo, Singular, Masculino
+V-ADS-1P	Verbo, Aoristo, Deponente medio, Subjuntivo, (1) primera, Plural
+V-ADS-1S	Verbo, Aoristo, Deponente medio, Subjuntivo, (1) primera, Singular
+V-ADS-2P	Verbo, Aoristo, Deponente medio, Subjuntivo, (2) segunda, Plural
+V-ADS-2S	Verbo, Aoristo, Deponente medio, Subjuntivo, (2) segunda, Singular
+V-ADS-3P	Verbo, Aoristo, Deponente medio, Subjuntivo, (3) tercera, Plural
+V-ADS-3S	Verbo, Aoristo, Deponente medio, Subjuntivo, (3) tercera, Singular
+V-AMI-1P	Verbo, Aoristo, Media, Indicativo, (1) primera, Plural
+V-AMI-1S	Verbo, Aoristo, Media, Indicativo, (1) primera, Singular
+V-AMI-2P	Verbo, Aoristo, Media, Indicativo, (2) segunda, Plural
+V-AMI-2S	Verbo, Aoristo, Media, Indicativo, (2) segunda, Singular
+V-AMI-3P	Verbo, Aoristo, Media, Indicativo, (3) tercera, Plural
+V-AMI-3S	Verbo, Aoristo, Media, Indicativo, (3) tercera, Singular
+V-AMM-2P	Verbo, Aoristo, Media, IMperativo, (2) segunda, Plural
+V-AMM-2S	Verbo, Aoristo, Media, IMperativo, (2) segunda, Singular
+V-AMM-3S	Verbo, Aoristo, Media, IMperativo, (3) tercera, Singular
+V-AMN	Verbo, Aoristo, Media, iNfinitivo
+V-AMP-APM	Verbo, Aoristo, Media, Participio, Acusativo, Plural, Masculino
+V-AMP-ASN	Verbo, Aoristo, Media, Participio, Acusativo, Singular, Neutro
+V-AMP-DPM	Verbo, Aoristo, Media, Participio, Dativo, Plural, Masculino
+V-AMP-GPM	Verbo, Aoristo, Media, Participio, Genitivo, Plural, Masculino
+V-AMP-GSM	Verbo, Aoristo, Media, Participio, Genitivo, Singular, Masculino
+V-AMP-NPM	Verbo, Aoristo, Media, Participio, Nominativo, Plural, Masculino
+V-AMP-NSF	Verbo, Aoristo, Media, Participio, Nominativo, Singular, Femenino
+V-AMP-NSM	Verbo, Aoristo, Media, Participio, Nominativo, Singular, Masculino
+V-AMP-NSN	Verbo, Aoristo, Media, Participio, Nominativo, Singular, Neutro
+V-AMPNP	Verbo, Aoristo, Media, Participio, Nominativo, Plural
+V-AMS-1P	Verbo, Aoristo, Media, Subjuntivo, (1) primera, Plural
+V-AMS-1S	Verbo, Aoristo, Media, Subjuntivo, (1) primera, Singular
+V-AMS-2P	Verbo, Aoristo, Media, Subjuntivo, (2) segunda, Plural
+V-AMS-2S	Verbo, Aoristo, Media, Subjuntivo, (2) segunda, Singular
+V-AMS-3P	Verbo, Aoristo, Media, Subjuntivo, (3) tercera, Plural
+V-AMS-3S	Verbo, Aoristo, Media, Subjuntivo, (3) tercera, Singular
+V-ANI-3P	Verbo, Aoristo, depoNente medio o pasivo, Indicativo, (3) tercera, Plural
+V-ANI-3S	Verbo, Aoristo, depoNente medio o pasivo, Indicativo, (3) tercera, Singular
+V-ANP-NSM	Verbo, Aoristo, depoNente medio o pasivo, Participio, Nominativo, Singular, Masculino
+V-ANP-NSN	Verbo, Aoristo, depoNente medio o pasivo, Participio, Nominativo, Singular, Neutro
+V-AOI-1P	Verbo, Aoristo, depOnente pasivo, Indicativo, (1) primera, Plural
+V-AOI-1P-ATT	Verbo, Aoristo, depOnente pasivo, Indicativo, (1) primera, Plural, forma ÁTica
+V-AOI-1S	Verbo, Aoristo, depOnente pasivo, Indicativo, (1) primera, Singular
+V-AOI-1S-ATT	Verbo, Aoristo, depOnente pasivo, Indicativo, (1) primera, Singular, forma ÁTica
+V-AOI-2P	Verbo, Aoristo, depOnente pasivo, Indicativo, (2) segunda, Plural
+V-AOI-2P-ATT	Verbo, Aoristo, depOnente pasivo, Indicativo, (2) segunda, Plural, forma ÁTica
+V-AOI-3P	Verbo, Aoristo, depOnente pasivo, Indicativo, (3) tercera, Plural
+V-AOI-3P-ATT	Verbo, Aoristo, depOnente pasivo, Indicativo, (3) tercera, Plural, forma ÁTica
+V-AOI-3S	Verbo, Aoristo, depOnente pasivo, Indicativo, (3) tercera, Singular
+V-AOI-3S-ATT	Verbo, Aoristo, depOnente pasivo, Indicativo, (3) tercera, Singular, forma ÁTica
+V-AOM-2P	Verbo, Aoristo, depOnente pasivo, IMperativo, (2) segunda, Plural
+V-AOM-2S	Verbo, Aoristo, depOnente pasivo, IMperativo, (2) segunda, Singular
+V-AOM-3S	Verbo, Aoristo, depOnente pasivo, IMperativo, (3) tercera, Singular
+V-AON	Verbo, Aoristo, depOnente pasivo, iNfinitivo
+V-AOO-3S	Verbo, Aoristo, depOnente pasivo, Optativo, (3) tercera, Singular
+V-AOP-APM	Verbo, Aoristo, depOnente pasivo, Participio, Acusativo, Plural, Masculino
+V-AOP-ASM	Verbo, Aoristo, depOnente pasivo, Participio, Acusativo, Singular, Masculino
+V-AOP-DSM	Verbo, Aoristo, depOnente pasivo, Participio, Dativo, Singular, Masculino
+V-AOP-GPM	Verbo, Aoristo, depOnente pasivo, Participio, Genitivo, Plural, Masculino
+V-AOP-GPN	Verbo, Aoristo, depOnente pasivo, Participio, Genitivo, Plural, Neutro
+V-AOP-GSM	Verbo, Aoristo, depOnente pasivo, Participio, Genitivo, Singular, Masculino
+V-AOP-NPF	Verbo, Aoristo, depOnente pasivo, Participio, Nominativo, Plural, Femenino
+V-AOP-NPM	Verbo, Aoristo, depOnente pasivo, Participio, Nominativo, Plural, Masculino
+V-AOP-NSF	Verbo, Aoristo, depOnente pasivo, Participio, Nominativo, Singular, Femenino
+V-AOP-NSM	Verbo, Aoristo, depOnente pasivo, Participio, Nominativo, Singular, Masculino
+V-AOP-NSN	Verbo, Aoristo, depOnente pasivo, Participio, Nominativo, Singular, Neutro
+V-AOS-1P	Verbo, Aoristo, depOnente pasivo, Subjuntivo, (1) primera, Plural
+V-AOS-1S	Verbo, Aoristo, depOnente pasivo, Subjuntivo, (1) primera, Singular
+V-AOS-2P	Verbo, Aoristo, depOnente pasivo, Subjuntivo, (2) segunda, Plural
+V-AOS-2S	Verbo, Aoristo, depOnente pasivo, Subjuntivo, (2) segunda, Singular
+V-AOS-3P	Verbo, Aoristo, depOnente pasivo, Subjuntivo, (3) tercera, Plural
+V-AOS-3S	Verbo, Aoristo, depOnente pasivo, Subjuntivo, (3) tercera, Singular
+V-API	Verbo, Aoristo, Pasivo, Indicativo
+V-API-1P	Verbo, Aoristo, Pasivo, Indicativo, (1) primera, Plural
+V-API-1S	Verbo, Aoristo, Pasivo, Indicativo, (1) primera, Singular
+V-API-2P	Verbo, Aoristo, Pasivo, Indicativo, (2) segunda, Plural
+V-API-2S	Verbo, Aoristo, Pasivo, Indicativo, (2) segunda, Singular
+V-API-3P	Verbo, Aoristo, Pasivo, Indicativo, (3) tercera, Plural
+V-API-3S	Verbo, Aoristo, Pasivo, Indicativo, (3) tercera, Singular
+V-API-3S-M	Verbo, Aoristo, Pasivo, Indicativo, (3) tercera, Singular, significado Medio
+V-APM-2P	Verbo, Aoristo, Pasivo, IMperativo, (2) segunda, Plural
+V-APM-2S	Verbo, Aoristo, Pasivo, IMperativo, (2) segunda, Singular
+V-APM-3P	Verbo, Aoristo, Pasivo, IMperativo, (3) tercera, Plural
+V-APM-3S	Verbo, Aoristo, Pasivo, IMperativo, (3) tercera, Singular
+V-APN	Verbo, Aoristo, Pasivo, iNfinitivo
+V-APN-M	Verbo, Aoristo, Pasivo, iNfinitivo, Masculino
+V-APO-3S	Verbo, Aoristo, Pasivo, Optativo, (3) tercera, Singular
+V-APP-APM	Verbo, Aoristo, Pasivo, Participio, Acusativo, Plural, Masculino
+V-APP-APN	Verbo, Aoristo, Pasivo, Participio, Acusativo, Plural, Neutro
+V-APP-ASF	Verbo, Aoristo, Pasivo, Participio, Acusativo, Singular, Femenino
+V-APP-ASM	Verbo, Aoristo, Pasivo, Participio, Acusativo, Singular, Masculino
+V-APP-ASN	Verbo, Aoristo, Pasivo, Participio, Acusativo, Singular, Neutro
+V-APP-DPN	Verbo, Aoristo, Pasivo, Participio, Dativo, Plural, Neutro
+V-APP-DSF	Verbo, Aoristo, Pasivo, Participio, Dativo, Singular, Femenino
+V-APP-DSM	Verbo, Aoristo, Pasivo, Participio, Dativo, Singular, Masculino
+V-APP-GPF	Verbo, Aoristo, Pasivo, Participio, Genitivo, Plural, Femenino
+V-APP-GPM	Verbo, Aoristo, Pasivo, Participio, Genitivo, Plural, Masculino
+V-APP-GPN	Verbo, Aoristo, Pasivo, Participio, Genitivo, Plural, Neutro
+V-APP-GSF	Verbo, Aoristo, Pasivo, Participio, Genitivo, Singular, Femenino
+V-APP-GSM	Verbo, Aoristo, Pasivo, Participio, Genitivo, Singular, Masculino
+V-APP-GSN	Verbo, Aoristo, Pasivo, Participio, Genitivo, Singular, Neutro
+V-APP-NPM	Verbo, Aoristo, Pasivo, Participio, Nominativo, Plural, Masculino
+V-APP-NPN	Verbo, Aoristo, Pasivo, Participio, Nominativo, Plural, Neutro
+V-APP-NSF	Verbo, Aoristo, Pasivo, Participio, Nominativo, Singular, Femenino
+V-APP-NSM	Verbo, Aoristo, Pasivo, Participio, Nominativo, Singular, Masculino
+V-APP-NSM-M	Verbo, Aoristo, Pasivo, Participio, Nominativo, Singular, Masculino, significado Medio
+V-APP-NSN	Verbo, Aoristo, Pasivo, Participio, Nominativo, Singular, Neutro
+V-APS-1P	Verbo, Aoristo, Pasivo, Subjuntivo, (1) primera, Plural
+V-APS-1S	Verbo, Aoristo, Pasivo, Subjuntivo, (1) primera, Singular
+V-APS-2P	Verbo, Aoristo, Pasivo, Subjuntivo, (2) segunda, Plural
+V-APS-2S	Verbo, Aoristo, Pasivo, Subjuntivo, (2) segunda, Singular
+V-APS-3P	Verbo, Aoristo, Pasivo, Subjuntivo, (3) tercera, Plural
+V-APS-3S	Verbo, Aoristo, Pasivo, Subjuntivo, (3) tercera, Singular
+V-FAI-1P	Verbo, Futuro, Activa, Indicativo, (1) primera, Plural
+V-FAI-1S	Verbo, Futuro, Activa, Indicativo, (1) primera, Singular
+V-FAI-1S-ATT	Verbo, Futuro, Activa, Indicativo, (1) primera, Singular, forma ÁTica
+V-FAI-2P	Verbo, Futuro, Activa, Indicativo, (2) segunda, Plural
+V-FAI-2S	Verbo, Futuro, Activa, Indicativo, (2) segunda, Singular
+V-FAI-3P	Verbo, Futuro, Activa, Indicativo, (3) tercera, Plural
+V-FAI-3P-ATT	Verbo, Futuro, Activa, Indicativo, (3) tercera, Plural, forma ÁTica
+V-FAI-3S	Verbo, Futuro, Activa, Indicativo, (3) tercera, Singular
+V-FAI-3S-ATT	Verbo, Futuro, Activa, Indicativo, (3) tercera, Singular, forma ÁTica
+V-FAN	Verbo, Futuro, Activa, iNfinitivo
+V-FAP-APN	Verbo, Futuro, Activa, Participio, Acusativo, Plural, Neutro
+V-FAP-GPM	Verbo, Futuro, Activa, Participio, Genitivo, Plural, Masculino
+V-FAP-NPM	Verbo, Futuro, Activa, Participio, Nominativo, Plural, Masculino
+V-FAP-NSM	Verbo, Futuro, Activa, Participio, Nominativo, Singular, Masculino
+V-FDI-1P	Verbo, Futuro, Deponente medio, Indicativo, (1) primera, Plural
+V-FDI-1S	Verbo, Futuro, Deponente medio, Indicativo, (1) primera, Singular
+V-FDI-2P	Verbo, Futuro, Deponente medio, Indicativo, (2) segunda, Plural
+V-FDI-2P-ATT	Verbo, Futuro, Deponente medio, Indicativo, (2) segunda, Plural, forma ÁTica
+V-FDI-2S	Verbo, Futuro, Deponente medio, Indicativo, (2) segunda, Singular
+V-FDI-2S-ATT	Verbo, Futuro, Deponente medio, Indicativo, (2) segunda, Singular, forma ÁTica
+V-FDI-3P	Verbo, Futuro, Deponente medio, Indicativo, (3) tercera, Plural
+V-FDI-3S	Verbo, Futuro, Deponente medio, Indicativo, (3) tercera, Singular
+V-FDI-3S-ATT	Verbo, Futuro, Deponente medio, Indicativo, (3) tercera, Singular, forma ÁTica
+V-FDN	Verbo, Futuro, Deponente medio, iNfinitivo
+V-FDP-ASN	Verbo, Futuro, Deponente medio, Participio, Acusativo, Singular, Neutro
+V-FDP-NPM	Verbo, Futuro, Deponente medio, Participio, Nominativo, Plural, Masculino
+V-FMI-1P	Verbo, Futuro, Media, Indicativo, (1) primera, Plural
+V-FMI-1S	Verbo, Futuro, Media, Indicativo, (1) primera, Singular
+V-FMI-2P	Verbo, Futuro, Media, Indicativo, (2) segunda, Plural
+V-FMI-2S	Verbo, Futuro, Media, Indicativo, (2) segunda, Singular
+V-FMI-3P	Verbo, Futuro, Media, Indicativo, (3) tercera, Plural
+V-FMI-3S	Verbo, Futuro, Media, Indicativo, (3) tercera, Singular
+V-FNI-3P	Verbo, Futuro, depoNente medio o pasivo, Indicativo, (3) tercera, Plural
+V-FNI-3S	Verbo, Futuro, depoNente medio o pasivo, Indicativo, (3) tercera, Singular
+V-FOI-1S	Verbo, Futuro, depOnente pasivo, Indicativo, (1) primera, Singular
+V-FOI-3P	Verbo, Futuro, depOnente pasivo, Indicativo, (3) tercera, Plural
+V-FOI-3S	Verbo, Futuro, depOnente pasivo, Indicativo, (3) tercera, Singular
+V-FPI-1P	Verbo, Futuro, Pasivo, Indicativo, (1) primera, Plural
+V-FPI-1S	Verbo, Futuro, Pasivo, Indicativo, (1) primera, Singular
+V-FPI-2P	Verbo, Futuro, Pasivo, Indicativo, (2) segunda, Plural
+V-FPI-2S	Verbo, Futuro, Pasivo, Indicativo, (2) segunda, Singular
+V-FPI-3P	Verbo, Futuro, Pasivo, Indicativo, (3) tercera, Plural
+V-FPI-3S	Verbo, Futuro, Pasivo, Indicativo, (3) tercera, Singular
+V-FPP-GPN	Verbo, Futuro, Pasivo, Participio, Genitivo, Plural, Neutro
+V-FPS-1S	Verbo, Futuro, Pasivo, Subjuntivo, (1) primera, Singular
+V-FXI-1P	Verbo, Futuro, (X) voz no declarada, Indicativo, (1) primera, Plural
+V-FXI-1S	Verbo, Futuro, (X) voz no declarada, Indicativo, (1) primera, Singular
+V-FXI-2P	Verbo, Futuro, (X) voz no declarada, Indicativo, (2) segunda, Plural
+V-FXI-2S	Verbo, Futuro, (X) voz no declarada, Indicativo, (2) segunda, Singular
+V-FXI-3P	Verbo, Futuro, (X) voz no declarada, Indicativo, (3) tercera, Plural
+V-FXI-3S	Verbo, Futuro, (X) voz no declarada, Indicativo, (3) tercera, Singular
+V-FXN	Verbo, Futuro, (X) voz no declarada, iNfinitivo
+V-FXP-ASN	Verbo, Futuro, (X) voz no declarada, Participio, Acusativo, Singular, Neutro
+V-FXP-NSM	Verbo, Futuro, (X) voz no declarada, Participio, Nominativo, Singular, Masculino
+V-IAI-1P	Verbo, Imperfecto, Activa, Indicativo, (1) primera, Plural
+V-IAI-1S	Verbo, Imperfecto, Activa, Indicativo, (1) primera, Singular
+V-IAI-1S-ATT	Verbo, Imperfecto, Activa, Indicativo, (1) primera, Singular, forma ÁTica
+V-IAI-2P	Verbo, Imperfecto, Activa, Indicativo, (2) segunda, Plural
+V-IAI-2S	Verbo, Imperfecto, Activa, Indicativo, (2) segunda, Singular
+V-IAI-3P	Verbo, Imperfecto, Activa, Indicativo, (3) tercera, Plural
+V-IAI-3P-ATT	Verbo, Imperfecto, Activa, Indicativo, (3) tercera, Plural, forma ÁTica
+V-IAI-3S	Verbo, Imperfecto, Activa, Indicativo, (3) tercera, Singular
+V-IAI-3S-ATT	Verbo, Imperfecto, Activa, Indicativo, (3) tercera, Singular, forma ÁTica
+V-IDI-3P	Verbo, Imperfecto, Deponente medio, Indicativo, (3) tercera, Plural
+V-IEI-3S	Verbo, Imperfecto, (E) ya sea media o pasiva, Indicativo, (3) tercera, Singular
+V-IMI-1P	Verbo, Imperfecto, Media, Indicativo, (1) primera, Plural
+V-IMI-1S	Verbo, Imperfecto, Media, Indicativo, (1) primera, Singular
+V-IMI-2P	Verbo, Imperfecto, Media, Indicativo, (2) segunda, Plural
+V-IMI-2S	Verbo, Imperfecto, Media, Indicativo, (2) segunda, Singular
+V-IMI-3P	Verbo, Imperfecto, Media, Indicativo, (3) tercera, Plural
+V-IMI-3S	Verbo, Imperfecto, Media, Indicativo, (3) tercera, Singular
+V-INI-1P	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (1) primera, Plural
+V-INI-1S	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (1) primera, Singular
+V-INI-2P	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (2) segunda, Plural
+V-INI-2P-ATT	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (2) segunda, Plural, forma ÁTica
+V-INI-2S	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (2) segunda, Singular
+V-INI-3P	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (3) tercera, Plural
+V-INI-3P-ATT	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (3) tercera, Plural, forma ÁTica
+V-INI-3S	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (3) tercera, Singular
+V-INI-3S-ATT	Verbo, Imperfecto, depoNente medio o pasivo, Indicativo, (3) tercera, Singular, forma ÁTica
+V-IPI-1P	Verbo, Imperfecto, Pasivo, Indicativo, (1) primera, Plural
+V-IPI-1S	Verbo, Imperfecto, Pasivo, Indicativo, (1) primera, Singular
+V-IPI-2P	Verbo, Imperfecto, Pasivo, Indicativo, (2) segunda, Plural
+V-IPI-3P	Verbo, Imperfecto, Pasivo, Indicativo, (3) tercera, Plural
+V-IPI-3S	Verbo, Imperfecto, Pasivo, Indicativo, (3) tercera, Singular
+V-IQI-3S	Verbo, Imperfecto, Q) activa impersonal, Indicativo, (3) tercera, Singular
+V-IXI-1P	Verbo, Imperfecto, (X) voz no declarada, Indicativo, (1) primera, Plural
+V-IXI-1S	Verbo, Imperfecto, (X) voz no declarada, Indicativo, (1) primera, Singular
+V-IXI-2P	Verbo, Imperfecto, (X) voz no declarada, Indicativo, (2) segunda, Plural
+V-IXI-2S	Verbo, Imperfecto, (X) voz no declarada, Indicativo, (2) segunda, Singular
+V-IXI-3P	Verbo, Imperfecto, (X) voz no declarada, Indicativo, (3) tercera, Plural
+V-IXI-3S	Verbo, Imperfecto, (X) voz no declarada, Indicativo, (3) tercera, Singular
+V-LAI-1S	Verbo, pLuscuanperfecto, Activa, Indicativo, (1) primera, Singular
+V-LAI-2P	Verbo, pLuscuanperfecto, Activa, Indicativo, (2) segunda, Plural
+V-LAI-2S	Verbo, pLuscuanperfecto, Activa, Indicativo, (2) segunda, Singular
+V-LAI-3P	Verbo, pLuscuanperfecto, Activa, Indicativo, (3) tercera, Plural
+V-LAI-3P-ATT	Verbo, pLuscuanperfecto, Activa, Indicativo, (3) tercera, Plural, forma ÁTica
+V-LAI-3S	Verbo, pLuscuanperfecto, Activa, Indicativo, (3) tercera, Singular
+V-LAI-3S-ATT	Verbo, pLuscuanperfecto, Activa, Indicativo, (3) tercera, Singular, forma ÁTica
+V-LDI-3S	Verbo, pLuscuanperfecto, Deponente medio, Indicativo, (3) tercera, Singular
+V-LMI-3P	Verbo, pLuscuanperfecto, Media, Indicativo, (3) tercera, Plural
+V-LPI-3S	Verbo, pLuscuanperfecto, Pasivo, Indicativo, (3) tercera, Singular
+V-PAI-1P	Verbo, Presente, Activa, Indicativo, (1) primera, Plural
+V-PAI-1S	Verbo, Presente, Activa, Indicativo, (1) primera, Singular
+V-PAI-1S-C	Verbo, Presente, Activa, Indicativo, (1) primera, Singular, forma Contraída
+V-PAI-2P	Verbo, Presente, Activa, Indicativo, (2) segunda, Plural
+V-PAI-2S	Verbo, Presente, Activa, Indicativo, (2) segunda, Singular
+V-PAI-2S-IRR	Verbo, Presente, Activa, Indicativo, (2) segunda, Singular, forma iRRegular o impura
+V-PAI-3P	Verbo, Presente, Activa, Indicativo, (3) tercera, Plural
+V-PAI-3P (V-PAP-DPM)	Verbo, Presente, Activa, Indicativo, (3) tercera, Plural; Verbo, Presente, Activa, Participio, Dativo, Plural, Masculino
+V-PAI-3P-ATT	Verbo, Presente, Activa, Indicativo, (3) tercera, Plural, forma ÁTica
+V-PAI-3S	Verbo, Presente, Activa, Indicativo, (3) tercera, Singular
+V-PAM-2P	Verbo, Presente, Activa, IMperativo, (2) segunda, Plural
+V-PAM-2S	Verbo, Presente, Activa, IMperativo, (2) segunda, Singular
+V-PAM-3P	Verbo, Presente, Activa, IMperativo, (3) tercera, Plural
+V-PAM-3S	Verbo, Presente, Activa, IMperativo, (3) tercera, Singular
+V-PAN	Verbo, Presente, Activa, iNfinitivo
+V-PAO-2P	Verbo, Presente, Activa, Optativo, (2) segunda, Plural
+V-PAO-2S	Verbo, Presente, Activa, Optativo, (2) segunda, Singular
+V-PAO-3P	Verbo, Presente, Activa, Optativo, (3) tercera, Plural
+V-PAO-3S	Verbo, Presente, Activa, Optativo, (3) tercera, Singular
+V-PAP-APF	Verbo, Presente, Activa, Participio, Acusativo, Plural, Femenino
+V-PAP-APM	Verbo, Presente, Activa, Participio, Acusativo, Plural, Masculino
+V-PAP-APN	Verbo, Presente, Activa, Participio, Acusativo, Plural, Neutro
+V-PAP-ASF	Verbo, Presente, Activa, Participio, Acusativo, Singular, Femenino
+V-PAP-ASM	Verbo, Presente, Activa, Participio, Acusativo, Singular, Masculino
+V-PAP-ASN	Verbo, Presente, Activa, Participio, Acusativo, Singular, Neutro
+V-PAP-DPF	Verbo, Presente, Activa, Participio, Dativo, Plural, Femenino
+V-PAP-DPM	Verbo, Presente, Activa, Participio, Dativo, Plural, Masculino
+V-PAP-DPN	Verbo, Presente, Activa, Participio, Dativo, Plural, Neutro
+V-PAP-DSF	Verbo, Presente, Activa, Participio, Dativo, Singular, Femenino
+V-PAP-DSM	Verbo, Presente, Activa, Participio, Dativo, Singular, Masculino
+V-PAP-DSN	Verbo, Presente, Activa, Participio, Dativo, Singular, Neutro
+V-PAP-GPF	Verbo, Presente, Activa, Participio, Genitivo, Plural, Femenino
+V-PAP-GPM	Verbo, Presente, Activa, Participio, Genitivo, Plural, Masculino
+V-PAP-GPN	Verbo, Presente, Activa, Participio, Genitivo, Plural, Neutro
+V-PAP-GSF	Verbo, Presente, Activa, Participio, Genitivo, Singular, Femenino
+V-PAP-GSM	Verbo, Presente, Activa, Participio, Genitivo, Singular, Masculino
+V-PAP-GSN	Verbo, Presente, Activa, Participio, Genitivo, Singular, Neutro
+V-PAP-NPF	Verbo, Presente, Activa, Participio, Nominativo, Plural, Femenino
+V-PAP-NPM	Verbo, Presente, Activa, Participio, Nominativo, Plural, Masculino
+V-PAP-NPN	Verbo, Presente, Activa, Participio, Nominativo, Plural, Neutro
+V-PAP-NSF	Verbo, Presente, Activa, Participio, Nominativo, Singular, Femenino
+V-PAP-NSM	Verbo, Presente, Activa, Participio, Nominativo, Singular, Masculino
+V-PAP-NSN	Verbo, Presente, Activa, Participio, Nominativo, Singular, Neutro
+V-PAP-VPM	Verbo, Presente, Activa, Participio, Vocativo, Plural, Masculino
+V-PAP-VSF	Verbo, Presente, Activa, Participio, Vocativo, Singular, Femenino
+V-PAP-VSM	Verbo, Presente, Activa, Participio, Vocativo, Singular, Masculino
+V-PAPDP	Verbo, Presente, Activa, Participio, Dativo, Plural
+V-PAS-1P	Verbo, Presente, Activa, Subjuntivo, (1) primera, Plural
+V-PAS-1S	Verbo, Presente, Activa, Subjuntivo, (1) primera, Singular
+V-PAS-2P	Verbo, Presente, Activa, Subjuntivo, (2) segunda, Plural
+V-PAS-2S	Verbo, Presente, Activa, Subjuntivo, (2) segunda, Singular
+V-PAS-3P	Verbo, Presente, Activa, Subjuntivo, (3) tercera, Plural
+V-PAS-3S	Verbo, Presente, Activa, Subjuntivo, (3) tercera, Singular
+V-PDP-NPM	Verbo, Presente, Deponente medio, Participio, Nominativo, Plural, Masculino
+V-PEI-1P	Verbo, Presente, (E) ya sea media o pasiva, Indicativo, (1) primera, Plural
+V-PEI-1S	Verbo, Presente, (E) ya sea media o pasiva, Indicativo, (1) primera, Singular
+V-PEI-2P	Verbo, Presente, (E) ya sea media o pasiva, Indicativo, (2) segunda, Plural
+V-PEI-3P	Verbo, Presente, (E) ya sea media o pasiva, Indicativo, (3) tercera, Plural
+V-PEI-3S	Verbo, Presente, (E) ya sea media o pasiva, Indicativo, (3) tercera, Singular
+V-PEM-2P	Verbo, Presente, (E) ya sea media o pasiva, IMperativo, (2) segunda, Plural
+V-PEM-2S	Verbo, Presente, (E) ya sea media o pasiva, IMperativo, (2) segunda, Singular
+V-PEN	Verbo, Presente, (E) ya sea media o pasiva, iNfinitivo
+V-PEP-ASM	Verbo, Presente, (E) ya sea media o pasiva, Participio, Acusativo, Singular, Masculino
+V-PEP-DPM	Verbo, Presente, (E) ya sea media o pasiva, Participio, Dativo, Plural, Masculino
+V-PEP-DSM	Verbo, Presente, (E) ya sea media o pasiva, Participio, Dativo, Singular, Masculino
+V-PEP-GPN	Verbo, Presente, (E) ya sea media o pasiva, Participio, Genitivo, Plural, Neutro
+V-PEP-GSF	Verbo, Presente, (E) ya sea media o pasiva, Participio, Genitivo, Singular, Femenino
+V-PEP-GSM	Verbo, Presente, (E) ya sea media o pasiva, Participio, Genitivo, Singular, Masculino
+V-PEP-NPF	Verbo, Presente, (E) ya sea media o pasiva, Participio, Nominativo, Plural, Femenino
+V-PEP-NPM	Verbo, Presente, (E) ya sea media o pasiva, Participio, Nominativo, Plural, Masculino
+V-PEP-NSF	Verbo, Presente, (E) ya sea media o pasiva, Participio, Nominativo, Singular, Femenino
+V-PMI-1P	Verbo, Presente, Media, Indicativo, (1) primera, Plural
+V-PMI-1S	Verbo, Presente, Media, Indicativo, (1) primera, Singular
+V-PMI-2P	Verbo, Presente, Media, Indicativo, (2) segunda, Plural
+V-PMI-2S	Verbo, Presente, Media, Indicativo, (2) segunda, Singular
+V-PMI-3P	Verbo, Presente, Media, Indicativo, (3) tercera, Plural
+V-PMI-3S	Verbo, Presente, Media, Indicativo, (3) tercera, Singular
+V-PMM-2P	Verbo, Presente, Media, IMperativo, (2) segunda, Plural
+V-PMM-2S	Verbo, Presente, Media, IMperativo, (2) segunda, Singular
+V-PMM-3P	Verbo, Presente, Media, IMperativo, (3) tercera, Plural
+V-PMM-3S	Verbo, Presente, Media, IMperativo, (3) tercera, Singular
+V-PMN	Verbo, Presente, Media, iNfinitivo
+V-PMP-APF	Verbo, Presente, Media, Participio, Acusativo, Plural, Femenino
+V-PMP-APM	Verbo, Presente, Media, Participio, Acusativo, Plural, Masculino
+V-PMP-APN	Verbo, Presente, Media, Participio, Acusativo, Plural, Neutro
+V-PMP-ASF	Verbo, Presente, Media, Participio, Acusativo, Singular, Femenino
+V-PMP-ASM	Verbo, Presente, Media, Participio, Acusativo, Singular, Masculino
+V-PMP-ASN	Verbo, Presente, Media, Participio, Acusativo, Singular, Neutro
+V-PMP-DPM	Verbo, Presente, Media, Participio, Dativo, Plural, Masculino
+V-PMP-DSF	Verbo, Presente, Media, Participio, Dativo, Singular, Femenino
+V-PMP-DSM	Verbo, Presente, Media, Participio, Dativo, Singular, Masculino
+V-PMP-GPF	Verbo, Presente, Media, Participio, Genitivo, Plural, Femenino
+V-PMP-GPM	Verbo, Presente, Media, Participio, Genitivo, Plural, Masculino
+V-PMP-GPN	Verbo, Presente, Media, Participio, Genitivo, Plural, Neutro
+V-PMP-GSF	Verbo, Presente, Media, Participio, Genitivo, Singular, Femenino
+V-PMP-GSM	Verbo, Presente, Media, Participio, Genitivo, Singular, Masculino
+V-PMP-GSM-T	Verbo, Presente, Media, Participio, Genitivo, Singular, Masculino, Transitivo
+V-PMP-GSN	Verbo, Presente, Media, Participio, Genitivo, Singular, Neutro
+V-PMP-NPF	Verbo, Presente, Media, Participio, Nominativo, Plural, Femenino
+V-PMP-NPM	Verbo, Presente, Media, Participio, Nominativo, Plural, Masculino
+V-PMP-NSF	Verbo, Presente, Media, Participio, Nominativo, Singular, Femenino
+V-PMP-NSM	Verbo, Presente, Media, Participio, Nominativo, Singular, Masculino
+V-PMP-NSN	Verbo, Presente, Media, Participio, Nominativo, Singular, Neutro
+V-PMS-1P	Verbo, Presente, Media, Subjuntivo, (1) primera, Plural
+V-PMS-1S	Verbo, Presente, Media, Subjuntivo, (1) primera, Singular
+V-PMS-2S	Verbo, Presente, Media, Subjuntivo, (2) segunda, Singular
+V-PMS-3S	Verbo, Presente, Media, Subjuntivo, (3) tercera, Singular
+V-PNI-1P	Verbo, Presente, depoNente medio o pasivo, Indicativo, (1) primera, Plural
+V-PNI-1S	Verbo, Presente, depoNente medio o pasivo, Indicativo, (1) primera, Singular
+V-PNI-1S-C	Verbo, Presente, depoNente medio o pasivo, Indicativo, (1) primera, Singular, forma Contraída
+V-PNI-2P	Verbo, Presente, depoNente medio o pasivo, Indicativo, (2) segunda, Plural
+V-PNI-2S	Verbo, Presente, depoNente medio o pasivo, Indicativo, (2) segunda, Singular
+V-PNI-2S-ATT	Verbo, Presente, depoNente medio o pasivo, Indicativo, (2) segunda, Singular, forma ÁTica
+V-PNI-2S-C	Verbo, Presente, depoNente medio o pasivo, Indicativo, (2) segunda, Singular, forma Contraída
+V-PNI-3P	Verbo, Presente, depoNente medio o pasivo, Indicativo, (3) tercera, Plural
+V-PNI-3S	Verbo, Presente, depoNente medio o pasivo, Indicativo, (3) tercera, Singular
+V-PNI-3S-I	Verbo, Presente, depoNente medio o pasivo, Indicativo, (3) tercera, Singular
+V-PNM-2P	Verbo, Presente, depoNente medio o pasivo, IMperativo, (2) segunda, Plural
+V-PNM-2S	Verbo, Presente, depoNente medio o pasivo, IMperativo, (2) segunda, Singular
+V-PNM-3P	Verbo, Presente, depoNente medio o pasivo, IMperativo, (3) tercera, Plural
+V-PNM-3S	Verbo, Presente, depoNente medio o pasivo, IMperativo, (3) tercera, Singular
+V-PNN	Verbo, Presente, depoNente medio o pasivo, iNfinitivo
+V-PNO-1S	Verbo, Presente, depoNente medio o pasivo, Optativo, (1) primera, Singular
+V-PNO-3P	Verbo, Presente, depoNente medio o pasivo, Optativo, (3) tercera, Plural
+V-PNO-3S	Verbo, Presente, depoNente medio o pasivo, Optativo, (3) tercera, Singular
+V-PNP-APF	Verbo, Presente, depoNente medio o pasivo, Participio, Acusativo, Plural, Femenino
+V-PNP-APM	Verbo, Presente, depoNente medio o pasivo, Participio, Acusativo, Plural, Masculino
+V-PNP-APN	Verbo, Presente, depoNente medio o pasivo, Participio, Acusativo, Plural, Neutro
+V-PNP-ASF	Verbo, Presente, depoNente medio o pasivo, Participio, Acusativo, Singular, Femenino
+V-PNP-ASM	Verbo, Presente, depoNente medio o pasivo, Participio, Acusativo, Singular, Masculino
+V-PNP-ASN	Verbo, Presente, depoNente medio o pasivo, Participio, Acusativo, Singular, Neutro
+V-PNP-DPF	Verbo, Presente, depoNente medio o pasivo, Participio, Dativo, Plural, Femenino
+V-PNP-DPM	Verbo, Presente, depoNente medio o pasivo, Participio, Dativo, Plural, Masculino
+V-PNP-DPN	Verbo, Presente, depoNente medio o pasivo, Participio, Dativo, Plural, Neutro
+V-PNP-DSF	Verbo, Presente, depoNente medio o pasivo, Participio, Dativo, Singular, Femenino
+V-PNP-DSM	Verbo, Presente, depoNente medio o pasivo, Participio, Dativo, Singular, Masculino
+V-PNP-DSN	Verbo, Presente, depoNente medio o pasivo, Participio, Dativo, Singular, Neutro
+V-PNP-GPF	Verbo, Presente, depoNente medio o pasivo, Participio, Genitivo, Plural, Femenino
+V-PNP-GPM	Verbo, Presente, depoNente medio o pasivo, Participio, Genitivo, Plural, Masculino
+V-PNP-GPN	Verbo, Presente, depoNente medio o pasivo, Participio, Genitivo, Plural, Neutro
+V-PNP-GSF	Verbo, Presente, depoNente medio o pasivo, Participio, Genitivo, Singular, Femenino
+V-PNP-GSM	Verbo, Presente, depoNente medio o pasivo, Participio, Genitivo, Singular, Masculino
+V-PNP-GSN	Verbo, Presente, depoNente medio o pasivo, Participio, Genitivo, Singular, Neutro
+V-PNP-NPF	Verbo, Presente, depoNente medio o pasivo, Participio, Nominativo, Plural, Femenino
+V-PNP-NPM	Verbo, Presente, depoNente medio o pasivo, Participio, Nominativo, Plural, Masculino
+V-PNP-NPN	Verbo, Presente, depoNente medio o pasivo, Participio, Nominativo, Plural, Neutro
+V-PNP-NSF	Verbo, Presente, depoNente medio o pasivo, Participio, Nominativo, Singular, Femenino
+V-PNP-NSM	Verbo, Presente, depoNente medio o pasivo, Participio, Nominativo, Singular, Masculino
+V-PNP-NSN	Verbo, Presente, depoNente medio o pasivo, Participio, Nominativo, Singular, Neutro
+V-PNP-VPM	Verbo, Presente, depoNente medio o pasivo, Participio, Vocativo, Plural, Masculino
+V-PNP-VSM	Verbo, Presente, depoNente medio o pasivo, Participio, Vocativo, Singular, Masculino
+V-PNS-1P	Verbo, Presente, depoNente medio o pasivo, Subjuntivo, (1) primera, Plural
+V-PNS-1S	Verbo, Presente, depoNente medio o pasivo, Subjuntivo, (1) primera, Singular
+V-PNS-2P	Verbo, Presente, depoNente medio o pasivo, Subjuntivo, (2) segunda, Plural
+V-PNS-2S	Verbo, Presente, depoNente medio o pasivo, Subjuntivo, (2) segunda, Singular
+V-PNS-3P	Verbo, Presente, depoNente medio o pasivo, Subjuntivo, (3) tercera, Plural
+V-PNS-3S	Verbo, Presente, depoNente medio o pasivo, Subjuntivo, (3) tercera, Singular
+V-POP-NPM	Verbo, Presente, depOnente pasivo, Participio, Nominativo, Plural, Masculino
+V-PPI-1P	Verbo, Presente, Pasivo, Indicativo, (1) primera, Plural
+V-PPI-1S	Verbo, Presente, Pasivo, Indicativo, (1) primera, Singular
+V-PPI-2P	Verbo, Presente, Pasivo, Indicativo, (2) segunda, Plural
+V-PPI-2S	Verbo, Presente, Pasivo, Indicativo, (2) segunda, Singular
+V-PPI-2S-IRR	Verbo, Presente, Pasivo, Indicativo, (2) segunda, Singular, forma iRRegular o impura
+V-PPI-3P	Verbo, Presente, Pasivo, Indicativo, (3) tercera, Plural
+V-PPI-3S	Verbo, Presente, Pasivo, Indicativo, (3) tercera, Singular
+V-PPM-2P	Verbo, Presente, Pasivo, IMperativo, (2) segunda, Plural
+V-PPM-2S	Verbo, Presente, Pasivo, IMperativo, (2) segunda, Singular
+V-PPM-3P	Verbo, Presente, Pasivo, IMperativo, (3) tercera, Plural
+V-PPM-3S	Verbo, Presente, Pasivo, IMperativo, (3) tercera, Singular
+V-PPN	Verbo, Presente, Pasivo, iNfinitivo
+V-PPN-2P	Verbo, Presente, Pasivo, iNfinitivo, (2) segunda, Plural
+V-PPP-APF	Verbo, Presente, Pasivo, Participio, Acusativo, Plural, Femenino
+V-PPP-APM	Verbo, Presente, Pasivo, Participio, Acusativo, Plural, Masculino
+V-PPP-APN	Verbo, Presente, Pasivo, Participio, Acusativo, Plural, Neutro
+V-PPP-ASF	Verbo, Presente, Pasivo, Participio, Acusativo, Singular, Femenino
+V-PPP-ASM	Verbo, Presente, Pasivo, Participio, Acusativo, Singular, Masculino
+V-PPP-ASN	Verbo, Presente, Pasivo, Participio, Acusativo, Singular, Neutro
+V-PPP-DPM	Verbo, Presente, Pasivo, Participio, Dativo, Plural, Masculino
+V-PPP-DPN	Verbo, Presente, Pasivo, Participio, Dativo, Plural, Neutro
+V-PPP-DSF	Verbo, Presente, Pasivo, Participio, Dativo, Singular, Femenino
+V-PPP-DSM	Verbo, Presente, Pasivo, Participio, Dativo, Singular, Masculino
+V-PPP-DSN	Verbo, Presente, Pasivo, Participio, Dativo, Singular, Neutro
+V-PPP-GPM	Verbo, Presente, Pasivo, Participio, Genitivo, Plural, Masculino
+V-PPP-GPN	Verbo, Presente, Pasivo, Participio, Genitivo, Plural, Neutro
+V-PPP-GSF	Verbo, Presente, Pasivo, Participio, Genitivo, Singular, Femenino
+V-PPP-GSM	Verbo, Presente, Pasivo, Participio, Genitivo, Singular, Masculino
+V-PPP-GSN	Verbo, Presente, Pasivo, Participio, Genitivo, Singular, Neutro
+V-PPP-NPF	Verbo, Presente, Pasivo, Participio, Nominativo, Plural, Femenino
+V-PPP-NPM	Verbo, Presente, Pasivo, Participio, Nominativo, Plural, Masculino
+V-PPP-NPN	Verbo, Presente, Pasivo, Participio, Nominativo, Plural, Neutro
+V-PPP-NSF	Verbo, Presente, Pasivo, Participio, Nominativo, Singular, Femenino
+V-PPP-NSM	Verbo, Presente, Pasivo, Participio, Nominativo, Singular, Masculino
+V-PPP-NSN	Verbo, Presente, Pasivo, Participio, Nominativo, Singular, Neutro
+V-PPS-1P	Verbo, Presente, Pasivo, Subjuntivo, (1) primera, Plural
+V-PPS-1S	Verbo, Presente, Pasivo, Subjuntivo, (1) primera, Singular
+V-PPS-2P	Verbo, Presente, Pasivo, Subjuntivo, (2) segunda, Plural
+V-PPS-3P	Verbo, Presente, Pasivo, Subjuntivo, (3) tercera, Plural
+V-PPS-3S	Verbo, Presente, Pasivo, Subjuntivo, (3) tercera, Singular
+V-PQI-3S	Verbo, Presente, Q) activa impersonal, Indicativo, (3) tercera, Singular
+V-PQN	Verbo, Presente, Q) activa impersonal, iNfinitivo
+V-PQP-APN	Verbo, Presente, Q) activa impersonal, Participio, Acusativo, Plural, Neutro
+V-PQP-NSN	Verbo, Presente, Q) activa impersonal, Participio, Nominativo, Singular, Neutro
+V-PQS-3S	Verbo, Presente, Q) activa impersonal, Subjuntivo, (3) tercera, Singular
+V-PXI-1P	Verbo, Presente, (X) voz no declarada, Indicativo, (1) primera, Plural
+V-PXI-1S	Verbo, Presente, (X) voz no declarada, Indicativo, (1) primera, Singular
+V-PXI-2P	Verbo, Presente, (X) voz no declarada, Indicativo, (2) segunda, Plural
+V-PXI-2S	Verbo, Presente, (X) voz no declarada, Indicativo, (2) segunda, Singular
+V-PXI-3P	Verbo, Presente, (X) voz no declarada, Indicativo, (3) tercera, Plural
+V-PXI-3S	Verbo, Presente, (X) voz no declarada, Indicativo, (3) tercera, Singular
+V-PXM-2S	Verbo, Presente, (X) voz no declarada, IMperativo, (2) segunda, Singular
+V-PXM-3P	Verbo, Presente, (X) voz no declarada, IMperativo, (3) tercera, Plural
+V-PXM-3S	Verbo, Presente, (X) voz no declarada, IMperativo, (3) tercera, Singular
+V-PXN	Verbo, Presente, (X) voz no declarada, iNfinitivo
+V-PXO-2S	Verbo, Presente, (X) voz no declarada, Optativo, (2) segunda, Singular
+V-PXO-3S	Verbo, Presente, (X) voz no declarada, Optativo, (3) tercera, Singular
+V-PXP-APM	Verbo, Presente, (X) voz no declarada, Participio, Acusativo, Plural, Masculino
+V-PXP-APN	Verbo, Presente, (X) voz no declarada, Participio, Acusativo, Plural, Neutro
+V-PXP-ASF	Verbo, Presente, (X) voz no declarada, Participio, Acusativo, Singular, Femenino
+V-PXP-ASM	Verbo, Presente, (X) voz no declarada, Participio, Acusativo, Singular, Masculino
+V-PXP-ASN	Verbo, Presente, (X) voz no declarada, Participio, Acusativo, Singular, Neutro
+V-PXP-DPM	Verbo, Presente, (X) voz no declarada, Participio, Dativo, Plural, Masculino
+V-PXP-DPN	Verbo, Presente, (X) voz no declarada, Participio, Dativo, Plural, Neutro
+V-PXP-DSF	Verbo, Presente, (X) voz no declarada, Participio, Dativo, Singular, Femenino
+V-PXP-DSM	Verbo, Presente, (X) voz no declarada, Participio, Dativo, Singular, Masculino
+V-PXP-GPF	Verbo, Presente, (X) voz no declarada, Participio, Genitivo, Plural, Femenino
+V-PXP-GPM	Verbo, Presente, (X) voz no declarada, Participio, Genitivo, Plural, Masculino
+V-PXP-GPN	Verbo, Presente, (X) voz no declarada, Participio, Genitivo, Plural, Neutro
+V-PXP-GSF	Verbo, Presente, (X) voz no declarada, Participio, Genitivo, Singular, Femenino
+V-PXP-GSM	Verbo, Presente, (X) voz no declarada, Participio, Genitivo, Singular, Masculino
+V-PXP-GSN	Verbo, Presente, (X) voz no declarada, Participio, Genitivo, Singular, Neutro
+V-PXP-NPF	Verbo, Presente, (X) voz no declarada, Participio, Nominativo, Plural, Femenino
+V-PXP-NPM	Verbo, Presente, (X) voz no declarada, Participio, Nominativo, Plural, Masculino
+V-PXP-NPN	Verbo, Presente, (X) voz no declarada, Participio, Nominativo, Plural, Neutro
+V-PXP-NSF	Verbo, Presente, (X) voz no declarada, Participio, Nominativo, Singular, Femenino
+V-PXP-NSM	Verbo, Presente, (X) voz no declarada, Participio, Nominativo, Singular, Masculino
+V-PXP-NSN	Verbo, Presente, (X) voz no declarada, Participio, Nominativo, Singular, Neutro
+V-PXS-1P	Verbo, Presente, (X) voz no declarada, Subjuntivo, (1) primera, Plural
+V-PXS-1S	Verbo, Presente, (X) voz no declarada, Subjuntivo, (1) primera, Singular
+V-PXS-2P	Verbo, Presente, (X) voz no declarada, Subjuntivo, (2) segunda, Plural
+V-PXS-2S	Verbo, Presente, (X) voz no declarada, Subjuntivo, (2) segunda, Singular
+V-PXS-3P	Verbo, Presente, (X) voz no declarada, Subjuntivo, (3) tercera, Plural
+V-PXS-3S	Verbo, Presente, (X) voz no declarada, Subjuntivo, (3) tercera, Singular
+V-RAI-1P	Verbo, peRfecto, Activa, Indicativo, (1) primera, Plural
+V-RAI-1P-ATT	Verbo, peRfecto, Activa, Indicativo, (1) primera, Plural, forma ÁTica
+V-RAI-1S	Verbo, peRfecto, Activa, Indicativo, (1) primera, Singular
+V-RAI-1S-ATT	Verbo, peRfecto, Activa, Indicativo, (1) primera, Singular, forma ÁTica
+V-RAI-2P	Verbo, peRfecto, Activa, Indicativo, (2) segunda, Plural
+V-RAI-2P-ATT	Verbo, peRfecto, Activa, Indicativo, (2) segunda, Plural, forma ÁTica
+V-RAI-2S	Verbo, peRfecto, Activa, Indicativo, (2) segunda, Singular
+V-RAI-2S-ATT	Verbo, peRfecto, Activa, Indicativo, (2) segunda, Singular, forma ÁTica
+V-RAI-3P	Verbo, peRfecto, Activa, Indicativo, (3) tercera, Plural
+V-RAI-3P-ATT	Verbo, peRfecto, Activa, Indicativo, (3) tercera, Plural, forma ÁTica
+V-RAI-3S	Verbo, peRfecto, Activa, Indicativo, (3) tercera, Singular
+V-RAI-3S-ATT	Verbo, peRfecto, Activa, Indicativo, (3) tercera, Singular, forma ÁTica
+V-RAM-2P	Verbo, peRfecto, Activa, IMperativo, (2) segunda, Plural
+V-RAN	Verbo, peRfecto, Activa, iNfinitivo
+V-RAN-ATT	Verbo, peRfecto, Activa, iNfinitivo, Acusativo
+V-RAP-APM	Verbo, peRfecto, Activa, Participio, Acusativo, Plural, Masculino
+V-RAP-APN	Verbo, peRfecto, Activa, Participio, Acusativo, Plural, Neutro
+V-RAP-ASF	Verbo, peRfecto, Activa, Participio, Acusativo, Singular, Femenino
+V-RAP-ASM	Verbo, peRfecto, Activa, Participio, Acusativo, Singular, Masculino
+V-RAP-ASM-C	Verbo, peRfecto, Activa, Participio, Acusativo, Singular, Masculino, forma Contraída
+V-RAP-ASN	Verbo, peRfecto, Activa, Participio, Acusativo, Singular, Neutro
+V-RAP-DPM	Verbo, peRfecto, Activa, Participio, Dativo, Plural, Masculino
+V-RAP-DSM	Verbo, peRfecto, Activa, Participio, Dativo, Singular, Masculino
+V-RAP-DSN	Verbo, peRfecto, Activa, Participio, Dativo, Singular, Neutro
+V-RAP-GPM	Verbo, peRfecto, Activa, Participio, Genitivo, Plural, Masculino
+V-RAP-GPN	Verbo, peRfecto, Activa, Participio, Genitivo, Plural, Neutro
+V-RAP-GSF	Verbo, peRfecto, Activa, Participio, Genitivo, Singular, Femenino
+V-RAP-GSM	Verbo, peRfecto, Activa, Participio, Genitivo, Singular, Masculino
+V-RAP-GSM-ATT	Verbo, peRfecto, Activa, Participio, Genitivo, Singular, Masculino, forma ÁTica
+V-RAP-GSN-ATT	Verbo, peRfecto, Activa, Participio, Genitivo, Singular, Neutro, forma ÁTica
+V-RAP-NPF	Verbo, peRfecto, Activa, Participio, Nominativo, Plural, Femenino
+V-RAP-NPM	Verbo, peRfecto, Activa, Participio, Nominativo, Plural, Masculino
+V-RAP-NPM-ATT	Verbo, peRfecto, Activa, Participio, Nominativo, Plural, Masculino, forma ÁTica
+V-RAP-NPM-C	Verbo, peRfecto, Activa, Participio, Nominativo, Plural, Masculino, forma Contraída
+V-RAP-NPN	Verbo, peRfecto, Activa, Participio, Nominativo, Plural, Neutro
+V-RAP-NSF	Verbo, peRfecto, Activa, Participio, Nominativo, Singular, Femenino
+V-RAP-NSM	Verbo, peRfecto, Activa, Participio, Nominativo, Singular, Masculino
+V-RAP-NSM-ATT	Verbo, peRfecto, Activa, Participio, Nominativo, Singular, Masculino, forma ÁTica
+V-RAP-NSN	Verbo, peRfecto, Activa, Participio, Nominativo, Singular, Neutro
+V-RAS-1P	Verbo, peRfecto, Activa, Subjuntivo, (1) primera, Plural
+V-RAS-1S	Verbo, peRfecto, Activa, Subjuntivo, (1) primera, Singular
+V-RAS-2P	Verbo, peRfecto, Activa, Subjuntivo, (2) segunda, Plural
+V-RAS-2S	Verbo, peRfecto, Activa, Subjuntivo, (2) segunda, Singular
+V-RDI-3S	Verbo, peRfecto, Deponente medio, Indicativo, (3) tercera, Singular
+V-REP-NSF	Verbo, peRfecto, (E) ya sea media o pasiva, Participio, Nominativo, Singular, Femenino
+V-REP-VSF	Verbo, peRfecto, (E) ya sea media o pasiva, Participio, Vocativo, Singular, Femenino
+V-RMI-1S	Verbo, peRfecto, Media, Indicativo, (1) primera, Singular
+V-RMI-2P	Verbo, peRfecto, Media, Indicativo, (2) segunda, Plural
+V-RMI-2S	Verbo, peRfecto, Media, Indicativo, (2) segunda, Singular
+V-RMI-3S	Verbo, peRfecto, Media, Indicativo, (3) tercera, Singular
+V-RMM-2P	Verbo, peRfecto, Media, IMperativo, (2) segunda, Plural
+V-RMP-APM	Verbo, peRfecto, Media, Participio, Acusativo, Plural, Masculino
+V-RMP-ASM	Verbo, peRfecto, Media, Participio, Acusativo, Singular, Masculino
+V-RMP-DPM	Verbo, peRfecto, Media, Participio, Dativo, Plural, Masculino
+V-RMP-GPM	Verbo, peRfecto, Media, Participio, Genitivo, Plural, Masculino
+V-RMP-GSF	Verbo, peRfecto, Media, Participio, Genitivo, Singular, Femenino
+V-RMP-NPM	Verbo, peRfecto, Media, Participio, Nominativo, Plural, Masculino
+V-RMP-NSM	Verbo, peRfecto, Media, Participio, Nominativo, Singular, Masculino
+V-RNI-1P	Verbo, peRfecto, depoNente medio o pasivo, Indicativo, (1) primera, Plural
+V-RNI-1S	Verbo, peRfecto, depoNente medio o pasivo, Indicativo, (1) primera, Singular
+V-RNI-3S	Verbo, peRfecto, depoNente medio o pasivo, Indicativo, (3) tercera, Singular
+V-RNN	Verbo, peRfecto, depoNente medio o pasivo, iNfinitivo
+V-RNP-APM	Verbo, peRfecto, depoNente medio o pasivo, Participio, Acusativo, Plural, Masculino
+V-RNP-ASF	Verbo, peRfecto, depoNente medio o pasivo, Participio, Acusativo, Singular, Femenino
+V-RNP-DPF	Verbo, peRfecto, depoNente medio o pasivo, Participio, Dativo, Plural, Femenino
+V-RNP-NPM	Verbo, peRfecto, depoNente medio o pasivo, Participio, Nominativo, Plural, Masculino
+V-RNP-NSM	Verbo, peRfecto, depoNente medio o pasivo, Participio, Nominativo, Singular, Masculino
+V-RPI-1P	Verbo, peRfecto, Pasivo, Indicativo, (1) primera, Plural
+V-RPI-1S	Verbo, peRfecto, Pasivo, Indicativo, (1) primera, Singular
+V-RPI-2P	Verbo, peRfecto, Pasivo, Indicativo, (2) segunda, Plural
+V-RPI-2S	Verbo, peRfecto, Pasivo, Indicativo, (2) segunda, Singular
+V-RPI-3P	Verbo, peRfecto, Pasivo, Indicativo, (3) tercera, Plural
+V-RPI-3S	Verbo, peRfecto, Pasivo, Indicativo, (3) tercera, Singular
+V-RPM-2P	Verbo, peRfecto, Pasivo, IMperativo, (2) segunda, Plural
+V-RPM-2S	Verbo, peRfecto, Pasivo, IMperativo, (2) segunda, Singular
+V-RPN	Verbo, peRfecto, Pasivo, iNfinitivo
+V-RPP-APF	Verbo, peRfecto, Pasivo, Participio, Acusativo, Plural, Femenino
+V-RPP-APM	Verbo, peRfecto, Pasivo, Participio, Acusativo, Plural, Masculino
+V-RPP-APN	Verbo, peRfecto, Pasivo, Participio, Acusativo, Plural, Neutro
+V-RPP-ASF	Verbo, peRfecto, Pasivo, Participio, Acusativo, Singular, Femenino
+V-RPP-ASM	Verbo, peRfecto, Pasivo, Participio, Acusativo, Singular, Masculino
+V-RPP-ASN	Verbo, peRfecto, Pasivo, Participio, Acusativo, Singular, Neutro
+V-RPP-ASN-ATT	Verbo, peRfecto, Pasivo, Participio, Acusativo, Singular, Neutro, forma ÁTica
+V-RPP-DPM	Verbo, peRfecto, Pasivo, Participio, Dativo, Plural, Masculino
+V-RPP-DPN	Verbo, peRfecto, Pasivo, Participio, Dativo, Plural, Neutro
+V-RPP-DSF	Verbo, peRfecto, Pasivo, Participio, Dativo, Singular, Femenino
+V-RPP-DSM	Verbo, peRfecto, Pasivo, Participio, Dativo, Singular, Masculino
+V-RPP-DSN	Verbo, peRfecto, Pasivo, Participio, Dativo, Singular, Neutro
+V-RPP-GPF	Verbo, peRfecto, Pasivo, Participio, Genitivo, Plural, Femenino
+V-RPP-GPM	Verbo, peRfecto, Pasivo, Participio, Genitivo, Plural, Masculino
+V-RPP-GPN	Verbo, peRfecto, Pasivo, Participio, Genitivo, Plural, Neutro
+V-RPP-GSF	Verbo, peRfecto, Pasivo, Participio, Genitivo, Singular, Femenino
+V-RPP-GSM	Verbo, peRfecto, Pasivo, Participio, Genitivo, Singular, Masculino
+V-RPP-GSN	Verbo, peRfecto, Pasivo, Participio, Genitivo, Singular, Neutro
+V-RPP-NPF	Verbo, peRfecto, Pasivo, Participio, Nominativo, Plural, Femenino
+V-RPP-NPM	Verbo, peRfecto, Pasivo, Participio, Nominativo, Plural, Masculino
+V-RPP-NPN	Verbo, peRfecto, Pasivo, Participio, Nominativo, Plural, Neutro
+V-RPP-NSF	Verbo, peRfecto, Pasivo, Participio, Nominativo, Singular, Femenino
+V-RPP-NSM	Verbo, peRfecto, Pasivo, Participio, Nominativo, Singular, Masculino
+V-RPP-NSN	Verbo, peRfecto, Pasivo, Participio, Nominativo, Singular, Neutro
+V-RPP-NSN-ATT	Verbo, peRfecto, Pasivo, Participio, Nominativo, Singular, Neutro, forma ÁTica
+V-RPP-VPM	Verbo, peRfecto, Pasivo, Participio, Vocativo, Plural, Masculino
+V-RPP-VSF	Verbo, peRfecto, Pasivo, Participio, Vocativo, Singular, Femenino
+V-RPP-VSM	Verbo, peRfecto, Pasivo, Participio, Vocativo, Singular, Masculino
+V-XXM-2P	Verbo, (X) tiempo no declarado (imperativo adverbial), (X) voz no declarada, IMperativo, (2) segunda, Plural
+V-XXM-2S	Verbo, (X) tiempo no declarado (imperativo adverbial), (X) voz no declarada, IMperativo, (2) segunda, Singular
+X-APF	(X) pronombre indefinido, Acusativo, Plural, Femenino
+X-APM	(X) pronombre indefinido, Acusativo, Plural, Masculino
+X-APN	(X) pronombre indefinido, Acusativo, Plural, Neutro
+X-ASF	(X) pronombre indefinido, Acusativo, Singular, Femenino
+X-ASM	(X) pronombre indefinido, Acusativo, Singular, Masculino
+X-ASN	(X) pronombre indefinido, Acusativo, Singular, Neutro
+X-DPM	(X) pronombre indefinido, Dativo, Plural, Masculino
+X-DSF	(X) pronombre indefinido, Dativo, Singular, Femenino
+X-DSM	(X) pronombre indefinido, Dativo, Singular, Masculino
+X-DSN	(X) pronombre indefinido, Dativo, Singular, Neutro
+X-GPF	(X) pronombre indefinido, Genitivo, Plural, Femenino
+X-GPM	(X) pronombre indefinido, Genitivo, Plural, Masculino
+X-GPN	(X) pronombre indefinido, Genitivo, Plural, Neutro
+X-GSF	(X) pronombre indefinido, Genitivo, Singular, Femenino
+X-GSM	(X) pronombre indefinido, Genitivo, Singular, Masculino
+X-GSN	(X) pronombre indefinido, Genitivo, Singular, Neutro
+X-NPF	(X) pronombre indefinido, Nominativo, Plural, Femenino
+X-NPM	(X) pronombre indefinido, Nominativo, Plural, Masculino
+X-NPN	(X) pronombre indefinido, Nominativo, Plural, Neutro
+X-NSF	(X) pronombre indefinido, Nominativo, Singular, Femenino
+X-NSM	(X) pronombre indefinido, Nominativo, Singular, Masculino
+X-NSN	(X) pronombre indefinido, Nominativo, Singular, Neutro
