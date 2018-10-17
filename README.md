@@ -1,5 +1,7 @@
 # Open Greek New Testament Project
 
+[Open Hebrew Bible Project is now available at: <a href='https://github.com/eliranwong/OpenHB'>https://github.com/eliranwong/OpenHB</a>]
+
 Open Greek New Testament Project aims to:
 - offer <b>a FREE NA-equivalent text</b> of Greek New Testament, compiled from open-resources;
 - align <b>a FREE NA-equivalent Greek New Testament</b> with a group of high-quality and open-source materials;
