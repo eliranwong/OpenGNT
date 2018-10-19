@@ -1,0 +1,1 @@
+Developer <a href='https://github.com/stephen-ku'>Stephen Ku</a> and his team offer amazing work on aligning Open Greek New Testament with <a href='http://chinesestandardbible.com'>Chinese Standard Bilbe - New Testament</a>.  Result is uploaded here.
