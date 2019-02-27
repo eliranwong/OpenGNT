@@ -150,6 +150,9 @@ Source: <a href='http://www.ssjcbc.com/bibleresearch/bible_reaserch2.html'>http:
 RMAC's description<br>
 OpenText Linguistic Annotations
 <br><br>
+<b>Korean translation by Kevin Kim</b><br>
+RMAC's description
+<br><br>
 <b>Mounce Concise Greek-English Dictionary</b><br>
 Source: <a href='https://github.com/billmounce/dictionary'>https://github.com/billmounce/dictionary</a><br>
 Used with the following attribution:<br>
