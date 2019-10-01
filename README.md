@@ -1,6 +1,6 @@
 # Open Greek New Testament is launched at our NEW iOS / iPhone / iPad / Android / Chrome OS / Fire Tablet apps
 
-Illustrated User Manual: <a href='https://www.uniquebible.app/mobile'>https://www.uniquebible.app/mobile</a>
+Illustrated User Manual: <a href='https://www.uniquebible.app/mobile'>https://www.uniquebible.app/mobile</a><br>
 Links for downloads: <a href='https://www.uniquebible.app/download'>https://www.uniquebible.app/download</a>
 
 # Open Greek New Testament Project
