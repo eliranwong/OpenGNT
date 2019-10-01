@@ -1,3 +1,8 @@
+# Open Greek New Testament is launched at our NEW iOS / iPhone / iPad / Android / Chrome OS / Fire Tablet apps
+
+Illustrated User Manual: <a href='https://www.uniquebible.app/mobile'>https://www.uniquebible.app/mobile</a>
+Links for downloads: <a href='https://www.uniquebible.app/download'>https://www.uniquebible.app/download</a>
+
 # Open Greek New Testament Project
 
 [Open Hebrew Bible Project is now available at: <a href='https://github.com/eliranwong/OpenHB'>https://github.com/eliranwong/OpenHB</a>] <br>Fruits of both Open Greek New Testament Project and Open Hebrew Hebrew Project will be integrated together in a forthcoming <a href='https://Marvel.bible'>Marvel.bible</a>.
