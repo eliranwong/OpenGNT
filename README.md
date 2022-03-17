@@ -1,7 +1,8 @@
-# Open Greek New Testament is launched at our NEW iOS / iPhone / iPad / Android / Chrome OS / Fire Tablet apps
+# NEW - Audio MP3 Files on Open Hebrew Greek Bible
 
-Illustrated User Manual: <a href='https://www.uniquebible.app/mobile'>https://www.uniquebible.app/mobile</a><br>
-Links for downloads: <a href='https://www.uniquebible.app/download'>https://www.uniquebible.app/download</a>
+Faster speaking rate: https://github.com/eliranwong/MP3_OpenHebrewGreekBible_fast
+
+Slower speaking rate: https://github.com/eliranwong/MP3_OpenHebrewGreekBible_slow
 
 # Open Greek New Testament Project
 
