@@ -1,3 +1,7 @@
+# NEW - Audio MP3 Files on Every Single Word and Lexeme of Open Greek New Testament
+
+https://github.com/eliranwong/MP3_OpenGNT_word-by-word
+
 # NEW - Audio MP3 Files on Open Hebrew Greek Bible
 
 Faster speaking rate: https://github.com/eliranwong/MP3_OpenHebrewGreekBible_fast
