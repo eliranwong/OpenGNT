@@ -4,9 +4,11 @@ Direct access at (no installation is required):
 
 http://bible.gospelchurch.uk/index.html?cmd=text:::MIB
 
-# NEW - Audio MP3 Files on Every Single Word and Lexeme of Open Greek New Testament
+Hebrew examples: https://bible.gospelchurch.uk/traditional.html?cmd=bible%3A%3A%3AMIB%3A%3A%3AGen+1
 
-https://github.com/eliranwong/MP3_OpenGNT_word-by-word
+Greek examples: https://bible.gospelchurch.uk/traditional.html?cmd=bible%3A%3A%3AMIB%3A%3A%3ARm+1
+
+To access audio features, click the "music note" buttons, next to verse numbers of words.
 
 # NEW - Audio MP3 Files on Open Hebrew Greek Bible
 
