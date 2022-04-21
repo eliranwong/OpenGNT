@@ -4,9 +4,9 @@ Direct access at (no installation is required):
 
 http://bible.gospelchurch.uk/index.html?cmd=text:::MIB
 
-Hebrew examples: https://bible.gospelchurch.uk/traditional.html?cmd=bible%3A%3A%3AMIB%3A%3A%3AGen+1
+Hebrew examples: https://bible.gospelchurch.uk/index.html?cmd=bible%3A%3A%3AMIB%3A%3A%3AGen+1
 
-Greek examples: https://bible.gospelchurch.uk/traditional.html?cmd=bible%3A%3A%3AMIB%3A%3A%3ARm+1
+Greek examples: https://bible.gospelchurch.uk/index.html?cmd=bible%3A%3A%3AMIB%3A%3A%3ARm+1
 
 To access audio features, click the "music note" buttons, next to verse numbers of words.
 
